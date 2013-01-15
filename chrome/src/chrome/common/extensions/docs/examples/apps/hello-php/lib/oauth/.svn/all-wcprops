@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/56936/trunk/src/chrome/common/extensions/docs/examples/apps/hello-php/lib/oauth
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/56936/trunk/src/chrome/common/extensions/docs/examples/apps/hello-php/lib/oauth/LICENSE.txt
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/56936/trunk/src/chrome/common/extensions/docs/examples/apps/hello-php/lib/oauth/CHANGELOG.txt
+END
+OAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/56936/trunk/src/chrome/common/extensions/docs/examples/apps/hello-php/lib/oauth/OAuth.php
+END

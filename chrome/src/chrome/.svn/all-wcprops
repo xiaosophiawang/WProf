@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/chrome/!svn/ver/145398/trunk/src/chrome
+END
+chrome_dll.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/144334/trunk/src/chrome/chrome_dll.gypi
+END
+version.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/115183/trunk/src/chrome/version.h.in
+END
+nacl.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/140348/trunk/src/chrome/nacl.gypi
+END
+chrome_exe.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/144273/trunk/src/chrome/chrome_exe.gypi
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/145271/trunk/src/chrome/VERSION
+END
+chrome_browser.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/145398/trunk/src/chrome/chrome_browser.gypi
+END
+chrome_repack_pseudo_locales.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/108517/trunk/src/chrome/chrome_repack_pseudo_locales.gypi
+END
+common_constants.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/136020/trunk/src/chrome/common_constants.gypi
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/140357/trunk/src/chrome/DEPS
+END
+chrome_common.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/145368/trunk/src/chrome/chrome_common.gypi
+END
+js_unittest_rules.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/112252/trunk/src/chrome/js_unittest_rules.gypi
+END
+chrome_installer_util.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/134008/trunk/src/chrome/chrome_installer_util.gypi
+END
+unit_tests.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/145175/trunk/src/chrome/unit_tests.isolate
+END
+chrome_installer.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/144304/trunk/src/chrome/chrome_installer.gypi
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/111925/trunk/src/chrome/PRESUBMIT.py
+END
+chrome_repack_resources.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/128406/trunk/src/chrome/chrome_repack_resources.gypi
+END
+browser_tests.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/145298/trunk/src/chrome/browser_tests.isolate
+END
+chrome_resources.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/142766/trunk/src/chrome/chrome_resources.gyp
+END
+chrome_tests.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/145368/trunk/src/chrome/chrome_tests.gypi
+END
+chrome_browser_extensions.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/145384/trunk/src/chrome/chrome_browser_extensions.gypi
+END
+chrome_repack_chrome.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/142572/trunk/src/chrome/chrome_repack_chrome.gypi
+END
+chrome_syzygy.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/111710/trunk/src/chrome/chrome_syzygy.gyp
+END
+chrome_renderer.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/145238/trunk/src/chrome/chrome_renderer.gypi
+END
+chrome_repack_locales.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/108517/trunk/src/chrome/chrome_repack_locales.gypi
+END
+chrome.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/140085/trunk/src/chrome/chrome.gyp
+END
+js_unittest_vars.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/112252/trunk/src/chrome/js_unittest_vars.gypi
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/chrome/!svn/ver/126522/trunk/src/chrome/OWNERS
+END

@@ -1,0 +1,52 @@
+10
+
+dir
+145398
+https://src.chromium.org/chrome/trunk/src/base/third_party
+https://src.chromium.org/chrome
+
+
+
+2012-07-03T10:24:23.208072Z
+145281
+glider@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+icu
+dir
+
+dynamic_annotations
+dir
+
+xdg_user_dirs
+dir
+
+nspr
+dir
+
+valgrind
+dir
+
+xdg_mime
+dir
+
+dmg_fp
+dir
+
+symbolize
+dir
+

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/145115/trunk/src/chrome/browser/ui/views/tabs
+END
+browser_tab_strip_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/145115/trunk/src/chrome/browser/ui/views/tabs/browser_tab_strip_controller.cc
+END
+browser_tab_strip_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/144604/trunk/src/chrome/browser/ui/views/tabs/browser_tab_strip_controller.h
+END
+tab_drag_controller_interactive_uitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/142631/trunk/src/chrome/browser/ui/views/tabs/tab_drag_controller_interactive_uitest.cc
+END
+base_tab.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/143799/trunk/src/chrome/browser/ui/views/tabs/base_tab.cc
+END
+native_view_photobooth_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/79586/trunk/src/chrome/browser/ui/views/tabs/native_view_photobooth_win.h
+END
+tab_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/144604/trunk/src/chrome/browser/ui/views/tabs/tab_unittest.cc
+END
+tab.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/144783/trunk/src/chrome/browser/ui/views/tabs/tab.cc
+END
+tab_drag_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/142971/trunk/src/chrome/browser/ui/views/tabs/tab_drag_controller.h
+END
+fake_base_tab_strip_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/143799/trunk/src/chrome/browser/ui/views/tabs/fake_base_tab_strip_controller.h
+END
+tab_drag_controller_interactive_uitest_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/142490/trunk/src/chrome/browser/ui/views/tabs/tab_drag_controller_interactive_uitest_win.cc
+END
+tab_renderer_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/144604/trunk/src/chrome/browser/ui/views/tabs/tab_renderer_data.cc
+END
+tab_strip_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/144604/trunk/src/chrome/browser/ui/views/tabs/tab_strip_unittest.cc
+END
+tab_renderer_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144604/trunk/src/chrome/browser/ui/views/tabs/tab_renderer_data.h
+END
+native_view_photobooth.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/78206/trunk/src/chrome/browser/ui/views/tabs/native_view_photobooth.h
+END
+touch_tab_strip_layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/137870/trunk/src/chrome/browser/ui/views/tabs/touch_tab_strip_layout.h
+END
+tab_strip_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/143799/trunk/src/chrome/browser/ui/views/tabs/tab_strip_controller.h
+END
+tab_drag_controller_interactive_uitest.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/136297/trunk/src/chrome/browser/ui/views/tabs/tab_drag_controller_interactive_uitest.h
+END
+base_tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/143799/trunk/src/chrome/browser/ui/views/tabs/base_tab.h
+END
+native_view_photobooth_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/132820/trunk/src/chrome/browser/ui/views/tabs/native_view_photobooth_win.cc
+END
+tab_drag_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144609/trunk/src/chrome/browser/ui/views/tabs/tab_drag_controller.cc
+END
+dock_info_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/142631/trunk/src/chrome/browser/ui/views/tabs/dock_info_win.cc
+END
+tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/144783/trunk/src/chrome/browser/ui/views/tabs/tab.h
+END
+fake_base_tab_strip_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/143799/trunk/src/chrome/browser/ui/views/tabs/fake_base_tab_strip_controller.cc
+END
+tab_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/144604/trunk/src/chrome/browser/ui/views/tabs/tab_controller.h
+END
+dragged_tab_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/136766/trunk/src/chrome/browser/ui/views/tabs/dragged_tab_view.cc
+END
+dragged_tab_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/132820/trunk/src/chrome/browser/ui/views/tabs/dragged_tab_view.h
+END
+touch_tab_strip_layout_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/137870/trunk/src/chrome/browser/ui/views/tabs/touch_tab_strip_layout_unittest.cc
+END
+touch_tab_strip_layout.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/138471/trunk/src/chrome/browser/ui/views/tabs/touch_tab_strip_layout.cc
+END
+tab_strip.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/144609/trunk/src/chrome/browser/ui/views/tabs/tab_strip.cc
+END
+tab_strip.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/144604/trunk/src/chrome/browser/ui/views/tabs/tab_strip.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/79027/trunk/src/chrome/browser/ui/views/tabs/OWNERS
+END

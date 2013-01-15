@@ -1,0 +1,80 @@
+10
+
+dir
+145398
+https://src.chromium.org/chrome/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/sw
+https://src.chromium.org/chrome
+
+
+
+2010-10-25T22:47:51.426847Z
+63795
+kbr@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+wrapper
+dir
+
+gdi
+dir
+
+fbdev
+dir
+
+null
+dir
+
+Makefile
+file
+
+
+
+
+2012-07-04T02:18:38.000000Z
+0ad84f4c2f5026653862fe795ba86a87
+2010-10-25T22:47:51.426847Z
+63795
+kbr@chromium.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+242
+
+dri
+dir
+
+xlib
+dir
+

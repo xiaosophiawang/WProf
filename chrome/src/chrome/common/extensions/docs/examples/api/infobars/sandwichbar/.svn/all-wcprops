@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/119883/trunk/src/chrome/common/extensions/docs/examples/api/infobars/sandwichbar
+END
+infobar.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/119883/trunk/src/chrome/common/extensions/docs/examples/api/infobars/sandwichbar/infobar.html
+END
+sandwich-16.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/75434/trunk/src/chrome/common/extensions/docs/examples/api/infobars/sandwichbar/sandwich-16.png
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/117713/trunk/src/chrome/common/extensions/docs/examples/api/infobars/sandwichbar/background.js
+END
+contentscript.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/59828/trunk/src/chrome/common/extensions/docs/examples/api/infobars/sandwichbar/contentscript.js
+END
+sandwich-19.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/75434/trunk/src/chrome/common/extensions/docs/examples/api/infobars/sandwichbar/sandwich-19.png
+END
+infobar.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/119883/trunk/src/chrome/common/extensions/docs/examples/api/infobars/sandwichbar/infobar.js
+END
+sandwich-128.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/75434/trunk/src/chrome/common/extensions/docs/examples/api/infobars/sandwichbar/sandwich-128.png
+END
+sandwich-48.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/75434/trunk/src/chrome/common/extensions/docs/examples/api/infobars/sandwichbar/sandwich-48.png
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/119883/trunk/src/chrome/common/extensions/docs/examples/api/infobars/sandwichbar/manifest.json
+END

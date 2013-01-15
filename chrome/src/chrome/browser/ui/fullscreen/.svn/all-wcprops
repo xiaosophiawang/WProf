@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/145033/trunk/src/chrome/browser/ui/fullscreen
+END
+fullscreen_controller_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller_test.cc
+END
+fullscreen_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/145020/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller.cc
+END
+fullscreen_controller_interactive_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/145033/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller_interactive_browsertest.cc
+END
+fullscreen_controller_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/144971/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller_test.h
+END
+fullscreen_exit_bubble.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/144971/trunk/src/chrome/browser/ui/fullscreen/fullscreen_exit_bubble.cc
+END
+fullscreen_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144971/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller.h
+END
+fullscreen_exit_bubble_type.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/144971/trunk/src/chrome/browser/ui/fullscreen/fullscreen_exit_bubble_type.cc
+END
+fullscreen_controller_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller_browsertest.cc
+END
+fullscreen_exit_bubble.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144971/trunk/src/chrome/browser/ui/fullscreen/fullscreen_exit_bubble.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/144971/trunk/src/chrome/browser/ui/fullscreen/OWNERS
+END
+fullscreen_exit_bubble_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/144971/trunk/src/chrome/browser/ui/fullscreen/fullscreen_exit_bubble_type.h
+END

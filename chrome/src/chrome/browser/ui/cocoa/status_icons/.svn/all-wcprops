@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/142834/trunk/src/chrome/browser/ui/cocoa/status_icons
+END
+status_icon_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/142834/trunk/src/chrome/browser/ui/cocoa/status_icons/status_icon_mac.h
+END
+status_icon_mac_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/142834/trunk/src/chrome/browser/ui/cocoa/status_icons/status_icon_mac_unittest.mm
+END
+status_icon_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/142834/trunk/src/chrome/browser/ui/cocoa/status_icons/status_icon_mac.mm
+END
+status_tray_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/107329/trunk/src/chrome/browser/ui/cocoa/status_icons/status_tray_mac.h
+END
+status_tray_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/status_icons/status_tray_mac.mm
+END

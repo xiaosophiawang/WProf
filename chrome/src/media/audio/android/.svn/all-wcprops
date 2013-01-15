@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/144697/trunk/src/media/audio/android
+END
+audio_manager_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/130288/trunk/src/media/audio/android/audio_manager_android.cc
+END
+audio_manager_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/130288/trunk/src/media/audio/android/audio_manager_android.h
+END
+audio_track_output_stub_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/130288/trunk/src/media/audio/android/audio_track_output_stub_android.cc
+END
+audio_track_output_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/133726/trunk/src/media/audio/android/audio_track_output_android.cc
+END
+audio_track_output_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/130288/trunk/src/media/audio/android/audio_track_output_android.h
+END
+opensles_input.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144690/trunk/src/media/audio/android/opensles_input.cc
+END
+opensles_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/130174/trunk/src/media/audio/android/opensles_util.h
+END
+opensles_output.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144697/trunk/src/media/audio/android/opensles_output.cc
+END
+opensles_input.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/130288/trunk/src/media/audio/android/opensles_input.h
+END
+opensles_output.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/130288/trunk/src/media/audio/android/opensles_output.h
+END

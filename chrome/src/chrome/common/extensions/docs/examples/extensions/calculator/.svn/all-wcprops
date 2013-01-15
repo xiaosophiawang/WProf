@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/143632/trunk/src/chrome/common/extensions/docs/examples/extensions/calculator
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/141177/trunk/src/chrome/common/extensions/docs/examples/extensions/calculator/main.js
+END
+icon_16.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/124243/trunk/src/chrome/common/extensions/docs/examples/extensions/calculator/icon_16.png
+END
+icon_128.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/124243/trunk/src/chrome/common/extensions/docs/examples/extensions/calculator/icon_128.png
+END
+view.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/124243/trunk/src/chrome/common/extensions/docs/examples/extensions/calculator/view.js
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/124243/trunk/src/chrome/common/extensions/docs/examples/extensions/calculator/style.css
+END
+model.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/124243/trunk/src/chrome/common/extensions/docs/examples/extensions/calculator/model.js
+END
+calculator.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/124243/trunk/src/chrome/common/extensions/docs/examples/extensions/calculator/calculator.html
+END
+controller.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/124243/trunk/src/chrome/common/extensions/docs/examples/extensions/calculator/controller.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/143632/trunk/src/chrome/common/extensions/docs/examples/extensions/calculator/manifest.json
+END

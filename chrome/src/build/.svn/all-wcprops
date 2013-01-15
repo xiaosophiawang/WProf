@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/chrome/!svn/ver/145395/trunk/src/build
+END
+grit_target.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/119708/trunk/src/build/grit_target.gypi
+END
+precompile.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/99949/trunk/src/build/precompile.cc
+END
+update-linux-sandbox.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/140816/trunk/src/build/update-linux-sandbox.sh
+END
+precompile.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/133741/trunk/src/build/precompile.h
+END
+branding_value.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/16372/trunk/src/build/branding_value.sh
+END
+nocompile.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/111889/trunk/src/build/nocompile.gypi
+END
+common.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/145395/trunk/src/build/common.gypi
+END
+some.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/chrome/!svn/ver/96103/trunk/src/build/some.gyp
+END
+install-build-deps-android-sdk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144002/trunk/src/build/install-build-deps-android-sdk.sh
+END
+gyp_chromium
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/137783/trunk/src/build/gyp_chromium
+END
+dir_exists.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/111385/trunk/src/build/dir_exists.py
+END
+install-build-deps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/138053/trunk/src/build/install-build-deps.sh
+END
+sanitize-win-build-log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/69510/trunk/src/build/sanitize-win-build-log.sh
+END
+compiler_version.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/135663/trunk/src/build/compiler_version.py
+END
+all_android.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/139832/trunk/src/build/all_android.gyp
+END
+all.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/chrome/!svn/ver/145205/trunk/src/build/all.gyp
+END
+sanitize-mac-build-log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/69274/trunk/src/build/sanitize-mac-build-log.sh
+END
+whitespace_file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/145114/trunk/src/build/whitespace_file.txt
+END
+build_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/145148/trunk/src/build/build_config.h
+END
+sanitize-mac-build-log.sed
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/133399/trunk/src/build/sanitize-mac-build-log.sed
+END
+install-chroot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/136084/trunk/src/build/install-chroot.sh
+END
+common.croc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/111801/trunk/src/build/common.croc
+END
+download_nacl_toolchains.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/130386/trunk/src/build/download_nacl_toolchains.py
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/26095/trunk/src/build/README.chromium
+END
+java_aidl.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/145195/trunk/src/build/java_aidl.gypi
+END
+apk_test.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/139512/trunk/src/build/apk_test.gypi
+END
+install-build-deps-android.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/143749/trunk/src/build/install-build-deps-android.sh
+END
+win_precompile.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/102839/trunk/src/build/win_precompile.gypi
+END
+release.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/97156/trunk/src/build/release.gypi
+END
+gdb-add-index
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/144835/trunk/src/build/gdb-add-index
+END
+java.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/139418/trunk/src/build/java.gypi
+END
+extract_from_cab.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/138442/trunk/src/build/extract_from_cab.py
+END
+cp.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/133399/trunk/src/build/cp.py
+END
+jni_generator.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/132537/trunk/src/build/jni_generator.gypi
+END
+escape_unicode.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/111385/trunk/src/build/escape_unicode.py
+END
+json_schema_bundle_compile.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/127908/trunk/src/build/json_schema_bundle_compile.gypi
+END
+filename_rules.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/144909/trunk/src/build/filename_rules.gypi
+END
+asan.saves
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/126130/trunk/src/build/asan.saves
+END
+sanitize-win-build-log.sed
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/133399/trunk/src/build/sanitize-win-build-log.sed
+END
+json_schema_compile.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/127555/trunk/src/build/json_schema_compile.gypi
+END
+grit_action.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/130115/trunk/src/build/grit_action.gypi
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/126218/trunk/src/build/OWNERS
+END
+protoc.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/123896/trunk/src/build/protoc.gypi
+END
+apply_locales.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/40985/trunk/src/build/apply_locales.py
+END
+output_dll_copy.rules
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/7/trunk/src/build/output_dll_copy.rules
+END

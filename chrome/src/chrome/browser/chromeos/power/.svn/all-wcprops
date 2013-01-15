@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/144585/trunk/src/chrome/browser/chromeos/power
+END
+power_state_override.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/131065/trunk/src/chrome/browser/chromeos/power/power_state_override.cc
+END
+user_activity_notifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/140849/trunk/src/chrome/browser/chromeos/power/user_activity_notifier.h
+END
+screen_dimming_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/134638/trunk/src/chrome/browser/chromeos/power/screen_dimming_observer.h
+END
+power_state_override.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/129139/trunk/src/chrome/browser/chromeos/power/power_state_override.h
+END
+power_button_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/133164/trunk/src/chrome/browser/chromeos/power/power_button_observer.cc
+END
+screen_lock_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/131065/trunk/src/chrome/browser/chromeos/power/screen_lock_observer.cc
+END
+power_button_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/131065/trunk/src/chrome/browser/chromeos/power/power_button_observer.h
+END
+screen_lock_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/131065/trunk/src/chrome/browser/chromeos/power/screen_lock_observer.h
+END
+low_battery_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/116746/trunk/src/chrome/browser/chromeos/power/low_battery_observer.cc
+END
+low_battery_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/131065/trunk/src/chrome/browser/chromeos/power/low_battery_observer.h
+END
+resume_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/131065/trunk/src/chrome/browser/chromeos/power/resume_observer.cc
+END
+output_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144585/trunk/src/chrome/browser/chromeos/power/output_observer.cc
+END
+resume_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/131065/trunk/src/chrome/browser/chromeos/power/resume_observer.h
+END
+output_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/140203/trunk/src/chrome/browser/chromeos/power/output_observer.h
+END
+brightness_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/137679/trunk/src/chrome/browser/chromeos/power/brightness_observer.cc
+END
+brightness_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/137679/trunk/src/chrome/browser/chromeos/power/brightness_observer.h
+END
+video_activity_notifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/140540/trunk/src/chrome/browser/chromeos/power/video_activity_notifier.cc
+END
+power_button_controller_delegate_chromeos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/137927/trunk/src/chrome/browser/chromeos/power/power_button_controller_delegate_chromeos.cc
+END
+video_activity_notifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/140540/trunk/src/chrome/browser/chromeos/power/video_activity_notifier.h
+END
+power_button_controller_delegate_chromeos.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/116245/trunk/src/chrome/browser/chromeos/power/power_button_controller_delegate_chromeos.h
+END
+user_activity_notifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/140849/trunk/src/chrome/browser/chromeos/power/user_activity_notifier.cc
+END
+screen_dimming_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/141881/trunk/src/chrome/browser/chromeos/power/screen_dimming_observer.cc
+END

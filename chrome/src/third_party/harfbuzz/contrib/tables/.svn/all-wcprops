@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/22776/trunk/src/third_party/harfbuzz/contrib/tables
+END
+unicode_parse_common.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/unicode_parse_common.py
+END
+GraphemeBreakProperty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/GraphemeBreakProperty.txt
+END
+script-properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/script-properties.h
+END
+combining-properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/combining-properties.h
+END
+scripts-parse.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/scripts-parse.py
+END
+mirroring-properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/22776/trunk/src/third_party/harfbuzz/contrib/tables/mirroring-properties.h
+END
+grapheme-break-properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/grapheme-break-properties.h
+END
+DerivedGeneralCategory.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/DerivedGeneralCategory.txt
+END
+category-properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/category-properties.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/README
+END
+Scripts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/Scripts.txt
+END
+mirroring-parse.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/22776/trunk/src/third_party/harfbuzz/contrib/tables/mirroring-parse.py
+END
+combining-class-parse.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/combining-class-parse.py
+END
+grapheme-break-parse.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/grapheme-break-parse.py
+END
+category-parse.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/category-parse.py
+END
+DerivedCombiningClass.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/contrib/tables/DerivedCombiningClass.txt
+END
+BidiMirroring.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/22776/trunk/src/third_party/harfbuzz/contrib/tables/BidiMirroring.txt
+END

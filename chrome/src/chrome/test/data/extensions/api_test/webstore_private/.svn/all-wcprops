@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/134154/trunk/src/chrome/test/data/extensions/api_test/webstore_private
+END
+localized.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/105899/trunk/src/chrome/test/data/extensions/api_test/webstore_private/localized.js
+END
+localized_extension.pem
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/86692/trunk/src/chrome/test/data/extensions/api_test/webstore_private/localized_extension.pem
+END
+accepted.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/105899/trunk/src/chrome/test/data/extensions/api_test/webstore_private/accepted.js
+END
+app_install_bubble.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/95514/trunk/src/chrome/test/data/extensions/api_test/webstore_private/app_install_bubble.html
+END
+icon_url.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/105899/trunk/src/chrome/test/data/extensions/api_test/webstore_private/icon_url.js
+END
+incorrect_manifest.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/105899/trunk/src/chrome/test/data/extensions/api_test/webstore_private/incorrect_manifest.js
+END
+extension.pem
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/83080/trunk/src/chrome/test/data/extensions/api_test/webstore_private/extension.pem
+END
+app_install_bubble.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/105899/trunk/src/chrome/test/data/extensions/api_test/webstore_private/app_install_bubble.js
+END
+silently_install.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/123253/trunk/src/chrome/test/data/extensions/api_test/webstore_private/silently_install.html
+END
+localized_extension.crx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/86692/trunk/src/chrome/test/data/extensions/api_test/webstore_private/localized_extension.crx
+END
+app.pem
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/95432/trunk/src/chrome/test/data/extensions/api_test/webstore_private/app.pem
+END
+incorrect_manifest1.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/83080/trunk/src/chrome/test/data/extensions/api_test/webstore_private/incorrect_manifest1.html
+END
+install_bundle.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/123253/trunk/src/chrome/test/data/extensions/api_test/webstore_private/install_bundle.html
+END
+incorrect_manifest2.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/83080/trunk/src/chrome/test/data/extensions/api_test/webstore_private/incorrect_manifest2.html
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/123253/trunk/src/chrome/test/data/extensions/api_test/webstore_private/common.js
+END
+theme.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/134154/trunk/src/chrome/test/data/extensions/api_test/webstore_private/theme.html
+END
+extension.crx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/83080/trunk/src/chrome/test/data/extensions/api_test/webstore_private/extension.crx
+END
+install_bundle_cancel.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/123253/trunk/src/chrome/test/data/extensions/api_test/webstore_private/install_bundle_cancel.html
+END
+install_bundle_invalid.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/129148/trunk/src/chrome/test/data/extensions/api_test/webstore_private/install_bundle_invalid.html
+END
+localized.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/86692/trunk/src/chrome/test/data/extensions/api_test/webstore_private/localized.html
+END
+app.crx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/95432/trunk/src/chrome/test/data/extensions/api_test/webstore_private/app.crx
+END
+accepted.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/83080/trunk/src/chrome/test/data/extensions/api_test/webstore_private/accepted.html
+END
+icon_url.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/98182/trunk/src/chrome/test/data/extensions/api_test/webstore_private/icon_url.html
+END
+cancelled.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/105899/trunk/src/chrome/test/data/extensions/api_test/webstore_private/cancelled.html
+END
+begin_install.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/131165/trunk/src/chrome/test/data/extensions/api_test/webstore_private/begin_install.html
+END

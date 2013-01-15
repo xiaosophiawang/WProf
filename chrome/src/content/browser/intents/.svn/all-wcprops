@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/144322/trunk/src/content/browser/intents
+END
+intent_injector_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/140287/trunk/src/content/browser/intents/intent_injector_unittest.cc
+END
+intent_injector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/144322/trunk/src/content/browser/intents/intent_injector.cc
+END
+intent_injector.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/134024/trunk/src/content/browser/intents/intent_injector.h
+END
+internal_web_intents_dispatcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/137606/trunk/src/content/browser/intents/internal_web_intents_dispatcher_unittest.cc
+END
+internal_web_intents_dispatcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/134024/trunk/src/content/browser/intents/internal_web_intents_dispatcher.cc
+END
+internal_web_intents_dispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/134024/trunk/src/content/browser/intents/internal_web_intents_dispatcher.h
+END
+web_intents_dispatcher_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/134024/trunk/src/content/browser/intents/web_intents_dispatcher_impl.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/103196/trunk/src/content/browser/intents/OWNERS
+END
+web_intents_dispatcher_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/134024/trunk/src/content/browser/intents/web_intents_dispatcher_impl.h
+END

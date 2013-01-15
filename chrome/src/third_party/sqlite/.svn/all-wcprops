@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/141687/trunk/src/third_party/sqlite
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/141687/trunk/src/third_party/sqlite/README.chromium
+END
+system-sqlite.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/98252/trunk/src/third_party/sqlite/system-sqlite.patch
+END
+webdb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/86616/trunk/src/third_party/sqlite/webdb.patch
+END
+fts3_85522.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/90163/trunk/src/third_party/sqlite/fts3_85522.patch
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/121510/trunk/src/third_party/sqlite/LICENSE
+END
+icu-shell.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/81296/trunk/src/third_party/sqlite/icu-shell.patch
+END
+preload-cache.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/81296/trunk/src/third_party/sqlite/preload-cache.patch
+END
+misc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/81471/trunk/src/third_party/sqlite/misc.patch
+END
+sqlite.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/119700/trunk/src/third_party/sqlite/sqlite.gyp
+END
+mac_time_machine.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/95435/trunk/src/third_party/sqlite/mac_time_machine.patch
+END
+google_generate_amalgamation.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/81471/trunk/src/third_party/sqlite/google_generate_amalgamation.sh
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/81471/trunk/src/third_party/sqlite/sqlite3.h
+END
+fts2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/81471/trunk/src/third_party/sqlite/fts2.patch
+END
+test.patch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/86616/trunk/src/third_party/sqlite/test.patch
+END
+fts3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/86616/trunk/src/third_party/sqlite/fts3.patch
+END
+sqlite-3.7.6.3-fix-out-of-scope-memory-reference.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/141687/trunk/src/third_party/sqlite/sqlite-3.7.6.3-fix-out-of-scope-memory-reference.patch
+END

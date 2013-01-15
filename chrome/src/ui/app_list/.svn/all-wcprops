@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/144505/trunk/src/ui/app_list
+END
+app_list_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/138938/trunk/src/ui/app_list/app_list_model.cc
+END
+app_list_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/138938/trunk/src/ui/app_list/app_list_model.h
+END
+search_result_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/143821/trunk/src/ui/app_list/search_result_view.cc
+END
+search_result_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/144505/trunk/src/ui/app_list/search_result_view.h
+END
+search_box_view_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/138938/trunk/src/ui/app_list/search_box_view_delegate.h
+END
+search_result.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/141865/trunk/src/ui/app_list/search_result.cc
+END
+apps_grid_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/143531/trunk/src/ui/app_list/apps_grid_view.h
+END
+search_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/141865/trunk/src/ui/app_list/search_result.h
+END
+search_box_model_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/138938/trunk/src/ui/app_list/search_box_model_observer.h
+END
+search_box_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/143821/trunk/src/ui/app_list/search_box_view.cc
+END
+pagination_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/143821/trunk/src/ui/app_list/pagination_model.cc
+END
+app_list_item_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/143821/trunk/src/ui/app_list/app_list_item_model.cc
+END
+search_box_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/144505/trunk/src/ui/app_list/search_box_view.h
+END
+drop_shadow_label.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/139412/trunk/src/ui/app_list/drop_shadow_label.h
+END
+icon_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/135981/trunk/src/ui/app_list/icon_cache.cc
+END
+app_list_item_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/135981/trunk/src/ui/app_list/app_list_item_model.h
+END
+pagination_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/143531/trunk/src/ui/app_list/pagination_model.h
+END
+icon_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/135981/trunk/src/ui/app_list/icon_cache.h
+END
+app_list_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/137221/trunk/src/ui/app_list/app_list_export.h
+END
+app_list_bubble_border.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/142582/trunk/src/ui/app_list/app_list_bubble_border.cc
+END
+page_switcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/143821/trunk/src/ui/app_list/page_switcher.cc
+END
+app_list_bubble_border.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144505/trunk/src/ui/app_list/app_list_bubble_border.h
+END
+search_result_list_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/141298/trunk/src/ui/app_list/search_result_list_view.h
+END
+search_box_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/143821/trunk/src/ui/app_list/search_box_model.cc
+END
+search_box_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/144505/trunk/src/ui/app_list/search_box_model.h
+END
+apps_grid_view_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/141522/trunk/src/ui/app_list/apps_grid_view_unittest.cc
+END
+app_list_view_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/138938/trunk/src/ui/app_list/app_list_view_delegate.h
+END
+apps_grid_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/143821/trunk/src/ui/app_list/apps_grid_view.cc
+END
+app_list_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/143224/trunk/src/ui/app_list/app_list_view.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/141298/trunk/src/ui/app_list/DEPS
+END
+app_list_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/143224/trunk/src/ui/app_list/app_list_view.h
+END
+pagination_model_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/143161/trunk/src/ui/app_list/pagination_model_unittest.cc
+END
+drop_shadow_label.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/143842/trunk/src/ui/app_list/drop_shadow_label.cc
+END
+search_result_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/141865/trunk/src/ui/app_list/search_result_observer.h
+END
+pagination_model_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/141522/trunk/src/ui/app_list/pagination_model_observer.h
+END
+app_list_item_model_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/135981/trunk/src/ui/app_list/app_list_item_model_observer.h
+END
+app_list_item_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/143987/trunk/src/ui/app_list/app_list_item_view.cc
+END
+search_result_list_view_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/138938/trunk/src/ui/app_list/search_result_list_view_delegate.h
+END
+app_list.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/141522/trunk/src/ui/app_list/app_list.gyp
+END
+app_list_item_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/144505/trunk/src/ui/app_list/app_list_item_view.h
+END
+page_switcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/142854/trunk/src/ui/app_list/page_switcher.h
+END
+contents_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/143078/trunk/src/ui/app_list/contents_view.cc
+END
+search_result_list_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144303/trunk/src/ui/app_list/search_result_list_view.cc
+END
+contents_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/143078/trunk/src/ui/app_list/contents_view.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/135981/trunk/src/ui/app_list/OWNERS
+END

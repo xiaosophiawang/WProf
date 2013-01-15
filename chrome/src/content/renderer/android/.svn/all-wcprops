@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/139597/trunk/src/content/renderer/android
+END
+phone_number_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/139243/trunk/src/content/renderer/android/phone_number_detector.h
+END
+address_detector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/139597/trunk/src/content/renderer/android/address_detector.cc
+END
+email_detector_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/138887/trunk/src/content/renderer/android/email_detector_unittest.cc
+END
+address_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/139597/trunk/src/content/renderer/android/address_detector.h
+END
+email_detector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/139243/trunk/src/content/renderer/android/email_detector.cc
+END
+email_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/139243/trunk/src/content/renderer/android/email_detector.h
+END
+content_detector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/139243/trunk/src/content/renderer/android/content_detector.cc
+END
+content_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/139243/trunk/src/content/renderer/android/content_detector.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/139026/trunk/src/content/renderer/android/DEPS
+END
+phone_number_detector_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/139026/trunk/src/content/renderer/android/phone_number_detector_unittest.cc
+END
+phone_number_detector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/139243/trunk/src/content/renderer/android/phone_number_detector.cc
+END

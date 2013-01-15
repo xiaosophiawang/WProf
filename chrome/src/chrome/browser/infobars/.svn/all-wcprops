@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/infobars
+END
+infobar_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/144907/trunk/src/chrome/browser/infobars/infobar_delegate.h
+END
+infobar.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/103576/trunk/src/chrome/browser/infobars/infobar.cc
+END
+infobar.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/139172/trunk/src/chrome/browser/infobars/infobar.h
+END
+infobar_container.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/143282/trunk/src/chrome/browser/infobars/infobar_container.cc
+END
+infobar_container.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/106196/trunk/src/chrome/browser/infobars/infobar_container.h
+END
+infobar_extension_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141446/trunk/src/chrome/browser/infobars/infobar_extension_api.cc
+END
+infobar_extension_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/124251/trunk/src/chrome/browser/infobars/infobar_extension_apitest.cc
+END
+infobar_tab_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/135383/trunk/src/chrome/browser/infobars/infobar_tab_helper.cc
+END
+infobars_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/infobars/infobars_browsertest.cc
+END
+infobar_extension_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/110939/trunk/src/chrome/browser/infobars/infobar_extension_api.h
+END
+infobar_tab_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/135383/trunk/src/chrome/browser/infobars/infobar_tab_helper.h
+END
+infobar_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/144907/trunk/src/chrome/browser/infobars/infobar_delegate.cc
+END

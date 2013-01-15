@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/119072/trunk/src/chrome/common/extensions/docs/examples/api/browserAction/set_page_color
+END
+popup.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/119072/trunk/src/chrome/common/extensions/docs/examples/api/browserAction/set_page_color/popup.html
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/75434/trunk/src/chrome/common/extensions/docs/examples/api/browserAction/set_page_color/icon.png
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/chrome/!svn/ver/119072/trunk/src/chrome/common/extensions/docs/examples/api/browserAction/set_page_color/manifest.json
+END
+popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/119072/trunk/src/chrome/common/extensions/docs/examples/api/browserAction/set_page_color/popup.js
+END

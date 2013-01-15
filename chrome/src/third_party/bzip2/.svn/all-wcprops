@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/121520/trunk/src/third_party/bzip2
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/78316/trunk/src/third_party/bzip2/README.chromium
+END
+crctable.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/60223/trunk/src/third_party/bzip2/crctable.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/60223/trunk/src/third_party/bzip2/LICENSE
+END
+bzlib_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/60223/trunk/src/third_party/bzip2/bzlib_private.h
+END
+blocksort.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/60223/trunk/src/third_party/bzip2/blocksort.c
+END
+bzlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/60223/trunk/src/third_party/bzip2/bzlib.c
+END
+bzip2.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/121520/trunk/src/third_party/bzip2/bzip2.gyp
+END
+decompress.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/60223/trunk/src/third_party/bzip2/decompress.c
+END
+huffman.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/60223/trunk/src/third_party/bzip2/huffman.c
+END
+bzlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/60223/trunk/src/third_party/bzip2/bzlib.h
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/60223/trunk/src/third_party/bzip2/compress.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/60223/trunk/src/third_party/bzip2/README
+END
+randtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/60223/trunk/src/third_party/bzip2/randtable.c
+END

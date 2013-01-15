@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/145238/trunk/src/chrome/test/data/extensions/platform_apps/restrictions
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/145238/trunk/src/chrome/test/data/extensions/platform_apps/restrictions/main.js
+END
+sandboxed_iframe.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/143295/trunk/src/chrome/test/data/extensions/platform_apps/restrictions/sandboxed_iframe.js
+END
+iframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/143295/trunk/src/chrome/test/data/extensions/platform_apps/restrictions/iframe.html
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/143295/trunk/src/chrome/test/data/extensions/platform_apps/restrictions/main.html
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/143295/trunk/src/chrome/test/data/extensions/platform_apps/restrictions/test.js
+END
+sandboxed_iframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/143295/trunk/src/chrome/test/data/extensions/platform_apps/restrictions/sandboxed_iframe.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/145238/trunk/src/chrome/test/data/extensions/platform_apps/restrictions/manifest.json
+END

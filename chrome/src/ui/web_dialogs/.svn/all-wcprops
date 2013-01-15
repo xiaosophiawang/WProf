@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/143501/trunk/src/ui/web_dialogs
+END
+web_dialog_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/139757/trunk/src/ui/web_dialogs/web_dialog_ui.h
+END
+constrained_web_dialog_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/139757/trunk/src/ui/web_dialogs/constrained_web_dialog_ui.cc
+END
+web_dialogs_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/139757/trunk/src/ui/web_dialogs/web_dialogs_export.h
+END
+constrained_web_dialog_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/142963/trunk/src/ui/web_dialogs/constrained_web_dialog_ui.h
+END
+web_dialog_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/143501/trunk/src/ui/web_dialogs/web_dialog_observer.h
+END
+web_dialog_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/139757/trunk/src/ui/web_dialogs/web_dialog_delegate.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/139757/trunk/src/ui/web_dialogs/DEPS
+END
+web_dialog_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/139757/trunk/src/ui/web_dialogs/web_dialog_delegate.h
+END
+web_dialog_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/139757/trunk/src/ui/web_dialogs/web_dialog_ui.cc
+END
+web_dialogs.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/139757/trunk/src/ui/web_dialogs/web_dialogs.gyp
+END

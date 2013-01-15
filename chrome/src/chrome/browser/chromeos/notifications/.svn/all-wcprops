@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/notifications
+END
+balloon_view_host_chromeos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/135072/trunk/src/chrome/browser/chromeos/notifications/balloon_view_host_chromeos.cc
+END
+system_notification.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/notifications/system_notification.h
+END
+balloon_view_host_chromeos.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/135072/trunk/src/chrome/browser/chromeos/notifications/balloon_view_host_chromeos.h
+END
+system_notification_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/105304/trunk/src/chrome/browser/chromeos/notifications/system_notification_factory.cc
+END
+system_notification_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/62512/trunk/src/chrome/browser/chromeos/notifications/system_notification_factory.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/140699/trunk/src/chrome/browser/chromeos/notifications/DEPS
+END
+system_notification.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/notifications/system_notification.cc
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/144286/trunk/src/chrome/browser/signin
+END
+ubertoken_fetcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/143085/trunk/src/chrome/browser/signin/ubertoken_fetcher_unittest.cc
+END
+ubertoken_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/134185/trunk/src/chrome/browser/signin/ubertoken_fetcher.cc
+END
+token_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/143085/trunk/src/chrome/browser/signin/token_service_unittest.cc
+END
+token_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/141420/trunk/src/chrome/browser/signin/token_service.cc
+END
+ubertoken_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/120746/trunk/src/chrome/browser/signin/ubertoken_fetcher.h
+END
+signin_tracker_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144286/trunk/src/chrome/browser/signin/signin_tracker_unittest.cc
+END
+token_service_unittest.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/140261/trunk/src/chrome/browser/signin/token_service_unittest.h
+END
+token_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/134185/trunk/src/chrome/browser/signin/token_service.h
+END
+signin_tracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/142277/trunk/src/chrome/browser/signin/signin_tracker.cc
+END
+signin_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/130722/trunk/src/chrome/browser/signin/signin_tracker.h
+END
+signin_manager_fake.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/140439/trunk/src/chrome/browser/signin/signin_manager_fake.cc
+END
+signin_manager_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/141145/trunk/src/chrome/browser/signin/signin_manager_factory.cc
+END
+signin_manager_fake.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/140439/trunk/src/chrome/browser/signin/signin_manager_fake.h
+END
+signin_manager_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/141145/trunk/src/chrome/browser/signin/signin_manager_factory.h
+END
+signin_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/143085/trunk/src/chrome/browser/signin/signin_manager_unittest.cc
+END
+signin_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/141145/trunk/src/chrome/browser/signin/signin_manager.cc
+END
+signin_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/141145/trunk/src/chrome/browser/signin/signin_manager.h
+END
+token_service_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/137014/trunk/src/chrome/browser/signin/token_service_factory.cc
+END
+token_service_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/125565/trunk/src/chrome/browser/signin/token_service_factory.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/118637/trunk/src/chrome/browser/signin/OWNERS
+END

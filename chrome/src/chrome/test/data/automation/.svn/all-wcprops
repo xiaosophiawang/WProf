@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/80848/trunk/src/chrome/test/data/automation
+END
+client_redirects.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/80848/trunk/src/chrome/test/data/automation/client_redirects.html
+END
+meta_redirect.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/80848/trunk/src/chrome/test/data/automation/meta_redirect.html
+END
+sends_message_on_load.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/80848/trunk/src/chrome/test/data/automation/sends_message_on_load.html
+END

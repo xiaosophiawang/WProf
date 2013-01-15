@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/45659/trunk/src/chrome/common/extensions/docs/examples/extensions/irc/conf
+END
+webdefault.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/45659/trunk/src/chrome/common/extensions/docs/examples/extensions/irc/conf/webdefault.xml
+END
+irc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/45659/trunk/src/chrome/common/extensions/docs/examples/extensions/irc/conf/irc.xml
+END
+jetty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/45659/trunk/src/chrome/common/extensions/docs/examples/extensions/irc/conf/jetty.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/116935/trunk/src/chrome/test/data/extensions/api_test/bookmark_manager/standard
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/112269/trunk/src/chrome/test/data/extensions/api_test/bookmark_manager/standard/test.html
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/116935/trunk/src/chrome/test/data/extensions/api_test/bookmark_manager/standard/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/116935/trunk/src/chrome/test/data/extensions/api_test/bookmark_manager/standard/manifest.json
+END

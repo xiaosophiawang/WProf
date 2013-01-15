@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/144585/trunk/src/ash/wm/workspace
+END
+workspace.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/140698/trunk/src/ash/wm/workspace/workspace.cc
+END
+workspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/140698/trunk/src/ash/wm/workspace/workspace.h
+END
+phantom_window_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/141384/trunk/src/ash/wm/workspace/phantom_window_controller.cc
+END
+phantom_window_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/139505/trunk/src/ash/wm/workspace/phantom_window_controller.h
+END
+workspace_event_filter_test_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/127465/trunk/src/ash/wm/workspace/workspace_event_filter_test_helper.cc
+END
+workspace_event_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142631/trunk/src/ash/wm/workspace/workspace_event_filter_unittest.cc
+END
+workspace_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/142631/trunk/src/ash/wm/workspace/workspace_event_filter.cc
+END
+multi_window_resize_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/128500/trunk/src/ash/wm/workspace/multi_window_resize_controller_unittest.cc
+END
+workspace_event_filter_test_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/127465/trunk/src/ash/wm/workspace/workspace_event_filter_test_helper.h
+END
+multi_window_resize_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/141384/trunk/src/ash/wm/workspace/multi_window_resize_controller.cc
+END
+maximized_workspace.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/142631/trunk/src/ash/wm/workspace/maximized_workspace.cc
+END
+workspace_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/127465/trunk/src/ash/wm/workspace/workspace_event_filter.h
+END
+multi_window_resize_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/132497/trunk/src/ash/wm/workspace/multi_window_resize_controller.h
+END
+maximized_workspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/127904/trunk/src/ash/wm/workspace/maximized_workspace.h
+END
+managed_workspace.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/127904/trunk/src/ash/wm/workspace/managed_workspace.cc
+END
+managed_workspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/127904/trunk/src/ash/wm/workspace/managed_workspace.h
+END
+snap_sizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/144585/trunk/src/ash/wm/workspace/snap_sizer.cc
+END
+snap_sizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/133989/trunk/src/ash/wm/workspace/snap_sizer.h
+END
+workspace_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/137633/trunk/src/ash/wm/workspace/workspace_layout_manager.cc
+END
+workspace_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/133114/trunk/src/ash/wm/workspace/workspace_layout_manager.h
+END
+workspace_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/142631/trunk/src/ash/wm/workspace/workspace_manager_unittest.cc
+END
+workspace_window_resizer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144585/trunk/src/ash/wm/workspace/workspace_window_resizer_unittest.cc
+END
+frame_maximize_button.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/143940/trunk/src/ash/wm/workspace/frame_maximize_button.cc
+END
+workspace_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144585/trunk/src/ash/wm/workspace/workspace_manager.cc
+END
+workspace_window_resizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/144585/trunk/src/ash/wm/workspace/workspace_window_resizer.cc
+END
+frame_maximize_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/143940/trunk/src/ash/wm/workspace/frame_maximize_button.h
+END
+workspace_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/140698/trunk/src/ash/wm/workspace/workspace_manager.h
+END
+workspace_window_resizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/140773/trunk/src/ash/wm/workspace/workspace_window_resizer.h
+END

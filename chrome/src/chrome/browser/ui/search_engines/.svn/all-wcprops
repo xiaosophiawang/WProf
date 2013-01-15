@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/144313/trunk/src/chrome/browser/ui/search_engines
+END
+search_engine_tab_helper_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/134337/trunk/src/chrome/browser/ui/search_engines/search_engine_tab_helper_delegate.h
+END
+template_url_fetcher_ui_callbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/122274/trunk/src/chrome/browser/ui/search_engines/template_url_fetcher_ui_callbacks.h
+END
+keyword_editor_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/141580/trunk/src/chrome/browser/ui/search_engines/keyword_editor_controller_unittest.cc
+END
+keyword_editor_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/134337/trunk/src/chrome/browser/ui/search_engines/keyword_editor_controller.cc
+END
+keyword_editor_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/134337/trunk/src/chrome/browser/ui/search_engines/keyword_editor_controller.h
+END
+search_engine_tab_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/135775/trunk/src/chrome/browser/ui/search_engines/search_engine_tab_helper.cc
+END
+search_engine_tab_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/115777/trunk/src/chrome/browser/ui/search_engines/search_engine_tab_helper.h
+END
+edit_search_engine_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/143827/trunk/src/chrome/browser/ui/search_engines/edit_search_engine_controller.cc
+END
+edit_search_engine_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/134337/trunk/src/chrome/browser/ui/search_engines/edit_search_engine_controller.h
+END
+template_url_table_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/144313/trunk/src/chrome/browser/ui/search_engines/template_url_table_model.cc
+END
+template_url_table_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/140628/trunk/src/chrome/browser/ui/search_engines/template_url_table_model.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/124195/trunk/src/chrome/browser/ui/search_engines/OWNERS
+END
+search_engine_tab_helper_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/75004/trunk/src/chrome/browser/ui/search_engines/search_engine_tab_helper_delegate.cc
+END
+template_url_fetcher_ui_callbacks.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/122274/trunk/src/chrome/browser/ui/search_engines/template_url_fetcher_ui_callbacks.cc
+END

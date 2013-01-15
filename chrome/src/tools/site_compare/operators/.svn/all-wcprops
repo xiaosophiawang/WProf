@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/111960/trunk/src/tools/site_compare/operators
+END
+equals.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/111960/trunk/src/tools/site_compare/operators/equals.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/111960/trunk/src/tools/site_compare/operators/__init__.py
+END
+equals_with_mask.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/111960/trunk/src/tools/site_compare/operators/equals_with_mask.py
+END

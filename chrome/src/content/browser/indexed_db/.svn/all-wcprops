@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/135487/trunk/src/content/browser/indexed_db
+END
+idbbindingutilities_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/135487/trunk/src/content/browser/indexed_db/idbbindingutilities_browsertest.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/115195/trunk/src/content/browser/indexed_db/OWNERS
+END

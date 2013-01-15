@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/145166/trunk/src/third_party/leveldatabase
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/144412/trunk/src/third_party/leveldatabase/README.chromium
+END
+env_chromium.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/135464/trunk/src/third_party/leveldatabase/env_chromium.cc
+END
+leveldatabase.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/144412/trunk/src/third_party/leveldatabase/leveldatabase.gyp
+END

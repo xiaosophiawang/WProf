@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/125965/trunk/src/ppapi/examples/gamepad
+END
+gamepad.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/117077/trunk/src/ppapi/examples/gamepad/gamepad.html
+END
+gamepad.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/125965/trunk/src/ppapi/examples/gamepad/gamepad.cc
+END

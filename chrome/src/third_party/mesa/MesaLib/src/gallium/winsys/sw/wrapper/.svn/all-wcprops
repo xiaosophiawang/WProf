@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/sw/wrapper
+END
+wrapper_sw_winsys.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/sw/wrapper/wrapper_sw_winsys.c
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/sw/wrapper/SConscript
+END
+wrapper_sw_winsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/sw/wrapper/wrapper_sw_winsys.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/sw/wrapper/Makefile
+END

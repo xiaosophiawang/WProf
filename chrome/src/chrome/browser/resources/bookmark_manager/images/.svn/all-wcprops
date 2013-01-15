@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144305/trunk/src/chrome/browser/resources/bookmark_manager/images
+END
+bookmark_manager_recent.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/144305/trunk/src/chrome/browser/resources/bookmark_manager/images/bookmark_manager_recent.png
+END
+bookmarks_section_32.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/96786/trunk/src/chrome/browser/resources/bookmark_manager/images/bookmarks_section_32.png
+END
+bookmark_manager_search.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/118261/trunk/src/chrome/browser/resources/bookmark_manager/images/bookmark_manager_search.png
+END
+bookmark_manager_search_rtl.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/118261/trunk/src/chrome/browser/resources/bookmark_manager/images/bookmark_manager_search_rtl.png
+END

@@ -1,0 +1,37 @@
+10
+
+dir
+145398
+https://src.chromium.org/chrome/trunk/src/chrome/test/data/extensions/api_test/keybinding
+https://src.chromium.org/chrome
+
+
+
+2012-05-03T09:31:51.414254Z
+135115
+finnur@chromium.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+conflicting
+dir
+
+basics
+dir
+
+page_action
+dir
+

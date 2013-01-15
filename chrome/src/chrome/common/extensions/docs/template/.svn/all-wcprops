@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/145231/trunk/src/chrome/common/extensions/docs/template
+END
+page_shell.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/144043/trunk/src/chrome/common/extensions/docs/template/page_shell.html
+END
+api_template.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/144352/trunk/src/chrome/common/extensions/docs/template/api_template.html
+END
+api_template_apps.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/145231/trunk/src/chrome/common/extensions/docs/template/api_template_apps.html
+END

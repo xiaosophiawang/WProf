@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/145260/trunk/src/chrome/browser/ui/views/bookmarks
+END
+bookmark_context_menu_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/143331/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_context_menu_test.cc
+END
+bookmark_context_menu_controller_views_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/143331/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_context_menu_controller_views_win.h
+END
+bookmark_context_menu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/143331/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_context_menu.cc
+END
+bookmark_context_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/143331/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_context_menu.h
+END
+bookmark_editor_view_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/143719/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_editor_view_unittest.cc
+END
+bookmark_editor_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/144609/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc
+END
+bookmark_bar_instructions_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/111917/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_bar_instructions_view.cc
+END
+bookmark_editor_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/131864/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_editor_view.h
+END
+bookmark_bar_instructions_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/112333/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_bar_instructions_view.h
+END
+bookmark_menu_controller_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/143331/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_menu_controller_views.cc
+END
+bookmark_bubble_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/145260/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc
+END
+bookmark_menu_controller_views.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/143331/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_menu_controller_views.h
+END
+bookmark_bubble_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/129936/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_bubble_view.h
+END
+bookmark_context_menu_controller_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_context_menu_controller_views.cc
+END
+bookmark_context_menu_controller_views.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/143331/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_context_menu_controller_views.h
+END
+bookmark_bar_view_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_bar_view_test.cc
+END
+bookmark_bar_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/145220/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_bar_view.cc
+END
+bookmark_menu_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/145220/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_menu_delegate.cc
+END
+bookmark_bar_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/143699/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_bar_view.h
+END
+bookmark_menu_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/143331/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_menu_delegate.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/79027/trunk/src/chrome/browser/ui/views/bookmarks/OWNERS
+END
+bookmark_context_menu_controller_views_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/143331/trunk/src/chrome/browser/ui/views/bookmarks/bookmark_context_menu_controller_views_win.cc
+END

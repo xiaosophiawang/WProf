@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/124862/trunk/src/net/third_party/nss/ssl/bodge
+END
+alghmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/40991/trunk/src/net/third_party/nss/ssl/bodge/alghmac.h
+END
+secure_memcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/40991/trunk/src/net/third_party/nss/ssl/bodge/secure_memcmp.c
+END
+loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/40991/trunk/src/net/third_party/nss/ssl/bodge/loader.c
+END
+genload.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/40991/trunk/src/net/third_party/nss/ssl/bodge/genload.c
+END
+loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/40991/trunk/src/net/third_party/nss/ssl/bodge/loader.h
+END
+nssrenam.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/40991/trunk/src/net/third_party/nss/ssl/bodge/nssrenam.h
+END
+blapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/124862/trunk/src/net/third_party/nss/ssl/bodge/blapi.h
+END
+ec.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/40991/trunk/src/net/third_party/nss/ssl/bodge/ec.h
+END

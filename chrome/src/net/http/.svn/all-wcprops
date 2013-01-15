@@ -1,0 +1,971 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/chrome/!svn/ver/145172/trunk/src/net/http
+END
+http_network_session.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/144468/trunk/src/net/http/http_network_session.cc
+END
+http_auth_handler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/141315/trunk/src/net/http/http_auth_handler_unittest.cc
+END
+http_network_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/144468/trunk/src/net/http/http_network_session.h
+END
+http_auth_handler_basic_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_handler_basic_unittest.cc
+END
+http_content_disposition.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/140289/trunk/src/net/http/http_content_disposition.cc
+END
+http_auth_handler_basic.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_handler_basic.cc
+END
+http_proxy_client_socket_pool_spdy3_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/144468/trunk/src/net/http/http_proxy_client_socket_pool_spdy3_unittest.cc
+END
+http_cache_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/141315/trunk/src/net/http/http_cache_unittest.cc
+END
+http_auth_handler_ntlm_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/100930/trunk/src/net/http/http_auth_handler_ntlm_win.cc
+END
+http_network_session_peer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/128044/trunk/src/net/http/http_network_session_peer.cc
+END
+http_cache_transaction.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/144468/trunk/src/net/http/http_cache_transaction.cc
+END
+http_chunked_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/96560/trunk/src/net/http/http_chunked_decoder.h
+END
+http_response_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/129725/trunk/src/net/http/http_response_info.cc
+END
+http_auth_sspi_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/107766/trunk/src/net/http/http_auth_sspi_win.cc
+END
+http_auth_sspi_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/107766/trunk/src/net/http/http_auth_sspi_win.h
+END
+http_proxy_client_socket_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/131604/trunk/src/net/http/http_proxy_client_socket_pool.h
+END
+http_pipelined_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/142211/trunk/src/net/http/http_pipelined_stream.cc
+END
+http_auth_handler_factory_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/96790/trunk/src/net/http/http_auth_handler_factory_unittest.cc
+END
+url_security_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/62967/trunk/src/net/http/url_security_manager.cc
+END
+http_pipelined_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/142211/trunk/src/net/http/http_pipelined_stream.h
+END
+http_pipelined_network_transaction_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/134621/trunk/src/net/http/http_pipelined_network_transaction_unittest.cc
+END
+url_security_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/110231/trunk/src/net/http/url_security_manager.h
+END
+partial_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/115220/trunk/src/net/http/partial_data.h
+END
+http_response_headers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/141377/trunk/src/net/http/http_response_headers.cc
+END
+http_pipelined_host_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/130038/trunk/src/net/http/http_pipelined_host_impl.h
+END
+http_auth_gssapi_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/140603/trunk/src/net/http/http_auth_gssapi_posix.cc
+END
+mock_sspi_library_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/59188/trunk/src/net/http/mock_sspi_library_win.cc
+END
+http_pipelined_host_forced.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/130038/trunk/src/net/http/http_pipelined_host_forced.h
+END
+http_pipelined_connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/130038/trunk/src/net/http/http_pipelined_connection.h
+END
+http_auth_handler_digest_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_handler_digest_unittest.cc
+END
+http_auth_handler_negotiate_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_handler_negotiate_unittest.cc
+END
+http_auth_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/142009/trunk/src/net/http/http_auth_handler.cc
+END
+http_stream_factory_impl_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/145172/trunk/src/net/http/http_stream_factory_impl_job.h
+END
+http_pipelined_host_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/130038/trunk/src/net/http/http_pipelined_host_pool.h
+END
+http_auth.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/98111/trunk/src/net/http/http_auth.cc
+END
+url_security_manager_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/81303/trunk/src/net/http/url_security_manager_win.cc
+END
+http_auth_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_controller_unittest.cc
+END
+http_pipelined_host_test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/130038/trunk/src/net/http/http_pipelined_host_test_util.h
+END
+http_chunked_decoder_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/28833/trunk/src/net/http/http_chunked_decoder_unittest.cc
+END
+http_pipelined_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/124487/trunk/src/net/http/http_pipelined_host.cc
+END
+http_auth_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/110231/trunk/src/net/http/http_auth_filter.h
+END
+http_pipelined_connection_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/142211/trunk/src/net/http/http_pipelined_connection_impl.cc
+END
+des.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/81611/trunk/src/net/http/des.cc
+END
+des.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/chrome/!svn/ver/96560/trunk/src/net/http/des.h
+END
+http_byte_range.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/96560/trunk/src/net/http/http_byte_range.h
+END
+http_auth_handler_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/110231/trunk/src/net/http/http_auth_handler_factory.h
+END
+http_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/53716/trunk/src/net/http/http_version.h
+END
+http_proxy_client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/141125/trunk/src/net/http/http_proxy_client_socket.h
+END
+proxy_client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/130038/trunk/src/net/http/proxy_client_socket.h
+END
+http_stream_factory_impl_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/145172/trunk/src/net/http/http_stream_factory_impl_job.cc
+END
+http_auth_handler_digest.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_handler_digest.h
+END
+http_auth_handler_negotiate.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_handler_negotiate.h
+END
+http_auth_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/99237/trunk/src/net/http/http_auth_filter_unittest.cc
+END
+http_chunked_decoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/114993/trunk/src/net/http/http_chunked_decoder.cc
+END
+http_stream_parser_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/142470/trunk/src/net/http/http_stream_parser_unittest.cc
+END
+url_security_manager_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/57695/trunk/src/net/http/url_security_manager_posix.cc
+END
+http_stream_parser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/142470/trunk/src/net/http/http_stream_parser.cc
+END
+http_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/136923/trunk/src/net/http/http_util_unittest.cc
+END
+http_response_body_drainer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/142211/trunk/src/net/http/http_response_body_drainer_unittest.cc
+END
+http_transaction_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/96560/trunk/src/net/http/http_transaction_factory.h
+END
+http_response_body_drainer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/120913/trunk/src/net/http/http_response_body_drainer.cc
+END
+http_request_headers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141377/trunk/src/net/http/http_request_headers.cc
+END
+http_auth_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/107766/trunk/src/net/http/http_auth_cache.cc
+END
+http_network_layer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/131509/trunk/src/net/http/http_network_layer_unittest.cc
+END
+http_auth_handler_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/98116/trunk/src/net/http/http_auth_handler_factory.cc
+END
+http_auth_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/107766/trunk/src/net/http/http_auth_cache.h
+END
+partial_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/119141/trunk/src/net/http/partial_data.cc
+END
+md4.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/chrome/!svn/ver/53716/trunk/src/net/http/md4.h
+END
+http_response_headers_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/142953/trunk/src/net/http/http_response_headers_unittest.cc
+END
+http_auth_gssapi_posix_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/107766/trunk/src/net/http/http_auth_gssapi_posix_unittest.cc
+END
+http_auth_handler_digest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_handler_digest.cc
+END
+http_auth_handler_negotiate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/135731/trunk/src/net/http/http_auth_handler_negotiate.cc
+END
+http_auth_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/96790/trunk/src/net/http/http_auth_unittest.cc
+END
+http_stream_factory_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/134129/trunk/src/net/http/http_stream_factory_impl.cc
+END
+http_server_properties_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/128737/trunk/src/net/http/http_server_properties_impl.cc
+END
+http_auth_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/72710/trunk/src/net/http/http_auth_filter.cc
+END
+http_pipelined_connection_impl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142211/trunk/src/net/http/http_pipelined_connection_impl_unittest.cc
+END
+mock_gssapi_library_posix.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/110231/trunk/src/net/http/mock_gssapi_library_posix.h
+END
+http_auth_handler_mock.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_handler_mock.h
+END
+http_response_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/115145/trunk/src/net/http/http_response_info.h
+END
+mock_http_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/121309/trunk/src/net/http/mock_http_cache.cc
+END
+mock_http_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/115019/trunk/src/net/http/mock_http_cache.h
+END
+http_network_transaction_spdy3_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/145172/trunk/src/net/http/http_network_transaction_spdy3_unittest.cc
+END
+http_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/138972/trunk/src/net/http/http_util.h
+END
+http_request_headers.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/141377/trunk/src/net/http/http_request_headers.h
+END
+md4.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/10982/trunk/src/net/http/md4.cc
+END
+http_pipelined_host_impl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/131383/trunk/src/net/http/http_pipelined_host_impl_unittest.cc
+END
+http_pipelined_host_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/130038/trunk/src/net/http/http_pipelined_host_impl.cc
+END
+http_network_layer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/110231/trunk/src/net/http/http_network_layer.h
+END
+http_auth_handler_ntlm.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_handler_ntlm.h
+END
+http_response_headers.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141377/trunk/src/net/http/http_response_headers.h
+END
+http_auth_gssapi_posix.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/110231/trunk/src/net/http/http_auth_gssapi_posix.h
+END
+mock_allow_url_security_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/72682/trunk/src/net/http/mock_allow_url_security_manager.cc
+END
+mock_sspi_library_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/53716/trunk/src/net/http/mock_sspi_library_win.h
+END
+http_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/142211/trunk/src/net/http/http_stream.h
+END
+http_pipelined_host_pool_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/130038/trunk/src/net/http/http_pipelined_host_pool_unittest.cc
+END
+http_pipelined_host_pool.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/130038/trunk/src/net/http/http_pipelined_host_pool.cc
+END
+http_proxy_client_socket_pool_spdy2_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/144468/trunk/src/net/http/http_proxy_client_socket_pool_spdy2_unittest.cc
+END
+http_network_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/131811/trunk/src/net/http/http_network_transaction.h
+END
+http_request_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/79905/trunk/src/net/http/http_request_info.cc
+END
+http_auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/107766/trunk/src/net/http/http_auth.h
+END
+http_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/144468/trunk/src/net/http/http_cache.cc
+END
+http_auth_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/138264/trunk/src/net/http/http_auth_controller.cc
+END
+http_stream_factory_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/134129/trunk/src/net/http/http_stream_factory_impl.h
+END
+http_server_properties_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/128737/trunk/src/net/http/http_server_properties_impl.h
+END
+http_auth_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_controller.h
+END
+http_cache_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/136172/trunk/src/net/http/http_cache_transaction.h
+END
+http_vary_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/125447/trunk/src/net/http/http_vary_data.cc
+END
+http_stream_factory_impl_request.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/142009/trunk/src/net/http/http_stream_factory_impl_request.cc
+END
+http_pipelined_connection_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/142211/trunk/src/net/http/http_pipelined_connection_impl.h
+END
+http_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/138972/trunk/src/net/http/http_util.cc
+END
+http_byte_range_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/40991/trunk/src/net/http/http_byte_range_unittest.cc
+END
+http_byte_range.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/46349/trunk/src/net/http/http_byte_range.cc
+END
+http_proxy_client_socket_pool.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/132722/trunk/src/net/http/http_proxy_client_socket_pool.cc
+END
+http_auth_handler_ntlm_portable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/107766/trunk/src/net/http/http_auth_handler_ntlm_portable.cc
+END
+http_stream_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/131383/trunk/src/net/http/http_stream_factory.cc
+END
+http_server_properties.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/131601/trunk/src/net/http/http_server_properties.cc
+END
+http_auth_filter_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/56654/trunk/src/net/http/http_auth_filter_win.h
+END
+http_network_layer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/133806/trunk/src/net/http/http_network_layer.cc
+END
+http_proxy_client_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/142211/trunk/src/net/http/http_proxy_client_socket.cc
+END
+http_pipelined_host_forced.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/130038/trunk/src/net/http/http_pipelined_host_forced.cc
+END
+http_basic_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/142211/trunk/src/net/http/http_basic_stream.cc
+END
+mock_allow_url_security_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/110231/trunk/src/net/http/mock_allow_url_security_manager.h
+END
+http_basic_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/142211/trunk/src/net/http/http_basic_stream.h
+END
+http_auth_handler_basic.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_handler_basic.h
+END
+http_request_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/96560/trunk/src/net/http/http_request_info.h
+END
+http_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/144468/trunk/src/net/http/http_cache.h
+END
+mock_gssapi_library_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/98116/trunk/src/net/http/mock_gssapi_library_posix.cc
+END
+http_network_session_peer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/124808/trunk/src/net/http/http_network_session_peer.h
+END
+http_auth_sspi_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/107766/trunk/src/net/http/http_auth_sspi_win_unittest.cc
+END
+http_stream_factory_impl_request.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/130038/trunk/src/net/http/http_stream_factory_impl_request.h
+END
+http_status_code.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/123807/trunk/src/net/http/http_status_code.h
+END
+url_security_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/61344/trunk/src/net/http/url_security_manager_unittest.cc
+END
+http_pipelined_host_forced_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/131383/trunk/src/net/http/http_pipelined_host_forced_unittest.cc
+END
+proxy_client_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/123600/trunk/src/net/http/proxy_client_socket.cc
+END
+http_network_transaction.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/142211/trunk/src/net/http/http_network_transaction.cc
+END
+http_content_disposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/119611/trunk/src/net/http/http_content_disposition.h
+END
+http_auth_handler_mock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_handler_mock.cc
+END
+http_pipelined_host_capability.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/113341/trunk/src/net/http/http_pipelined_host_capability.h
+END
+des_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/132656/trunk/src/net/http/des_unittest.cc
+END
+http_vary_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/125447/trunk/src/net/http/http_vary_data.h
+END
+http_request_headers_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/142953/trunk/src/net/http/http_request_headers_unittest.cc
+END
+http_stream_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/134129/trunk/src/net/http/http_stream_factory.h
+END
+http_server_properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/131601/trunk/src/net/http/http_server_properties.h
+END
+http_transaction_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/115675/trunk/src/net/http/http_transaction_unittest.cc
+END
+http_transaction_unittest.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/115675/trunk/src/net/http/http_transaction_unittest.h
+END
+http_atom_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/11442/trunk/src/net/http/http_atom_list.h
+END
+http_content_disposition_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/140289/trunk/src/net/http/http_content_disposition_unittest.cc
+END
+http_auth_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_handler.h
+END
+http_stream_factory_impl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/144468/trunk/src/net/http/http_stream_factory_impl_unittest.cc
+END
+http_server_properties_impl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/131383/trunk/src/net/http/http_server_properties_impl_unittest.cc
+END
+http_pipelined_host_test_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/124487/trunk/src/net/http/http_pipelined_host_test_util.cc
+END
+http_pipelined_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/130038/trunk/src/net/http/http_pipelined_host.h
+END
+http_stream_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/142470/trunk/src/net/http/http_stream_parser.h
+END
+http_vary_data_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/45096/trunk/src/net/http/http_vary_data_unittest.cc
+END
+http_util_icu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/26551/trunk/src/net/http/http_util_icu.cc
+END
+http_network_transaction_spdy2_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/145172/trunk/src/net/http/http_network_transaction_spdy2_unittest.cc
+END
+http_response_body_drainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/115220/trunk/src/net/http/http_response_body_drainer.h
+END
+http_auth_cache_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_cache_unittest.cc
+END
+http_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/144468/trunk/src/net/http/http_transaction.h
+END
+http_auth_handler_ntlm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/115220/trunk/src/net/http/http_auth_handler_ntlm.cc
+END

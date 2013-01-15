@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/140155/trunk/src/chrome/browser/resources/gpu_internals
+END
+info_view.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/140155/trunk/src/chrome/browser/resources/gpu_internals/info_view.js
+END
+gpu_internals.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/109765/trunk/src/chrome/browser/resources/gpu_internals/gpu_internals.js
+END
+info_view.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/126925/trunk/src/chrome/browser/resources/gpu_internals/info_view.html
+END
+timeline_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/116733/trunk/src/chrome/browser/resources/gpu_internals/timeline_test.html
+END
+browser_bridge.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/126925/trunk/src/chrome/browser/resources/gpu_internals/browser_bridge.js
+END
+browser_bridge_tests.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/136077/trunk/src/chrome/browser/resources/gpu_internals/browser_bridge_tests.js
+END
+info_view.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/130317/trunk/src/chrome/browser/resources/gpu_internals/info_view.css
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/94587/trunk/src/chrome/browser/resources/gpu_internals/OWNERS
+END
+gpu_internals.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/125791/trunk/src/chrome/browser/resources/gpu_internals/gpu_internals.html
+END

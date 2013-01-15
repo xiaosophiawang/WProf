@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/143597/trunk/src/chrome/browser/ui/gtk/autofill
+END
+autofill_popup_view_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/143597/trunk/src/chrome/browser/ui/gtk/autofill/autofill_popup_view_gtk.cc
+END
+autofill_popup_view_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/143597/trunk/src/chrome/browser/ui/gtk/autofill/autofill_popup_view_gtk.h
+END

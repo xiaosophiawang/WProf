@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/145391/trunk/src/ash/system/power
+END
+power_status_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/141237/trunk/src/ash/system/power/power_status_view.h
+END
+power_supply_status.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/133080/trunk/src/ash/system/power/power_supply_status.cc
+END
+tray_power.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/145391/trunk/src/ash/system/power/tray_power.cc
+END
+power_supply_status.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/133080/trunk/src/ash/system/power/power_supply_status.h
+END
+tray_power.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/141237/trunk/src/ash/system/power/tray_power.h
+END
+power_status_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/130796/trunk/src/ash/system/power/power_status_observer.h
+END
+power_status_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/142161/trunk/src/ash/system/power/power_status_view.cc
+END

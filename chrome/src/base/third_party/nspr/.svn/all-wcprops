@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/126338/trunk/src/base/third_party/nspr
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/42020/trunk/src/base/third_party/nspr/README.chromium
+END
+prcpucfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/91009/trunk/src/base/third_party/nspr/prcpucfg.h
+END
+prcpucfg_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/79070/trunk/src/base/third_party/nspr/prcpucfg_mac.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/42020/trunk/src/base/third_party/nspr/LICENSE
+END
+prtime.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/126338/trunk/src/base/third_party/nspr/prtime.cc
+END
+prtime.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/95618/trunk/src/base/third_party/nspr/prtime.h
+END
+prcpucfg_freebsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/24950/trunk/src/base/third_party/nspr/prcpucfg_freebsd.h
+END
+prcpucfg_openbsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/40991/trunk/src/base/third_party/nspr/prcpucfg_openbsd.h
+END
+prcpucfg_solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/90494/trunk/src/base/third_party/nspr/prcpucfg_solaris.h
+END
+prcpucfg_nacl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/78423/trunk/src/base/third_party/nspr/prcpucfg_nacl.h
+END
+prcpucfg_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/37705/trunk/src/base/third_party/nspr/prcpucfg_win.h
+END
+prtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/79251/trunk/src/base/third_party/nspr/prtypes.h
+END
+prcpucfg_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/863/trunk/src/base/third_party/nspr/prcpucfg_linux.h
+END

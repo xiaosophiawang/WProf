@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/134639/trunk/src/chrome/tools/build/linux
+END
+FILES.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/134639/trunk/src/chrome/tools/build/linux/FILES.cfg
+END
+TESTS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/86910/trunk/src/chrome/tools/build/linux/TESTS
+END
+sed.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/87156/trunk/src/chrome/tools/build/linux/sed.sh
+END
+chrome-wrapper
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/84878/trunk/src/chrome/tools/build/linux/chrome-wrapper
+END

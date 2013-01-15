@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/145391/trunk/src/ash/system/ime
+END
+tray_ime.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/142136/trunk/src/ash/system/ime/tray_ime.h
+END
+ime_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/139753/trunk/src/ash/system/ime/ime_observer.h
+END
+tray_ime.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/145391/trunk/src/ash/system/ime/tray_ime.cc
+END

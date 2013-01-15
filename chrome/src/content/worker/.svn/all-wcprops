@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/143920/trunk/src/content/worker
+END
+websharedworker_stub.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/124439/trunk/src/content/worker/websharedworker_stub.cc
+END
+shared_worker_devtools_agent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/112825/trunk/src/content/worker/shared_worker_devtools_agent.cc
+END
+worker_webapplicationcachehost_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/107496/trunk/src/content/worker/worker_webapplicationcachehost_impl.cc
+END
+websharedworker_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/143920/trunk/src/content/worker/websharedworker_stub.h
+END
+websharedworkerclient_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/124618/trunk/src/content/worker/websharedworkerclient_proxy.cc
+END
+shared_worker_devtools_agent.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/105038/trunk/src/content/worker/shared_worker_devtools_agent.h
+END
+worker_webapplicationcachehost_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/107496/trunk/src/content/worker/worker_webapplicationcachehost_impl.h
+END
+worker_thread.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/125233/trunk/src/content/worker/worker_thread.cc
+END
+websharedworkerclient_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/124618/trunk/src/content/worker/websharedworkerclient_proxy.h
+END
+worker_webkitplatformsupport_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/139542/trunk/src/content/worker/worker_webkitplatformsupport_impl.cc
+END
+worker_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/122231/trunk/src/content/worker/worker_thread.h
+END
+worker_webkitplatformsupport_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/132973/trunk/src/content/worker/worker_webkitplatformsupport_impl.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/129641/trunk/src/content/worker/DEPS
+END
+worker_main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/140346/trunk/src/content/worker/worker_main.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/126522/trunk/src/content/worker/OWNERS
+END

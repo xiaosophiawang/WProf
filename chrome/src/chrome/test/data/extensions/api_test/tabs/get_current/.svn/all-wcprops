@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/141681/trunk/src/chrome/test/data/extensions/api_test/tabs/get_current
+END
+background.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/112554/trunk/src/chrome/test/data/extensions/api_test/tabs/get_current/background.html
+END
+a.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/112554/trunk/src/chrome/test/data/extensions/api_test/tabs/get_current/a.html
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/141681/trunk/src/chrome/test/data/extensions/api_test/tabs/get_current/test.js
+END
+a.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/112554/trunk/src/chrome/test/data/extensions/api_test/tabs/get_current/a.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/116289/trunk/src/chrome/test/data/extensions/api_test/tabs/get_current/manifest.json
+END

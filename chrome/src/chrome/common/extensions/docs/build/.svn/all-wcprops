@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/143844/trunk/src/chrome/common/extensions/docs/build
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/143844/trunk/src/chrome/common/extensions/docs/build/build.py
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/98468/trunk/src/chrome/common/extensions/docs/build/build.sh
+END
+generator.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143742/trunk/src/chrome/common/extensions/docs/build/generator.html
+END
+directory.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/143432/trunk/src/chrome/common/extensions/docs/build/directory.py
+END

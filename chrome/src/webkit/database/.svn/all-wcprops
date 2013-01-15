@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/141139/trunk/src/webkit/database
+END
+webkit_database.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/109700/trunk/src/webkit/database/webkit_database.gypi
+END
+databases_table_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/134449/trunk/src/webkit/database/databases_table_unittest.cc
+END
+databases_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/122692/trunk/src/webkit/database/databases_table.cc
+END
+quota_table_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/134449/trunk/src/webkit/database/quota_table_unittest.cc
+END
+databases_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/62654/trunk/src/webkit/database/databases_table.h
+END
+database_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/86563/trunk/src/webkit/database/database_util_unittest.cc
+END
+quota_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/122692/trunk/src/webkit/database/quota_table.cc
+END
+database_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/112824/trunk/src/webkit/database/database_util.cc
+END
+quota_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/56655/trunk/src/webkit/database/quota_table.h
+END
+database_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/85400/trunk/src/webkit/database/database_util.h
+END
+database_connections_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141139/trunk/src/webkit/database/database_connections_unittest.cc
+END
+vfs_backend.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/94307/trunk/src/webkit/database/vfs_backend.cc
+END
+database_connections.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/121914/trunk/src/webkit/database/database_connections.cc
+END
+vfs_backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/94307/trunk/src/webkit/database/vfs_backend.h
+END
+database_connections.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/86871/trunk/src/webkit/database/database_connections.h
+END
+database_quota_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/141139/trunk/src/webkit/database/database_quota_client_unittest.cc
+END
+database_quota_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/135616/trunk/src/webkit/database/database_quota_client.cc
+END
+database_quota_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/110357/trunk/src/webkit/database/database_quota_client.h
+END
+database_tracker_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/141139/trunk/src/webkit/database/database_tracker_unittest.cc
+END
+database_tracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/140502/trunk/src/webkit/database/database_tracker.cc
+END
+database_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/140502/trunk/src/webkit/database/database_tracker.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/71492/trunk/src/webkit/database/OWNERS
+END

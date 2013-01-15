@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/142202/trunk/src/net/websockets
+END
+websocket_handshake_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/128310/trunk/src/net/websockets/websocket_handshake_handler.h
+END
+websocket_frame_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/141630/trunk/src/net/websockets/websocket_frame_unittest.cc
+END
+websocket_net_log_params_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142202/trunk/src/net/websockets/websocket_net_log_params_unittest.cc
+END
+websocket_net_log_params.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/142202/trunk/src/net/websockets/websocket_net_log_params.cc
+END
+websocket_job_spdy2_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/141328/trunk/src/net/websockets/websocket_job_spdy2_unittest.cc
+END
+websocket_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/141630/trunk/src/net/websockets/websocket_frame.cc
+END
+websocket_job_spdy3_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/141328/trunk/src/net/websockets/websocket_job_spdy3_unittest.cc
+END
+websocket_net_log_params.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/142202/trunk/src/net/websockets/websocket_net_log_params.h
+END
+websocket_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141630/trunk/src/net/websockets/websocket_frame.h
+END
+websocket_throttle_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/136497/trunk/src/net/websockets/websocket_throttle_unittest.cc
+END
+websocket_frame_parser_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/136240/trunk/src/net/websockets/websocket_frame_parser_unittest.cc
+END
+websocket_throttle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/135731/trunk/src/net/websockets/websocket_throttle.cc
+END
+websocket_frame_parser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/136240/trunk/src/net/websockets/websocket_frame_parser.cc
+END
+websocket_throttle.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/96560/trunk/src/net/websockets/websocket_throttle.h
+END
+websocket_frame_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/136240/trunk/src/net/websockets/websocket_frame_parser.h
+END
+websocket_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/142202/trunk/src/net/websockets/websocket_job.cc
+END
+websocket_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/128310/trunk/src/net/websockets/websocket_job.h
+END
+websocket_handshake_handler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/128310/trunk/src/net/websockets/websocket_handshake_handler_unittest.cc
+END
+websocket_handshake_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/128310/trunk/src/net/websockets/websocket_handshake_handler.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/81407/trunk/src/net/websockets/OWNERS
+END

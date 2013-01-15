@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/144486/trunk/src/chrome/browser/ui/gtk/status_icons
+END
+status_icon_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144486/trunk/src/chrome/browser/ui/gtk/status_icons/status_icon_gtk.cc
+END
+status_icon_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/111221/trunk/src/chrome/browser/ui/gtk/status_icons/status_icon_gtk.h
+END
+status_tray_gtk_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/138473/trunk/src/chrome/browser/ui/gtk/status_icons/status_tray_gtk_unittest.cc
+END
+status_tray_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/71668/trunk/src/chrome/browser/ui/gtk/status_icons/status_tray_gtk.cc
+END
+status_tray_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/107329/trunk/src/chrome/browser/ui/gtk/status_icons/status_tray_gtk.h
+END

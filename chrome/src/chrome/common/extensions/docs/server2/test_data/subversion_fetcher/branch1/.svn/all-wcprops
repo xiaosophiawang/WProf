@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/140465/trunk/src/chrome/common/extensions/docs/server2/test_data/subversion_fetcher/branch1
+END
+test.json
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/chrome/!svn/ver/139132/trunk/src/chrome/common/extensions/docs/server2/test_data/subversion_fetcher/branch1/test.json
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/chrome/!svn/ver/140465/trunk/src/chrome/common/extensions/docs/server2/test_data/subversion_fetcher/branch1/test.txt
+END

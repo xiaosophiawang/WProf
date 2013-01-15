@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/145151/trunk/src/ui/base/ime
+END
+input_method_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/143501/trunk/src/ui/base/ime/input_method_base.h
+END
+input_method_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/113095/trunk/src/ui/base/ime/input_method_delegate.h
+END
+ime.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/145151/trunk/src/ui/base/ime/ime.gypi
+END
+text_input_test_support.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/143346/trunk/src/ui/base/ime/text_input_test_support.cc
+END
+ibus_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/144696/trunk/src/ui/base/ime/ibus_client.cc
+END
+text_input_test_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/139775/trunk/src/ui/base/ime/text_input_test_support.h
+END
+input_method.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/143501/trunk/src/ui/base/ime/input_method.h
+END
+text_input_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/109608/trunk/src/ui/base/ime/text_input_client.cc
+END
+ibus_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/144696/trunk/src/ui/base/ime/ibus_client.h
+END
+character_composer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/141400/trunk/src/ui/base/ime/character_composer_unittest.cc
+END
+character_composer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/141400/trunk/src/ui/base/ime/character_composer.cc
+END
+text_input_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/142103/trunk/src/ui/base/ime/text_input_client.h
+END
+character_composer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141400/trunk/src/ui/base/ime/character_composer.h
+END
+text_input_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/141167/trunk/src/ui/base/ime/text_input_type.h
+END
+composition_text.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/79214/trunk/src/ui/base/ime/composition_text.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/109449/trunk/src/ui/base/ime/DEPS
+END
+mock_input_method.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/143346/trunk/src/ui/base/ime/mock_input_method.cc
+END
+composition_text.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/116654/trunk/src/ui/base/ime/composition_text.h
+END
+composition_underline.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/116654/trunk/src/ui/base/ime/composition_underline.h
+END
+mock_input_method.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/143501/trunk/src/ui/base/ime/mock_input_method.h
+END
+ime_unittests.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/144696/trunk/src/ui/base/ime/ime_unittests.gypi
+END
+input_method_ibus_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/145123/trunk/src/ui/base/ime/input_method_ibus_unittest.cc
+END
+input_method_ibus.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/144696/trunk/src/ui/base/ime/input_method_ibus.cc
+END
+input_method_ibus.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/144696/trunk/src/ui/base/ime/input_method_ibus.h
+END
+input_method_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/143346/trunk/src/ui/base/ime/input_method_factory.cc
+END
+ime_test_support.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/139775/trunk/src/ui/base/ime/ime_test_support.gypi
+END
+input_method_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/115778/trunk/src/ui/base/ime/input_method_factory.h
+END
+input_method_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/138223/trunk/src/ui/base/ime/input_method_base.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/109587/trunk/src/ui/base/ime/OWNERS
+END

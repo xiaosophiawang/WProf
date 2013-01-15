@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/145122/trunk/src/ash/launcher
+END
+launcher_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145122/trunk/src/ash/launcher/launcher_view.cc
+END
+launcher_button_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/144520/trunk/src/ash/launcher/launcher_button_host.h
+END
+launcher_button.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/144593/trunk/src/ash/launcher/launcher_button.cc
+END
+launcher_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/144934/trunk/src/ash/launcher/launcher_view.h
+END
+launcher_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/136897/trunk/src/ash/launcher/launcher_delegate.h
+END
+launcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/144934/trunk/src/ash/launcher/launcher.cc
+END
+launcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/144934/trunk/src/ash/launcher/launcher.h
+END
+launcher_tooltip_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/144934/trunk/src/ash/launcher/launcher_tooltip_manager.cc
+END
+launcher_tooltip_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144934/trunk/src/ash/launcher/launcher_tooltip_manager.h
+END
+app_list_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/145122/trunk/src/ash/launcher/app_list_button.h
+END
+background_animator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/128052/trunk/src/ash/launcher/background_animator.cc
+END
+launcher_navigator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/136215/trunk/src/ash/launcher/launcher_navigator.cc
+END
+background_animator.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/128052/trunk/src/ash/launcher/background_animator.h
+END
+launcher_navigator.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/136215/trunk/src/ash/launcher/launcher_navigator.h
+END
+launcher_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/142086/trunk/src/ash/launcher/launcher_model.cc
+END
+launcher_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/140202/trunk/src/ash/launcher/launcher_model.h
+END
+launcher_context_menu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144520/trunk/src/ash/launcher/launcher_context_menu.cc
+END
+launcher_view_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/145122/trunk/src/ash/launcher/launcher_view_unittest.cc
+END
+launcher_context_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144520/trunk/src/ash/launcher/launcher_context_menu.h
+END
+tabbed_launcher_button.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/141002/trunk/src/ash/launcher/tabbed_launcher_button.cc
+END
+launcher_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/142338/trunk/src/ash/launcher/launcher_button.h
+END
+tabbed_launcher_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/135552/trunk/src/ash/launcher/tabbed_launcher_button.h
+END
+launcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/136312/trunk/src/ash/launcher/launcher_unittest.cc
+END
+app_list_button.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/145122/trunk/src/ash/launcher/app_list_button.cc
+END
+launcher_navigator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/136215/trunk/src/ash/launcher/launcher_navigator_unittest.cc
+END
+launcher_model_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/140202/trunk/src/ash/launcher/launcher_model_unittest.cc
+END
+launcher_icon_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/142548/trunk/src/ash/launcher/launcher_icon_observer.h
+END
+launcher_alignment_menu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144520/trunk/src/ash/launcher/launcher_alignment_menu.cc
+END
+launcher_types.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/136312/trunk/src/ash/launcher/launcher_types.cc
+END
+launcher_alignment_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/136312/trunk/src/ash/launcher/launcher_alignment_menu.h
+END
+launcher_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/140617/trunk/src/ash/launcher/launcher_types.h
+END
+launcher_context_menu_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/135560/trunk/src/ash/launcher/launcher_context_menu_unittest.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/126981/trunk/src/ash/launcher/OWNERS
+END
+launcher_model_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/135552/trunk/src/ash/launcher/launcher_model_observer.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/123193/trunk/src/chrome/test/data/extensions/good
+END
+PreferencesExperimental
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/85944/trunk/src/chrome/test/data/extensions/good/PreferencesExperimental
+END
+Preferences
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/116289/trunk/src/chrome/test/data/extensions/good/Preferences
+END
+PreferencesExternal
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/68892/trunk/src/chrome/test/data/extensions/good/PreferencesExternal
+END

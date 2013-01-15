@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/83462/trunk/src/chrome/test/data/notifications
+END
+notification_tester.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/83462/trunk/src/chrome/test/data/notifications/notification_tester.html
+END
+notifications_request_inline.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/31953/trunk/src/chrome/test/data/notifications/notifications_request_inline.html
+END
+notifications_request_function.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/31953/trunk/src/chrome/test/data/notifications/notifications_request_function.html
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/143085/trunk/src/chrome/browser/web_resource
+END
+notification_promo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/142324/trunk/src/chrome/browser/web_resource/notification_promo.cc
+END
+promo_resource_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/143085/trunk/src/chrome/browser/web_resource/promo_resource_service_unittest.cc
+END
+promo_resource_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/141354/trunk/src/chrome/browser/web_resource/promo_resource_service.cc
+END
+notification_promo.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/140511/trunk/src/chrome/browser/web_resource/notification_promo.h
+END
+web_resource_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142926/trunk/src/chrome/browser/web_resource/web_resource_service.cc
+END
+promo_resource_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/141183/trunk/src/chrome/browser/web_resource/promo_resource_service.h
+END
+web_resource_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/138384/trunk/src/chrome/browser/web_resource/web_resource_service.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/131427/trunk/src/chrome/browser/web_resource/OWNERS
+END

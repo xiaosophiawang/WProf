@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/143349/trunk/src/chrome_frame/test/perf
+END
+run_all.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/119049/trunk/src/chrome_frame/test/perf/run_all.cc
+END
+silverlight.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/81303/trunk/src/chrome_frame/test/perf/silverlight.cc
+END
+chrometab_perftests.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/36120/trunk/src/chrome_frame/test/perf/chrometab_perftests.vcproj
+END
+chrome_frame_perftest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/143349/trunk/src/chrome_frame/test/perf/chrome_frame_perftest.cc
+END
+chrome_frame_perftest.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/57737/trunk/src/chrome_frame/test/perf/chrome_frame_perftest.h
+END
+chrometab_perftests.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/27042/trunk/src/chrome_frame/test/perf/chrometab_perftests.vsprops
+END

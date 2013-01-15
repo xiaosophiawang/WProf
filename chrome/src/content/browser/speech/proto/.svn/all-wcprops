@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/137454/trunk/src/content/browser/speech/proto
+END
+google_streaming_api.proto
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/137454/trunk/src/content/browser/speech/proto/google_streaming_api.proto
+END
+speech_proto.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/137454/trunk/src/content/browser/speech/proto/speech_proto.gyp
+END

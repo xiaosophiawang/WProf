@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/145395/trunk/src/ui/views/window
+END
+frame_background.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/139734/trunk/src/ui/views/window/frame_background.h
+END
+dialog_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/144253/trunk/src/ui/views/window/dialog_delegate.h
+END
+native_frame_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/111096/trunk/src/ui/views/window/native_frame_view.h
+END
+window_resources.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/139734/trunk/src/ui/views/window/window_resources.h
+END
+client_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/145395/trunk/src/ui/views/window/client_view.cc
+END
+client_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145395/trunk/src/ui/views/window/client_view.h
+END
+custom_frame_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/141002/trunk/src/ui/views/window/custom_frame_view.cc
+END
+custom_frame_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/139734/trunk/src/ui/views/window/custom_frame_view.h
+END
+non_client_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/136766/trunk/src/ui/views/window/non_client_view.cc
+END
+non_client_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/125131/trunk/src/ui/views/window/non_client_view.h
+END
+window_shape.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/109887/trunk/src/ui/views/window/window_shape.cc
+END
+dialog_client_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/139528/trunk/src/ui/views/window/dialog_client_view.cc
+END
+frame_background.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/141002/trunk/src/ui/views/window/frame_background.cc
+END
+dialog_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/144253/trunk/src/ui/views/window/dialog_delegate.cc
+END
+dialog_client_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/137011/trunk/src/ui/views/window/dialog_client_view.h
+END
+window_shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/112469/trunk/src/ui/views/window/window_shape.h
+END
+native_frame_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/111096/trunk/src/ui/views/window/native_frame_view.cc
+END

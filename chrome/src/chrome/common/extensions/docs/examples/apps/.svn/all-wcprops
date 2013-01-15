@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/134268/trunk/src/chrome/common/extensions/docs/examples/apps
+END
+hello-java.zip
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/56697/trunk/src/chrome/common/extensions/docs/examples/apps/hello-java.zip
+END
+hello-python.zip
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/56986/trunk/src/chrome/common/extensions/docs/examples/apps/hello-python.zip
+END
+background-simple.zip
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/73643/trunk/src/chrome/common/extensions/docs/examples/apps/background-simple.zip
+END
+hello-php.zip
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/56947/trunk/src/chrome/common/extensions/docs/examples/apps/hello-php.zip
+END

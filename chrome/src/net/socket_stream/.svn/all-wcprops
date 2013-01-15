@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/144468/trunk/src/net/socket_stream
+END
+socket_stream_metrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/96560/trunk/src/net/socket_stream/socket_stream_metrics.h
+END
+socket_stream_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/134754/trunk/src/net/socket_stream/socket_stream_job.cc
+END
+socket_stream_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/136497/trunk/src/net/socket_stream/socket_stream_job.h
+END
+socket_stream_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/141816/trunk/src/net/socket_stream/socket_stream_unittest.cc
+END
+socket_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/144468/trunk/src/net/socket_stream/socket_stream.cc
+END
+socket_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/141816/trunk/src/net/socket_stream/socket_stream.h
+END
+socket_stream_job_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/79524/trunk/src/net/socket_stream/socket_stream_job_manager.cc
+END
+socket_stream_metrics_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/103307/trunk/src/net/socket_stream/socket_stream_metrics_unittest.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/81407/trunk/src/net/socket_stream/OWNERS
+END
+socket_stream_job_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/72106/trunk/src/net/socket_stream/socket_stream_job_manager.h
+END
+socket_stream_metrics.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/90343/trunk/src/net/socket_stream/socket_stream_metrics.cc
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/145220/trunk/src/chrome/browser/ui/views/accessibility
+END
+invert_bubble_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/145220/trunk/src/chrome/browser/ui/views/accessibility/invert_bubble_view.cc
+END
+invert_bubble_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/144403/trunk/src/chrome/browser/ui/views/accessibility/invert_bubble_view.h
+END
+accessibility_event_router_views_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/139670/trunk/src/chrome/browser/ui/views/accessibility/accessibility_event_router_views_unittest.cc
+END
+accessibility_event_router_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/139670/trunk/src/chrome/browser/ui/views/accessibility/accessibility_event_router_views.cc
+END
+accessibility_event_router_views.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/139670/trunk/src/chrome/browser/ui/views/accessibility/accessibility_event_router_views.h
+END
+browser_views_accessibility_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/142709/trunk/src/chrome/browser/ui/views/accessibility/browser_views_accessibility_browsertest.cc
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/130436/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_url_loader
+END
+ppapi_ppb_url_loader.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/98158/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_url_loader/ppapi_ppb_url_loader.txt
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/130436/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_url_loader/nacl.scons
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/98158/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_url_loader/build.scons
+END
+ppapi_ppb_url_loader.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/98158/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_url_loader/ppapi_ppb_url_loader.html
+END
+ppapi_ppb_url_loader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/101556/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_url_loader/ppapi_ppb_url_loader.cc
+END
+ppapi_ppb_url_loader.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/100755/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_url_loader/ppapi_ppb_url_loader.js
+END

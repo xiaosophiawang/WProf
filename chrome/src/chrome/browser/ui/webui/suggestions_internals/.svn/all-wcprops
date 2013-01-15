@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/144883/trunk/src/chrome/browser/ui/webui/suggestions_internals
+END
+suggestions_internals_ui_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/140327/trunk/src/chrome/browser/ui/webui/suggestions_internals/suggestions_internals_ui_handler.cc
+END
+suggestions_internals_ui_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/144883/trunk/src/chrome/browser/ui/webui/suggestions_internals/suggestions_internals_ui_handler.h
+END
+suggestions_internals_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/137429/trunk/src/chrome/browser/ui/webui/suggestions_internals/suggestions_internals_ui.cc
+END
+suggestions_internals_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/138228/trunk/src/chrome/browser/ui/webui/suggestions_internals/suggestions_internals_ui.h
+END

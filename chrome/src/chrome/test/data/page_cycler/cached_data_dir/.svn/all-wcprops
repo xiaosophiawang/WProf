@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/139705/trunk/src/chrome/test/data/page_cycler/cached_data_dir
+END
+chrome_shutdown_ms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/139705/trunk/src/chrome/test/data/page_cycler/cached_data_dir/chrome_shutdown_ms.txt
+END
+urls
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/139705/trunk/src/chrome/test/data/page_cycler/cached_data_dir/urls
+END
+Safe Browsing Cookies
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/139705/trunk/src/chrome/test/data/page_cycler/cached_data_dir/Safe%20Browsing%20Cookies
+END
+Local State
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/139705/trunk/src/chrome/test/data/page_cycler/cached_data_dir/Local%20State
+END
+First Run
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/139705/trunk/src/chrome/test/data/page_cycler/cached_data_dir/First%20Run
+END
+Safe Browsing Cookies-journal
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/139705/trunk/src/chrome/test/data/page_cycler/cached_data_dir/Safe%20Browsing%20Cookies-journal
+END

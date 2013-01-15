@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/dri/mga/server
+END
+mga_bios.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/dri/mga/server/mga_bios.h
+END
+mga_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/dri/mga/server/mga_reg.h
+END
+mga_dri.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/dri/mga/server/mga_dri.h
+END
+mga.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/dri/mga/server/mga.h
+END
+mga_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/dri/mga/server/mga_macros.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/143920/trunk/src/content/browser/appcache
+END
+chrome_appcache_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/140502/trunk/src/content/browser/appcache/chrome_appcache_service_unittest.cc
+END
+chrome_appcache_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/134395/trunk/src/content/browser/appcache/chrome_appcache_service.cc
+END
+chrome_appcache_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143174/trunk/src/content/browser/appcache/chrome_appcache_service.h
+END
+appcache_frontend_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/143920/trunk/src/content/browser/appcache/appcache_frontend_proxy.cc
+END
+appcache_frontend_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143920/trunk/src/content/browser/appcache/appcache_frontend_proxy.h
+END
+appcache_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/129948/trunk/src/content/browser/appcache/appcache_browsertest.cc
+END
+appcache_dispatcher_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/134395/trunk/src/content/browser/appcache/appcache_dispatcher_host.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/85009/trunk/src/content/browser/appcache/OWNERS
+END
+appcache_dispatcher_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/134395/trunk/src/content/browser/appcache/appcache_dispatcher_host.h
+END

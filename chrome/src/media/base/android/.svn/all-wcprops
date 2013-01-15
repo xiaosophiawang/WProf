@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/144272/trunk/src/media/base/android
+END
+media_jni_registrar.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/133857/trunk/src/media/base/android/media_jni_registrar.cc
+END
+media_jni_registrar.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/133857/trunk/src/media/base/android/media_jni_registrar.h
+END
+media_player_bridge.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/139978/trunk/src/media/base/android/media_player_bridge.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/133053/trunk/src/media/base/android/OWNERS
+END
+media_player_bridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/137375/trunk/src/media/base/android/media_player_bridge.h
+END

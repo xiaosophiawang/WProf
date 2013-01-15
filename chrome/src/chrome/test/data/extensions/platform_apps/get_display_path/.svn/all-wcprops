@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/141186/trunk/src/chrome/test/data/extensions/platform_apps/get_display_path
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/141186/trunk/src/chrome/test/data/extensions/platform_apps/get_display_path/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/141177/trunk/src/chrome/test/data/extensions/platform_apps/get_display_path/manifest.json
+END

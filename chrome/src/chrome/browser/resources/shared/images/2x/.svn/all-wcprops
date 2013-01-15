@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/144592/trunk/src/chrome/browser/resources/shared/images/2x
+END
+check.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144386/trunk/src/chrome/browser/resources/shared/images/2x/check.png
+END
+gear.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/144592/trunk/src/chrome/browser/resources/shared/images/2x/gear.png
+END
+select.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144391/trunk/src/chrome/browser/resources/shared/images/2x/select.png
+END
+checkbox_black.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/144386/trunk/src/chrome/browser/resources/shared/images/2x/checkbox_black.png
+END
+checkbox_white.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/144386/trunk/src/chrome/browser/resources/shared/images/2x/checkbox_white.png
+END
+disabled_select.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/144391/trunk/src/chrome/browser/resources/shared/images/2x/disabled_select.png
+END
+x.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/144383/trunk/src/chrome/browser/resources/shared/images/2x/x.png
+END
+x-hover.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144383/trunk/src/chrome/browser/resources/shared/images/2x/x-hover.png
+END

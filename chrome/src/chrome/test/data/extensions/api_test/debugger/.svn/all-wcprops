@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/119887/trunk/src/chrome/test/data/extensions/api_test/debugger
+END
+inspected.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/78593/trunk/src/chrome/test/data/extensions/api_test/debugger/inspected.html
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/119887/trunk/src/chrome/test/data/extensions/api_test/debugger/background.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/117137/trunk/src/chrome/test/data/extensions/api_test/debugger/manifest.json
+END

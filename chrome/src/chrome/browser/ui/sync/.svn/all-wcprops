@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/sync
+END
+browser_synced_window_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/143706/trunk/src/chrome/browser/ui/sync/browser_synced_window_delegate.h
+END
+one_click_signin_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/140798/trunk/src/chrome/browser/ui/sync/one_click_signin_helper_unittest.cc
+END
+one_click_signin_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/144611/trunk/src/chrome/browser/ui/sync/one_click_signin_helper.cc
+END
+one_click_signin_histogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/125614/trunk/src/chrome/browser/ui/sync/one_click_signin_histogram.h
+END
+one_click_signin_sync_starter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/144611/trunk/src/chrome/browser/ui/sync/one_click_signin_sync_starter.cc
+END
+one_click_signin_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/129364/trunk/src/chrome/browser/ui/sync/one_click_signin_helper.h
+END
+one_click_signin_sync_starter.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/144611/trunk/src/chrome/browser/ui/sync/one_click_signin_sync_starter.h
+END
+tab_contents_synced_tab_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/141449/trunk/src/chrome/browser/ui/sync/tab_contents_synced_tab_delegate.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/124195/trunk/src/chrome/browser/ui/sync/OWNERS
+END
+browser_synced_window_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/sync/browser_synced_window_delegate.cc
+END
+tab_contents_synced_tab_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/141449/trunk/src/chrome/browser/ui/sync/tab_contents_synced_tab_delegate.h
+END

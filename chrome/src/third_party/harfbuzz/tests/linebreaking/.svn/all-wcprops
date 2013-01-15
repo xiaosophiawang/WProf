@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/tests/linebreaking
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/tests/linebreaking/.gitignore
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/tests/linebreaking/main.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/tests/linebreaking/Makefile.am
+END
+harfbuzz-qt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/tests/linebreaking/harfbuzz-qt.cpp
+END

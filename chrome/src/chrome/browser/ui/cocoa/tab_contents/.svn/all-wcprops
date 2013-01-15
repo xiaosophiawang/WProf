@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144313/trunk/src/chrome/browser/ui/cocoa/tab_contents
+END
+chrome_web_contents_view_delegate_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/140215/trunk/src/chrome/browser/ui/cocoa/tab_contents/chrome_web_contents_view_delegate_mac.h
+END
+sad_tab_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/125013/trunk/src/chrome/browser/ui/cocoa/tab_contents/sad_tab_controller.h
+END
+render_view_context_menu_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/143511/trunk/src/chrome/browser/ui/cocoa/tab_contents/render_view_context_menu_mac.mm
+END
+favicon_util.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144313/trunk/src/chrome/browser/ui/cocoa/tab_contents/favicon_util.mm
+END
+previewable_contents_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/132816/trunk/src/chrome/browser/ui/cocoa/tab_contents/previewable_contents_controller_unittest.mm
+END
+previewable_contents_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/118293/trunk/src/chrome/browser/ui/cocoa/tab_contents/previewable_contents_controller.mm
+END
+sad_tab_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/72345/trunk/src/chrome/browser/ui/cocoa/tab_contents/sad_tab_view_unittest.mm
+END
+tab_contents_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/132816/trunk/src/chrome/browser/ui/cocoa/tab_contents/tab_contents_controller.mm
+END
+sad_tab_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/143605/trunk/src/chrome/browser/ui/cocoa/tab_contents/sad_tab_view.mm
+END
+chrome_web_contents_view_delegate_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/143511/trunk/src/chrome/browser/ui/cocoa/tab_contents/chrome_web_contents_view_delegate_mac.mm
+END
+sad_tab_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/128198/trunk/src/chrome/browser/ui/cocoa/tab_contents/sad_tab_controller_unittest.mm
+END
+render_view_context_menu_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/143511/trunk/src/chrome/browser/ui/cocoa/tab_contents/render_view_context_menu_mac.h
+END
+sad_tab_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/125013/trunk/src/chrome/browser/ui/cocoa/tab_contents/sad_tab_controller.mm
+END
+favicon_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/140754/trunk/src/chrome/browser/ui/cocoa/tab_contents/favicon_util.h
+END
+previewable_contents_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/132816/trunk/src/chrome/browser/ui/cocoa/tab_contents/previewable_contents_controller.h
+END
+tab_contents_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/118700/trunk/src/chrome/browser/ui/cocoa/tab_contents/tab_contents_controller.h
+END
+sad_tab_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/100273/trunk/src/chrome/browser/ui/cocoa/tab_contents/sad_tab_view.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/72345/trunk/src/chrome/browser/ui/cocoa/tab_contents/OWNERS
+END

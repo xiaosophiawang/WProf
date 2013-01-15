@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/136114/trunk/src/chrome/test/data/extensions/api_test/idltest/binary_data
+END
+binary.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/136114/trunk/src/chrome/test/data/extensions/api_test/idltest/binary_data/binary.js
+END
+binary.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/136114/trunk/src/chrome/test/data/extensions/api_test/idltest/binary_data/binary.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/136114/trunk/src/chrome/test/data/extensions/api_test/idltest/binary_data/manifest.json
+END

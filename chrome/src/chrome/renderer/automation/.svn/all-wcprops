@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/143282/trunk/src/chrome/renderer/automation
+END
+automation_renderer_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/143282/trunk/src/chrome/renderer/automation/automation_renderer_helper.cc
+END
+automation_renderer_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/138479/trunk/src/chrome/renderer/automation/automation_renderer_helper.h
+END
+automation_renderer_helper_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/140255/trunk/src/chrome/renderer/automation/automation_renderer_helper_browsertest.cc
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/141295/trunk/src/base/allocator
+END
+allocator_extension.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/134434/trunk/src/base/allocator/allocator_extension.cc
+END
+tcmalloc_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/138775/trunk/src/base/allocator/tcmalloc_unittest.cc
+END
+win_allocator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/77962/trunk/src/base/allocator/win_allocator.cc
+END
+allocator_extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/134434/trunk/src/base/allocator/allocator_extension.h
+END
+generic_allocators.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/110181/trunk/src/base/allocator/generic_allocators.cc
+END
+unittest_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/33043/trunk/src/base/allocator/unittest_utils.cc
+END
+allocator_shim.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/138775/trunk/src/base/allocator/allocator_shim.cc
+END
+allocator_shim.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/138775/trunk/src/base/allocator/allocator_shim.h
+END
+allocator_unittests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/127522/trunk/src/base/allocator/allocator_unittests.cc
+END
+prep_libc.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/138516/trunk/src/base/allocator/prep_libc.py
+END
+allocator_extension_thunks.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/138775/trunk/src/base/allocator/allocator_extension_thunks.cc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/33043/trunk/src/base/allocator/README
+END
+allocator.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/141295/trunk/src/base/allocator/allocator.gyp
+END
+allocator_extension_thunks.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/134434/trunk/src/base/allocator/allocator_extension_thunks.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/141686/trunk/src/tools/isolate/data/gtest_fake
+END
+gtest_fake.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/141686/trunk/src/tools/isolate/data/gtest_fake/gtest_fake.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/141686/trunk/src/tools/isolate/data/gtest_fake/__init__.py
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/85088/trunk/src/chrome/tools/convert_dict
+END
+hunspell_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/37816/trunk/src/chrome/tools/convert_dict/hunspell_reader.cc
+END
+aff_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/85048/trunk/src/chrome/tools/convert_dict/aff_reader.cc
+END
+hunspell_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/53716/trunk/src/chrome/tools/convert_dict/hunspell_reader.h
+END
+aff_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/53716/trunk/src/chrome/tools/convert_dict/aff_reader.h
+END
+dic_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/76467/trunk/src/chrome/tools/convert_dict/dic_reader.cc
+END
+convert_dict_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/85088/trunk/src/chrome/tools/convert_dict/convert_dict_unittest.cc
+END
+convert_dict.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/72051/trunk/src/chrome/tools/convert_dict/convert_dict.cc
+END
+dic_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/56171/trunk/src/chrome/tools/convert_dict/dic_reader.h
+END

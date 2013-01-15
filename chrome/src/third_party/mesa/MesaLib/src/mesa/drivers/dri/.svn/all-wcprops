@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/123189/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/dri
+END
+dri.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/dri/dri.pc.in
+END
+Makefile.template
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/dri/Makefile.template
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/dri/Makefile
+END

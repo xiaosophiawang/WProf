@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/138707/trunk/src/chrome/browser/extensions/api/idltest
+END
+idltest_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/136114/trunk/src/chrome/browser/extensions/api/idltest/idltest_api.cc
+END
+idltest_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/138707/trunk/src/chrome/browser/extensions/api/idltest/idltest_apitest.cc
+END
+idltest_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/137866/trunk/src/chrome/browser/extensions/api/idltest/idltest_api.h
+END

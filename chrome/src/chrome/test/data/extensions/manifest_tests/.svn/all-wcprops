@@ -1,0 +1,1313 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/145175/trunk/src/chrome/test/data/extensions/manifest_tests
+END
+command_allow_numbers.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/138830/trunk/src/chrome/test/data/extensions/manifest_tests/command_allow_numbers.json
+END
+exclude_matches_not_list.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/87192/trunk/src/chrome/test/data/extensions/manifest_tests/exclude_matches_not_list.json
+END
+web_accessible_resources_6.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/143278/trunk/src/chrome/test/data/extensions/manifest_tests/web_accessible_resources_6.json
+END
+exclude_matches_empty.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/87192/trunk/src/chrome/test/data/extensions/manifest_tests/exclude_matches_empty.json
+END
+filebrowser_invalid_access_permission_list.json
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/chrome/!svn/ver/129112/trunk/src/chrome/test/data/extensions/manifest_tests/filebrowser_invalid_access_permission_list.json
+END
+intent_invalid_type_element.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/121196/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_type_element.json
+END
+multiple_ui_surfaces.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/112914/trunk/src/chrome/test/data/extensions/manifest_tests/multiple_ui_surfaces.json
+END
+launch_url_invalid_type_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/82297/trunk/src/chrome/test/data/extensions/manifest_tests/launch_url_invalid_type_2.json
+END
+init_invalid_icons_path_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_icons_path_invalid.json
+END
+launch_url_invalid_localized.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/122848/trunk/src/chrome/test/data/extensions/manifest_tests/launch_url_invalid_localized.json
+END
+intent_invalid_3.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/118027/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_3.json
+END
+init_valid_permissions_unknown.json
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_valid_permissions_unknown.json
+END
+tts_engine_invalid_8.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/91665/trunk/src/chrome/test/data/extensions/manifest_tests/tts_engine_invalid_8.json
+END
+init_invalid_requirements_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/104582/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_requirements_2.json
+END
+init_invalid_platform_app_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/141177/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_platform_app_2.json
+END
+launch_path_and_extent.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/93135/trunk/src/chrome/test/data/extensions/manifest_tests/launch_path_and_extent.json
+END
+launch_local_path.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/50314/trunk/src/chrome/test/data/extensions/manifest_tests/launch_local_path.json
+END
+filebrowser_invalid_file_filters_url.json
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/chrome/!svn/ver/81869/trunk/src/chrome/test/data/extensions/manifest_tests/filebrowser_invalid_file_filters_url.json
+END
+update_url_valid_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/update_url_valid_2.json
+END
+web_accessible_resources_3.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/115401/trunk/src/chrome/test/data/extensions/manifest_tests/web_accessible_resources_3.json
+END
+intent_invalid_blank_action_extension.json
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/chrome/!svn/ver/126325/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_blank_action_extension.json
+END
+init_invalid_script_files_missing.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_script_files_missing.json
+END
+background_allow_no_js_access2.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/129574/trunk/src/chrome/test/data/extensions/manifest_tests/background_allow_no_js_access2.json
+END
+init_invalid_icons_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_icons_invalid.json
+END
+web_urls_invalid_3.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/50837/trunk/src/chrome/test/data/extensions/manifest_tests/web_urls_invalid_3.json
+END
+sandboxed_pages_invalid_3.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/141123/trunk/src/chrome/test/data/extensions/manifest_tests/sandboxed_pages_invalid_3.json
+END
+intent_invalid_packaged_app.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/121196/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_packaged_app.json
+END
+web_urls_default.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/56934/trunk/src/chrome/test/data/extensions/manifest_tests/web_urls_default.json
+END
+filebrowser_invalid_action_title.json
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/81869/trunk/src/chrome/test/data/extensions/manifest_tests/filebrowser_invalid_action_title.json
+END
+command_simple.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/138830/trunk/src/chrome/test/data/extensions/manifest_tests/command_simple.json
+END
+sandboxed_pages_valid_3.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/141123/trunk/src/chrome/test/data/extensions/manifest_tests/sandboxed_pages_valid_3.json
+END
+script_badge_basic.json
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/145175/trunk/src/chrome/test/data/extensions/manifest_tests/script_badge_basic.json
+END
+tts_engine_invalid_5.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/91665/trunk/src/chrome/test/data/extensions/manifest_tests/tts_engine_invalid_5.json
+END
+update_url_invalid_3.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/update_url_invalid_3.json
+END
+init_invalid_script_match_item_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_script_match_item_invalid.json
+END
+content_script_yahoo.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/105188/trunk/src/chrome/test/data/extensions/manifest_tests/content_script_yahoo.json
+END
+intent_valid_multi_href.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/125794/trunk/src/chrome/test/data/extensions/manifest_tests/intent_valid_multi_href.json
+END
+intent_invalid_hosted_app_3.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/121196/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_hosted_app_3.json
+END
+filebrowser_invalid_file_filters_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/81869/trunk/src/chrome/test/data/extensions/manifest_tests/filebrowser_invalid_file_filters_1.json
+END
+hosted_app_file_options.json
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/58125/trunk/src/chrome/test/data/extensions/manifest_tests/hosted_app_file_options.json
+END
+intent_valid_blank_action_packaged.json
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/126325/trunk/src/chrome/test/data/extensions/manifest_tests/intent_valid_blank_action_packaged.json
+END
+init_invalid_version_missing.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_version_missing.json
+END
+launch_width.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/56934/trunk/src/chrome/test/data/extensions/manifest_tests/launch_width.json
+END
+init_valid_permissions.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_valid_permissions.json
+END
+evil_non_platform_app.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/123434/trunk/src/chrome/test/data/extensions/manifest_tests/evil_non_platform_app.json
+END
+content_script_match_pattern_not_string.json
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/chrome/!svn/ver/76967/trunk/src/chrome/test/data/extensions/manifest_tests/content_script_match_pattern_not_string.json
+END
+init_invalid_chrome_version_too_low.json
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_chrome_version_too_low.json
+END
+launch_container_invalid_value.json
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/50314/trunk/src/chrome/test/data/extensions/manifest_tests/launch_container_invalid_value.json
+END
+tts_engine_valid.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/91665/trunk/src/chrome/test/data/extensions/manifest_tests/tts_engine_valid.json
+END
+init_invalid_description_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_description_invalid.json
+END
+override_newtab_and_history.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/43387/trunk/src/chrome/test/data/extensions/manifest_tests/override_newtab_and_history.json
+END
+init_invalid_version_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_version_invalid.json
+END
+devtools_extension_url_invalid_type.json
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/55217/trunk/src/chrome/test/data/extensions/manifest_tests/devtools_extension_url_invalid_type.json
+END
+page_action_manifest_version_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/123434/trunk/src/chrome/test/data/extensions/manifest_tests/page_action_manifest_version_2.json
+END
+tts_engine_invalid_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/91665/trunk/src/chrome/test/data/extensions/manifest_tests/tts_engine_invalid_2.json
+END
+launch_path_invalid_value.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/50314/trunk/src/chrome/test/data/extensions/manifest_tests/launch_path_invalid_value.json
+END
+launch_panel.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/50314/trunk/src/chrome/test/data/extensions/manifest_tests/launch_panel.json
+END
+intent_valid_blank_action_hosted.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/126325/trunk/src/chrome/test/data/extensions/manifest_tests/intent_valid_blank_action_hosted.json
+END
+filebrowser_invalid_actions_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/81869/trunk/src/chrome/test/data/extensions/manifest_tests/filebrowser_invalid_actions_2.json
+END
+intent_invalid_5.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/102409/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_5.json
+END
+init_valid_permissions_empty.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_valid_permissions_empty.json
+END
+filebrowser_invalid_empty_access_permission_list.json
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/chrome/!svn/ver/129112/trunk/src/chrome/test/data/extensions/manifest_tests/filebrowser_invalid_empty_access_permission_list.json
+END
+launch_path_invalid_type.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/50314/trunk/src/chrome/test/data/extensions/manifest_tests/launch_path_invalid_type.json
+END
+hosted_app_absolute_options.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/58125/trunk/src/chrome/test/data/extensions/manifest_tests/hosted_app_absolute_options.json
+END
+valid_app.json
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/56934/trunk/src/chrome/test/data/extensions/manifest_tests/valid_app.json
+END
+init_invalid_platform_app_4.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/141177/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_platform_app_4.json
+END
+filebrowser_valid.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/81869/trunk/src/chrome/test/data/extensions/manifest_tests/filebrowser_valid.json
+END
+homepage_empty.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/63749/trunk/src/chrome/test/data/extensions/manifest_tests/homepage_empty.json
+END
+update_url_valid_4.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/update_url_valid_4.json
+END
+web_accessible_resources_5.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/143278/trunk/src/chrome/test/data/extensions/manifest_tests/web_accessible_resources_5.json
+END
+default_locale_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/70062/trunk/src/chrome/test/data/extensions/manifest_tests/default_locale_invalid.json
+END
+init_invalid_permissions_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_permissions_invalid.json
+END
+launch_container_without_launch_url.json
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/50314/trunk/src/chrome/test/data/extensions/manifest_tests/launch_container_without_launch_url.json
+END
+offline_enabled_packaged_app.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/97024/trunk/src/chrome/test/data/extensions/manifest_tests/offline_enabled_packaged_app.json
+END
+web_urls_invalid_5.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/76967/trunk/src/chrome/test/data/extensions/manifest_tests/web_urls_invalid_5.json
+END
+permission_chrome_url_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/45402/trunk/src/chrome/test/data/extensions/manifest_tests/permission_chrome_url_invalid.json
+END
+launch_web_url_localized.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/122848/trunk/src/chrome/test/data/extensions/manifest_tests/launch_web_url_localized.json
+END
+launch_width_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/50523/trunk/src/chrome/test/data/extensions/manifest_tests/launch_width_invalid.json
+END
+intent_valid.json
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/121196/trunk/src/chrome/test/data/extensions/manifest_tests/intent_valid.json
+END
+sandboxed_pages_invalid_5.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/141177/trunk/src/chrome/test/data/extensions/manifest_tests/sandboxed_pages_invalid_5.json
+END
+launch_url_invalid_type_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/82297/trunk/src/chrome/test/data/extensions/manifest_tests/launch_url_invalid_type_1.json
+END
+launch_height_negative.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/56934/trunk/src/chrome/test/data/extensions/manifest_tests/launch_height_negative.json
+END
+intent_valid_hosted_app.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/121196/trunk/src/chrome/test/data/extensions/manifest_tests/intent_valid_hosted_app.json
+END
+background_scripts.json
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/117110/trunk/src/chrome/test/data/extensions/manifest_tests/background_scripts.json
+END
+launch_web_url_absolute.json
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/50314/trunk/src/chrome/test/data/extensions/manifest_tests/launch_web_url_absolute.json
+END
+intent_invalid_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/102409/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_2.json
+END
+init_valid_minimal.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_valid_minimal.json
+END
+sandboxed_pages_valid_5.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/143278/trunk/src/chrome/test/data/extensions/manifest_tests/sandboxed_pages_valid_5.json
+END
+script_badge_title_icons_ignored.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/145175/trunk/src/chrome/test/data/extensions/manifest_tests/script_badge_title_icons_ignored.json
+END
+homepage_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/63749/trunk/src/chrome/test/data/extensions/manifest_tests/homepage_invalid.json
+END
+tts_engine_invalid_7.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/91665/trunk/src/chrome/test/data/extensions/manifest_tests/tts_engine_invalid_7.json
+END
+intent_valid_multitype.json
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/121196/trunk/src/chrome/test/data/extensions/manifest_tests/intent_valid_multitype.json
+END
+init_invalid_requirements_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/104582/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_requirements_1.json
+END
+hosted_app_relative_options.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/58125/trunk/src/chrome/test/data/extensions/manifest_tests/hosted_app_relative_options.json
+END
+init_invalid_platform_app_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/141177/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_platform_app_1.json
+END
+experimental.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/68098/trunk/src/chrome/test/data/extensions/manifest_tests/experimental.json
+END
+init_valid_name_no_rtl.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_valid_name_no_rtl.json
+END
+init_invalid_page_actions_multi.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_page_actions_multi.json
+END
+exclude_matches_invalid_host.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/87192/trunk/src/chrome/test/data/extensions/manifest_tests/exclude_matches_invalid_host.json
+END
+update_url_valid_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/update_url_valid_1.json
+END
+homepage_valid.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/63749/trunk/src/chrome/test/data/extensions/manifest_tests/homepage_valid.json
+END
+web_accessible_resources_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/115401/trunk/src/chrome/test/data/extensions/manifest_tests/web_accessible_resources_2.json
+END
+init_invalid_files_js_empty_css_missing.json
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_files_js_empty_css_missing.json
+END
+normalize_icon_paths.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/59681/trunk/src/chrome/test/data/extensions/manifest_tests/normalize_icon_paths.json
+END
+intent_invalid_href_and_path.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/125554/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_href_and_path.json
+END
+web_urls_invalid_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/50837/trunk/src/chrome/test/data/extensions/manifest_tests/web_urls_invalid_2.json
+END
+sandboxed_pages_invalid_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/141123/trunk/src/chrome/test/data/extensions/manifest_tests/sandboxed_pages_invalid_2.json
+END
+launch_default.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/42146/trunk/src/chrome/test/data/extensions/manifest_tests/launch_default.json
+END
+override_new_tab.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/43387/trunk/src/chrome/test/data/extensions/manifest_tests/override_new_tab.json
+END
+init_invalid_script_matches_empty.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_script_matches_empty.json
+END
+filebrowser_invalid_access_permission.json
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/chrome/!svn/ver/129112/trunk/src/chrome/test/data/extensions/manifest_tests/filebrowser_invalid_access_permission.json
+END
+launch_container_invalid_type.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/50314/trunk/src/chrome/test/data/extensions/manifest_tests/launch_container_invalid_type.json
+END
+content_script_chrome_url_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/45402/trunk/src/chrome/test/data/extensions/manifest_tests/content_script_chrome_url_invalid.json
+END
+launch_web_url_relative.json
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/50837/trunk/src/chrome/test/data/extensions/manifest_tests/launch_web_url_relative.json
+END
+launch_local_path_localized.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/122848/trunk/src/chrome/test/data/extensions/manifest_tests/launch_local_path_localized.json
+END
+sandboxed_pages_valid_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/140689/trunk/src/chrome/test/data/extensions/manifest_tests/sandboxed_pages_valid_2.json
+END
+init_invalid_files_css_item_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_files_css_item_invalid.json
+END
+ports_in_permissions.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/114957/trunk/src/chrome/test/data/extensions/manifest_tests/ports_in_permissions.json
+END
+tts_engine_invalid_4.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/91665/trunk/src/chrome/test/data/extensions/manifest_tests/tts_engine_invalid_4.json
+END
+init_invalid_script_matches_missing.json
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_script_matches_missing.json
+END
+launch_path_and_url.json
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/50314/trunk/src/chrome/test/data/extensions/manifest_tests/launch_path_and_url.json
+END
+devtools_extension.json
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/115320/trunk/src/chrome/test/data/extensions/manifest_tests/devtools_extension.json
+END
+update_url_invalid_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/update_url_invalid_2.json
+END
+init_invalid_files_js_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_files_js_invalid.json
+END
+intent_invalid_hosted_app_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/121196/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_hosted_app_2.json
+END
+init_valid_name_strong_rtl.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_valid_name_strong_rtl.json
+END
+background_permission_alias.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/129327/trunk/src/chrome/test/data/extensions/manifest_tests/background_permission_alias.json
+END
+launch_window.json
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/50314/trunk/src/chrome/test/data/extensions/manifest_tests/launch_window.json
+END
+init_invalid_name_missing.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_name_missing.json
+END
+offline_enabled_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/97024/trunk/src/chrome/test/data/extensions/manifest_tests/offline_enabled_invalid.json
+END
+init_invalid_script_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_script_invalid.json
+END
+init_invalid_script_matches_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_script_matches_invalid.json
+END
+init_valid_minimum_chrome.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_valid_minimum_chrome.json
+END
+init_valid_app_minimum_chrome.json
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/103404/trunk/src/chrome/test/data/extensions/manifest_tests/init_valid_app_minimum_chrome.json
+END
+background_page.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/116289/trunk/src/chrome/test/data/extensions/manifest_tests/background_page.json
+END
+homepage_bad_schema.json
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/87722/trunk/src/chrome/test/data/extensions/manifest_tests/homepage_bad_schema.json
+END
+init_valid_empty_page_actions.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_valid_empty_page_actions.json
+END
+old_unlimited_storage.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/old_unlimited_storage.json
+END
+init_invalid_name_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_name_invalid.json
+END
+init_invalid_script_item_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_script_item_invalid.json
+END
+web_urls_has_port.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/114957/trunk/src/chrome/test/data/extensions/manifest_tests/web_urls_has_port.json
+END
+launch_path_invalid_localized.json
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/122848/trunk/src/chrome/test/data/extensions/manifest_tests/launch_path_invalid_localized.json
+END
+isolated_app_valid.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/88080/trunk/src/chrome/test/data/extensions/manifest_tests/isolated_app_valid.json
+END
+launch_url_invalid_type_3.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/82297/trunk/src/chrome/test/data/extensions/manifest_tests/launch_url_invalid_type_3.json
+END
+tabs_extension.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/61120/trunk/src/chrome/test/data/extensions/manifest_tests/tabs_extension.json
+END
+tts_engine_invalid_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/91665/trunk/src/chrome/test/data/extensions/manifest_tests/tts_engine_invalid_1.json
+END
+intent_valid_minimal.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/126325/trunk/src/chrome/test/data/extensions/manifest_tests/intent_valid_minimal.json
+END
+init_valid_platform_app.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/141177/trunk/src/chrome/test/data/extensions/manifest_tests/init_valid_platform_app.json
+END
+minimal.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/minimal.json
+END
+page_action_manifest_version_2b.json
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/116398/trunk/src/chrome/test/data/extensions/manifest_tests/page_action_manifest_version_2b.json
+END
+offline_enabled_extension.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/97024/trunk/src/chrome/test/data/extensions/manifest_tests/offline_enabled_extension.json
+END
+intent_valid_using_href.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/125554/trunk/src/chrome/test/data/extensions/manifest_tests/intent_valid_using_href.json
+END
+filebrowser_invalid_actions_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/81869/trunk/src/chrome/test/data/extensions/manifest_tests/filebrowser_invalid_actions_1.json
+END
+intent_invalid_4.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/126325/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_4.json
+END
+offline_default_platform_app.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/144319/trunk/src/chrome/test/data/extensions/manifest_tests/offline_default_platform_app.json
+END
+init_valid_options.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_valid_options.json
+END
+default_path_for_extent.json
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/63836/trunk/src/chrome/test/data/extensions/manifest_tests/default_path_for_extent.json
+END
+tts_engine_invalid_9.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/91665/trunk/src/chrome/test/data/extensions/manifest_tests/tts_engine_invalid_9.json
+END
+ports_in_content_scripts.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/114957/trunk/src/chrome/test/data/extensions/manifest_tests/ports_in_content_scripts.json
+END
+init_invalid_platform_app_3.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/141177/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_platform_app_3.json
+END
+override_history.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/43387/trunk/src/chrome/test/data/extensions/manifest_tests/override_history.json
+END
+intent_valid_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/121196/trunk/src/chrome/test/data/extensions/manifest_tests/intent_valid_2.json
+END
+permission_chrome_resources_url.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/45885/trunk/src/chrome/test/data/extensions/manifest_tests/permission_chrome_resources_url.json
+END
+launch_height.json
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/56934/trunk/src/chrome/test/data/extensions/manifest_tests/launch_height.json
+END
+filebrowser_invalid_action_id.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/81869/trunk/src/chrome/test/data/extensions/manifest_tests/filebrowser_invalid_action_id.json
+END
+update_url_valid_3.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/update_url_valid_3.json
+END
+web_accessible_resources_4.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/115401/trunk/src/chrome/test/data/extensions/manifest_tests/web_accessible_resources_4.json
+END
+init_invalid_files_css_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_files_css_invalid.json
+END
+init_invalid_files_empty.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_files_empty.json
+END
+sidebar.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/116901/trunk/src/chrome/test/data/extensions/manifest_tests/sidebar.json
+END
+web_urls_invalid_4.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/61198/trunk/src/chrome/test/data/extensions/manifest_tests/web_urls_invalid_4.json
+END
+init_invalid_script_match_item_invalid_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_script_match_item_invalid_2.json
+END
+sandboxed_pages_invalid_4.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/141123/trunk/src/chrome/test/data/extensions/manifest_tests/sandboxed_pages_invalid_4.json
+END
+filebrowser_valid_with_create.json
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/129112/trunk/src/chrome/test/data/extensions/manifest_tests/filebrowser_valid_with_create.json
+END
+command_too_many.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/138558/trunk/src/chrome/test/data/extensions/manifest_tests/command_too_many.json
+END
+intent_invalid_multi_href.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/125794/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_multi_href.json
+END
+background_allow_no_js_access.json
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/124684/trunk/src/chrome/test/data/extensions/manifest_tests/background_allow_no_js_access.json
+END
+intent_invalid_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/102409/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_1.json
+END
+background_permission.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/116289/trunk/src/chrome/test/data/extensions/manifest_tests/background_permission.json
+END
+homepage_google_hosted.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/63749/trunk/src/chrome/test/data/extensions/manifest_tests/homepage_google_hosted.json
+END
+init_invalid_permissions_item_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_permissions_item_invalid.json
+END
+sandboxed_pages_valid_4.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/143278/trunk/src/chrome/test/data/extensions/manifest_tests/sandboxed_pages_valid_4.json
+END
+tts_engine_invalid_6.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/91665/trunk/src/chrome/test/data/extensions/manifest_tests/tts_engine_invalid_6.json
+END
+launch_width_negative.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/56934/trunk/src/chrome/test/data/extensions/manifest_tests/launch_width_negative.json
+END
+init_invalid_locale_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_locale_invalid.json
+END
+web_urls_wrong_type.json
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/50837/trunk/src/chrome/test/data/extensions/manifest_tests/web_urls_wrong_type.json
+END
+filebrowser_invalid_file_filters_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/81869/trunk/src/chrome/test/data/extensions/manifest_tests/filebrowser_invalid_file_filters_2.json
+END
+homepage_externally_hosted.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/63749/trunk/src/chrome/test/data/extensions/manifest_tests/homepage_externally_hosted.json
+END
+filebrowser_url_override.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/93002/trunk/src/chrome/test/data/extensions/manifest_tests/filebrowser_url_override.json
+END
+not_platform_app.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/123434/trunk/src/chrome/test/data/extensions/manifest_tests/not_platform_app.json
+END
+web_accessible_resources_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/115401/trunk/src/chrome/test/data/extensions/manifest_tests/web_accessible_resources_1.json
+END
+offline_default_packaged_app.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/97024/trunk/src/chrome/test/data/extensions/manifest_tests/offline_default_packaged_app.json
+END
+launch_height_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/50523/trunk/src/chrome/test/data/extensions/manifest_tests/launch_height_invalid.json
+END
+packaged_app_absolute_options.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/58125/trunk/src/chrome/test/data/extensions/manifest_tests/packaged_app_absolute_options.json
+END
+web_urls_invalid_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/50837/trunk/src/chrome/test/data/extensions/manifest_tests/web_urls_invalid_1.json
+END
+init_invalid_files_js_item_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_files_js_item_invalid.json
+END
+init_invalid_options_url_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_options_url_invalid.json
+END
+command_reject_just_shift.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/138830/trunk/src/chrome/test/data/extensions/manifest_tests/command_reject_just_shift.json
+END
+init_ignored_icon_size.json
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/123391/trunk/src/chrome/test/data/extensions/manifest_tests/init_ignored_icon_size.json
+END
+sandboxed_pages_invalid_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/141123/trunk/src/chrome/test/data/extensions/manifest_tests/sandboxed_pages_invalid_1.json
+END
+init_invalid_min_chrome_invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_min_chrome_invalid.json
+END
+override_invalid_page.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/43387/trunk/src/chrome/test/data/extensions/manifest_tests/override_invalid_page.json
+END
+default_locale_valid.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/70062/trunk/src/chrome/test/data/extensions/manifest_tests/default_locale_valid.json
+END
+script_badge_only_use_icon16.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/143075/trunk/src/chrome/test/data/extensions/manifest_tests/script_badge_only_use_icon16.json
+END
+init_valid_icon_size.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/123391/trunk/src/chrome/test/data/extensions/manifest_tests/init_valid_icon_size.json
+END
+init_valid_app_requirements.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/104582/trunk/src/chrome/test/data/extensions/manifest_tests/init_valid_app_requirements.json
+END
+sandboxed_pages_valid_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/141123/trunk/src/chrome/test/data/extensions/manifest_tests/sandboxed_pages_valid_1.json
+END
+tts_engine_invalid_3.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/91665/trunk/src/chrome/test/data/extensions/manifest_tests/tts_engine_invalid_3.json
+END
+offline_disabled_packaged_app.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/97024/trunk/src/chrome/test/data/extensions/manifest_tests/offline_disabled_packaged_app.json
+END
+update_url_invalid_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/update_url_invalid_1.json
+END
+intent_invalid_6.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/126325/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_6.json
+END
+intent_invalid_hosted_app_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/121196/trunk/src/chrome/test/data/extensions/manifest_tests/intent_invalid_hosted_app_1.json
+END
+exclude_matches.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/87192/trunk/src/chrome/test/data/extensions/manifest_tests/exclude_matches.json
+END
+background_page_legacy.json
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/116289/trunk/src/chrome/test/data/extensions/manifest_tests/background_page_legacy.json
+END
+launch_tab.json
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/50314/trunk/src/chrome/test/data/extensions/manifest_tests/launch_tab.json
+END
+init_invalid_platform_app_5.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/141177/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_platform_app_5.json
+END
+offline_enabled_hosted_app.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/97024/trunk/src/chrome/test/data/extensions/manifest_tests/offline_enabled_hosted_app.json
+END
+init_invalid_locale_empty.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/manifest_tests/init_invalid_locale_empty.json
+END

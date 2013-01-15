@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/143423/trunk/src/cloud_print/service/win
+END
+chrome_launcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/143423/trunk/src/cloud_print/service/win/chrome_launcher.cc
+END
+chrome_launcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/143423/trunk/src/cloud_print/service/win/chrome_launcher.h
+END
+cloud_print_service.rc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/134298/trunk/src/cloud_print/service/win/cloud_print_service.rc
+END
+cloud_print_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/143423/trunk/src/cloud_print/service/win/cloud_print_service.cc
+END
+cloud_print_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/136598/trunk/src/cloud_print/service/win/cloud_print_service.h
+END
+cloud_print_service.rgs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/139381/trunk/src/cloud_print/service/win/cloud_print_service.rgs
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/134298/trunk/src/cloud_print/service/win/resource.h
+END

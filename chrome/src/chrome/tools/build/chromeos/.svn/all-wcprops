@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/133613/trunk/src/chrome/tools/build/chromeos
+END
+FILES.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/133613/trunk/src/chrome/tools/build/chromeos/FILES.cfg
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/40092/trunk/src/chrome/tools/build/chromeos/FILES
+END
+TESTS
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/90697/trunk/src/chrome/tools/build/chromeos/TESTS
+END
+SYMBOLS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/40092/trunk/src/chrome/tools/build/chromeos/SYMBOLS
+END

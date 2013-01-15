@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/139034/trunk/src/content/common/media
+END
+video_capture.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/111373/trunk/src/content/common/media/video_capture.h
+END
+audio_stream_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/89502/trunk/src/content/common/media/audio_stream_state.h
+END
+video_capture_messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/122828/trunk/src/content/common/media/video_capture_messages.h
+END
+media_stream_messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/139034/trunk/src/content/common/media/media_stream_messages.h
+END
+media_stream_options.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/123418/trunk/src/content/common/media/media_stream_options.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/89505/trunk/src/content/common/media/DEPS
+END
+audio_param_traits.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/130288/trunk/src/content/common/media/audio_param_traits.cc
+END
+media_stream_options.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/134539/trunk/src/content/common/media/media_stream_options.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/118776/trunk/src/content/common/media/OWNERS
+END
+audio_param_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/130288/trunk/src/content/common/media/audio_param_traits.h
+END
+audio_messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/130288/trunk/src/content/common/media/audio_messages.h
+END

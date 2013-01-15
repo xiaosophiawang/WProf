@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/142822/trunk/src/third_party/libxml
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/142822/trunk/src/third_party/libxml/README.chromium
+END
+libxml.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/137247/trunk/src/third_party/libxml/libxml.gyp
+END

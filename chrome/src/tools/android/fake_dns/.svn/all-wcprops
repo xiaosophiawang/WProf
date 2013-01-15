@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/122630/trunk/src/tools/android/fake_dns
+END
+fake_dns.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/122630/trunk/src/tools/android/fake_dns/fake_dns.gyp
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/122630/trunk/src/tools/android/fake_dns/DEPS
+END
+fake_dns.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/122630/trunk/src/tools/android/fake_dns/fake_dns.cc
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/142522/trunk/src/chrome/browser/resources/chromeos/echo
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/132700/trunk/src/chrome/browser/resources/chromeos/echo/OWNERS
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/142522/trunk/src/chrome/browser/resources/chromeos/echo/manifest.json
+END

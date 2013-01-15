@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/ui/gtk/extensions
+END
+extension_installed_bubble_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/145141/trunk/src/chrome/browser/ui/gtk/extensions/extension_installed_bubble_gtk.cc
+END
+extension_installed_bubble_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/138074/trunk/src/chrome/browser/ui/gtk/extensions/extension_installed_bubble_gtk.h
+END
+shell_window_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144960/trunk/src/chrome/browser/ui/gtk/extensions/shell_window_gtk.cc
+END
+extension_popup_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/143095/trunk/src/chrome/browser/ui/gtk/extensions/extension_popup_gtk.cc
+END
+shell_window_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142318/trunk/src/chrome/browser/ui/gtk/extensions/shell_window_gtk.h
+END
+extension_popup_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/143095/trunk/src/chrome/browser/ui/gtk/extensions/extension_popup_gtk.h
+END
+extension_view_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/138434/trunk/src/chrome/browser/ui/gtk/extensions/extension_view_gtk.cc
+END
+extension_keybinding_registry_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/144897/trunk/src/chrome/browser/ui/gtk/extensions/extension_keybinding_registry_gtk.cc
+END
+extension_view_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/127824/trunk/src/chrome/browser/ui/gtk/extensions/extension_view_gtk.h
+END
+extension_keybinding_registry_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/144897/trunk/src/chrome/browser/ui/gtk/extensions/extension_keybinding_registry_gtk.h
+END
+web_auth_flow_window_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/139305/trunk/src/chrome/browser/ui/gtk/extensions/web_auth_flow_window_gtk.cc
+END
+web_auth_flow_window_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/139305/trunk/src/chrome/browser/ui/gtk/extensions/web_auth_flow_window_gtk.h
+END
+extension_install_dialog_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/ui/gtk/extensions/extension_install_dialog_gtk.cc
+END
+bundle_installed_bubble_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/141071/trunk/src/chrome/browser/ui/gtk/extensions/bundle_installed_bubble_gtk.cc
+END
+extension_uninstall_dialog_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/143991/trunk/src/chrome/browser/ui/gtk/extensions/extension_uninstall_dialog_gtk.cc
+END
+bundle_installed_bubble_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/137893/trunk/src/chrome/browser/ui/gtk/extensions/bundle_installed_bubble_gtk.h
+END

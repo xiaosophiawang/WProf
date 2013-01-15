@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/79203/trunk/src/chrome/test/data/popup_blocker
+END
+popup-blocked-to-post-blank.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/59215/trunk/src/chrome/test/data/popup_blocker/popup-blocked-to-post-blank.html
+END
+popup-window-open.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/79203/trunk/src/chrome/test/data/popup_blocker/popup-window-open.html
+END

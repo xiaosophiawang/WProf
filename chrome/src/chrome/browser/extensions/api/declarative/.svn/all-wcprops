@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/144408/trunk/src/chrome/browser/extensions/api/declarative
+END
+initializing_rules_registry_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/extensions/api/declarative/initializing_rules_registry_unittest.cc
+END
+initializing_rules_registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/134370/trunk/src/chrome/browser/extensions/api/declarative/initializing_rules_registry.cc
+END
+initializing_rules_registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/134370/trunk/src/chrome/browser/extensions/api/declarative/initializing_rules_registry.h
+END
+rules_registry_with_cache_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/extensions/api/declarative/rules_registry_with_cache_unittest.cc
+END
+rules_registry_with_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/142842/trunk/src/chrome/browser/extensions/api/declarative/rules_registry_with_cache.cc
+END
+rules_registry_storage_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/144408/trunk/src/chrome/browser/extensions/api/declarative/rules_registry_storage_delegate.cc
+END
+rules_registry_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/extensions/api/declarative/rules_registry_service_unittest.cc
+END
+rules_registry_with_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/142842/trunk/src/chrome/browser/extensions/api/declarative/rules_registry_with_cache.h
+END
+rules_registry_storage_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/142842/trunk/src/chrome/browser/extensions/api/declarative/rules_registry_storage_delegate.h
+END
+rules_registry_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/142842/trunk/src/chrome/browser/extensions/api/declarative/rules_registry_service.cc
+END
+rules_registry_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/137940/trunk/src/chrome/browser/extensions/api/declarative/rules_registry_service.h
+END
+declarative_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/130867/trunk/src/chrome/browser/extensions/api/declarative/declarative_apitest.cc
+END
+declarative_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/137406/trunk/src/chrome/browser/extensions/api/declarative/declarative_api.cc
+END
+declarative_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/137406/trunk/src/chrome/browser/extensions/api/declarative/declarative_api.h
+END
+test_rules_registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/142842/trunk/src/chrome/browser/extensions/api/declarative/test_rules_registry.cc
+END
+rules_registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/124249/trunk/src/chrome/browser/extensions/api/declarative/rules_registry.cc
+END
+test_rules_registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/134370/trunk/src/chrome/browser/extensions/api/declarative/test_rules_registry.h
+END
+rules_registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/137406/trunk/src/chrome/browser/extensions/api/declarative/rules_registry.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/135670/trunk/src/chrome/browser/extensions/api/declarative/OWNERS
+END

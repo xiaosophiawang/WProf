@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/108699/trunk/src/chrome_frame/cfinstall
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/108675/trunk/src/chrome_frame/cfinstall/.gitignore
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/108675/trunk/src/chrome_frame/cfinstall/build.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/108675/trunk/src/chrome_frame/cfinstall/README
+END

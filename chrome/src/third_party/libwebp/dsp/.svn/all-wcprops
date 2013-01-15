@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/dsp
+END
+upsampling.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/dsp/upsampling.c
+END
+enc_sse2.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/dsp/enc_sse2.c
+END
+yuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/dsp/yuv.c
+END
+enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/dsp/enc.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/dsp/cpu.c
+END
+dec_sse2.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/dsp/dec_sse2.c
+END
+yuv.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/dsp/yuv.h
+END
+dec_neon.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/dsp/dec_neon.c
+END
+dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/dsp/dec.c
+END
+dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/dsp/dsp.h
+END
+upsampling_sse2.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/dsp/upsampling_sse2.c
+END

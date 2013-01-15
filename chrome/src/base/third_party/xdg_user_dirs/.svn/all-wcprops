@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/42016/trunk/src/base/third_party/xdg_user_dirs
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/42016/trunk/src/base/third_party/xdg_user_dirs/README.chromium
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/42016/trunk/src/base/third_party/xdg_user_dirs/LICENSE
+END
+xdg_user_dir_lookup.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/33565/trunk/src/base/third_party/xdg_user_dirs/xdg_user_dir_lookup.cc
+END
+xdg_user_dir_lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/33565/trunk/src/base/third_party/xdg_user_dirs/xdg_user_dir_lookup.h
+END

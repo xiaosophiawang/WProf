@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/81296/trunk/src/third_party/sqlite/src/ext/fts1
+END
+tokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/56619/trunk/src/third_party/sqlite/src/ext/fts1/tokenizer.h
+END
+fts1_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/56619/trunk/src/third_party/sqlite/src/ext/fts1/fts1_hash.c
+END
+ft_hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/56619/trunk/src/third_party/sqlite/src/ext/fts1/ft_hash.h
+END
+fts1.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/56619/trunk/src/third_party/sqlite/src/ext/fts1/fts1.h
+END
+simple_tokenizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/81296/trunk/src/third_party/sqlite/src/ext/fts1/simple_tokenizer.c
+END
+fts1_hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/56619/trunk/src/third_party/sqlite/src/ext/fts1/fts1_hash.h
+END
+fulltext.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/56619/trunk/src/third_party/sqlite/src/ext/fts1/fulltext.c
+END
+fts1_porter.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/56619/trunk/src/third_party/sqlite/src/ext/fts1/fts1_porter.c
+END
+fts1_tokenizer1.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/81296/trunk/src/third_party/sqlite/src/ext/fts1/fts1_tokenizer1.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/56619/trunk/src/third_party/sqlite/src/ext/fts1/README.txt
+END
+ft_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/56619/trunk/src/third_party/sqlite/src/ext/fts1/ft_hash.c
+END
+fts1_tokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/56619/trunk/src/third_party/sqlite/src/ext/fts1/fts1_tokenizer.h
+END
+fulltext.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/56619/trunk/src/third_party/sqlite/src/ext/fts1/fulltext.h
+END
+fts1.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/81296/trunk/src/third_party/sqlite/src/ext/fts1/fts1.c
+END

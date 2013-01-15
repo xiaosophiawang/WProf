@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/143763/trunk/src/chrome/browser/resources/shared/js/cr
+END
+promise_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/46759/trunk/src/chrome/browser/resources/shared/js/cr/promise_test.html
+END
+event_target.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/46027/trunk/src/chrome/browser/resources/shared/js/cr/event_target.js
+END
+link_controller_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/46027/trunk/src/chrome/browser/resources/shared/js/cr/link_controller_test.html
+END
+ui.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/139427/trunk/src/chrome/browser/resources/shared/js/cr/ui.js
+END
+event_target_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/46759/trunk/src/chrome/browser/resources/shared/js/cr/event_target_test.html
+END
+promise.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/129003/trunk/src/chrome/browser/resources/shared/js/cr/promise.js
+END
+link_controller.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/129003/trunk/src/chrome/browser/resources/shared/js/cr/link_controller.js
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/145248/trunk/src/chrome/browser/media_gallery
+END
+media_device_notifications_window_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/145017/trunk/src/chrome/browser/media_gallery/media_device_notifications_window_win.cc
+END
+media_device_notifications_window_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/145017/trunk/src/chrome/browser/media_gallery/media_device_notifications_window_win.h
+END
+media_device_notifications_linux_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/143392/trunk/src/chrome/browser/media_gallery/media_device_notifications_linux_unittest.cc
+END
+media_gallery_database_types.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/137172/trunk/src/chrome/browser/media_gallery/media_gallery_database_types.cc
+END
+media_device_notifications_utils_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/145017/trunk/src/chrome/browser/media_gallery/media_device_notifications_utils_unittest.cc
+END
+media_device_notifications_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/145017/trunk/src/chrome/browser/media_gallery/media_device_notifications_linux.cc
+END
+media_device_notifications_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/145017/trunk/src/chrome/browser/media_gallery/media_device_notifications_utils.cc
+END
+media_gallery_database_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/137172/trunk/src/chrome/browser/media_gallery/media_gallery_database_types.h
+END
+media_device_notifications_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/145017/trunk/src/chrome/browser/media_gallery/media_device_notifications_linux.h
+END
+media_device_notifications_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/145017/trunk/src/chrome/browser/media_gallery/media_device_notifications_utils.h
+END
+media_file_system_registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/143275/trunk/src/chrome/browser/media_gallery/media_file_system_registry.cc
+END
+media_file_system_registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/141953/trunk/src/chrome/browser/media_gallery/media_file_system_registry.h
+END
+media_gallery_registry_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/145248/trunk/src/chrome/browser/media_gallery/media_gallery_registry_factory.cc
+END
+media_gallery_registry_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/145248/trunk/src/chrome/browser/media_gallery/media_gallery_registry_factory.h
+END
+media_gallery_database_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/128219/trunk/src/chrome/browser/media_gallery/media_gallery_database_unittest.cc
+END
+media_gallery_database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/128219/trunk/src/chrome/browser/media_gallery/media_gallery_database.cc
+END
+media_gallery_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/128219/trunk/src/chrome/browser/media_gallery/media_gallery_database.h
+END
+media_gallery_registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/145248/trunk/src/chrome/browser/media_gallery/media_gallery_registry.cc
+END
+media_gallery_registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/145248/trunk/src/chrome/browser/media_gallery/media_gallery_registry.h
+END
+media_device_notifications_window_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/145017/trunk/src/chrome/browser/media_gallery/media_device_notifications_window_win_unittest.cc
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/80265/trunk/src/third_party/protobuf/src/google/protobuf/compiler/python
+END
+python_plugin_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/80265/trunk/src/third_party/protobuf/src/google/protobuf/compiler/python/python_plugin_unittest.cc
+END
+python_generator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/80265/trunk/src/third_party/protobuf/src/google/protobuf/compiler/python/python_generator.cc
+END
+python_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/80265/trunk/src/third_party/protobuf/src/google/protobuf/compiler/python/python_generator.h
+END

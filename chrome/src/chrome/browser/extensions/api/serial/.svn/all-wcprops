@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/140158/trunk/src/chrome/browser/extensions/api/serial
+END
+serial_connection_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/139463/trunk/src/chrome/browser/extensions/api/serial/serial_connection_win.cc
+END
+serial_connection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/140158/trunk/src/chrome/browser/extensions/api/serial/serial_connection.cc
+END
+serial_connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/140158/trunk/src/chrome/browser/extensions/api/serial/serial_connection.h
+END
+serial_connection_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/139463/trunk/src/chrome/browser/extensions/api/serial/serial_connection_posix.cc
+END
+serial_port_enumerator_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/139463/trunk/src/chrome/browser/extensions/api/serial/serial_port_enumerator_win.cc
+END
+serial_port_enumerator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/137780/trunk/src/chrome/browser/extensions/api/serial/serial_port_enumerator_unittest.cc
+END
+serial_port_enumerator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/137780/trunk/src/chrome/browser/extensions/api/serial/serial_port_enumerator.cc
+END
+serial_port_enumerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/137780/trunk/src/chrome/browser/extensions/api/serial/serial_port_enumerator.h
+END
+serial_port_enumerator_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/139463/trunk/src/chrome/browser/extensions/api/serial/serial_port_enumerator_posix.cc
+END
+serial_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/140158/trunk/src/chrome/browser/extensions/api/serial/serial_api.cc
+END
+serial_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/139463/trunk/src/chrome/browser/extensions/api/serial/serial_apitest.cc
+END
+serial_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/140158/trunk/src/chrome/browser/extensions/api/serial/serial_api.h
+END

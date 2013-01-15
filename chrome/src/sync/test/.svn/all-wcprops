@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/chrome/!svn/ver/145236/trunk/src/sync/test
+END
+fake_encryptor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/144820/trunk/src/sync/test/fake_encryptor.cc
+END
+fake_encryptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/144820/trunk/src/sync/test/fake_encryptor.h
+END
+null_directory_change_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/145211/trunk/src/sync/test/null_directory_change_delegate.cc
+END
+test_directory_backing_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/145211/trunk/src/sync/test/test_directory_backing_store.cc
+END
+null_directory_change_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/145211/trunk/src/sync/test/null_directory_change_delegate.h
+END
+test_directory_backing_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/145211/trunk/src/sync/test/test_directory_backing_store.h
+END
+null_transaction_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/145211/trunk/src/sync/test/null_transaction_observer.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/126872/trunk/src/sync/test/DEPS
+END
+fake_extensions_activity_monitor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/144820/trunk/src/sync/test/fake_extensions_activity_monitor.cc
+END
+null_transaction_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/145211/trunk/src/sync/test/null_transaction_observer.h
+END
+fake_extensions_activity_monitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/144820/trunk/src/sync/test/fake_extensions_activity_monitor.h
+END

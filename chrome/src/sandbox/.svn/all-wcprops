@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/chrome/!svn/ver/144861/trunk/src/sandbox
+END
+sandbox_standalone.sln
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/12270/trunk/src/sandbox/sandbox_standalone.sln
+END
+sandbox_win.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/143786/trunk/src/sandbox/sandbox_win.gypi
+END
+sandbox_linux.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/143728/trunk/src/sandbox/sandbox_linux.gypi
+END
+wow_helper.sln
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/7093/trunk/src/sandbox/wow_helper.sln
+END
+sandbox.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/143786/trunk/src/sandbox/sandbox.gyp
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/139811/trunk/src/sandbox/OWNERS
+END

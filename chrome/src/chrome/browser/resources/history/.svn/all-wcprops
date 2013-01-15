@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/145138/trunk/src/chrome/browser/resources/history
+END
+history.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/145138/trunk/src/chrome/browser/resources/history/history.html
+END
+history.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/145138/trunk/src/chrome/browser/resources/history/history.css
+END
+history.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/145138/trunk/src/chrome/browser/resources/history/history.js
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/124709/trunk/src/chrome/browser/resources/history/OWNERS
+END

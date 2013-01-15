@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/124238/trunk/src/ppapi/utility/websocket
+END
+websocket_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/124238/trunk/src/ppapi/utility/websocket/websocket_api.cc
+END
+websocket_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/124238/trunk/src/ppapi/utility/websocket/websocket_api.h
+END

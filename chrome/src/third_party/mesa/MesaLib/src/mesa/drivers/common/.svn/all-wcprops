@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/common
+END
+driverfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/common/driverfuncs.h
+END
+descrip.mms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/common/descrip.mms
+END
+meta.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/common/meta.c
+END
+driverfuncs.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/common/driverfuncs.c
+END
+meta.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/common/meta.h
+END

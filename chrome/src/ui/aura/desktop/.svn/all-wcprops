@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/144824/trunk/src/ui/aura/desktop
+END
+desktop_stacking_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/143770/trunk/src/ui/aura/desktop/desktop_stacking_client.h
+END
+desktop_dispatcher_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/144824/trunk/src/ui/aura/desktop/desktop_dispatcher_client.cc
+END
+desktop_dispatcher_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/129990/trunk/src/ui/aura/desktop/desktop_dispatcher_client.h
+END
+desktop_screen_x11.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/142631/trunk/src/ui/aura/desktop/desktop_screen_x11.cc
+END
+desktop_screen_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/142631/trunk/src/ui/aura/desktop/desktop_screen_win.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/141526/trunk/src/ui/aura/desktop/DEPS
+END
+desktop_screen_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/142631/trunk/src/ui/aura/desktop/desktop_screen_win.h
+END
+desktop_activation_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/143716/trunk/src/ui/aura/desktop/desktop_activation_client.cc
+END
+desktop_activation_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/143716/trunk/src/ui/aura/desktop/desktop_activation_client.h
+END
+desktop_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/134136/trunk/src/ui/aura/desktop/desktop_screen.h
+END
+desktop_stacking_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/143770/trunk/src/ui/aura/desktop/desktop_stacking_client.cc
+END

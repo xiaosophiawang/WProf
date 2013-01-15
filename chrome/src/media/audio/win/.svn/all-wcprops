@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/142488/trunk/src/media/audio/win
+END
+avrt_wrapper_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/106899/trunk/src/media/audio/win/avrt_wrapper_win.h
+END
+audio_low_latency_input_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/131711/trunk/src/media/audio/win/audio_low_latency_input_win_unittest.cc
+END
+audio_output_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/142488/trunk/src/media/audio/win/audio_output_win_unittest.cc
+END
+audio_low_latency_output_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/142425/trunk/src/media/audio/win/audio_low_latency_output_win_unittest.cc
+END
+audio_low_latency_input_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/130288/trunk/src/media/audio/win/audio_low_latency_input_win.cc
+END
+audio_low_latency_output_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/142425/trunk/src/media/audio/win/audio_low_latency_output_win.cc
+END
+audio_low_latency_input_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/130288/trunk/src/media/audio/win/audio_low_latency_input_win.h
+END
+audio_low_latency_output_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/130288/trunk/src/media/audio/win/audio_low_latency_output_win.h
+END
+audio_manager_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/142488/trunk/src/media/audio/win/audio_manager_win.cc
+END
+audio_manager_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/130288/trunk/src/media/audio/win/audio_manager_win.h
+END
+device_enumeration_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/129657/trunk/src/media/audio/win/device_enumeration_win.cc
+END
+device_enumeration_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/126779/trunk/src/media/audio/win/device_enumeration_win.h
+END
+wavein_input_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/130288/trunk/src/media/audio/win/wavein_input_win.cc
+END
+waveout_output_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/142024/trunk/src/media/audio/win/waveout_output_win.cc
+END
+wavein_input_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/130288/trunk/src/media/audio/win/wavein_input_win.h
+END
+avrt_wrapper_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/106899/trunk/src/media/audio/win/avrt_wrapper_win.cc
+END
+waveout_output_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/142024/trunk/src/media/audio/win/waveout_output_win.h
+END

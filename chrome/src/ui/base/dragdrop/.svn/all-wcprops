@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/144932/trunk/src/ui/base/dragdrop
+END
+os_exchange_data_provider_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/106346/trunk/src/ui/base/dragdrop/os_exchange_data_provider_gtk.cc
+END
+drag_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/141002/trunk/src/ui/base/dragdrop/drag_utils.cc
+END
+drag_source.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/71828/trunk/src/ui/base/dragdrop/drag_source.cc
+END
+os_exchange_data_provider_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/136000/trunk/src/ui/base/dragdrop/os_exchange_data_provider_gtk.h
+END
+os_exchange_data_provider_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/136000/trunk/src/ui/base/dragdrop/os_exchange_data_provider_aura.cc
+END
+drag_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/139734/trunk/src/ui/base/dragdrop/drag_utils.h
+END
+drag_source.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/95730/trunk/src/ui/base/dragdrop/drag_source.h
+END
+os_exchange_data_provider_aura.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/139734/trunk/src/ui/base/dragdrop/os_exchange_data_provider_aura.h
+END
+drag_utils_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/139734/trunk/src/ui/base/dragdrop/drag_utils_gtk.cc
+END
+drag_drop_types_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/71828/trunk/src/ui/base/dragdrop/drag_drop_types_win.cc
+END
+os_exchange_data_provider_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/144517/trunk/src/ui/base/dragdrop/os_exchange_data_provider_win.cc
+END
+drag_utils_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/139734/trunk/src/ui/base/dragdrop/drag_utils_aura.cc
+END
+os_exchange_data_provider_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144517/trunk/src/ui/base/dragdrop/os_exchange_data_provider_win.h
+END
+gtk_dnd_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/79524/trunk/src/ui/base/dragdrop/gtk_dnd_util_unittest.cc
+END
+gtk_dnd_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/125447/trunk/src/ui/base/dragdrop/gtk_dnd_util.cc
+END
+cocoa_dnd_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/141297/trunk/src/ui/base/dragdrop/cocoa_dnd_util.h
+END
+gtk_dnd_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/114947/trunk/src/ui/base/dragdrop/gtk_dnd_util.h
+END
+drop_target.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/77888/trunk/src/ui/base/dragdrop/drop_target.cc
+END
+drag_utils_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/139734/trunk/src/ui/base/dragdrop/drag_utils_win.cc
+END
+drop_target.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/95730/trunk/src/ui/base/dragdrop/drop_target.h
+END
+os_exchange_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/136000/trunk/src/ui/base/dragdrop/os_exchange_data.cc
+END
+os_exchange_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/136000/trunk/src/ui/base/dragdrop/os_exchange_data.h
+END
+drag_drop_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/95730/trunk/src/ui/base/dragdrop/drag_drop_types.h
+END
+download_file_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/100975/trunk/src/ui/base/dragdrop/download_file_interface.h
+END
+os_exchange_data_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/144932/trunk/src/ui/base/dragdrop/os_exchange_data_win_unittest.cc
+END
+drag_drop_types_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/71828/trunk/src/ui/base/dragdrop/drag_drop_types_gtk.cc
+END
+cocoa_dnd_util.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/141297/trunk/src/ui/base/dragdrop/cocoa_dnd_util.mm
+END

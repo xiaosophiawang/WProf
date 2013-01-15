@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/143079/trunk/src/chrome/test/nacl_test_injection
+END
+buildbot_nacl_integration.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/143079/trunk/src/chrome/test/nacl_test_injection/buildbot_nacl_integration.py
+END

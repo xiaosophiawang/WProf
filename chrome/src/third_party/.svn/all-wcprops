@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/145319/trunk/src/third_party
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/8988/trunk/src/third_party/README.chromium
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/83543/trunk/src/third_party/PRESUBMIT.py
+END
+README.chromium.template
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/80051/trunk/src/third_party/README.chromium.template
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/1011/trunk/src/third_party/DEPS
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/126218/trunk/src/third_party/OWNERS
+END

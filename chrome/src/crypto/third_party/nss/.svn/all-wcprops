@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/140470/trunk/src/crypto/third_party/nss
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/81611/trunk/src/crypto/third_party/nss/README.chromium
+END
+chromium-sha256.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/110009/trunk/src/crypto/third_party/nss/chromium-sha256.h
+END
+secsign.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/140470/trunk/src/crypto/third_party/nss/secsign.cc
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/81611/trunk/src/crypto/third_party/nss/LICENSE
+END
+chromium-blapit.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/110009/trunk/src/crypto/third_party/nss/chromium-blapit.h
+END
+sha512.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/110009/trunk/src/crypto/third_party/nss/sha512.cc
+END
+chromium-nss.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/112780/trunk/src/crypto/third_party/nss/chromium-nss.h
+END
+pk11akey.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/109188/trunk/src/crypto/third_party/nss/pk11akey.cc
+END
+chromium-blapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/110009/trunk/src/crypto/third_party/nss/chromium-blapi.h
+END

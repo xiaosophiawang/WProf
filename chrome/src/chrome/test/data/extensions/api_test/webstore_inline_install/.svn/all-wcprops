@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/127930/trunk/src/chrome/test/data/extensions/api_test/webstore_inline_install
+END
+argument_validation.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/chrome/!svn/ver/127930/trunk/src/chrome/test/data/extensions/api_test/webstore_inline_install/argument_validation.html
+END
+find_link.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/100301/trunk/src/chrome/test/data/extensions/api_test/webstore_inline_install/find_link.html
+END
+install_unpack_failure.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/chrome/!svn/ver/106384/trunk/src/chrome/test/data/extensions/api_test/webstore_inline_install/install_unpack_failure.html
+END
+extension.crx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/98647/trunk/src/chrome/test/data/extensions/api_test/webstore_inline_install/extension.crx
+END
+install_non_verified_domain.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/chrome/!svn/ver/106384/trunk/src/chrome/test/data/extensions/api_test/webstore_inline_install/install_non_verified_domain.html
+END
+install.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/121606/trunk/src/chrome/test/data/extensions/api_test/webstore_inline_install/install.html
+END
+extension.pem
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/98647/trunk/src/chrome/test/data/extensions/api_test/webstore_inline_install/extension.pem
+END
+malformed_extension.crx
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/chrome/!svn/ver/106241/trunk/src/chrome/test/data/extensions/api_test/webstore_inline_install/malformed_extension.crx
+END
+install_not_supported.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/chrome/!svn/ver/106384/trunk/src/chrome/test/data/extensions/api_test/webstore_inline_install/install_not_supported.html
+END

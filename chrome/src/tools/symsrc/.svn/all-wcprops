@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/111960/trunk/src/tools/symsrc
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/20023/trunk/src/tools/symsrc/README.chromium
+END
+pdb_fingerprint_from_img.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/111960/trunk/src/tools/symsrc/pdb_fingerprint_from_img.py
+END
+COPYING-pefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/20022/trunk/src/tools/symsrc/COPYING-pefile
+END
+img_fingerprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/111960/trunk/src/tools/symsrc/img_fingerprint.py
+END
+pefile.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/20022/trunk/src/tools/symsrc/pefile.py
+END
+source_index.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/111960/trunk/src/tools/symsrc/source_index.py
+END

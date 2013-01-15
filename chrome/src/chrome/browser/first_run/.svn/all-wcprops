@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/145105/trunk/src/chrome/browser/first_run
+END
+first_run_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/119189/trunk/src/chrome/browser/first_run/first_run_dialog.h
+END
+first_run_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/134009/trunk/src/chrome/browser/first_run/first_run_posix.cc
+END
+upgrade_util_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/142801/trunk/src/chrome/browser/first_run/upgrade_util_win.cc
+END
+upgrade_util_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/92701/trunk/src/chrome/browser/first_run/upgrade_util_linux.cc
+END
+upgrade_util_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/81691/trunk/src/chrome/browser/first_run/upgrade_util_win.h
+END
+upgrade_util_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/90371/trunk/src/chrome/browser/first_run/upgrade_util_mac.cc
+END
+upgrade_util_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/81659/trunk/src/chrome/browser/first_run/upgrade_util_linux.h
+END
+first_run_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/134009/trunk/src/chrome/browser/first_run/first_run_internal.h
+END
+first_run_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/115925/trunk/src/chrome/browser/first_run/first_run_unittest.cc
+END
+first_run.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/first_run/first_run.cc
+END
+first_run_import_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/107061/trunk/src/chrome/browser/first_run/first_run_import_observer.cc
+END
+first_run.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/130848/trunk/src/chrome/browser/first_run/first_run.h
+END
+first_run_import_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/122023/trunk/src/chrome/browser/first_run/first_run_import_observer.h
+END
+first_run_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/117521/trunk/src/chrome/browser/first_run/first_run_browsertest.cc
+END
+first_run_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/119189/trunk/src/chrome/browser/first_run/first_run_mac.mm
+END
+upgrade_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/81431/trunk/src/chrome/browser/first_run/upgrade_util.cc
+END
+try_chrome_dialog_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/138072/trunk/src/chrome/browser/first_run/try_chrome_dialog_view.cc
+END
+try_chrome_dialog_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/119655/trunk/src/chrome/browser/first_run/try_chrome_dialog_view.h
+END
+upgrade_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/90371/trunk/src/chrome/browser/first_run/upgrade_util.h
+END
+try_chrome_dialog_view_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/136024/trunk/src/chrome/browser/first_run/try_chrome_dialog_view_browsertest.cc
+END
+first_run_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/145105/trunk/src/chrome/browser/first_run/first_run_win.cc
+END
+first_run_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/127230/trunk/src/chrome/browser/first_run/first_run_linux.cc
+END

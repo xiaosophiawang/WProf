@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/139940/trunk/src/ppapi/cpp/trusted
+END
+file_chooser_trusted.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/139434/trunk/src/ppapi/cpp/trusted/file_chooser_trusted.cc
+END
+file_chooser_trusted.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/139434/trunk/src/ppapi/cpp/trusted/file_chooser_trusted.h
+END
+file_io_trusted.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/114720/trunk/src/ppapi/cpp/trusted/file_io_trusted.cc
+END
+file_io_trusted.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/114720/trunk/src/ppapi/cpp/trusted/file_io_trusted.h
+END
+browser_font_trusted.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/139940/trunk/src/ppapi/cpp/trusted/browser_font_trusted.cc
+END
+browser_font_trusted.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/122564/trunk/src/ppapi/cpp/trusted/browser_font_trusted.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/112512/trunk/src/ppapi/cpp/trusted/DEPS
+END

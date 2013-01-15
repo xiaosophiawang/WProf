@@ -1,0 +1,1169 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145398/trunk/src/chrome/browser/chromeos/login
+END
+mock_owner_key_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/85444/trunk/src/chrome/browser/chromeos/login/mock_owner_key_utils.cc
+END
+login_utils_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/143526/trunk/src/chrome/browser/chromeos/login/login_utils_browsertest.cc
+END
+ownership_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/chromeos/login/ownership_service_unittest.cc
+END
+mock_owner_key_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/111969/trunk/src/chrome/browser/chromeos/login/mock_owner_key_utils.h
+END
+ownership_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/135119/trunk/src/chrome/browser/chromeos/login/ownership_service.cc
+END
+existing_user_controller_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/139799/trunk/src/chrome/browser/chromeos/login/existing_user_controller_browsertest.cc
+END
+rounded_rect_painter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/132810/trunk/src/chrome/browser/chromeos/login/rounded_rect_painter.cc
+END
+simple_web_view_dialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/144330/trunk/src/chrome/browser/chromeos/login/simple_web_view_dialog.cc
+END
+webui_login_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144899/trunk/src/chrome/browser/chromeos/login/webui_login_view.h
+END
+mock_login_status_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/123659/trunk/src/chrome/browser/chromeos/login/mock_login_status_consumer.h
+END
+wizard_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/wizard_screen.h
+END
+oauth1_token_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/141645/trunk/src/chrome/browser/chromeos/login/oauth1_token_fetcher.h
+END
+mock_network_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/87777/trunk/src/chrome/browser/chromeos/login/mock_network_screen.h
+END
+captive_portal_window_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/129395/trunk/src/chrome/browser/chromeos/login/captive_portal_window_proxy.h
+END
+web_page_screen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/121673/trunk/src/chrome/browser/chromeos/login/web_page_screen.cc
+END
+default_user_images.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/139802/trunk/src/chrome/browser/chromeos/login/default_user_images.h
+END
+webui_screen_locker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/142631/trunk/src/chrome/browser/chromeos/login/webui_screen_locker.cc
+END
+user_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/145398/trunk/src/chrome/browser/chromeos/login/user_manager.h
+END
+language_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/94282/trunk/src/chrome/browser/chromeos/login/language_list.h
+END
+user.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/145398/trunk/src/chrome/browser/chromeos/login/user.h
+END
+proxy_settings_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/139757/trunk/src/chrome/browser/chromeos/login/proxy_settings_dialog.h
+END
+user_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/144169/trunk/src/chrome/browser/chromeos/login/user_image.h
+END
+mock_user_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/145398/trunk/src/chrome/browser/chromeos/login/mock_user_manager.h
+END
+camera_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/105936/trunk/src/chrome/browser/chromeos/login/camera_detector.h
+END
+webui_login_display_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/144896/trunk/src/chrome/browser/chromeos/login/webui_login_display_host.cc
+END
+wizard_in_process_browser_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/136811/trunk/src/chrome/browser/chromeos/login/wizard_in_process_browser_test.cc
+END
+lock_window_aura.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/133069/trunk/src/chrome/browser/chromeos/login/lock_window_aura.h
+END
+network_screen_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/141511/trunk/src/chrome/browser/chromeos/login/network_screen_browsertest.cc
+END
+mock_auth_attempt_state_resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/85439/trunk/src/chrome/browser/chromeos/login/mock_auth_attempt_state_resolver.h
+END
+signed_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/login/signed_settings.h
+END
+user_manager_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/145398/trunk/src/chrome/browser/chromeos/login/user_manager_impl.h
+END
+mock_screen_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/85447/trunk/src/chrome/browser/chromeos/login/mock_screen_observer.cc
+END
+auth_attempt_state.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/126760/trunk/src/chrome/browser/chromeos/login/auth_attempt_state.cc
+END
+login_display.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/130932/trunk/src/chrome/browser/chromeos/login/login_display.h
+END
+captive_portal_window_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/130749/trunk/src/chrome/browser/chromeos/login/captive_portal_window_proxy.cc
+END
+password_changed_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/143211/trunk/src/chrome/browser/chromeos/login/password_changed_view.cc
+END
+user_image_screen_actor.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/139802/trunk/src/chrome/browser/chromeos/login/user_image_screen_actor.h
+END
+help_app_launcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/login/help_app_launcher.h
+END
+wizard_controller_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/wizard_controller_observer.h
+END
+eula_screen_actor.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/90741/trunk/src/chrome/browser/chromeos/login/eula_screen_actor.h
+END
+lock_window.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/112709/trunk/src/chrome/browser/chromeos/login/lock_window.cc
+END
+screen_locker.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/144736/trunk/src/chrome/browser/chromeos/login/screen_locker.h
+END
+online_attempt_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/126760/trunk/src/chrome/browser/chromeos/login/online_attempt_host.h
+END
+update_screen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/update_screen.cc
+END
+wallpaper_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/145398/trunk/src/chrome/browser/chromeos/login/wallpaper_manager.cc
+END
+online_attempt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/144233/trunk/src/chrome/browser/chromeos/login/online_attempt.cc
+END
+auth_attempt_state_resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/60190/trunk/src/chrome/browser/chromeos/login/auth_attempt_state_resolver.h
+END
+login_status_consumer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/123659/trunk/src/chrome/browser/chromeos/login/login_status_consumer.cc
+END
+signed_settings_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/chromeos/login/signed_settings_helper_unittest.cc
+END
+login_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/145105/trunk/src/chrome/browser/chromeos/login/login_utils.cc
+END
+screen_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/screen_observer.h
+END
+signed_settings_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/143526/trunk/src/chrome/browser/chromeos/login/signed_settings_unittest.cc
+END
+login_performer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/143899/trunk/src/chrome/browser/chromeos/login/login_performer.cc
+END
+webui_login_display.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/141494/trunk/src/chrome/browser/chromeos/login/webui_login_display.h
+END
+webui_login_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/144899/trunk/src/chrome/browser/chromeos/login/webui_login_view.cc
+END
+policy_oauth_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144233/trunk/src/chrome/browser/chromeos/login/policy_oauth_fetcher.cc
+END
+message_bubble.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/139802/trunk/src/chrome/browser/chromeos/login/message_bubble.cc
+END
+mock_url_fetchers.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/143085/trunk/src/chrome/browser/chromeos/login/mock_url_fetchers.h
+END
+mock_eula_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/mock_eula_screen.h
+END
+mock_login_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/125165/trunk/src/chrome/browser/chromeos/login/mock_login_utils.cc
+END
+web_page_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/133615/trunk/src/chrome/browser/chromeos/login/web_page_view.cc
+END
+wizard_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/144176/trunk/src/chrome/browser/chromeos/login/wizard_controller.cc
+END
+wizard_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/wizard_controller.h
+END
+web_page_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/133615/trunk/src/chrome/browser/chromeos/login/web_page_view.h
+END
+captive_portal_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/136583/trunk/src/chrome/browser/chromeos/login/captive_portal_view.h
+END
+registration_screen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/registration_screen.cc
+END
+mock_ownership_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/112713/trunk/src/chrome/browser/chromeos/login/mock_ownership_service.h
+END
+update_screen_actor.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/137131/trunk/src/chrome/browser/chromeos/login/update_screen_actor.h
+END
+webui_screen_locker.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/131801/trunk/src/chrome/browser/chromeos/login/webui_screen_locker.h
+END
+user_image_screen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/141716/trunk/src/chrome/browser/chromeos/login/user_image_screen.cc
+END
+owner_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/chromeos/login/owner_manager_unittest.cc
+END
+online_attempt.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/126760/trunk/src/chrome/browser/chromeos/login/online_attempt.h
+END
+parallel_authenticator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/143526/trunk/src/chrome/browser/chromeos/login/parallel_authenticator_unittest.cc
+END
+owner_manager_unittest.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/111969/trunk/src/chrome/browser/chromeos/login/owner_manager_unittest.h
+END
+parallel_authenticator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/login/parallel_authenticator.cc
+END
+eula_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/eula_screen.h
+END
+network_screen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/network_screen.cc
+END
+camera.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/131977/trunk/src/chrome/browser/chromeos/login/camera.cc
+END
+language_switch_menu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/138950/trunk/src/chrome/browser/chromeos/login/language_switch_menu.cc
+END
+login_wizard.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/136811/trunk/src/chrome/browser/chromeos/login/login_wizard.h
+END
+signed_settings_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/116104/trunk/src/chrome/browser/chromeos/login/signed_settings_helper.h
+END
+login_display.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/108077/trunk/src/chrome/browser/chromeos/login/login_display.cc
+END
+user_input.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/73890/trunk/src/chrome/browser/chromeos/login/user_input.h
+END
+mock_signed_settings_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/93383/trunk/src/chrome/browser/chromeos/login/mock_signed_settings_helper.cc
+END
+html_page_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/html_page_screen.h
+END
+screen_locker_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/106064/trunk/src/chrome/browser/chromeos/login/screen_locker_delegate.cc
+END
+authenticator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/login/authenticator.cc
+END
+web_page_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/121673/trunk/src/chrome/browser/chromeos/login/web_page_screen.h
+END
+view_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/136766/trunk/src/chrome/browser/chromeos/login/view_screen.h
+END
+language_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/94282/trunk/src/chrome/browser/chromeos/login/language_list.cc
+END
+user.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144713/trunk/src/chrome/browser/chromeos/login/user.cc
+END
+textfield_with_margin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/91090/trunk/src/chrome/browser/chromeos/login/textfield_with_margin.cc
+END
+helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/143971/trunk/src/chrome/browser/chromeos/login/helper.h
+END
+owner_key_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/138238/trunk/src/chrome/browser/chromeos/login/owner_key_utils.cc
+END
+update_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/update_screen.h
+END
+wallpaper_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/145398/trunk/src/chrome/browser/chromeos/login/wallpaper_manager.h
+END
+update_screen_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/135194/trunk/src/chrome/browser/chromeos/login/update_screen_browsertest.cc
+END
+owner_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/login/owner_manager.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144931/trunk/src/chrome/browser/chromeos/login/OWNERS
+END
+take_photo_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/143971/trunk/src/chrome/browser/chromeos/login/take_photo_view.h
+END
+mock_update_screen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/98801/trunk/src/chrome/browser/chromeos/login/mock_update_screen.cc
+END
+login_performer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/143211/trunk/src/chrome/browser/chromeos/login/login_performer.h
+END
+authentication_notification_details.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/53716/trunk/src/chrome/browser/chromeos/login/authentication_notification_details.h
+END
+mock_login_status_consumer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/123659/trunk/src/chrome/browser/chromeos/login/mock_login_status_consumer.cc
+END
+wizard_screen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/87020/trunk/src/chrome/browser/chromeos/login/wizard_screen.cc
+END
+rounded_rect_painter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/58348/trunk/src/chrome/browser/chromeos/login/rounded_rect_painter.h
+END
+simple_web_view_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/141137/trunk/src/chrome/browser/chromeos/login/simple_web_view_dialog.h
+END
+mock_login_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/125165/trunk/src/chrome/browser/chromeos/login/mock_login_utils.h
+END
+wizard_controller_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/wizard_controller_browsertest.cc
+END
+default_user_images.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/139802/trunk/src/chrome/browser/chromeos/login/default_user_images.cc
+END
+user_image_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/143971/trunk/src/chrome/browser/chromeos/login/user_image_loader.h
+END
+registration_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/registration_screen.h
+END
+login_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143526/trunk/src/chrome/browser/chromeos/login/login_browsertest.cc
+END
+signed_settings_cache_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/112713/trunk/src/chrome/browser/chromeos/login/signed_settings_cache_unittest.cc
+END
+authenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/login/authenticator.h
+END
+screen_locker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/144736/trunk/src/chrome/browser/chromeos/login/screen_locker.cc
+END
+owner_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/login/owner_manager.cc
+END
+owner_key_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/105384/trunk/src/chrome/browser/chromeos/login/owner_key_utils.h
+END
+eula_screen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/eula_screen.cc
+END
+base_login_display_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/144985/trunk/src/chrome/browser/chromeos/login/base_login_display_host.h
+END
+session_manager_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/131065/trunk/src/chrome/browser/chromeos/login/session_manager_observer.h
+END
+version_info_updater.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/128957/trunk/src/chrome/browser/chromeos/login/version_info_updater.h
+END
+lock_window_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/141384/trunk/src/chrome/browser/chromeos/login/lock_window_aura.cc
+END
+login_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/136366/trunk/src/chrome/browser/chromeos/login/login_utils.h
+END
+mock_update_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/137131/trunk/src/chrome/browser/chromeos/login/mock_update_screen.h
+END
+mock_url_fetchers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143085/trunk/src/chrome/browser/chromeos/login/mock_url_fetchers.cc
+END
+mock_eula_screen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/90741/trunk/src/chrome/browser/chromeos/login/mock_eula_screen.cc
+END
+ownership_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/137268/trunk/src/chrome/browser/chromeos/login/ownership_service.h
+END
+mock_screen_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/132469/trunk/src/chrome/browser/chromeos/login/mock_screen_observer.h
+END
+auth_attempt_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/136356/trunk/src/chrome/browser/chromeos/login/auth_attempt_state.h
+END
+mock_signed_settings_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/116104/trunk/src/chrome/browser/chromeos/login/mock_signed_settings_helper.h
+END
+captive_portal_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/136562/trunk/src/chrome/browser/chromeos/login/captive_portal_view.cc
+END
+user_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/143921/trunk/src/chrome/browser/chromeos/login/user_manager.cc
+END
+signed_settings_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/116104/trunk/src/chrome/browser/chromeos/login/signed_settings_cache.h
+END
+online_attempt_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/143899/trunk/src/chrome/browser/chromeos/login/online_attempt_host.cc
+END
+test_attempt_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/123714/trunk/src/chrome/browser/chromeos/login/test_attempt_state.h
+END
+proxy_settings_dialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/135848/trunk/src/chrome/browser/chromeos/login/proxy_settings_dialog.cc
+END
+user_image.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/141897/trunk/src/chrome/browser/chromeos/login/user_image.cc
+END
+online_attempt_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/143526/trunk/src/chrome/browser/chromeos/login/online_attempt_unittest.cc
+END
+lock_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/133069/trunk/src/chrome/browser/chromeos/login/lock_window.h
+END
+tpm_password_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/131977/trunk/src/chrome/browser/chromeos/login/tpm_password_fetcher.cc
+END
+mock_authenticator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/125165/trunk/src/chrome/browser/chromeos/login/mock_authenticator.cc
+END
+base_login_display_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/144985/trunk/src/chrome/browser/chromeos/login/base_login_display_host.cc
+END
+session_manager_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/131065/trunk/src/chrome/browser/chromeos/login/session_manager_observer.cc
+END
+version_info_updater.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/143551/trunk/src/chrome/browser/chromeos/login/version_info_updater.cc
+END
+mock_authenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/login/mock_authenticator.h
+END
+wizard_in_process_browser_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/135194/trunk/src/chrome/browser/chromeos/login/wizard_in_process_browser_test.h
+END
+network_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/network_screen.h
+END
+camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/131977/trunk/src/chrome/browser/chromeos/login/camera.h
+END
+language_switch_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/126967/trunk/src/chrome/browser/chromeos/login/language_switch_menu.h
+END
+existing_user_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/143211/trunk/src/chrome/browser/chromeos/login/existing_user_controller.cc
+END
+camera_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/105936/trunk/src/chrome/browser/chromeos/login/camera_controller.cc
+END
+existing_user_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/143929/trunk/src/chrome/browser/chromeos/login/existing_user_controller.h
+END
+camera_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/111216/trunk/src/chrome/browser/chromeos/login/camera_controller.h
+END
+policy_oauth_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/141645/trunk/src/chrome/browser/chromeos/login/policy_oauth_fetcher.h
+END
+oauth1_token_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144233/trunk/src/chrome/browser/chromeos/login/oauth1_token_fetcher.cc
+END
+mock_network_screen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/87777/trunk/src/chrome/browser/chromeos/login/mock_network_screen.cc
+END
+message_bubble.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/139802/trunk/src/chrome/browser/chromeos/login/message_bubble.h
+END
+screen_locker_tester.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/115975/trunk/src/chrome/browser/chromeos/login/screen_locker_tester.h
+END
+mock_ownership_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/85449/trunk/src/chrome/browser/chromeos/login/mock_ownership_service.cc
+END
+screen_locker_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/120973/trunk/src/chrome/browser/chromeos/login/screen_locker_delegate.h
+END
+oobe_display.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/110052/trunk/src/chrome/browser/chromeos/login/oobe_display.h
+END
+signed_settings_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/135119/trunk/src/chrome/browser/chromeos/login/signed_settings_cache.cc
+END
+auth_attempt_state_resolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/60190/trunk/src/chrome/browser/chromeos/login/auth_attempt_state_resolver.cc
+END
+mock_user_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/140343/trunk/src/chrome/browser/chromeos/login/mock_user_manager.cc
+END
+camera_detector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/134149/trunk/src/chrome/browser/chromeos/login/camera_detector.cc
+END
+user_image_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/user_image_screen.h
+END
+network_screen_actor.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/93013/trunk/src/chrome/browser/chromeos/login/network_screen_actor.h
+END
+textfield_with_margin.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/111660/trunk/src/chrome/browser/chromeos/login/textfield_with_margin.h
+END
+tpm_password_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/116748/trunk/src/chrome/browser/chromeos/login/tpm_password_fetcher.h
+END
+login_web_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/139757/trunk/src/chrome/browser/chromeos/login/login_web_dialog.h
+END
+remove_user_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/113207/trunk/src/chrome/browser/chromeos/login/remove_user_delegate.h
+END
+webui_login_display_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/144153/trunk/src/chrome/browser/chromeos/login/webui_login_display_host.h
+END
+login_status_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/139283/trunk/src/chrome/browser/chromeos/login/login_status_consumer.h
+END
+webui_login_display.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144158/trunk/src/chrome/browser/chromeos/login/webui_login_display.cc
+END
+mock_auth_attempt_state_resolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/85438/trunk/src/chrome/browser/chromeos/login/mock_auth_attempt_state_resolver.cc
+END
+signed_settings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/login/signed_settings.cc
+END
+user_manager_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/145398/trunk/src/chrome/browser/chromeos/login/user_manager_impl.cc
+END
+login_display_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/131801/trunk/src/chrome/browser/chromeos/login/login_display_host.h
+END
+html_page_screen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/140279/trunk/src/chrome/browser/chromeos/login/html_page_screen.cc
+END
+oauth_login_verifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144233/trunk/src/chrome/browser/chromeos/login/oauth_login_verifier.cc
+END
+screen_locker_tester.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/145293/trunk/src/chrome/browser/chromeos/login/screen_locker_tester.cc
+END
+oauth_login_verifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/141645/trunk/src/chrome/browser/chromeos/login/oauth_login_verifier.h
+END
+user_image_loader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143971/trunk/src/chrome/browser/chromeos/login/user_image_loader.cc
+END
+password_changed_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/143211/trunk/src/chrome/browser/chromeos/login/password_changed_view.h
+END
+user_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/142952/trunk/src/chrome/browser/chromeos/login/user_manager_unittest.cc
+END
+help_app_launcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/login/help_app_launcher.cc
+END
+test_attempt_state.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/123714/trunk/src/chrome/browser/chromeos/login/test_attempt_state.cc
+END
+helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/143971/trunk/src/chrome/browser/chromeos/login/helper.cc
+END
+owner_key_utils_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/138238/trunk/src/chrome/browser/chromeos/login/owner_key_utils_unittest.cc
+END
+login_web_dialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/141839/trunk/src/chrome/browser/chromeos/login/login_web_dialog.cc
+END
+take_photo_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/143971/trunk/src/chrome/browser/chromeos/login/take_photo_view.cc
+END
+parallel_authenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/chromeos/login/parallel_authenticator.h
+END
+signed_settings_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/116104/trunk/src/chrome/browser/chromeos/login/signed_settings_helper.cc
+END

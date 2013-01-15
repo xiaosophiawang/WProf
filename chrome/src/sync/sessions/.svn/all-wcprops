@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/chrome/!svn/ver/145236/trunk/src/sync/sessions
+END
+ordered_commit_set_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/145211/trunk/src/sync/sessions/ordered_commit_set_unittest.cc
+END
+ordered_commit_set.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/144820/trunk/src/sync/sessions/ordered_commit_set.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/145236/trunk/src/sync/sessions/DEPS
+END
+ordered_commit_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/145236/trunk/src/sync/sessions/ordered_commit_set.h
+END
+test_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/144820/trunk/src/sync/sessions/test_util.cc
+END
+debug_info_getter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/144820/trunk/src/sync/sessions/debug_info_getter.h
+END
+sync_session_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/145236/trunk/src/sync/sessions/sync_session_unittest.cc
+END
+test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/144820/trunk/src/sync/sessions/test_util.h
+END
+sync_session.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145236/trunk/src/sync/sessions/sync_session.cc
+END
+sync_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/145236/trunk/src/sync/sessions/sync_session.h
+END
+session_state_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144820/trunk/src/sync/sessions/session_state_unittest.cc
+END
+sync_session_context.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144820/trunk/src/sync/sessions/sync_session_context.cc
+END
+session_state.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/144820/trunk/src/sync/sessions/session_state.cc
+END
+sync_session_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/145211/trunk/src/sync/sessions/sync_session_context.h
+END
+status_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/144820/trunk/src/sync/sessions/status_controller_unittest.cc
+END
+session_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/144820/trunk/src/sync/sessions/session_state.h
+END
+status_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/145236/trunk/src/sync/sessions/status_controller.cc
+END
+status_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/144820/trunk/src/sync/sessions/status_controller.h
+END

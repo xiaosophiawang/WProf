@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/144623/trunk/src/ppapi/shared_impl/private
+END
+net_address_private_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/135731/trunk/src/ppapi/shared_impl/private/net_address_private_impl.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/109165/trunk/src/ppapi/shared_impl/private/DEPS
+END
+net_address_private_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/111841/trunk/src/ppapi/shared_impl/private/net_address_private_impl.h
+END
+tcp_socket_private_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/143806/trunk/src/ppapi/shared_impl/private/tcp_socket_private_impl.cc
+END
+ppb_browser_font_trusted_shared.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/144623/trunk/src/ppapi/shared_impl/private/ppb_browser_font_trusted_shared.cc
+END
+udp_socket_private_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/143806/trunk/src/ppapi/shared_impl/private/udp_socket_private_impl.cc
+END
+tcp_socket_private_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/143806/trunk/src/ppapi/shared_impl/private/tcp_socket_private_impl.h
+END
+ppb_tcp_server_socket_shared.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/143806/trunk/src/ppapi/shared_impl/private/ppb_tcp_server_socket_shared.cc
+END
+ppb_browser_font_trusted_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/122564/trunk/src/ppapi/shared_impl/private/ppb_browser_font_trusted_shared.h
+END
+ppb_tcp_server_socket_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/143806/trunk/src/ppapi/shared_impl/private/ppb_tcp_server_socket_shared.h
+END
+udp_socket_private_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/143806/trunk/src/ppapi/shared_impl/private/udp_socket_private_impl.h
+END
+ppb_char_set_shared.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/121159/trunk/src/ppapi/shared_impl/private/ppb_char_set_shared.cc
+END
+ppb_char_set_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/121159/trunk/src/ppapi/shared_impl/private/ppb_char_set_shared.h
+END
+ppb_host_resolver_shared.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/143806/trunk/src/ppapi/shared_impl/private/ppb_host_resolver_shared.cc
+END
+ppb_host_resolver_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/143806/trunk/src/ppapi/shared_impl/private/ppb_host_resolver_shared.h
+END
+ppb_x509_certificate_private_shared.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/133478/trunk/src/ppapi/shared_impl/private/ppb_x509_certificate_private_shared.cc
+END
+ppb_x509_certificate_private_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/131918/trunk/src/ppapi/shared_impl/private/ppb_x509_certificate_private_shared.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/chrome/!svn/ver/145059/trunk/src/ppapi/host
+END
+resource_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/145059/trunk/src/ppapi/host/resource_host.cc
+END
+host_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/145059/trunk/src/ppapi/host/host_factory.h
+END
+ppapi_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/145059/trunk/src/ppapi/host/ppapi_host.cc
+END
+resource_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/145059/trunk/src/ppapi/host/resource_host.h
+END
+host_message_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/145059/trunk/src/ppapi/host/host_message_context.h
+END
+ppapi_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/145059/trunk/src/ppapi/host/ppapi_host.h
+END
+ppapi_host_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/145059/trunk/src/ppapi/host/ppapi_host_export.h
+END

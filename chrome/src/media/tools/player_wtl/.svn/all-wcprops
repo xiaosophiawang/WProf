@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/141619/trunk/src/media/tools/player_wtl
+END
+mainfrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/92826/trunk/src/media/tools/player_wtl/mainfrm.h
+END
+toolbar.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/33089/trunk/src/media/tools/player_wtl/toolbar.bmp
+END
+view.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/127320/trunk/src/media/tools/player_wtl/view.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/33089/trunk/src/media/tools/player_wtl/list.h
+END
+movie.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/141619/trunk/src/media/tools/player_wtl/movie.cc
+END
+movie.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/130288/trunk/src/media/tools/player_wtl/movie.h
+END
+player_wtl.rc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/44439/trunk/src/media/tools/player_wtl/player_wtl.rc
+END
+player_wtl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/118082/trunk/src/media/tools/player_wtl/player_wtl.cc
+END
+player_wtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/44130/trunk/src/media/tools/player_wtl/player_wtl.h
+END
+props.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/69107/trunk/src/media/tools/player_wtl/props.h
+END
+player_wtl.ico
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/40991/trunk/src/media/tools/player_wtl/player_wtl.ico
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/44130/trunk/src/media/tools/player_wtl/resource.h
+END
+seek.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/92826/trunk/src/media/tools/player_wtl/seek.h
+END

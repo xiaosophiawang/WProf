@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/144272/trunk/src/content/shell/android
+END
+shell_library_loader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/143041/trunk/src/content/shell/android/shell_library_loader.cc
+END
+shell_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/133857/trunk/src/content/shell/android/shell_manager.cc
+END
+shell_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/133857/trunk/src/content/shell/android/shell_view.cc
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/142072/trunk/src/content/shell/android/AndroidManifest.xml
+END
+shell_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/133857/trunk/src/content/shell/android/shell_manager.h
+END
+shell_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/133857/trunk/src/content/shell/android/shell_view.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/134030/trunk/src/content/shell/android/OWNERS
+END

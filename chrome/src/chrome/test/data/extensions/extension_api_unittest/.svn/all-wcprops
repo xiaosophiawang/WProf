@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/136588/trunk/src/chrome/test/data/extensions/extension_api_unittest
+END
+is_privileged_features_5.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/130771/trunk/src/chrome/test/data/extensions/extension_api_unittest/is_privileged_features_5.json
+END
+is_privileged_features_1.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/130771/trunk/src/chrome/test/data/extensions/extension_api_unittest/is_privileged_features_1.json
+END
+types_have_namespace.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/136588/trunk/src/chrome/test/data/extensions/extension_api_unittest/types_have_namespace.json
+END
+is_privileged_features_2.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/130771/trunk/src/chrome/test/data/extensions/extension_api_unittest/is_privileged_features_2.json
+END
+is_privileged_features_3.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/130771/trunk/src/chrome/test/data/extensions/extension_api_unittest/is_privileged_features_3.json
+END
+is_privileged_features_4.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/130771/trunk/src/chrome/test/data/extensions/extension_api_unittest/is_privileged_features_4.json
+END

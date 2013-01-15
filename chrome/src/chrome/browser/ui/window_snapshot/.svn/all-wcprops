@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/144497/trunk/src/chrome/browser/ui/window_snapshot
+END
+window_snapshot_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/113687/trunk/src/chrome/browser/ui/window_snapshot/window_snapshot_gtk.cc
+END
+window_snapshot_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/144497/trunk/src/chrome/browser/ui/window_snapshot/window_snapshot_aura.cc
+END
+window_snapshot_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/132637/trunk/src/chrome/browser/ui/window_snapshot/window_snapshot_win.cc
+END
+window_snapshot.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/132637/trunk/src/chrome/browser/ui/window_snapshot/window_snapshot.h
+END
+window_snapshot_mac_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/113281/trunk/src/chrome/browser/ui/window_snapshot/window_snapshot_mac_unittest.mm
+END
+window_snapshot_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/111155/trunk/src/chrome/browser/ui/window_snapshot/window_snapshot_mac.mm
+END

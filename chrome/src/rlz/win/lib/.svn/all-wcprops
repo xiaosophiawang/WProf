@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib
+END
+process_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/process_info.h
+END
+machine_deal.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/machine_deal.h
+END
+machine_id_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/machine_id_win.cc
+END
+rlz_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/rlz_lib.h
+END
+registry_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/registry_util.cc
+END
+vista_winnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/vista_winnt.h
+END
+rlz_value_store_registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/rlz_value_store_registry.cc
+END
+registry_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/registry_util.h
+END
+rlz_value_store_registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/rlz_value_store_registry.h
+END
+rlz_lib_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/rlz_lib_win.cc
+END
+machine_deal_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/machine_deal_test.cc
+END
+lib_mutex.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/lib_mutex.cc
+END
+process_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/process_info.cc
+END
+machine_deal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/machine_deal.cc
+END
+lib_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/144074/trunk/src/rlz/win/lib/lib_mutex.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/142909/trunk/src/chrome/browser/ui/web_applications
+END
+web_app_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/141503/trunk/src/chrome/browser/ui/web_applications/web_app_ui.h
+END
+web_app_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/142909/trunk/src/chrome/browser/ui/web_applications/web_app_ui.cc
+END

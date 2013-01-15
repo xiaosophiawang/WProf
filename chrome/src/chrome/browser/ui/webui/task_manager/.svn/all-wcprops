@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/145141/trunk/src/chrome/browser/ui/webui/task_manager
+END
+task_manager_dialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/145141/trunk/src/chrome/browser/ui/webui/task_manager/task_manager_dialog.cc
+END
+task_manager_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/124973/trunk/src/chrome/browser/ui/webui/task_manager/task_manager_handler.h
+END
+task_manager_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/124973/trunk/src/chrome/browser/ui/webui/task_manager/task_manager_ui.h
+END
+task_manager_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/139822/trunk/src/chrome/browser/ui/webui/task_manager/task_manager_dialog.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/124973/trunk/src/chrome/browser/ui/webui/task_manager/OWNERS
+END
+task_manager_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/140628/trunk/src/chrome/browser/ui/webui/task_manager/task_manager_handler.cc
+END
+task_manager_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/137031/trunk/src/chrome/browser/ui/webui/task_manager/task_manager_ui.cc
+END

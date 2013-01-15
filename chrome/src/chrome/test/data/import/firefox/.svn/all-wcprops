@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/92762/trunk/src/chrome/test/data/import/firefox
+END
+macwin.zip
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/92762/trunk/src/chrome/test/data/import/firefox/macwin.zip
+END
+linux.zip
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/71181/trunk/src/chrome/test/data/import/firefox/linux.zip
+END

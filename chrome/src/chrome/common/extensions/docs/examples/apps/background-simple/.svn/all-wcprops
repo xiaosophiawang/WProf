@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/119883/trunk/src/chrome/common/extensions/docs/examples/apps/background-simple
+END
+background.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/73398/trunk/src/chrome/common/extensions/docs/examples/apps/background-simple/background.html
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/119883/trunk/src/chrome/common/extensions/docs/examples/apps/background-simple/index.js
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/119883/trunk/src/chrome/common/extensions/docs/examples/apps/background-simple/index.html
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/73398/trunk/src/chrome/common/extensions/docs/examples/apps/background-simple/README
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/119883/trunk/src/chrome/common/extensions/docs/examples/apps/background-simple/manifest.json
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/141299/trunk/src/chrome/browser/metrics/proto
+END
+trials_seed.proto
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/137662/trunk/src/chrome/browser/metrics/proto/trials_seed.proto
+END
+study.proto
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/141299/trunk/src/chrome/browser/metrics/proto/study.proto
+END

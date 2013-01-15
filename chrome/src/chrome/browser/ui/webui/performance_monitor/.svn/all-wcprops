@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/144975/trunk/src/chrome/browser/ui/webui/performance_monitor
+END
+web_ui_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/144975/trunk/src/chrome/browser/ui/webui/performance_monitor/web_ui_handler.cc
+END
+web_ui_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/144975/trunk/src/chrome/browser/ui/webui/performance_monitor/web_ui_handler.h
+END

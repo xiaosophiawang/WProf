@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/145376/trunk/src/content/browser/download
+END
+save_file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/120510/trunk/src/content/browser/download/save_file.cc
+END
+download_interrupt_reasons_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/125527/trunk/src/content/browser/download/download_interrupt_reasons_impl.cc
+END
+download_file_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/145376/trunk/src/content/browser/download/download_file_manager_unittest.cc
+END
+mhtml_generation_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/145015/trunk/src/content/browser/download/mhtml_generation_browsertest.cc
+END
+save_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/115573/trunk/src/content/browser/download/save_file.h
+END
+download_file_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/145376/trunk/src/content/browser/download/download_file_manager.cc
+END
+download_net_log_parameters.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/142217/trunk/src/content/browser/download/download_net_log_parameters.cc
+END
+drag_download_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/134395/trunk/src/content/browser/download/drag_download_util.cc
+END
+save_file_resource_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/144873/trunk/src/content/browser/download/save_file_resource_handler.cc
+END
+download_net_log_parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/142217/trunk/src/content/browser/download/download_net_log_parameters.h
+END
+drag_download_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/134395/trunk/src/content/browser/download/drag_download_util.h
+END
+save_file_resource_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144873/trunk/src/content/browser/download/save_file_resource_handler.h
+END
+download_item_impl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/145208/trunk/src/content/browser/download/download_item_impl_unittest.cc
+END
+download_create_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/121251/trunk/src/content/browser/download/download_create_info.cc
+END
+download_file_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/145376/trunk/src/content/browser/download/download_file_unittest.cc
+END
+download_item_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/145208/trunk/src/content/browser/download/download_item_impl.cc
+END
+download_create_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/142728/trunk/src/content/browser/download/download_create_info.h
+END
+base_file_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/121202/trunk/src/content/browser/download/base_file_unittest.cc
+END
+save_package.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/141318/trunk/src/content/browser/download/save_package.cc
+END
+save_package.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/141318/trunk/src/content/browser/download/save_package.h
+END
+save_package_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/145015/trunk/src/content/browser/download/save_package_browsertest.cc
+END
+byte_stream_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/143448/trunk/src/content/browser/download/byte_stream_unittest.cc
+END
+download_item_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141735/trunk/src/content/browser/download/download_item_factory.h
+END
+byte_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/143448/trunk/src/content/browser/download/byte_stream.cc
+END
+save_item.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/136723/trunk/src/content/browser/download/save_item.h
+END
+mock_download_file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/145376/trunk/src/content/browser/download/mock_download_file.cc
+END
+mock_download_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/145376/trunk/src/content/browser/download/mock_download_file.h
+END
+download_id_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/140208/trunk/src/content/browser/download/download_id_unittest.cc
+END
+download_manager_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/145184/trunk/src/content/browser/download/download_manager_impl.h
+END
+save_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/132060/trunk/src/content/browser/download/save_types.h
+END
+download_stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/145320/trunk/src/content/browser/download/download_stats.cc
+END
+download_stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/145320/trunk/src/content/browser/download/download_stats.h
+END
+mhtml_generation_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/132060/trunk/src/content/browser/download/mhtml_generation_manager.h
+END
+download_request_handle.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/139874/trunk/src/content/browser/download/download_request_handle.h
+END
+download_interrupt_reasons_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/125527/trunk/src/content/browser/download/download_interrupt_reasons_impl.h
+END
+download_file_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/145157/trunk/src/content/browser/download/download_file_manager.h
+END
+drag_download_file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/140761/trunk/src/content/browser/download/drag_download_file.cc
+END
+drag_download_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/139147/trunk/src/content/browser/download/drag_download_file.h
+END
+download_item_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/145208/trunk/src/content/browser/download/download_item_impl.h
+END
+download_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/145376/trunk/src/content/browser/download/download_file.h
+END
+save_package_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/131770/trunk/src/content/browser/download/save_package_unittest.cc
+END
+base_file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144275/trunk/src/content/browser/download/base_file.cc
+END
+download_resource_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/145320/trunk/src/content/browser/download/download_resource_handler.cc
+END
+base_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/132998/trunk/src/content/browser/download/base_file.h
+END
+save_item.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/136723/trunk/src/content/browser/download/save_item.cc
+END
+download_resource_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144873/trunk/src/content/browser/download/download_resource_handler.h
+END
+byte_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/143448/trunk/src/content/browser/download/byte_stream.h
+END
+download_manager_impl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/145208/trunk/src/content/browser/download/download_manager_impl_unittest.cc
+END
+download_manager_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/145208/trunk/src/content/browser/download/download_manager_impl.cc
+END
+save_types.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/92623/trunk/src/content/browser/download/save_types.cc
+END
+mhtml_generation_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/132060/trunk/src/content/browser/download/mhtml_generation_manager.cc
+END
+download_file_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/145376/trunk/src/content/browser/download/download_file_impl.cc
+END
+save_file_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/136723/trunk/src/content/browser/download/save_file_manager.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/103000/trunk/src/content/browser/download/OWNERS
+END
+download_file_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/145376/trunk/src/content/browser/download/download_file_impl.h
+END
+save_file_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/136723/trunk/src/content/browser/download/save_file_manager.h
+END
+download_request_handle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/140761/trunk/src/content/browser/download/download_request_handle.cc
+END

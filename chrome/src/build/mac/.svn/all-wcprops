@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/chrome/!svn/ver/140818/trunk/src/build/mac
+END
+copy_framework_unversioned.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/140818/trunk/src/build/mac/copy_framework_unversioned.sh
+END
+chrome_mac.croc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/61430/trunk/src/build/mac/chrome_mac.croc
+END
+change_mach_o_flags_from_xcode.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/98046/trunk/src/build/mac/change_mach_o_flags_from_xcode.sh
+END
+strip_from_xcode
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/48655/trunk/src/build/mac/strip_from_xcode
+END
+verify_no_objc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/125254/trunk/src/build/mac/verify_no_objc.sh
+END
+tweak_info_plist.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/125349/trunk/src/build/mac/tweak_info_plist.py
+END
+make_more_helpers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/125921/trunk/src/build/mac/make_more_helpers.sh
+END
+strip_save_dsym
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/100150/trunk/src/build/mac/strip_save_dsym
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/83367/trunk/src/build/mac/OWNERS
+END
+change_mach_o_flags.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/111385/trunk/src/build/mac/change_mach_o_flags.py
+END

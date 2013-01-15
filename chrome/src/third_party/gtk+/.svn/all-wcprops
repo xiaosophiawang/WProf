@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/91539/trunk/src/third_party/gtk+
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/89948/trunk/src/third_party/gtk+/README.chromium
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/89948/trunk/src/third_party/gtk+/AUTHORS
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/89948/trunk/src/third_party/gtk+/COPYING
+END

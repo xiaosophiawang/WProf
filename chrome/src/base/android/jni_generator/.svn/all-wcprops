@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/145213/trunk/src/base/android/jni_generator
+END
+jni_generator_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/145150/trunk/src/base/android/jni_generator/jni_generator_tests.py
+END
+jni_generator.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/123374/trunk/src/base/android/jni_generator/jni_generator.gyp
+END
+golden_sample_for_tests_jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/145135/trunk/src/base/android/jni_generator/golden_sample_for_tests_jni.h
+END
+SampleForTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/143569/trunk/src/base/android/jni_generator/SampleForTests.java
+END
+jni_generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/145213/trunk/src/base/android/jni_generator/jni_generator.py
+END
+sample_for_tests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/143569/trunk/src/base/android/jni_generator/sample_for_tests.cc
+END

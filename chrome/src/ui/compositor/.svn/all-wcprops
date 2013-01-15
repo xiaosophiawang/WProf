@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/chrome/!svn/ver/144990/trunk/src/ui/compositor
+END
+compositor.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/140876/trunk/src/ui/compositor/compositor.h
+END
+compositor_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/137130/trunk/src/ui/compositor/compositor_export.h
+END
+layer_animation_sequence_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/layer_animation_sequence_unittest.cc
+END
+compositor_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/144990/trunk/src/ui/compositor/compositor_observer.h
+END
+layer_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/140769/trunk/src/ui/compositor/layer_delegate.h
+END
+layer_animator.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/144048/trunk/src/ui/compositor/layer_animator.h
+END
+compositor.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/144875/trunk/src/ui/compositor/compositor.gyp
+END
+debug_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/debug_utils.h
+END
+layer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/144990/trunk/src/ui/compositor/layer_unittest.cc
+END
+layer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/144906/trunk/src/ui/compositor/layer.cc
+END
+layer_animation_element_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/layer_animation_element_unittest.cc
+END
+layer_animation_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/140698/trunk/src/ui/compositor/layer_animation_observer.h
+END
+layer_animation_element.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/141929/trunk/src/ui/compositor/layer_animation_element.cc
+END
+layer_owner.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/138412/trunk/src/ui/compositor/layer_owner.h
+END
+test_web_graphics_context_3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/143740/trunk/src/ui/compositor/test_web_graphics_context_3d.h
+END
+scoped_layer_animation_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/scoped_layer_animation_settings.h
+END
+compositor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/144990/trunk/src/ui/compositor/compositor.cc
+END
+layer_animation_sequence.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/layer_animation_sequence.cc
+END
+layer_animator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/layer_animator_unittest.cc
+END
+layer_animation_sequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/layer_animation_sequence.h
+END
+layer_animator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/144048/trunk/src/ui/compositor/layer_animator.cc
+END
+debug_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/debug_utils.cc
+END
+layer_animation_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/layer_animation_delegate.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/DEPS
+END
+compositor_switches.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/137659/trunk/src/ui/compositor/compositor_switches.cc
+END
+compositor_switches.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/137659/trunk/src/ui/compositor/compositor_switches.h
+END
+dip_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/141659/trunk/src/ui/compositor/dip_util.cc
+END
+dip_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/137659/trunk/src/ui/compositor/dip_util.h
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/PRESUBMIT.py
+END
+layer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/144906/trunk/src/ui/compositor/layer.h
+END
+run_all_unittests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/run_all_unittests.cc
+END
+layer_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/layer_type.h
+END
+compositor_setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/compositor_setup.h
+END
+layer_animation_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/layer_animation_observer.cc
+END
+layer_owner.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/138412/trunk/src/ui/compositor/layer_owner.cc
+END
+layer_animation_element.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/141929/trunk/src/ui/compositor/layer_animation_element.h
+END
+test_web_graphics_context_3d.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/143740/trunk/src/ui/compositor/test_web_graphics_context_3d.cc
+END
+scoped_layer_animation_settings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/scoped_layer_animation_settings.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/135560/trunk/src/ui/compositor/OWNERS
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/92046/trunk/src/third_party/bspatch
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/78316/trunk/src/third_party/bspatch/README.chromium
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/42045/trunk/src/third_party/bspatch/LICENSE
+END
+bspatch.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/92046/trunk/src/third_party/bspatch/bspatch.gyp
+END
+mbspatch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/1848/trunk/src/third_party/bspatch/mbspatch.cc
+END
+mbspatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/1848/trunk/src/third_party/bspatch/mbspatch.h
+END

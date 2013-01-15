@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/141309/trunk/src/chrome/browser/ui/webui/sync_promo
+END
+sync_promo_trial.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/128698/trunk/src/chrome/browser/ui/webui/sync_promo/sync_promo_trial.cc
+END
+sync_promo_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/141309/trunk/src/chrome/browser/ui/webui/sync_promo/sync_promo_handler.cc
+END
+sync_promo_trial.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/127813/trunk/src/chrome/browser/ui/webui/sync_promo/sync_promo_trial.h
+END
+sync_promo_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/137978/trunk/src/chrome/browser/ui/webui/sync_promo/sync_promo_ui.cc
+END
+sync_promo_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/134819/trunk/src/chrome/browser/ui/webui/sync_promo/sync_promo_handler.h
+END
+sync_promo_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/128698/trunk/src/chrome/browser/ui/webui/sync_promo/sync_promo_ui.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/121160/trunk/src/chrome/browser/ui/webui/sync_promo/OWNERS
+END

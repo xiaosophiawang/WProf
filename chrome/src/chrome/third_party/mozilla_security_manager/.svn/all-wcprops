@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/139979/trunk/src/chrome/third_party/mozilla_security_manager
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/83627/trunk/src/chrome/third_party/mozilla_security_manager/README.chromium
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/83627/trunk/src/chrome/third_party/mozilla_security_manager/LICENSE
+END
+nsNSSCertHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/139979/trunk/src/chrome/third_party/mozilla_security_manager/nsNSSCertHelper.cpp
+END
+nsUsageArrayHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/83627/trunk/src/chrome/third_party/mozilla_security_manager/nsUsageArrayHelper.cpp
+END
+nsNSSCertHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/109188/trunk/src/chrome/third_party/mozilla_security_manager/nsNSSCertHelper.h
+END
+nsNSSCertificate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/83627/trunk/src/chrome/third_party/mozilla_security_manager/nsNSSCertificate.cpp
+END
+nsUsageArrayHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/83627/trunk/src/chrome/third_party/mozilla_security_manager/nsUsageArrayHelper.h
+END
+nsNSSCertificate.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/83627/trunk/src/chrome/third_party/mozilla_security_manager/nsNSSCertificate.h
+END

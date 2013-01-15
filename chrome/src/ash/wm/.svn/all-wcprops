@@ -1,0 +1,713 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/chrome/!svn/ver/145359/trunk/src/ash/wm
+END
+window_animations.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/144467/trunk/src/ash/wm/window_animations.h
+END
+base_layout_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144585/trunk/src/ash/wm/base_layout_manager_unittest.cc
+END
+window_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/142631/trunk/src/ash/wm/window_manager_unittest.cc
+END
+root_window_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/135560/trunk/src/ash/wm/root_window_layout_manager.cc
+END
+workspace_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/140340/trunk/src/ash/wm/workspace_controller.cc
+END
+activation_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/141384/trunk/src/ash/wm/activation_controller_unittest.cc
+END
+status_area_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/133114/trunk/src/ash/wm/status_area_layout_manager.h
+END
+stacking_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/144585/trunk/src/ash/wm/stacking_controller.cc
+END
+resize_shadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/127491/trunk/src/ash/wm/resize_shadow.h
+END
+system_modal_container_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/133043/trunk/src/ash/wm/system_modal_container_event_filter.cc
+END
+resize_shadow_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/137052/trunk/src/ash/wm/resize_shadow_controller.cc
+END
+frame_painter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141384/trunk/src/ash/wm/frame_painter_unittest.cc
+END
+screen_dimmer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/140773/trunk/src/ash/wm/screen_dimmer.cc
+END
+window_modality_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/141131/trunk/src/ash/wm/window_modality_controller.cc
+END
+property_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/141881/trunk/src/ash/wm/property_util.cc
+END
+key_rewriter_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/129076/trunk/src/ash/wm/key_rewriter_event_filter.cc
+END
+window_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/125153/trunk/src/ash/wm/window_frame.cc
+END
+user_activity_detector_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/143437/trunk/src/ash/wm/user_activity_detector_unittest.cc
+END
+image_grid_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/137140/trunk/src/ash/wm/image_grid_unittest.cc
+END
+shelf_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/144520/trunk/src/ash/wm/shelf_types.h
+END
+toplevel_window_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144824/trunk/src/ash/wm/toplevel_window_event_filter.cc
+END
+panel_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/142548/trunk/src/ash/wm/panel_layout_manager.h
+END
+window_animations_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144467/trunk/src/ash/wm/window_animations_unittest.cc
+END
+system_modal_container_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/144688/trunk/src/ash/wm/system_modal_container_layout_manager.cc
+END
+toplevel_window_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144824/trunk/src/ash/wm/toplevel_window_event_filter.h
+END
+window_cycle_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/143546/trunk/src/ash/wm/window_cycle_controller.cc
+END
+shelf_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/144934/trunk/src/ash/wm/shelf_layout_manager.h
+END
+system_gesture_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144295/trunk/src/ash/wm/system_gesture_event_filter.h
+END
+slow_animation_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/139986/trunk/src/ash/wm/slow_animation_event_filter.h
+END
+base_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/144585/trunk/src/ash/wm/base_layout_manager.cc
+END
+user_activity_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/140849/trunk/src/ash/wm/user_activity_observer.h
+END
+capture_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/144991/trunk/src/ash/wm/capture_controller.cc
+END
+activation_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/143716/trunk/src/ash/wm/activation_controller.h
+END
+stacking_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/143770/trunk/src/ash/wm/stacking_controller.h
+END
+shadow_types.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/121583/trunk/src/ash/wm/shadow_types.cc
+END
+window_resizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/144585/trunk/src/ash/wm/window_resizer.cc
+END
+custom_frame_view_ash.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/141843/trunk/src/ash/wm/custom_frame_view_ash.h
+END
+app_list_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/143637/trunk/src/ash/wm/app_list_controller.cc
+END
+frame_painter.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/139802/trunk/src/ash/wm/frame_painter.h
+END
+always_on_top_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/121583/trunk/src/ash/wm/always_on_top_controller.cc
+END
+window_cycle_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/130315/trunk/src/ash/wm/window_cycle_list.cc
+END
+shadow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/135888/trunk/src/ash/wm/shadow.cc
+END
+toplevel_window_event_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/144585/trunk/src/ash/wm/toplevel_window_event_filter_unittest.cc
+END
+shadow_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/135560/trunk/src/ash/wm/shadow_controller_unittest.cc
+END
+shelf_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/144934/trunk/src/ash/wm/shelf_layout_manager.cc
+END
+slow_animation_event_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/139986/trunk/src/ash/wm/slow_animation_event_filter_unittest.cc
+END
+system_gesture_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144295/trunk/src/ash/wm/system_gesture_event_filter.cc
+END
+power_button_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/140714/trunk/src/ash/wm/power_button_controller_unittest.cc
+END
+visibility_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/135560/trunk/src/ash/wm/visibility_controller_unittest.cc
+END
+window_animations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/144990/trunk/src/ash/wm/window_animations.cc
+END
+power_button_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/141384/trunk/src/ash/wm/power_button_controller.cc
+END
+visibility_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/140053/trunk/src/ash/wm/visibility_controller.cc
+END
+panel_window_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/123340/trunk/src/ash/wm/panel_window_event_filter.h
+END
+partial_screenshot_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/138847/trunk/src/ash/wm/partial_screenshot_event_filter.cc
+END
+video_detector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/140773/trunk/src/ash/wm/video_detector.cc
+END
+partial_screenshot_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/133164/trunk/src/ash/wm/partial_screenshot_event_filter.h
+END
+video_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/143716/trunk/src/ash/wm/video_detector.h
+END
+event_client_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/128553/trunk/src/ash/wm/event_client_impl.h
+END
+root_window_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/133114/trunk/src/ash/wm/root_window_layout_manager.h
+END
+panel_frame_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/139802/trunk/src/ash/wm/panel_frame_view.cc
+END
+workspace_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/140340/trunk/src/ash/wm/workspace_controller.h
+END
+activation_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/141384/trunk/src/ash/wm/activation_controller.cc
+END
+system_modal_container_event_filter_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/118127/trunk/src/ash/wm/system_modal_container_event_filter_delegate.h
+END
+panel_frame_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/127350/trunk/src/ash/wm/panel_frame_view.h
+END
+window_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/144585/trunk/src/ash/wm/window_util.h
+END
+custom_frame_view_ash_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/141894/trunk/src/ash/wm/custom_frame_view_ash_unittest.cc
+END
+capture_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/141131/trunk/src/ash/wm/capture_controller.h
+END
+screen_dimmer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141881/trunk/src/ash/wm/screen_dimmer_unittest.cc
+END
+resize_shadow_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/137052/trunk/src/ash/wm/resize_shadow_controller.h
+END
+window_modality_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/138950/trunk/src/ash/wm/window_modality_controller_unittest.cc
+END
+frame_painter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/145359/trunk/src/ash/wm/frame_painter.cc
+END
+window_resizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/132497/trunk/src/ash/wm/window_resizer.h
+END
+default_window_resizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/140714/trunk/src/ash/wm/default_window_resizer.cc
+END
+app_list_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/143314/trunk/src/ash/wm/app_list_controller.h
+END
+property_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/141881/trunk/src/ash/wm/property_util.h
+END
+key_rewriter_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/129076/trunk/src/ash/wm/key_rewriter_event_filter.h
+END
+window_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/121583/trunk/src/ash/wm/window_frame.h
+END
+slow_animation_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/139986/trunk/src/ash/wm/slow_animation_event_filter.cc
+END
+shadow_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/143716/trunk/src/ash/wm/shadow_controller.h
+END
+system_modal_container_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/133114/trunk/src/ash/wm/system_modal_container_layout_manager.h
+END
+window_cycle_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/143546/trunk/src/ash/wm/window_cycle_controller.h
+END
+power_button_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/137679/trunk/src/ash/wm/power_button_controller.h
+END
+panel_window_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/135560/trunk/src/ash/wm/panel_window_event_filter.cc
+END
+visibility_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/119453/trunk/src/ash/wm/visibility_controller.h
+END
+video_detector_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/143437/trunk/src/ash/wm/video_detector_unittest.cc
+END
+workspace_controller_test_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/127465/trunk/src/ash/wm/workspace_controller_test_helper.cc
+END
+event_client_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/141384/trunk/src/ash/wm/event_client_impl.cc
+END
+workspace_controller_test_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/127465/trunk/src/ash/wm/workspace_controller_test_helper.h
+END
+status_area_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/137980/trunk/src/ash/wm/status_area_layout_manager.cc
+END
+base_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/144585/trunk/src/ash/wm/base_layout_manager.h
+END
+dialog_frame_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/138072/trunk/src/ash/wm/dialog_frame_view.cc
+END
+window_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/142631/trunk/src/ash/wm/window_util.cc
+END
+dialog_frame_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/127019/trunk/src/ash/wm/dialog_frame_view.h
+END
+resize_shadow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/135888/trunk/src/ash/wm/resize_shadow.cc
+END
+custom_frame_view_ash.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/139802/trunk/src/ash/wm/custom_frame_view_ash.cc
+END
+system_modal_container_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/119954/trunk/src/ash/wm/system_modal_container_event_filter.h
+END
+shadow_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/124255/trunk/src/ash/wm/shadow_types.h
+END
+screen_dimmer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/144585/trunk/src/ash/wm/screen_dimmer.h
+END
+window_modality_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/140773/trunk/src/ash/wm/window_modality_controller.h
+END
+default_window_resizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/140773/trunk/src/ash/wm/default_window_resizer.h
+END
+partial_screenshot_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/144772/trunk/src/ash/wm/partial_screenshot_view.cc
+END
+always_on_top_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/121583/trunk/src/ash/wm/always_on_top_controller.h
+END
+user_activity_detector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/145021/trunk/src/ash/wm/user_activity_detector.cc
+END
+window_cycle_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/130315/trunk/src/ash/wm/window_cycle_list.h
+END
+window_properties.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/141881/trunk/src/ash/wm/window_properties.cc
+END
+partial_screenshot_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/144772/trunk/src/ash/wm/partial_screenshot_view.h
+END
+panel_layout_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/142548/trunk/src/ash/wm/panel_layout_manager_unittest.cc
+END
+user_activity_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/143437/trunk/src/ash/wm/user_activity_detector.h
+END
+window_properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/141881/trunk/src/ash/wm/window_properties.h
+END
+panel_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/142548/trunk/src/ash/wm/panel_layout_manager.cc
+END
+shelf_layout_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144585/trunk/src/ash/wm/shelf_layout_manager_unittest.cc
+END
+shadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/135888/trunk/src/ash/wm/shadow.h
+END
+image_grid.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/141002/trunk/src/ash/wm/image_grid.cc
+END
+system_gesture_event_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/144295/trunk/src/ash/wm/system_gesture_event_filter_unittest.cc
+END
+shadow_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/140340/trunk/src/ash/wm/shadow_controller.cc
+END
+system_modal_container_layout_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/141384/trunk/src/ash/wm/system_modal_container_layout_manager_unittest.cc
+END
+window_cycle_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/141384/trunk/src/ash/wm/window_cycle_controller_unittest.cc
+END
+image_grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/140769/trunk/src/ash/wm/image_grid.h
+END

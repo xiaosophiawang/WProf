@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/140041/trunk/src/third_party/libxslt
+END
+libxslt.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/119700/trunk/src/third_party/libxslt/libxslt.gyp
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/140041/trunk/src/third_party/libxslt/README.chromium
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/19/trunk/src/third_party/libxslt/AUTHORS
+END
+libxslt.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/19/trunk/src/third_party/libxslt/libxslt.pc.in
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/19/trunk/src/third_party/libxslt/compile
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/19/trunk/src/third_party/libxslt/config.guess
+END
+libexslt.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/19/trunk/src/third_party/libxslt/libexslt.pc.in
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/19/trunk/src/third_party/libxslt/config.sub
+END
+acconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/19/trunk/src/third_party/libxslt/acconfig.h
+END
+libxslt.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/19/trunk/src/third_party/libxslt/libxslt.m4
+END
+xslt-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/19/trunk/src/third_party/libxslt/xslt-config.in
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/19/trunk/src/third_party/libxslt/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/19/trunk/src/third_party/libxslt/COPYING
+END
+Copyright
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/19/trunk/src/third_party/libxslt/Copyright
+END
+xsltConf.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/19/trunk/src/third_party/libxslt/xsltConf.sh.in
+END

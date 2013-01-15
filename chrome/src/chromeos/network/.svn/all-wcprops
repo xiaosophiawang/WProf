@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/143291/trunk/src/chromeos/network
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/137055/trunk/src/chromeos/network/DEPS
+END
+network_sms_handler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141732/trunk/src/chromeos/network/network_sms_handler_unittest.cc
+END
+network_sms_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/143291/trunk/src/chromeos/network/network_sms_handler.cc
+END
+network_sms_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/141732/trunk/src/chromeos/network/network_sms_handler.h
+END

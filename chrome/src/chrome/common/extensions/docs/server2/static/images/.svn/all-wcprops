@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144748/trunk/src/chrome/common/extensions/docs/server2/static/images
+END
+chrome_logo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/144362/trunk/src/chrome/common/extensions/docs/server2/static/images/chrome_logo.gif
+END
+toggle_sprite.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/144748/trunk/src/chrome/common/extensions/docs/server2/static/images/toggle_sprite.png
+END
+bookmarks.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/144748/trunk/src/chrome/common/extensions/docs/server2/static/images/bookmarks.png
+END

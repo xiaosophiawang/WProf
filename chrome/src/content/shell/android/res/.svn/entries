@@ -1,0 +1,40 @@
+10
+
+dir
+145398
+https://src.chromium.org/chrome/trunk/src/content/shell/android/res
+https://src.chromium.org/chrome
+
+
+
+2012-06-25T15:06:46.143586Z
+143909
+leandrogracia@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+values
+dir
+
+drawable
+dir
+
+drawable-nodpi
+dir
+
+layout
+dir
+

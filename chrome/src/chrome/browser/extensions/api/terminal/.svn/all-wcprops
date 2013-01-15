@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/extensions/api/terminal
+END
+terminal_private_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/extensions/api/terminal/terminal_private_api.cc
+END
+terminal_private_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/127711/trunk/src/chrome/browser/extensions/api/terminal/terminal_private_apitest.cc
+END
+terminal_private_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/143987/trunk/src/chrome/browser/extensions/api/terminal/terminal_private_api.h
+END
+terminal_extension_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/138074/trunk/src/chrome/browser/extensions/api/terminal/terminal_extension_helper.cc
+END
+terminal_extension_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/138074/trunk/src/chrome/browser/extensions/api/terminal/terminal_extension_helper.h
+END

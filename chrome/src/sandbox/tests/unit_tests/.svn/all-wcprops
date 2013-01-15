@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/99032/trunk/src/sandbox/tests/unit_tests
+END
+sbox_unittests.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/7093/trunk/src/sandbox/tests/unit_tests/sbox_unittests.vcproj
+END
+unit_tests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/99032/trunk/src/sandbox/tests/unit_tests/unit_tests.cc
+END

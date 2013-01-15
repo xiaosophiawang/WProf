@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/chrome/!svn/ver/133835/trunk/src/tools/git
+END
+git-diff-ide.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/124499/trunk/src/tools/git/git-diff-ide.py
+END
+mass-rename.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/85952/trunk/src/tools/git/mass-rename.sh
+END
+post-merge
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/39469/trunk/src/tools/git/post-merge
+END
+update-copyrights.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/117237/trunk/src/tools/git/update-copyrights.sh
+END
+post-checkout
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/39469/trunk/src/tools/git/post-checkout
+END
+git-utils.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/133835/trunk/src/tools/git/git-utils.sh
+END
+graph.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/77690/trunk/src/tools/git/graph.sh
+END
+for-all-touched-files.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/111960/trunk/src/tools/git/for-all-touched-files.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/55107/trunk/src/tools/git/README
+END

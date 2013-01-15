@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/91426/trunk/src/ppapi/generators/test_namespace
+END
+foo.idl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/91426/trunk/src/ppapi/generators/test_namespace/foo.idl
+END
+bar.idl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/84086/trunk/src/ppapi/generators/test_namespace/bar.idl
+END

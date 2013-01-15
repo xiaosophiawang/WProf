@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/138537/trunk/src/third_party/tlslite
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/134129/trunk/src/third_party/tlslite/README.chromium
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/44099/trunk/src/third_party/tlslite/LICENSE
+END
+make_release.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/make_release.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/setup.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/readme.txt
+END

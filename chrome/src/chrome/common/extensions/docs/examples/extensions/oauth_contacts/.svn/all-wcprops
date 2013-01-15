@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/143454/trunk/src/chrome/common/extensions/docs/examples/extensions/oauth_contacts
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/34725/trunk/src/chrome/common/extensions/docs/examples/extensions/oauth_contacts/NOTICE
+END
+contacts.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/119128/trunk/src/chrome/common/extensions/docs/examples/extensions/oauth_contacts/contacts.html
+END
+chrome_ex_oauth.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/54841/trunk/src/chrome/common/extensions/docs/examples/extensions/oauth_contacts/chrome_ex_oauth.js
+END
+onload.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/143454/trunk/src/chrome/common/extensions/docs/examples/extensions/oauth_contacts/onload.js
+END
+contacts.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/119128/trunk/src/chrome/common/extensions/docs/examples/extensions/oauth_contacts/contacts.js
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/119128/trunk/src/chrome/common/extensions/docs/examples/extensions/oauth_contacts/background.js
+END
+chrome_ex_oauth.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/chrome/!svn/ver/143454/trunk/src/chrome/common/extensions/docs/examples/extensions/oauth_contacts/chrome_ex_oauth.html
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/40102/trunk/src/chrome/common/extensions/docs/examples/extensions/oauth_contacts/README
+END
+chrome_ex_oauthsimple.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/chrome/!svn/ver/40102/trunk/src/chrome/common/extensions/docs/examples/extensions/oauth_contacts/chrome_ex_oauthsimple.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/119128/trunk/src/chrome/common/extensions/docs/examples/extensions/oauth_contacts/manifest.json
+END

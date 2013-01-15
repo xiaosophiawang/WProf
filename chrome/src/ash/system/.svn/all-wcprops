@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/chrome/!svn/ver/145391/trunk/src/ash/system
+END
+tray_caps_lock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/142136/trunk/src/ash/system/tray_caps_lock.cc
+END
+status_area_widget.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/143952/trunk/src/ash/system/status_area_widget.cc
+END
+tray_caps_lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/142136/trunk/src/ash/system/tray_caps_lock.h
+END
+status_area_widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/144520/trunk/src/ash/system/status_area_widget.h
+END
+tray_update.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/139956/trunk/src/ash/system/tray_update.cc
+END
+tray_update.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/134812/trunk/src/ash/system/tray_update.h
+END
+tray_accessibility.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/142590/trunk/src/ash/system/tray_accessibility.cc
+END
+status_area_widget_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/142273/trunk/src/ash/system/status_area_widget_delegate.cc
+END
+tray_accessibility.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/136253/trunk/src/ash/system/tray_accessibility.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/130143/trunk/src/ash/system/OWNERS
+END
+status_area_widget_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/144520/trunk/src/ash/system/status_area_widget_delegate.h
+END

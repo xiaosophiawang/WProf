@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/145043/trunk/src/chrome/test/perf
+END
+perf_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/129111/trunk/src/chrome/test/perf/perf_test.cc
+END
+v8_benchmark_uitest.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/121917/trunk/src/chrome/test/perf/v8_benchmark_uitest.js
+END
+perf_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/129111/trunk/src/chrome/test/perf/perf_test.h
+END
+dromaeo_benchmark_uitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/123701/trunk/src/chrome/test/perf/dromaeo_benchmark_uitest.cc
+END
+mach_ports_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/141895/trunk/src/chrome/test/perf/mach_ports_test.cc
+END
+browser_perf_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/116271/trunk/src/chrome/test/perf/browser_perf_test.cc
+END
+dom_checker_uitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/135576/trunk/src/chrome/test/perf/dom_checker_uitest.cc
+END
+browser_perf_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/116271/trunk/src/chrome/test/perf/browser_perf_test.h
+END
+sunspider_uitest.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/95481/trunk/src/chrome/test/perf/sunspider_uitest.js
+END
+startup_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/144870/trunk/src/chrome/test/perf/startup_test.cc
+END
+v8_benchmark_uitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/123701/trunk/src/chrome/test/perf/v8_benchmark_uitest.cc
+END
+memory_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/134257/trunk/src/chrome/test/perf/memory_test.cc
+END
+url_parse_perftest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/26628/trunk/src/chrome/test/perf/url_parse_perftest.cc
+END
+kraken_benchmark_uitest.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/135199/trunk/src/chrome/test/perf/kraken_benchmark_uitest.js
+END
+sunspider_uitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/123701/trunk/src/chrome/test/perf/sunspider_uitest.cc
+END
+shutdown_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/131108/trunk/src/chrome/test/perf/shutdown_test.cc
+END
+url_fetch_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/98273/trunk/src/chrome/test/perf/url_fetch_test.cc
+END
+page_cycler_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/132730/trunk/src/chrome/test/perf/page_cycler_test.cc
+END
+feature_startup_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/130784/trunk/src/chrome/test/perf/feature_startup_test.cc
+END
+perftests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/62095/trunk/src/chrome/test/perf/perftests.cc
+END
+kraken_benchmark_uitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/136292/trunk/src/chrome/test/perf/kraken_benchmark_uitest.cc
+END
+tab_switching_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/137787/trunk/src/chrome/test/perf/tab_switching_test.cc
+END

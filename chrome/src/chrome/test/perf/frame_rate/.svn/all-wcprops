@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/145043/trunk/src/chrome/test/perf/frame_rate
+END
+frame_rate_tests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/145043/trunk/src/chrome/test/perf/frame_rate/frame_rate_tests.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/115083/trunk/src/chrome/test/perf/frame_rate/OWNERS
+END

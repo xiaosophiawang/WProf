@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/88602/trunk/src/sandbox/tools/finder
+END
+ntundoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/88602/trunk/src/sandbox/tools/finder/ntundoc.h
+END
+finder_fs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/1287/trunk/src/sandbox/tools/finder/finder_fs.cc
+END
+finder_registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/1287/trunk/src/sandbox/tools/finder/finder_registry.cc
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/11447/trunk/src/sandbox/tools/finder/main.cc
+END
+finder.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/7093/trunk/src/sandbox/tools/finder/finder.vcproj
+END
+finder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/1287/trunk/src/sandbox/tools/finder/finder.cc
+END
+finder_kernel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/1287/trunk/src/sandbox/tools/finder/finder_kernel.cc
+END
+finder.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/1287/trunk/src/sandbox/tools/finder/finder.h
+END

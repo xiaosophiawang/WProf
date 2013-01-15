@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/142987/trunk/src/chrome/browser/password_manager
+END
+password_store_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/115822/trunk/src/chrome/browser/password_manager/password_store_consumer.h
+END
+login_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/password_manager/login_database.h
+END
+password_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/142987/trunk/src/chrome/browser/password_manager/password_manager.h
+END
+password_store_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/135790/trunk/src/chrome/browser/password_manager/password_store_mac.h
+END
+password_store_x_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/password_manager/password_store_x_unittest.cc
+END
+password_store_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/137014/trunk/src/chrome/browser/password_manager/password_store_factory.cc
+END
+ie7_password.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/97067/trunk/src/chrome/browser/password_manager/ie7_password.cc
+END
+native_backend_kwallet_x.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/134263/trunk/src/chrome/browser/password_manager/native_backend_kwallet_x.cc
+END
+encryptor_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/123154/trunk/src/chrome/browser/password_manager/encryptor_posix.cc
+END
+password_store_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/138074/trunk/src/chrome/browser/password_manager/password_store_factory.h
+END
+native_backend_kwallet_x.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/126600/trunk/src/chrome/browser/password_manager/native_backend_kwallet_x.h
+END
+native_backend_gnome_x.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/117730/trunk/src/chrome/browser/password_manager/native_backend_gnome_x.cc
+END
+native_backend_gnome_x.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/126600/trunk/src/chrome/browser/password_manager/native_backend_gnome_x.h
+END
+encryptor_password_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/127358/trunk/src/chrome/browser/password_manager/encryptor_password_mac.mm
+END
+password_store_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/password_manager/password_store_unittest.cc
+END
+password_form_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/142987/trunk/src/chrome/browser/password_manager/password_form_manager_unittest.cc
+END
+password_form_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/password_manager/password_form_data.cc
+END
+login_database_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/59202/trunk/src/chrome/browser/password_manager/login_database_posix.cc
+END
+password_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/135938/trunk/src/chrome/browser/password_manager/password_store.cc
+END
+password_store_default.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/134155/trunk/src/chrome/browser/password_manager/password_store_default.h
+END
+encryptor_password_mac_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/127358/trunk/src/chrome/browser/password_manager/encryptor_password_mac_unittest.cc
+END
+encryptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/55345/trunk/src/chrome/browser/password_manager/encryptor.h
+END
+password_manager_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/137047/trunk/src/chrome/browser/password_manager/password_manager_delegate.h
+END
+login_database_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/138071/trunk/src/chrome/browser/password_manager/login_database_unittest.cc
+END
+password_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/password_manager/password_manager_unittest.cc
+END
+password_store_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/135938/trunk/src/chrome/browser/password_manager/password_store_win.cc
+END
+password_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142987/trunk/src/chrome/browser/password_manager/password_manager.cc
+END
+login_database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/122692/trunk/src/chrome/browser/password_manager/login_database.cc
+END
+password_store_mac_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/127358/trunk/src/chrome/browser/password_manager/password_store_mac_internal.h
+END
+password_store_mac_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/password_manager/password_store_mac_unittest.cc
+END
+password_store_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/134155/trunk/src/chrome/browser/password_manager/password_store_win.h
+END
+password_store_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/135790/trunk/src/chrome/browser/password_manager/password_store_mac.cc
+END
+encryptor_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/40991/trunk/src/chrome/browser/password_manager/encryptor_win.cc
+END
+password_store_x.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/134155/trunk/src/chrome/browser/password_manager/password_store_x.cc
+END
+native_backend_kwallet_x_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/password_manager/native_backend_kwallet_x_unittest.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/101251/trunk/src/chrome/browser/password_manager/DEPS
+END
+password_manager_delegate_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/141266/trunk/src/chrome/browser/password_manager/password_manager_delegate_impl.cc
+END
+password_store_x.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/134155/trunk/src/chrome/browser/password_manager/password_store_x.h
+END
+native_backend_gnome_x_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/password_manager/native_backend_gnome_x_unittest.cc
+END
+ie7_password.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/53716/trunk/src/chrome/browser/password_manager/ie7_password.h
+END
+login_database_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/43667/trunk/src/chrome/browser/password_manager/login_database_win.cc
+END
+password_manager_delegate_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/141266/trunk/src/chrome/browser/password_manager/password_manager_delegate_impl.h
+END
+login_database_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/43667/trunk/src/chrome/browser/password_manager/login_database_mac.cc
+END
+password_form_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/142987/trunk/src/chrome/browser/password_manager/password_form_manager.cc
+END
+password_form_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/password_manager/password_form_data.h
+END
+password_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/135938/trunk/src/chrome/browser/password_manager/password_store.h
+END
+password_form_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/142987/trunk/src/chrome/browser/password_manager/password_form_manager.h
+END
+password_store_default_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/password_manager/password_store_default_unittest.cc
+END
+password_store_default.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/134155/trunk/src/chrome/browser/password_manager/password_store_default.cc
+END
+encryptor_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/52596/trunk/src/chrome/browser/password_manager/encryptor_unittest.cc
+END
+password_store_change.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/password_manager/password_store_change.h
+END
+mock_password_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/133870/trunk/src/chrome/browser/password_manager/mock_password_store.cc
+END
+mock_password_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/133870/trunk/src/chrome/browser/password_manager/mock_password_store.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/125012/trunk/src/chrome/browser/password_manager/OWNERS
+END
+encryptor_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/127358/trunk/src/chrome/browser/password_manager/encryptor_mac.mm
+END
+encryptor_password_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/127358/trunk/src/chrome/browser/password_manager/encryptor_password_mac.h
+END
+password_store_consumer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/79628/trunk/src/chrome/browser/password_manager/password_store_consumer.cc
+END
+password_store_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/password_manager/password_store_win_unittest.cc
+END

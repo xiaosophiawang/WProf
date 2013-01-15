@@ -1,0 +1,791 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/chrome/!svn/ver/144756/trunk/src/chromeos/dbus
+END
+mock_bluetooth_input_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_bluetooth_input_client.cc
+END
+mock_power_manager_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_power_manager_client.cc
+END
+mock_bluetooth_input_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/140334/trunk/src/chromeos/dbus/mock_bluetooth_input_client.h
+END
+bluetooth_manager_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/bluetooth_manager_client.cc
+END
+modem_messaging_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/141634/trunk/src/chromeos/dbus/modem_messaging_client.h
+END
+mock_cryptohome_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/131697/trunk/src/chromeos/dbus/mock_cryptohome_client.h
+END
+bluetooth_out_of_band_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/142337/trunk/src/chromeos/dbus/bluetooth_out_of_band_client.cc
+END
+dbus_client_implementation_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/dbus_client_implementation_type.h
+END
+flimflam_service_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/133631/trunk/src/chromeos/dbus/flimflam_service_client_unittest.cc
+END
+flimflam_device_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/133631/trunk/src/chromeos/dbus/flimflam_device_client.h
+END
+mock_flimflam_network_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_flimflam_network_client.cc
+END
+mock_image_burner_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/131697/trunk/src/chromeos/dbus/mock_image_burner_client.h
+END
+bluetooth_node_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/143596/trunk/src/chromeos/dbus/bluetooth_node_client.cc
+END
+bluetooth_property.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/144756/trunk/src/chromeos/dbus/bluetooth_property.cc
+END
+mock_cros_disks_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_cros_disks_client.cc
+END
+power_supply_status.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/133080/trunk/src/chromeos/dbus/power_supply_status.cc
+END
+mock_sms_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/141634/trunk/src/chromeos/dbus/mock_sms_client.h
+END
+power_supply_status.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/133080/trunk/src/chromeos/dbus/power_supply_status.h
+END
+flimflam_client_unittest_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/133624/trunk/src/chromeos/dbus/flimflam_client_unittest_base.cc
+END
+mock_cashew_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_cashew_client.cc
+END
+bluetooth_device_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144756/trunk/src/chromeos/dbus/bluetooth_device_client.h
+END
+flimflam_client_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/142669/trunk/src/chromeos/dbus/flimflam_client_helper.cc
+END
+mock_speech_synthesizer_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_speech_synthesizer_client.cc
+END
+modem_messaging_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/141634/trunk/src/chromeos/dbus/modem_messaging_client.cc
+END
+dbus_method_call_status.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/dbus_method_call_status.h
+END
+image_burner_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/131697/trunk/src/chromeos/dbus/image_burner_client.h
+END
+flimflam_network_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/133631/trunk/src/chromeos/dbus/flimflam_network_client.h
+END
+bluetooth_out_of_band_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/142337/trunk/src/chromeos/dbus/bluetooth_out_of_band_client.h
+END
+flimflam_device_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/142780/trunk/src/chromeos/dbus/flimflam_device_client.cc
+END
+flimflam_service_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/142669/trunk/src/chromeos/dbus/flimflam_service_client.cc
+END
+debug_daemon_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144185/trunk/src/chromeos/dbus/debug_daemon_client.cc
+END
+cashew_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/133160/trunk/src/chromeos/dbus/cashew_client.h
+END
+mock_bluetooth_out_of_band_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/142337/trunk/src/chromeos/dbus/mock_bluetooth_out_of_band_client.cc
+END
+mock_cros_disks_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/134632/trunk/src/chromeos/dbus/mock_cros_disks_client.h
+END
+mock_bluetooth_out_of_band_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/142337/trunk/src/chromeos/dbus/mock_bluetooth_out_of_band_client.h
+END
+mock_flimflam_profile_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_flimflam_profile_client.cc
+END
+dbus_thread_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/142337/trunk/src/chromeos/dbus/dbus_thread_manager.cc
+END
+speech_synthesizer_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/speech_synthesizer_client.h
+END
+bluetooth_agent_service_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/bluetooth_agent_service_provider.h
+END
+mock_debug_daemon_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_debug_daemon_client.cc
+END
+mock_gsm_sms_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/141634/trunk/src/chromeos/dbus/mock_gsm_sms_client.h
+END
+mock_dbus_thread_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/142352/trunk/src/chromeos/dbus/mock_dbus_thread_manager.cc
+END
+cros_disks_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/135449/trunk/src/chromeos/dbus/cros_disks_client.cc
+END
+sms_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/141634/trunk/src/chromeos/dbus/sms_client.h
+END
+gsm_sms_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/141634/trunk/src/chromeos/dbus/gsm_sms_client_unittest.cc
+END
+gsm_sms_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/142441/trunk/src/chromeos/dbus/gsm_sms_client.cc
+END
+mock_modem_messaging_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/141634/trunk/src/chromeos/dbus/mock_modem_messaging_client.h
+END
+mock_bluetooth_manager_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_bluetooth_manager_client.h
+END
+bluetooth_property.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/144756/trunk/src/chromeos/dbus/bluetooth_property.h
+END
+introspectable_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/139520/trunk/src/chromeos/dbus/introspectable_client_unittest.cc
+END
+speech_synthesizer_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/speech_synthesizer_client.cc
+END
+mock_flimflam_ipconfig_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/133146/trunk/src/chromeos/dbus/mock_flimflam_ipconfig_client.h
+END
+mock_bluetooth_adapter_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/140334/trunk/src/chromeos/dbus/mock_bluetooth_adapter_client.h
+END
+mock_flimflam_device_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/133624/trunk/src/chromeos/dbus/mock_flimflam_device_client.h
+END
+mock_flimflam_service_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/133631/trunk/src/chromeos/dbus/mock_flimflam_service_client.h
+END
+mock_bluetooth_node_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_bluetooth_node_client.cc
+END
+mock_cashew_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/133160/trunk/src/chromeos/dbus/mock_cashew_client.h
+END
+cryptohome_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/131697/trunk/src/chromeos/dbus/cryptohome_client.h
+END
+mock_flimflam_manager_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/133902/trunk/src/chromeos/dbus/mock_flimflam_manager_client.h
+END
+image_burner_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/131697/trunk/src/chromeos/dbus/image_burner_client.cc
+END
+flimflam_ipconfig_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/133146/trunk/src/chromeos/dbus/flimflam_ipconfig_client_unittest.cc
+END
+mock_image_burner_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_image_burner_client.cc
+END
+flimflam_profile_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/132502/trunk/src/chromeos/dbus/flimflam_profile_client.h
+END
+blocking_method_caller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/140161/trunk/src/chromeos/dbus/blocking_method_caller.cc
+END
+bluetooth_node_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144756/trunk/src/chromeos/dbus/bluetooth_node_client.h
+END
+mock_flimflam_ipconfig_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_flimflam_ipconfig_client.cc
+END
+mock_bluetooth_adapter_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_bluetooth_adapter_client.cc
+END
+bluetooth_agent_service_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/bluetooth_agent_service_provider.cc
+END
+introspectable_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/139520/trunk/src/chromeos/dbus/introspectable_client.h
+END
+flimflam_manager_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/141634/trunk/src/chromeos/dbus/flimflam_manager_client.cc
+END
+mock_bluetooth_device_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_bluetooth_device_client.cc
+END
+mock_bluetooth_device_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_bluetooth_device_client.h
+END
+flimflam_network_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/132937/trunk/src/chromeos/dbus/flimflam_network_client_unittest.cc
+END
+flimflam_network_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/132937/trunk/src/chromeos/dbus/flimflam_network_client.cc
+END
+cros_disks_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/143888/trunk/src/chromeos/dbus/cros_disks_client.h
+END
+flimflam_profile_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/132757/trunk/src/chromeos/dbus/flimflam_profile_client_unittest.cc
+END
+mock_modem_messaging_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/141634/trunk/src/chromeos/dbus/mock_modem_messaging_client.cc
+END
+update_engine_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/131697/trunk/src/chromeos/dbus/update_engine_client.h
+END
+mock_flimflam_network_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/132937/trunk/src/chromeos/dbus/mock_flimflam_network_client.h
+END
+session_manager_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/131697/trunk/src/chromeos/dbus/session_manager_client.cc
+END
+blocking_method_caller.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/blocking_method_caller.h
+END
+introspectable_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/139520/trunk/src/chromeos/dbus/introspectable_client.cc
+END
+session_manager_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/131697/trunk/src/chromeos/dbus/session_manager_client.h
+END
+mock_flimflam_device_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/132538/trunk/src/chromeos/dbus/mock_flimflam_device_client.cc
+END
+flimflam_manager_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/133902/trunk/src/chromeos/dbus/flimflam_manager_client_unittest.cc
+END
+mock_update_engine_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/131697/trunk/src/chromeos/dbus/mock_update_engine_client.h
+END
+mock_debug_daemon_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/144185/trunk/src/chromeos/dbus/mock_debug_daemon_client.h
+END
+bluetooth_input_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/143596/trunk/src/chromeos/dbus/bluetooth_input_client.cc
+END
+mock_bluetooth_node_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_bluetooth_node_client.h
+END
+mock_introspectable_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_introspectable_client.h
+END
+mock_cryptohome_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_cryptohome_client.cc
+END
+flimflam_profile_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/132937/trunk/src/chromeos/dbus/flimflam_profile_client.cc
+END
+mock_bluetooth_manager_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_bluetooth_manager_client.cc
+END
+debug_daemon_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/144185/trunk/src/chromeos/dbus/debug_daemon_client.h
+END
+mock_flimflam_service_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/132756/trunk/src/chromeos/dbus/mock_flimflam_service_client.cc
+END
+mock_gsm_sms_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/132966/trunk/src/chromeos/dbus/mock_gsm_sms_client.cc
+END
+flimflam_client_unittest_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/133624/trunk/src/chromeos/dbus/flimflam_client_unittest_base.h
+END
+bluetooth_input_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144756/trunk/src/chromeos/dbus/bluetooth_input_client.h
+END
+power_manager_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/140849/trunk/src/chromeos/dbus/power_manager_client.h
+END
+mock_dbus_thread_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/142352/trunk/src/chromeos/dbus/mock_dbus_thread_manager.h
+END
+mock_dbus_thread_manager_without_gmock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/144226/trunk/src/chromeos/dbus/mock_dbus_thread_manager_without_gmock.cc
+END
+mock_power_manager_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/140849/trunk/src/chromeos/dbus/mock_power_manager_client.h
+END
+bluetooth_manager_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/144756/trunk/src/chromeos/dbus/bluetooth_manager_client.h
+END
+bluetooth_adapter_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/143596/trunk/src/chromeos/dbus/bluetooth_adapter_client.cc
+END
+flimflam_ipconfig_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/133146/trunk/src/chromeos/dbus/flimflam_ipconfig_client.cc
+END
+bluetooth_adapter_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/144756/trunk/src/chromeos/dbus/bluetooth_adapter_client.h
+END
+flimflam_ipconfig_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/133631/trunk/src/chromeos/dbus/flimflam_ipconfig_client.h
+END
+update_engine_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/131697/trunk/src/chromeos/dbus/update_engine_client.cc
+END
+cashew_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/133160/trunk/src/chromeos/dbus/cashew_client.cc
+END
+mock_sms_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141634/trunk/src/chromeos/dbus/mock_sms_client.cc
+END
+mock_flimflam_profile_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/132502/trunk/src/chromeos/dbus/mock_flimflam_profile_client.h
+END
+dbus_thread_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/142337/trunk/src/chromeos/dbus/dbus_thread_manager.h
+END
+power_manager_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/140849/trunk/src/chromeos/dbus/power_manager_client.cc
+END
+mock_introspectable_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_introspectable_client.cc
+END
+mock_session_manager_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/131697/trunk/src/chromeos/dbus/mock_session_manager_client.h
+END
+mock_speech_synthesizer_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_speech_synthesizer_client.h
+END
+cryptohome_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/131697/trunk/src/chromeos/dbus/cryptohome_client.cc
+END
+modem_messaging_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141634/trunk/src/chromeos/dbus/modem_messaging_client_unittest.cc
+END
+mock_dbus_thread_manager_without_gmock.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/144226/trunk/src/chromeos/dbus/mock_dbus_thread_manager_without_gmock.h
+END
+sms_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/142441/trunk/src/chromeos/dbus/sms_client.cc
+END
+flimflam_device_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/133624/trunk/src/chromeos/dbus/flimflam_device_client_unittest.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/DEPS
+END
+flimflam_service_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/133631/trunk/src/chromeos/dbus/flimflam_service_client.h
+END
+gsm_sms_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/141634/trunk/src/chromeos/dbus/gsm_sms_client.h
+END
+blocking_method_caller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/blocking_method_caller_unittest.cc
+END
+mock_update_engine_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_update_engine_client.cc
+END
+flimflam_manager_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/133902/trunk/src/chromeos/dbus/flimflam_manager_client.h
+END
+bluetooth_device_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/143596/trunk/src/chromeos/dbus/bluetooth_device_client.cc
+END
+mock_session_manager_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/131065/trunk/src/chromeos/dbus/mock_session_manager_client.cc
+END
+flimflam_client_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/142669/trunk/src/chromeos/dbus/flimflam_client_helper.h
+END
+mock_flimflam_manager_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/131731/trunk/src/chromeos/dbus/mock_flimflam_manager_client.cc
+END

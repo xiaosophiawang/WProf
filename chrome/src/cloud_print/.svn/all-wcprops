@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/144492/trunk/src/cloud_print
+END
+cloud_print.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/140737/trunk/src/cloud_print/cloud_print.gyp
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/144296/trunk/src/cloud_print/DEPS
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/139756/trunk/src/cloud_print/OWNERS
+END

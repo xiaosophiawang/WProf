@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144282/trunk/src/chrome/test/data/webui/net_internals
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/133700/trunk/src/chrome/test/data/webui/net_internals/main.js
+END
+net_internals_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/144282/trunk/src/chrome/test/data/webui/net_internals/net_internals_test.js
+END
+test_view.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/117806/trunk/src/chrome/test/data/webui/net_internals/test_view.js
+END
+hsts_view.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/134754/trunk/src/chrome/test/data/webui/net_internals/hsts_view.js
+END
+log_view_painter.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/142448/trunk/src/chrome/test/data/webui/net_internals/log_view_painter.js
+END
+dns_view.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/124109/trunk/src/chrome/test/data/webui/net_internals/dns_view.js
+END
+http_pipeline_view.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/117806/trunk/src/chrome/test/data/webui/net_internals/http_pipeline_view.js
+END
+log_util.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144282/trunk/src/chrome/test/data/webui/net_internals/log_util.js
+END
+prerender_view.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/128658/trunk/src/chrome/test/data/webui/net_internals/prerender_view.js
+END
+timeline_view.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/141180/trunk/src/chrome/test/data/webui/net_internals/timeline_view.js
+END

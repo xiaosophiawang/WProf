@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/139685/trunk/src/chrome/browser/extensions/api/discovery
+END
+suggested_links_registry_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/137735/trunk/src/chrome/browser/extensions/api/discovery/suggested_links_registry_factory.h
+END
+discovery_api_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/139273/trunk/src/chrome/browser/extensions/api/discovery/discovery_api_unittest.cc
+END
+discovery_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/137735/trunk/src/chrome/browser/extensions/api/discovery/discovery_api.cc
+END
+discovery_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/137735/trunk/src/chrome/browser/extensions/api/discovery/discovery_api.h
+END
+suggested_links_registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/139685/trunk/src/chrome/browser/extensions/api/discovery/suggested_links_registry.cc
+END
+suggested_links_registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/139685/trunk/src/chrome/browser/extensions/api/discovery/suggested_links_registry.h
+END
+suggested_link.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/137735/trunk/src/chrome/browser/extensions/api/discovery/suggested_link.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/139685/trunk/src/chrome/browser/extensions/api/discovery/OWNERS
+END
+suggested_link.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/137735/trunk/src/chrome/browser/extensions/api/discovery/suggested_link.h
+END
+suggested_links_registry_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/137735/trunk/src/chrome/browser/extensions/api/discovery/suggested_links_registry_factory.cc
+END

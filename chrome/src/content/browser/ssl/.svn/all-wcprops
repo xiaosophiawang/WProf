@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/144340/trunk/src/content/browser/ssl
+END
+ssl_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/143113/trunk/src/content/browser/ssl/ssl_manager.cc
+END
+ssl_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/143113/trunk/src/content/browser/ssl/ssl_manager.h
+END
+ssl_host_state_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/144340/trunk/src/content/browser/ssl/ssl_host_state_unittest.cc
+END
+ssl_host_state.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144340/trunk/src/content/browser/ssl/ssl_host_state.cc
+END
+ssl_host_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144340/trunk/src/content/browser/ssl/ssl_host_state.h
+END
+ssl_error_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/139771/trunk/src/content/browser/ssl/ssl_error_handler.cc
+END
+ssl_error_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144086/trunk/src/content/browser/ssl/ssl_error_handler.h
+END
+ssl_client_auth_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/142108/trunk/src/content/browser/ssl/ssl_client_auth_handler.cc
+END
+ssl_client_auth_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/143174/trunk/src/content/browser/ssl/ssl_client_auth_handler.h
+END
+ssl_policy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/137349/trunk/src/content/browser/ssl/ssl_policy.cc
+END
+ssl_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/137349/trunk/src/content/browser/ssl/ssl_policy.h
+END
+ssl_cert_error_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/139771/trunk/src/content/browser/ssl/ssl_cert_error_handler.cc
+END
+ssl_request_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/102415/trunk/src/content/browser/ssl/ssl_request_info.cc
+END
+ssl_cert_error_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/139771/trunk/src/content/browser/ssl/ssl_cert_error_handler.h
+END
+ssl_request_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/102415/trunk/src/content/browser/ssl/ssl_request_info.h
+END
+ssl_policy_backend.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/131634/trunk/src/content/browser/ssl/ssl_policy_backend.cc
+END
+ssl_policy_backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/116288/trunk/src/content/browser/ssl/ssl_policy_backend.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/89041/trunk/src/content/browser/ssl/OWNERS
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/130849/trunk/src/ppapi/examples/video_capture
+END
+video_capture.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/122176/trunk/src/ppapi/examples/video_capture/video_capture.html
+END
+video_capture.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/130849/trunk/src/ppapi/examples/video_capture/video_capture.cc
+END

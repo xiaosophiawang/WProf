@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/42045/trunk/src/third_party/simplejson
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/42045/trunk/src/third_party/simplejson/README.chromium
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/37048/trunk/src/third_party/simplejson/LICENSE.txt
+END
+scanner.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/22434/trunk/src/third_party/simplejson/scanner.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/22434/trunk/src/third_party/simplejson/__init__.py
+END
+encoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/22434/trunk/src/third_party/simplejson/encoder.py
+END
+jsonfilter.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/22434/trunk/src/third_party/simplejson/jsonfilter.py
+END
+_speedups.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/22434/trunk/src/third_party/simplejson/_speedups.c
+END
+decoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/22434/trunk/src/third_party/simplejson/decoder.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/130436/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_var
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/130436/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_var/nacl.scons
+END
+ppapi_ppb_var.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/98158/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_var/ppapi_ppb_var.html
+END
+ppapi_ppb_var.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/113768/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_var/ppapi_ppb_var.cc
+END

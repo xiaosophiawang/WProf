@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/145161/trunk/src/chrome/browser/chromeos/kiosk_mode
+END
+kiosk_mode_idle_logout.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/131065/trunk/src/chrome/browser/chromeos/kiosk_mode/kiosk_mode_idle_logout.h
+END
+kiosk_mode_metrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/138777/trunk/src/chrome/browser/chromeos/kiosk_mode/kiosk_mode_metrics.h
+END
+mock_kiosk_mode_settings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/130339/trunk/src/chrome/browser/chromeos/kiosk_mode/mock_kiosk_mode_settings.cc
+END
+mock_kiosk_mode_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/130656/trunk/src/chrome/browser/chromeos/kiosk_mode/mock_kiosk_mode_settings.h
+END
+kiosk_mode_screensaver_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/chromeos/kiosk_mode/kiosk_mode_screensaver_unittest.cc
+END
+kiosk_mode_settings_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/chromeos/kiosk_mode/kiosk_mode_settings_unittest.cc
+END
+kiosk_mode_screensaver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/145161/trunk/src/chrome/browser/chromeos/kiosk_mode/kiosk_mode_screensaver.cc
+END
+kiosk_mode_settings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/139035/trunk/src/chrome/browser/chromeos/kiosk_mode/kiosk_mode_settings.cc
+END
+kiosk_mode_screensaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/138074/trunk/src/chrome/browser/chromeos/kiosk_mode/kiosk_mode_screensaver.h
+END
+kiosk_mode_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/130724/trunk/src/chrome/browser/chromeos/kiosk_mode/kiosk_mode_settings.h
+END
+kiosk_mode_idle_logout_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/chromeos/kiosk_mode/kiosk_mode_idle_logout_unittest.cc
+END
+kiosk_mode_idle_logout.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/131065/trunk/src/chrome/browser/chromeos/kiosk_mode/kiosk_mode_idle_logout.cc
+END
+kiosk_mode_metrics.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/138777/trunk/src/chrome/browser/chromeos/kiosk_mode/kiosk_mode_metrics.cc
+END

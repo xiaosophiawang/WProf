@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/dri/sis/server
+END
+sis_dri.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/dri/sis/server/sis_dri.h
+END
+sis_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/drivers/dri/sis/server/sis_common.h
+END

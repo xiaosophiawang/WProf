@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/135711/trunk/src/chrome/browser/resources/web_dev_style
+END
+css_checker.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/133108/trunk/src/chrome/browser/resources/web_dev_style/css_checker.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/122054/trunk/src/chrome/browser/resources/web_dev_style/__init__.py
+END
+js_checker.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/135711/trunk/src/chrome/browser/resources/web_dev_style/js_checker.py
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/133623/trunk/src/chrome/browser/resources/web_dev_style/OWNERS
+END

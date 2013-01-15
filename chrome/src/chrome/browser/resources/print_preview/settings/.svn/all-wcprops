@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/143789/trunk/src/chrome/browser/resources/print_preview/settings
+END
+other_options_settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/141925/trunk/src/chrome/browser/resources/print_preview/settings/other_options_settings.html
+END
+page_settings.css
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/139820/trunk/src/chrome/browser/resources/print_preview/settings/page_settings.css
+END
+other_options_settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/141925/trunk/src/chrome/browser/resources/print_preview/settings/other_options_settings.js
+END
+destination_settings.css
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/143789/trunk/src/chrome/browser/resources/print_preview/settings/destination_settings.css
+END
+copies_settings.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/139820/trunk/src/chrome/browser/resources/print_preview/settings/copies_settings.css
+END
+page_settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/138737/trunk/src/chrome/browser/resources/print_preview/settings/page_settings.html
+END
+margin_settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/138737/trunk/src/chrome/browser/resources/print_preview/settings/margin_settings.html
+END
+layout_settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/138737/trunk/src/chrome/browser/resources/print_preview/settings/layout_settings.html
+END
+color_settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/138737/trunk/src/chrome/browser/resources/print_preview/settings/color_settings.html
+END
+destination_settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/141926/trunk/src/chrome/browser/resources/print_preview/settings/destination_settings.html
+END
+copies_settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/141925/trunk/src/chrome/browser/resources/print_preview/settings/copies_settings.html
+END
+page_settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/139820/trunk/src/chrome/browser/resources/print_preview/settings/page_settings.js
+END
+margin_settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/139820/trunk/src/chrome/browser/resources/print_preview/settings/margin_settings.js
+END
+layout_settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/138737/trunk/src/chrome/browser/resources/print_preview/settings/layout_settings.js
+END
+color_settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/138737/trunk/src/chrome/browser/resources/print_preview/settings/color_settings.js
+END
+destination_settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/141926/trunk/src/chrome/browser/resources/print_preview/settings/destination_settings.js
+END
+copies_settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/141925/trunk/src/chrome/browser/resources/print_preview/settings/copies_settings.js
+END

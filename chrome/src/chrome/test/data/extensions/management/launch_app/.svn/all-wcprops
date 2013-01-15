@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/116289/trunk/src/chrome/test/data/extensions/management/launch_app
+END
+background.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/60334/trunk/src/chrome/test/data/extensions/management/launch_app/background.html
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/113141/trunk/src/chrome/test/data/extensions/management/launch_app/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/116289/trunk/src/chrome/test/data/extensions/management/launch_app/manifest.json
+END

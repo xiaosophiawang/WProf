@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/141322/trunk/src/content/test/data/indexeddb
+END
+cursor_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/cursor_test.html
+END
+bug_106883.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/bug_106883.js
+END
+object_store_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/object_store_test.html
+END
+key_types_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/141322/trunk/src/content/test/data/indexeddb/key_types_test.js
+END
+transaction_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/transaction_test.html
+END
+cursor_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/135459/trunk/src/content/test/data/indexeddb/cursor_test.js
+END
+bug_84933.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/bug_84933.html
+END
+object_store_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141322/trunk/src/content/test/data/indexeddb/object_store_test.js
+END
+transaction_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/135459/trunk/src/content/test/data/indexeddb/transaction_test.js
+END
+database_callbacks_second.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/database_callbacks_second.html
+END
+bug_84933.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/bug_84933.js
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/common.js
+END
+value_size_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/129087/trunk/src/content/test/data/indexeddb/value_size_test.html
+END
+bug_109187.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/bug_109187.html
+END
+index_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/index_test.html
+END
+database_callbacks_first.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/database_callbacks_first.html
+END
+value_size_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/141322/trunk/src/content/test/data/indexeddb/value_size_test.js
+END
+index_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/index_test.js
+END
+bug_109187.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/bug_109187.js
+END
+transaction_get_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/transaction_get_test.html
+END
+quota_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/quota_test.html
+END
+transaction_get_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/141250/trunk/src/content/test/data/indexeddb/transaction_get_test.js
+END
+cursor_prefetch.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/cursor_prefetch.html
+END
+quota_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/135459/trunk/src/content/test/data/indexeddb/quota_test.js
+END
+transaction_run_forever.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/transaction_run_forever.html
+END
+key_path_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/key_path_test.html
+END
+database_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/database_test.html
+END
+cursor_prefetch.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/135459/trunk/src/content/test/data/indexeddb/cursor_prefetch.js
+END
+bug_106883.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/bug_106883.html
+END
+transaction_run_forever.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/135459/trunk/src/content/test/data/indexeddb/transaction_run_forever.js
+END
+key_types_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/key_types_test.html
+END
+key_path_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/135459/trunk/src/content/test/data/indexeddb/key_path_test.js
+END
+database_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/128285/trunk/src/content/test/data/indexeddb/database_test.js
+END

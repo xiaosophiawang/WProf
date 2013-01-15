@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/145141/trunk/src/chrome/browser/ui/cocoa/content_settings
+END
+collected_cookies_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/141421/trunk/src/chrome/browser/ui/cocoa/content_settings/collected_cookies_mac.h
+END
+cookie_details_view_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/71958/trunk/src/chrome/browser/ui/cocoa/content_settings/cookie_details_view_controller_unittest.mm
+END
+cookie_tree_node.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/content_settings/cookie_tree_node.h
+END
+cookie_details_view_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/118293/trunk/src/chrome/browser/ui/cocoa/content_settings/cookie_details_view_controller.mm
+END
+cookie_details_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/141501/trunk/src/chrome/browser/ui/cocoa/content_settings/cookie_details_unittest.mm
+END
+cookie_details.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/141501/trunk/src/chrome/browser/ui/cocoa/content_settings/cookie_details.mm
+END
+content_setting_bubble_cocoa_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/143918/trunk/src/chrome/browser/ui/cocoa/content_settings/content_setting_bubble_cocoa_unittest.mm
+END
+content_setting_bubble_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/143893/trunk/src/chrome/browser/ui/cocoa/content_settings/content_setting_bubble_cocoa.mm
+END
+cookie_details_view_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/127076/trunk/src/chrome/browser/ui/cocoa/content_settings/cookie_details_view_controller.h
+END
+collected_cookies_mac_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/141421/trunk/src/chrome/browser/ui/cocoa/content_settings/collected_cookies_mac_unittest.mm
+END
+collected_cookies_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/145141/trunk/src/chrome/browser/ui/cocoa/content_settings/collected_cookies_mac.mm
+END
+cookie_details.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/130359/trunk/src/chrome/browser/ui/cocoa/content_settings/cookie_details.h
+END
+cookie_tree_node.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/77592/trunk/src/chrome/browser/ui/cocoa/content_settings/cookie_tree_node.mm
+END
+content_setting_bubble_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/143893/trunk/src/chrome/browser/ui/cocoa/content_settings/content_setting_bubble_cocoa.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/71958/trunk/src/chrome/browser/ui/cocoa/content_settings/OWNERS
+END

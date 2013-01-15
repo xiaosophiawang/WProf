@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/145383/trunk/src/chrome/installer
+END
+mini_installer.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/139181/trunk/src/chrome/installer/mini_installer.gypi
+END
+upgrade_test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/119950/trunk/src/chrome/installer/upgrade_test.gyp
+END
+mini_installer_syzygy.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/119950/trunk/src/chrome/installer/mini_installer_syzygy.gyp
+END
+mini_installer.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/144273/trunk/src/chrome/installer/mini_installer.gyp
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/134296/trunk/src/chrome/installer/DEPS
+END
+installer_tools.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/119950/trunk/src/chrome/installer/installer_tools.gyp
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/129568/trunk/src/chrome/installer/OWNERS
+END

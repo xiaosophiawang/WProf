@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/chrome/!svn/ver/145254/trunk/src/sync/tools
+END
+sync_listen_notifications.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/145254/trunk/src/sync/tools/sync_listen_notifications.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/145254/trunk/src/sync/tools/DEPS
+END
+sync_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/145254/trunk/src/sync/tools/sync_client.cc
+END

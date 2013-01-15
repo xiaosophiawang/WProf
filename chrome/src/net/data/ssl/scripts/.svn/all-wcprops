@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/130663/trunk/src/net/data/ssl/scripts
+END
+generate-redundant-test-chains.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/124804/trunk/src/net/data/ssl/scripts/generate-redundant-test-chains.sh
+END
+ca.cnf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/114709/trunk/src/net/data/ssl/scripts/ca.cnf
+END
+generate-weak-test-chains.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/114709/trunk/src/net/data/ssl/scripts/generate-weak-test-chains.sh
+END
+redundant-ca.cnf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/124804/trunk/src/net/data/ssl/scripts/redundant-ca.cnf
+END
+ee.cnf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/130663/trunk/src/net/data/ssl/scripts/ee.cnf
+END

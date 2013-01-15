@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/49010/trunk/src/sandbox/sandbox_poc/pocdll
+END
+pocdll.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/7093/trunk/src/sandbox/sandbox_poc/pocdll/pocdll.vcproj
+END
+pocdll.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/11447/trunk/src/sandbox/sandbox_poc/pocdll/pocdll.cc
+END
+handles.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/42392/trunk/src/sandbox/sandbox_poc/pocdll/handles.cc
+END
+processes_and_threads.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/11447/trunk/src/sandbox/sandbox_poc/pocdll/processes_and_threads.cc
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/49010/trunk/src/sandbox/sandbox_poc/pocdll/utils.h
+END
+invasive.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/11342/trunk/src/sandbox/sandbox_poc/pocdll/invasive.cc
+END
+exports.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/11447/trunk/src/sandbox/sandbox_poc/pocdll/exports.h
+END
+fs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/11447/trunk/src/sandbox/sandbox_poc/pocdll/fs.cc
+END
+registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/11447/trunk/src/sandbox/sandbox_poc/pocdll/registry.cc
+END
+network.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/11447/trunk/src/sandbox/sandbox_poc/pocdll/network.cc
+END
+spyware.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/16483/trunk/src/sandbox/sandbox_poc/pocdll/spyware.cc
+END

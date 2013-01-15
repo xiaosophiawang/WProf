@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/145337/trunk/src/chrome/browser/rlz
+END
+rlz_extension_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/131491/trunk/src/chrome/browser/rlz/rlz_extension_api.cc
+END
+rlz_extension_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/134218/trunk/src/chrome/browser/rlz/rlz_extension_apitest.cc
+END
+rlz_extension_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/134218/trunk/src/chrome/browser/rlz/rlz_extension_api.h
+END
+rlz_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/145337/trunk/src/chrome/browser/rlz/rlz_unittest.cc
+END
+rlz.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/145337/trunk/src/chrome/browser/rlz/rlz.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/100743/trunk/src/chrome/browser/rlz/OWNERS
+END
+rlz.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/145337/trunk/src/chrome/browser/rlz/rlz.h
+END

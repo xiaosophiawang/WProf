@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/134415/trunk/src/media/video/capture/mac
+END
+video_capture_device_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/134415/trunk/src/media/video/capture/mac/video_capture_device_mac.mm
+END
+video_capture_device_qtkit_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/134403/trunk/src/media/video/capture/mac/video_capture_device_qtkit_mac.h
+END
+video_capture_device_qtkit_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/134415/trunk/src/media/video/capture/mac/video_capture_device_qtkit_mac.mm
+END
+video_capture_device_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/134415/trunk/src/media/video/capture/mac/video_capture_device_mac.h
+END

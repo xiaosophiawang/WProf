@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 46
+deps2git
+distcc
+grit
+gyp
+histograms
+tryserver
+
+END

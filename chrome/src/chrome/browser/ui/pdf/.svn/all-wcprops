@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/pdf
+END
+pdf_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/pdf/pdf_browsertest.cc
+END
+pdf_unsupported_feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141495/trunk/src/chrome/browser/ui/pdf/pdf_unsupported_feature.cc
+END
+pdf_unsupported_feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/141495/trunk/src/chrome/browser/ui/pdf/pdf_unsupported_feature.h
+END
+pdf_tab_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/141495/trunk/src/chrome/browser/ui/pdf/pdf_tab_observer.cc
+END
+pdf_tab_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/141495/trunk/src/chrome/browser/ui/pdf/pdf_tab_observer.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/122194/trunk/src/chrome/browser/ui/pdf/OWNERS
+END

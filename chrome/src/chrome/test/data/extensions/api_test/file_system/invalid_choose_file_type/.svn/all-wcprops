@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/144799/trunk/src/chrome/test/data/extensions/api_test/file_system/invalid_choose_file_type
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/chrome/!svn/ver/144799/trunk/src/chrome/test/data/extensions/api_test/file_system/invalid_choose_file_type/test.html
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/chrome/!svn/ver/144799/trunk/src/chrome/test/data/extensions/api_test/file_system/invalid_choose_file_type/background.js
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/144799/trunk/src/chrome/test/data/extensions/api_test/file_system/invalid_choose_file_type/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/chrome/!svn/ver/144799/trunk/src/chrome/test/data/extensions/api_test/file_system/invalid_choose_file_type/manifest.json
+END

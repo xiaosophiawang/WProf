@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/144179/trunk/src/ui/views/layout
+END
+layout_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/117012/trunk/src/ui/views/layout/layout_constants.h
+END
+grid_layout_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144179/trunk/src/ui/views/layout/grid_layout_unittest.cc
+END
+grid_layout.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/130359/trunk/src/ui/views/layout/grid_layout.cc
+END
+fill_layout.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/110787/trunk/src/ui/views/layout/fill_layout.cc
+END
+box_layout_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/123693/trunk/src/ui/views/layout/box_layout_unittest.cc
+END
+grid_layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/143791/trunk/src/ui/views/layout/grid_layout.h
+END
+box_layout.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/123693/trunk/src/ui/views/layout/box_layout.cc
+END
+fill_layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/112333/trunk/src/ui/views/layout/fill_layout.h
+END
+box_layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/123693/trunk/src/ui/views/layout/box_layout.h
+END
+layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/112333/trunk/src/ui/views/layout/layout_manager.cc
+END
+layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/112469/trunk/src/ui/views/layout/layout_manager.h
+END

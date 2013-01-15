@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/130436/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_memory
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/130436/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_memory/nacl.scons
+END
+ppapi_ppb_memory.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/98158/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_memory/ppapi_ppb_memory.html
+END
+ppapi_ppb_memory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/100755/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_memory/ppapi_ppb_memory.cc
+END

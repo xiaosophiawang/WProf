@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/87099/trunk/src/third_party/libevent/freebsd
+END
+event-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/87099/trunk/src/third_party/libevent/freebsd/event-config.h
+END

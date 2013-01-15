@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/101602/trunk/src/chrome/test/data/autofill/merge/output
+END
+multimerge.out
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/101602/trunk/src/chrome/test/data/autofill/merge/output/multimerge.out
+END
+validation.out
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/101602/trunk/src/chrome/test/data/autofill/merge/output/validation.out
+END
+ambiguous.out
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/81425/trunk/src/chrome/test/data/autofill/merge/output/ambiguous.out
+END
+case.out
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/101602/trunk/src/chrome/test/data/autofill/merge/output/case.out
+END
+identical.out
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/101602/trunk/src/chrome/test/data/autofill/merge/output/identical.out
+END
+primarycase.out
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/101602/trunk/src/chrome/test/data/autofill/merge/output/primarycase.out
+END
+singlemerge.out
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/101602/trunk/src/chrome/test/data/autofill/merge/output/singlemerge.out
+END
+email.out
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/85489/trunk/src/chrome/test/data/autofill/merge/output/email.out
+END

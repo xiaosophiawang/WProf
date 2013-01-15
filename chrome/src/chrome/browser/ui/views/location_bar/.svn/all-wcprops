@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/145259/trunk/src/chrome/browser/ui/views/location_bar
+END
+icon_label_bubble_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/144970/trunk/src/chrome/browser/ui/views/location_bar/icon_label_bubble_view.cc
+END
+location_bar_container.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/144763/trunk/src/chrome/browser/ui/views/location_bar/location_bar_container.cc
+END
+chrome_to_mobile_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/145117/trunk/src/chrome/browser/ui/views/location_bar/chrome_to_mobile_view.cc
+END
+keyword_hint_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/143605/trunk/src/chrome/browser/ui/views/location_bar/keyword_hint_view.cc
+END
+star_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/145117/trunk/src/chrome/browser/ui/views/location_bar/star_view.cc
+END
+content_setting_image_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/142124/trunk/src/chrome/browser/ui/views/location_bar/content_setting_image_view.cc
+END
+star_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/142124/trunk/src/chrome/browser/ui/views/location_bar/star_view.h
+END
+page_action_image_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/144609/trunk/src/chrome/browser/ui/views/location_bar/page_action_image_view.cc
+END
+content_setting_image_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/142124/trunk/src/chrome/browser/ui/views/location_bar/content_setting_image_view.h
+END
+location_bar_container_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/143902/trunk/src/chrome/browser/ui/views/location_bar/location_bar_container_aura.cc
+END
+page_action_image_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/143733/trunk/src/chrome/browser/ui/views/location_bar/page_action_image_view.h
+END
+location_icon_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/142124/trunk/src/chrome/browser/ui/views/location_bar/location_icon_view.cc
+END
+action_box_button_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/139586/trunk/src/chrome/browser/ui/views/location_bar/action_box_button_view.cc
+END
+location_bar_container_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/143902/trunk/src/chrome/browser/ui/views/location_bar/location_bar_container_win.cc
+END
+touchable_location_bar_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/142124/trunk/src/chrome/browser/ui/views/location_bar/touchable_location_bar_view.cc
+END
+zoom_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/145259/trunk/src/chrome/browser/ui/views/location_bar/zoom_view.h
+END
+page_action_with_badge_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/142124/trunk/src/chrome/browser/ui/views/location_bar/page_action_with_badge_view.h
+END
+suggested_text_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/143836/trunk/src/chrome/browser/ui/views/location_bar/suggested_text_view.cc
+END
+selected_keyword_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/133306/trunk/src/chrome/browser/ui/views/location_bar/selected_keyword_view.h
+END
+page_info_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/141463/trunk/src/chrome/browser/ui/views/location_bar/page_info_helper.h
+END
+location_bar_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/145259/trunk/src/chrome/browser/ui/views/location_bar/location_bar_view.h
+END
+zoom_bubble_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/145259/trunk/src/chrome/browser/ui/views/location_bar/zoom_bubble_view.cc
+END
+zoom_bubble_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/145259/trunk/src/chrome/browser/ui/views/location_bar/zoom_bubble_view.h
+END
+icon_label_bubble_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/144970/trunk/src/chrome/browser/ui/views/location_bar/icon_label_bubble_view.h
+END
+location_bar_container.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/144763/trunk/src/chrome/browser/ui/views/location_bar/location_bar_container.h
+END
+chrome_to_mobile_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/144597/trunk/src/chrome/browser/ui/views/location_bar/chrome_to_mobile_view.h
+END
+keyword_hint_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/112333/trunk/src/chrome/browser/ui/views/location_bar/keyword_hint_view.h
+END
+location_icon_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/142124/trunk/src/chrome/browser/ui/views/location_bar/location_icon_view.h
+END
+action_box_button_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/139586/trunk/src/chrome/browser/ui/views/location_bar/action_box_button_view.h
+END
+touchable_location_bar_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/142124/trunk/src/chrome/browser/ui/views/location_bar/touchable_location_bar_view.h
+END
+zoom_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/145259/trunk/src/chrome/browser/ui/views/location_bar/zoom_view.cc
+END
+ev_bubble_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/141463/trunk/src/chrome/browser/ui/views/location_bar/ev_bubble_view.cc
+END
+page_action_with_badge_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/142124/trunk/src/chrome/browser/ui/views/location_bar/page_action_with_badge_view.cc
+END
+ev_bubble_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/141463/trunk/src/chrome/browser/ui/views/location_bar/ev_bubble_view.h
+END
+selected_keyword_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/133956/trunk/src/chrome/browser/ui/views/location_bar/selected_keyword_view.cc
+END
+page_info_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/142507/trunk/src/chrome/browser/ui/views/location_bar/page_info_helper.cc
+END
+location_bar_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/145259/trunk/src/chrome/browser/ui/views/location_bar/location_bar_view.cc
+END
+suggested_text_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/143836/trunk/src/chrome/browser/ui/views/location_bar/suggested_text_view.h
+END

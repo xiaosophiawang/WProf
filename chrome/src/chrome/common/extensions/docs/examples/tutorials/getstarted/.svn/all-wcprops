@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/119617/trunk/src/chrome/common/extensions/docs/examples/tutorials/getstarted
+END
+popup.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/119617/trunk/src/chrome/common/extensions/docs/examples/tutorials/getstarted/popup.html
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/75434/trunk/src/chrome/common/extensions/docs/examples/tutorials/getstarted/icon.png
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/119221/trunk/src/chrome/common/extensions/docs/examples/tutorials/getstarted/manifest.json
+END
+popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/119221/trunk/src/chrome/common/extensions/docs/examples/tutorials/getstarted/popup.js
+END

@@ -1,0 +1,683 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/145073/trunk/src/chrome/browser/autofill
+END
+autofill_popup_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/141947/trunk/src/chrome/browser/autofill/autofill_popup_view.cc
+END
+autofill_merge_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/autofill_merge_unittest.cc
+END
+personal_data_manager_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/137014/trunk/src/chrome/browser/autofill/personal_data_manager_factory.cc
+END
+autofill_profile.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/142142/trunk/src/chrome/browser/autofill/autofill_profile.cc
+END
+autofill_profile.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/118750/trunk/src/chrome/browser/autofill/autofill_profile.h
+END
+autofill_metrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/99447/trunk/src/chrome/browser/autofill/autofill_metrics.h
+END
+autofill_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/143385/trunk/src/chrome/browser/autofill/autofill_manager.cc
+END
+autofill_xml_parser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/108065/trunk/src/chrome/browser/autofill/autofill_xml_parser.cc
+END
+select_control_handler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/select_control_handler_unittest.cc
+END
+test_autofill_external_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/141221/trunk/src/chrome/browser/autofill/test_autofill_external_delegate.h
+END
+autofill_xml_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/140501/trunk/src/chrome/browser/autofill/autofill_xml_parser.h
+END
+phone_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/139172/trunk/src/chrome/browser/autofill/phone_field.h
+END
+autofill_type.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/104583/trunk/src/chrome/browser/autofill/autofill_type.cc
+END
+autofill_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/autofill/autofill_browsertest.cc
+END
+autofill_external_delegate_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/141221/trunk/src/chrome/browser/autofill/autofill_external_delegate_gtk.h
+END
+form_structure.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/145073/trunk/src/chrome/browser/autofill/form_structure.cc
+END
+phone_number.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/106822/trunk/src/chrome/browser/autofill/phone_number.h
+END
+autofill_ie_toolbar_import_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/126872/trunk/src/chrome/browser/autofill/autofill_ie_toolbar_import_win_unittest.cc
+END
+address.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/104583/trunk/src/chrome/browser/autofill/address.cc
+END
+form_structure.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/form_structure.h
+END
+autofill_scanner.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/88243/trunk/src/chrome/browser/autofill/autofill_scanner.cc
+END
+address_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/101236/trunk/src/chrome/browser/autofill/address_field.cc
+END
+email_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/101236/trunk/src/chrome/browser/autofill/email_field.cc
+END
+autofill_profile_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/142142/trunk/src/chrome/browser/autofill/autofill_profile_unittest.cc
+END
+autofill_regexes.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/101224/trunk/src/chrome/browser/autofill/autofill_regexes.cc
+END
+autofill_popup_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/138860/trunk/src/chrome/browser/autofill/autofill_popup_unittest.cc
+END
+autofill-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/118750/trunk/src/chrome/browser/autofill/autofill-inl.h
+END
+autofill_country_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/77402/trunk/src/chrome/browser/autofill/autofill_country_unittest.cc
+END
+autofill_country.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/142066/trunk/src/chrome/browser/autofill/autofill_country.cc
+END
+credit_card.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/142142/trunk/src/chrome/browser/autofill/credit_card.cc
+END
+autofill_metrics_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/141221/trunk/src/chrome/browser/autofill/autofill_metrics_unittest.cc
+END
+autofill_download_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/143085/trunk/src/chrome/browser/autofill/autofill_download_unittest.cc
+END
+credit_card.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/118750/trunk/src/chrome/browser/autofill/credit_card.h
+END
+credit_card_field_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/credit_card_field_unittest.cc
+END
+autofill_download.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/142926/trunk/src/chrome/browser/autofill/autofill_download.cc
+END
+credit_card_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/103085/trunk/src/chrome/browser/autofill/credit_card_field.cc
+END
+password_generator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/140812/trunk/src/chrome/browser/autofill/password_generator_unittest.cc
+END
+autofill_xml_parser_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/134065/trunk/src/chrome/browser/autofill/autofill_xml_parser_unittest.cc
+END
+personal_data_manager_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/142142/trunk/src/chrome/browser/autofill/personal_data_manager_mac.mm
+END
+phone_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/101602/trunk/src/chrome/browser/autofill/phone_field.cc
+END
+autofill_cc_infobar_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/138379/trunk/src/chrome/browser/autofill/autofill_cc_infobar_delegate.cc
+END
+select_control_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/select_control_handler.h
+END
+autofill_feedback_infobar_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/110225/trunk/src/chrome/browser/autofill/autofill_feedback_infobar_delegate.h
+END
+personal_data_manager_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/98060/trunk/src/chrome/browser/autofill/personal_data_manager_observer.h
+END
+phone_number_i18n_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/autofill/phone_number_i18n_unittest.cc
+END
+autofill_external_delegate_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/141221/trunk/src/chrome/browser/autofill/autofill_external_delegate_gtk.cc
+END
+phone_number_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/111768/trunk/src/chrome/browser/autofill/phone_number_unittest.cc
+END
+form_structure_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/form_structure_unittest.cc
+END
+name_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/101236/trunk/src/chrome/browser/autofill/name_field.cc
+END
+autofill_ie_toolbar_import_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/126872/trunk/src/chrome/browser/autofill/autofill_ie_toolbar_import_win.cc
+END
+name_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/95865/trunk/src/chrome/browser/autofill/name_field.h
+END
+autofill_common_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/autofill_common_test.cc
+END
+autofill_regex_constants.cc.utf8
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/112251/trunk/src/chrome/browser/autofill/autofill_regex_constants.cc.utf8
+END
+password_autofill_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/134266/trunk/src/chrome/browser/autofill/password_autofill_manager.cc
+END
+email_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/95865/trunk/src/chrome/browser/autofill/email_field.h
+END
+password_autofill_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/134266/trunk/src/chrome/browser/autofill/password_autofill_manager.h
+END
+autofill_popup_view_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/autofill/autofill_popup_view_browsertest.cc
+END
+personal_data_manager_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/102598/trunk/src/chrome/browser/autofill/personal_data_manager_factory.h
+END
+credit_card_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/98526/trunk/src/chrome/browser/autofill/credit_card_unittest.cc
+END
+autofill_country.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/106822/trunk/src/chrome/browser/autofill/autofill_country.h
+END
+contact_info_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/103241/trunk/src/chrome/browser/autofill/contact_info_unittest.cc
+END
+autofill_metrics.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/123905/trunk/src/chrome/browser/autofill/autofill_metrics.cc
+END
+form_field_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/111768/trunk/src/chrome/browser/autofill/form_field_unittest.cc
+END
+personal_data_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/142142/trunk/src/chrome/browser/autofill/personal_data_manager_unittest.cc
+END
+contact_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/103241/trunk/src/chrome/browser/autofill/contact_info.cc
+END
+form_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/101602/trunk/src/chrome/browser/autofill/form_field.cc
+END
+personal_data_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/145073/trunk/src/chrome/browser/autofill/personal_data_manager.cc
+END
+autofill_download.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/138384/trunk/src/chrome/browser/autofill/autofill_download.h
+END
+credit_card_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/97174/trunk/src/chrome/browser/autofill/credit_card_field.h
+END
+password_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/140812/trunk/src/chrome/browser/autofill/password_generator.h
+END
+autofill_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/143069/trunk/src/chrome/browser/autofill/autofill_manager.h
+END
+autofill_external_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/141287/trunk/src/chrome/browser/autofill/autofill_external_delegate.cc
+END
+autofill_external_delegate_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/141221/trunk/src/chrome/browser/autofill/autofill_external_delegate_android.cc
+END
+select_control_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/select_control_handler.cc
+END
+autofill_external_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/141287/trunk/src/chrome/browser/autofill/autofill_external_delegate.h
+END
+autofill_type_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/104583/trunk/src/chrome/browser/autofill/autofill_type_unittest.cc
+END
+form_group.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/104045/trunk/src/chrome/browser/autofill/form_group.cc
+END
+autofill_cc_infobar_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/110225/trunk/src/chrome/browser/autofill/autofill_cc_infobar_delegate.h
+END
+autofill_field_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/77307/trunk/src/chrome/browser/autofill/autofill_field_unittest.cc
+END
+form_group.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/104045/trunk/src/chrome/browser/autofill/form_group.h
+END
+phone_number.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/106822/trunk/src/chrome/browser/autofill/phone_number.cc
+END
+autofill_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/autofill_field.cc
+END
+name_field_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/name_field_unittest.cc
+END
+phone_number_i18n.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/106414/trunk/src/chrome/browser/autofill/phone_number_i18n.h
+END
+form_structure_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/autofill/form_structure_browsertest.cc
+END
+address_field_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/address_field_unittest.cc
+END
+address.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/93582/trunk/src/chrome/browser/autofill/address.h
+END
+autofill_common_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/autofill_common_test.h
+END
+password_autofill_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/134266/trunk/src/chrome/browser/autofill/password_autofill_manager_unittest.cc
+END
+autofill_popup_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/141947/trunk/src/chrome/browser/autofill/autofill_popup_view.h
+END
+autofill_regexes.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/87710/trunk/src/chrome/browser/autofill/autofill_regexes.h
+END
+autofill_regex_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/103085/trunk/src/chrome/browser/autofill/autofill_regex_constants.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/126872/trunk/src/chrome/browser/autofill/DEPS
+END
+contact_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/103241/trunk/src/chrome/browser/autofill/contact_info.h
+END
+autofill_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/145073/trunk/src/chrome/browser/autofill/autofill_manager_unittest.cc
+END
+form_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/95865/trunk/src/chrome/browser/autofill/form_field.h
+END
+password_generator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/140812/trunk/src/chrome/browser/autofill/password_generator.cc
+END
+personal_data_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/134909/trunk/src/chrome/browser/autofill/personal_data_manager.h
+END
+field_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/102073/trunk/src/chrome/browser/autofill/field_types.h
+END
+autofill_external_delegate_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/141287/trunk/src/chrome/browser/autofill/autofill_external_delegate_unittest.cc
+END
+test_autofill_external_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/141221/trunk/src/chrome/browser/autofill/test_autofill_external_delegate.cc
+END
+phone_field_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/phone_field_unittest.cc
+END
+autofill_feedback_infobar_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/143039/trunk/src/chrome/browser/autofill/autofill_feedback_infobar_delegate.cc
+END
+data_driven_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/79511/trunk/src/chrome/browser/autofill/data_driven_test.cc
+END
+phone_number_i18n.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/112865/trunk/src/chrome/browser/autofill/phone_number_i18n.cc
+END
+data_driven_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/74210/trunk/src/chrome/browser/autofill/data_driven_test.h
+END
+autofill_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/104583/trunk/src/chrome/browser/autofill/autofill_type.h
+END
+address_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/142066/trunk/src/chrome/browser/autofill/address_unittest.cc
+END
+autofill_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/114581/trunk/src/chrome/browser/autofill/autofill_field.h
+END
+autofill_ie_toolbar_import_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/79839/trunk/src/chrome/browser/autofill/autofill_ie_toolbar_import_win.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/72062/trunk/src/chrome/browser/autofill/OWNERS
+END
+autofill_scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/88243/trunk/src/chrome/browser/autofill/autofill_scanner.h
+END
+address_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/97818/trunk/src/chrome/browser/autofill/address_field.h
+END

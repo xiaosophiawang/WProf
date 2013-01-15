@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/137896/trunk/src/chrome/common/mac
+END
+app_mode_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/130359/trunk/src/chrome/common/mac/app_mode_common.h
+END
+launchd.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/123819/trunk/src/chrome/common/mac/launchd.mm
+END
+objc_zombie_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/107814/trunk/src/chrome/common/mac/objc_zombie_unittest.mm
+END
+objc_method_swizzle.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/99754/trunk/src/chrome/common/mac/objc_method_swizzle.h
+END
+cfbundle_blocker_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/105251/trunk/src/chrome/common/mac/cfbundle_blocker_unittest.mm
+END
+app_mode_chrome_locator.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/121693/trunk/src/chrome/common/mac/app_mode_chrome_locator.h
+END
+objc_zombie.mm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/137896/trunk/src/chrome/common/mac/objc_zombie.mm
+END
+cfbundle_blocker.mm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/109080/trunk/src/chrome/common/mac/cfbundle_blocker.mm
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/100626/trunk/src/chrome/common/mac/DEPS
+END
+launchd.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/97456/trunk/src/chrome/common/mac/launchd.h
+END
+app_mode_common.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/124174/trunk/src/chrome/common/mac/app_mode_common.mm
+END
+objc_zombie.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/99754/trunk/src/chrome/common/mac/objc_zombie.h
+END
+cfbundle_blocker.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/105251/trunk/src/chrome/common/mac/cfbundle_blocker.h
+END
+mock_launchd.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/129337/trunk/src/chrome/common/mac/mock_launchd.cc
+END
+app_mode_chrome_locator_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/121693/trunk/src/chrome/common/mac/app_mode_chrome_locator_unittest.mm
+END
+objc_method_swizzle_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/99754/trunk/src/chrome/common/mac/objc_method_swizzle_unittest.mm
+END
+objc_method_swizzle.mm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/99754/trunk/src/chrome/common/mac/objc_method_swizzle.mm
+END
+app_mode_chrome_locator.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/121693/trunk/src/chrome/common/mac/app_mode_chrome_locator.mm
+END
+mock_launchd.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/118744/trunk/src/chrome/common/mac/mock_launchd.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/97456/trunk/src/chrome/common/mac/OWNERS
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/135074/trunk/src/ppapi/native_client/src/shared/ppapi
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/135074/trunk/src/ppapi/native_client/src/shared/ppapi/nacl.scons
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/114751/trunk/src/ppapi/native_client/src/shared/ppapi/build.scons
+END

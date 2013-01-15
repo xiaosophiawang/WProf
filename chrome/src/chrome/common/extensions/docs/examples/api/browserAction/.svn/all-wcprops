@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/140616/trunk/src/chrome/common/extensions/docs/examples/api/browserAction
+END
+set_icon_path.zip
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/140616/trunk/src/chrome/common/extensions/docs/examples/api/browserAction/set_icon_path.zip
+END
+make_page_red.zip
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/140616/trunk/src/chrome/common/extensions/docs/examples/api/browserAction/make_page_red.zip
+END
+set_page_color.zip
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/140616/trunk/src/chrome/common/extensions/docs/examples/api/browserAction/set_page_color.zip
+END
+print.zip
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/140616/trunk/src/chrome/common/extensions/docs/examples/api/browserAction/print.zip
+END

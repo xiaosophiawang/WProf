@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/140686/trunk/src/chrome/browser/chromeos/offline
+END
+offline_load_page_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/140287/trunk/src/chrome/browser/chromeos/offline/offline_load_page_unittest.cc
+END
+offline_load_page.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/140686/trunk/src/chrome/browser/chromeos/offline/offline_load_page.cc
+END
+offline_load_page.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/138780/trunk/src/chrome/browser/chromeos/offline/offline_load_page.h
+END

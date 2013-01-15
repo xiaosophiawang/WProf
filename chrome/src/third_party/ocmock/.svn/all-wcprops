@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/125428/trunk/src/third_party/ocmock
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/125428/trunk/src/third_party/ocmock/README.chromium
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/125428/trunk/src/third_party/ocmock/License.txt
+END
+ocmock_extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/86474/trunk/src/third_party/ocmock/ocmock_extensions.h
+END
+ocmock_extensions.mm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/86474/trunk/src/third_party/ocmock/ocmock_extensions.mm
+END
+Changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/119933/trunk/src/third_party/ocmock/Changes.txt
+END
+gtest_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/85679/trunk/src/third_party/ocmock/gtest_support.h
+END
+ocmock.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/118098/trunk/src/third_party/ocmock/ocmock.gyp
+END
+gtest_support.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/85676/trunk/src/third_party/ocmock/gtest_support.mm
+END

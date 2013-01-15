@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/133899/trunk/src/tools/site_compare/commands
+END
+compare2.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/111960/trunk/src/tools/site_compare/commands/compare2.py
+END
+maskmaker.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/111960/trunk/src/tools/site_compare/commands/maskmaker.py
+END
+scrape.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/111960/trunk/src/tools/site_compare/commands/scrape.py
+END
+timeload.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/111960/trunk/src/tools/site_compare/commands/timeload.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/133899/trunk/src/tools/site_compare/commands/__init__.py
+END
+measure.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/111960/trunk/src/tools/site_compare/commands/measure.py
+END

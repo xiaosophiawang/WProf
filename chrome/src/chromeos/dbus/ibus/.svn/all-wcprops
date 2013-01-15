@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/144226/trunk/src/chromeos/dbus/ibus
+END
+mock_ibus_input_context_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144226/trunk/src/chromeos/dbus/ibus/mock_ibus_input_context_client.cc
+END
+mock_ibus_input_context_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144226/trunk/src/chromeos/dbus/ibus/mock_ibus_input_context_client.h
+END
+ibus_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/141845/trunk/src/chromeos/dbus/ibus/ibus_client_unittest.cc
+END
+ibus_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/136652/trunk/src/chromeos/dbus/ibus/ibus_constants.h
+END
+ibus_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/138573/trunk/src/chromeos/dbus/ibus/ibus_client.cc
+END
+ibus_lookup_table_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/143573/trunk/src/chromeos/dbus/ibus/ibus_lookup_table_unittest.cc
+END
+ibus_lookup_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/143573/trunk/src/chromeos/dbus/ibus/ibus_lookup_table.cc
+END
+ibus_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/138573/trunk/src/chromeos/dbus/ibus/ibus_client.h
+END
+ibus_lookup_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/143573/trunk/src/chromeos/dbus/ibus/ibus_lookup_table.h
+END
+ibus_property_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/143545/trunk/src/chromeos/dbus/ibus/ibus_property_unittest.cc
+END
+ibus_text_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/137911/trunk/src/chromeos/dbus/ibus/ibus_text_unittest.cc
+END
+ibus_property.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/143545/trunk/src/chromeos/dbus/ibus/ibus_property.cc
+END
+ibus_text.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/137911/trunk/src/chromeos/dbus/ibus/ibus_text.cc
+END
+ibus_property.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/143545/trunk/src/chromeos/dbus/ibus/ibus_property.h
+END
+ibus_text.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/137911/trunk/src/chromeos/dbus/ibus/ibus_text.h
+END
+mock_ibus_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144226/trunk/src/chromeos/dbus/ibus/mock_ibus_client.cc
+END
+mock_ibus_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144226/trunk/src/chromeos/dbus/ibus/mock_ibus_client.h
+END
+ibus_input_context_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/144226/trunk/src/chromeos/dbus/ibus/ibus_input_context_client_unittest.cc
+END
+ibus_input_context_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/144226/trunk/src/chromeos/dbus/ibus/ibus_input_context_client.cc
+END
+ibus_input_context_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/144226/trunk/src/chromeos/dbus/ibus/ibus_input_context_client.h
+END
+ibus_object_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/143545/trunk/src/chromeos/dbus/ibus/ibus_object_unittest.cc
+END
+ibus_object.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/143545/trunk/src/chromeos/dbus/ibus/ibus_object.cc
+END
+ibus_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/143545/trunk/src/chromeos/dbus/ibus/ibus_object.h
+END

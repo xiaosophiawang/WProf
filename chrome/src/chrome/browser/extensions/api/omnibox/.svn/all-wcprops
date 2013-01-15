@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/145310/trunk/src/chrome/browser/extensions/api/omnibox
+END
+omnibox_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/143134/trunk/src/chrome/browser/extensions/api/omnibox/omnibox_api.cc
+END
+omnibox_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/145310/trunk/src/chrome/browser/extensions/api/omnibox/omnibox_apitest.cc
+END
+omnibox_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/143134/trunk/src/chrome/browser/extensions/api/omnibox/omnibox_api.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/138776/trunk/src/chrome/browser/extensions/api/omnibox/OWNERS
+END
+omnibox_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/134794/trunk/src/chrome/browser/extensions/api/omnibox/omnibox_unittest.cc
+END

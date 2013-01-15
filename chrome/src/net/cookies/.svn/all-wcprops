@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/141591/trunk/src/net/cookies
+END
+cookie_monster_store_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/140502/trunk/src/net/cookies/cookie_monster_store_test.cc
+END
+cookie_monster_perftest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/126871/trunk/src/net/cookies/cookie_monster_perftest.cc
+END
+cookie_monster_store_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/140502/trunk/src/net/cookies/cookie_monster_store_test.h
+END
+cookie_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/126871/trunk/src/net/cookies/cookie_util_unittest.cc
+END
+cookie_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/126871/trunk/src/net/cookies/cookie_util.cc
+END
+cookie_store_test_helpers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/133912/trunk/src/net/cookies/cookie_store_test_helpers.cc
+END
+cookie_store_test_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/133912/trunk/src/net/cookies/cookie_store_test_helpers.h
+END
+cookie_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/126871/trunk/src/net/cookies/cookie_util.h
+END
+cookie_monster_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/140502/trunk/src/net/cookies/cookie_monster_unittest.cc
+END
+cookie_monster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/141591/trunk/src/net/cookies/cookie_monster.cc
+END
+cookie_monster.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/141591/trunk/src/net/cookies/cookie_monster.h
+END
+cookie_store_test_callbacks.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/126871/trunk/src/net/cookies/cookie_store_test_callbacks.cc
+END
+cookie_store_test_callbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/126871/trunk/src/net/cookies/cookie_store_test_callbacks.h
+END
+cookie_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/126871/trunk/src/net/cookies/cookie_store.cc
+END
+cookie_store_unittest.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/135320/trunk/src/net/cookies/cookie_store_unittest.h
+END
+cookie_options.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/126871/trunk/src/net/cookies/cookie_options.h
+END
+cookie_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/133912/trunk/src/net/cookies/cookie_store.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/126871/trunk/src/net/cookies/OWNERS
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/chrome/!svn/ver/138497/trunk/src/net/server
+END
+http_connection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/137387/trunk/src/net/server/http_connection.cc
+END
+http_connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/138497/trunk/src/net/server/http_connection.h
+END
+http_server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/138497/trunk/src/net/server/http_server.cc
+END
+web_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/129476/trunk/src/net/server/web_socket.cc
+END
+http_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/138497/trunk/src/net/server/http_server.h
+END
+web_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/137636/trunk/src/net/server/web_socket.h
+END
+http_server_request_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/95138/trunk/src/net/server/http_server_request_info.cc
+END
+http_server_request_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/95138/trunk/src/net/server/http_server_request_info.h
+END

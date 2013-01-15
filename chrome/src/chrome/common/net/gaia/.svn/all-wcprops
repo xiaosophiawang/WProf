@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/144782/trunk/src/chrome/common/net/gaia
+END
+oauth_request_signer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/137978/trunk/src/chrome/common/net/gaia/oauth_request_signer_unittest.cc
+END
+gaia_oauth_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/142926/trunk/src/chrome/common/net/gaia/gaia_oauth_client.cc
+END
+oauth2_access_token_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144086/trunk/src/chrome/common/net/gaia/oauth2_access_token_consumer.h
+END
+gaia_oauth_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/144086/trunk/src/chrome/common/net/gaia/gaia_oauth_client.h
+END
+oauth2_mint_token_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/124486/trunk/src/chrome/common/net/gaia/oauth2_mint_token_consumer.h
+END
+gaia_urls.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/139556/trunk/src/chrome/common/net/gaia/gaia_urls.cc
+END
+oauth2_revocation_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/113132/trunk/src/chrome/common/net/gaia/oauth2_revocation_consumer.h
+END
+oauth2_api_call_flow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/142926/trunk/src/chrome/common/net/gaia/oauth2_api_call_flow.cc
+END
+oauth2_api_call_flow.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/138384/trunk/src/chrome/common/net/gaia/oauth2_api_call_flow.h
+END
+gaia_auth_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/143899/trunk/src/chrome/common/net/gaia/gaia_auth_util.cc
+END
+gaia_auth_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/143899/trunk/src/chrome/common/net/gaia/gaia_auth_util.h
+END
+oauth2_mint_token_flow.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/144782/trunk/src/chrome/common/net/gaia/oauth2_mint_token_flow.h
+END
+oauth2_access_token_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/142926/trunk/src/chrome/common/net/gaia/oauth2_access_token_fetcher.cc
+END
+gaia_auth_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/142442/trunk/src/chrome/common/net/gaia/gaia_auth_fetcher.h
+END
+oauth2_access_token_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/138384/trunk/src/chrome/common/net/gaia/oauth2_access_token_fetcher.h
+END
+google_service_auth_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143393/trunk/src/chrome/common/net/gaia/google_service_auth_error.h
+END
+oauth2_mint_token_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142926/trunk/src/chrome/common/net/gaia/oauth2_mint_token_fetcher.cc
+END
+oauth2_mint_token_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/138384/trunk/src/chrome/common/net/gaia/oauth2_mint_token_fetcher.h
+END
+gaia_authenticator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/123807/trunk/src/chrome/common/net/gaia/gaia_authenticator.cc
+END
+oauth2_revocation_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142926/trunk/src/chrome/common/net/gaia/oauth2_revocation_fetcher.cc
+END
+gaia_auth_consumer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/134185/trunk/src/chrome/common/net/gaia/gaia_auth_consumer.cc
+END
+gaia_authenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/137978/trunk/src/chrome/common/net/gaia/gaia_authenticator.h
+END
+gaia_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/142442/trunk/src/chrome/common/net/gaia/gaia_constants.cc
+END
+oauth2_revocation_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/138384/trunk/src/chrome/common/net/gaia/oauth2_revocation_fetcher.h
+END
+gaia_oauth_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/143085/trunk/src/chrome/common/net/gaia/gaia_oauth_client_unittest.cc
+END
+gaia_auth_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/139343/trunk/src/chrome/common/net/gaia/gaia_auth_consumer.h
+END
+gaia_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/142442/trunk/src/chrome/common/net/gaia/gaia_constants.h
+END
+oauth_request_signer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/126742/trunk/src/chrome/common/net/gaia/oauth_request_signer.cc
+END
+oauth_request_signer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/103908/trunk/src/chrome/common/net/gaia/oauth_request_signer.h
+END
+mock_url_fetcher_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/143085/trunk/src/chrome/common/net/gaia/mock_url_fetcher_factory.h
+END
+gaia_urls.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/137978/trunk/src/chrome/common/net/gaia/gaia_urls.h
+END
+oauth2_api_call_flow_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/143085/trunk/src/chrome/common/net/gaia/oauth2_api_call_flow_unittest.cc
+END
+gaia_auth_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/143899/trunk/src/chrome/common/net/gaia/gaia_auth_util_unittest.cc
+END
+oauth2_mint_token_flow_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/143085/trunk/src/chrome/common/net/gaia/oauth2_mint_token_flow_unittest.cc
+END
+oauth2_mint_token_flow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144782/trunk/src/chrome/common/net/gaia/oauth2_mint_token_flow.cc
+END
+gaia_auth_fetcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/143085/trunk/src/chrome/common/net/gaia/gaia_auth_fetcher_unittest.cc
+END
+oauth2_access_token_fetcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/143085/trunk/src/chrome/common/net/gaia/oauth2_access_token_fetcher_unittest.cc
+END
+gaia_auth_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/143393/trunk/src/chrome/common/net/gaia/gaia_auth_fetcher.cc
+END
+google_service_auth_error_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/143393/trunk/src/chrome/common/net/gaia/google_service_auth_error_unittest.cc
+END
+google_service_auth_error.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/143393/trunk/src/chrome/common/net/gaia/google_service_auth_error.cc
+END
+oauth2_mint_token_fetcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/143085/trunk/src/chrome/common/net/gaia/oauth2_mint_token_fetcher_unittest.cc
+END
+gaia_authenticator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/123807/trunk/src/chrome/common/net/gaia/gaia_authenticator_unittest.cc
+END
+oauth2_revocation_fetcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/143085/trunk/src/chrome/common/net/gaia/oauth2_revocation_fetcher_unittest.cc
+END

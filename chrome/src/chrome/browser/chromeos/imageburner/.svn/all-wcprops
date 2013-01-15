@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/142926/trunk/src/chrome/browser/chromeos/imageburner
+END
+burn_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/119651/trunk/src/chrome/browser/chromeos/imageburner/burn_controller.h
+END
+burn_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/127642/trunk/src/chrome/browser/chromeos/imageburner/burn_manager_unittest.cc
+END
+burn_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142926/trunk/src/chrome/browser/chromeos/imageburner/burn_manager.cc
+END
+burn_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/138384/trunk/src/chrome/browser/chromeos/imageburner/burn_manager.h
+END
+burn_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/131717/trunk/src/chrome/browser/chromeos/imageburner/burn_controller.cc
+END

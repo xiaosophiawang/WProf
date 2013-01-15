@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/117676/trunk/src/chrome/test/data/extensions/api_test/tabs/capture_visible_tab
+END
+test_jpeg.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/80686/trunk/src/chrome/test/data/extensions/api_test/tabs/capture_visible_tab/test_jpeg.js
+END
+test_file.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/112554/trunk/src/chrome/test/data/extensions/api_test/tabs/capture_visible_tab/test_file.html
+END
+test_race.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/89061/trunk/src/chrome/test/data/extensions/api_test/tabs/capture_visible_tab/test_race.js
+END
+test_nofile.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/89340/trunk/src/chrome/test/data/extensions/api_test/tabs/capture_visible_tab/test_nofile.js
+END
+test_png.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/112554/trunk/src/chrome/test/data/extensions/api_test/tabs/capture_visible_tab/test_png.html
+END
+test_jpeg.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/112554/trunk/src/chrome/test/data/extensions/api_test/tabs/capture_visible_tab/test_jpeg.html
+END
+test_file.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/117676/trunk/src/chrome/test/data/extensions/api_test/tabs/capture_visible_tab/test_file.js
+END
+test_race.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/112554/trunk/src/chrome/test/data/extensions/api_test/tabs/capture_visible_tab/test_race.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/112554/trunk/src/chrome/test/data/extensions/api_test/tabs/capture_visible_tab/manifest.json
+END
+test_nofile.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/112554/trunk/src/chrome/test/data/extensions/api_test/tabs/capture_visible_tab/test_nofile.html
+END
+test_png.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/80686/trunk/src/chrome/test/data/extensions/api_test/tabs/capture_visible_tab/test_png.js
+END

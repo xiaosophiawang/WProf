@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/136292/trunk/src/chrome/test/data/third_party/kraken/resources
+END
+compare-results.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/134624/trunk/src/chrome/test/data/third_party/kraken/resources/compare-results.js
+END
+sunspider-standalone-compare.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/134624/trunk/src/chrome/test/data/third_party/kraken/resources/sunspider-standalone-compare.js
+END
+sunspider-standalone-driver.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/134624/trunk/src/chrome/test/data/third_party/kraken/resources/sunspider-standalone-driver.js
+END
+driver-TEMPLATE.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/134624/trunk/src/chrome/test/data/third_party/kraken/resources/driver-TEMPLATE.html
+END
+analyze-results.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/136292/trunk/src/chrome/test/data/third_party/kraken/resources/analyze-results.js
+END
+results-TEMPLATE.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/136292/trunk/src/chrome/test/data/third_party/kraken/resources/results-TEMPLATE.html
+END
+TEMPLATE.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/134624/trunk/src/chrome/test/data/third_party/kraken/resources/TEMPLATE.html
+END

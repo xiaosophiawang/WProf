@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/145115/trunk/src/chrome/browser/ssl
+END
+ssl_client_auth_requestor_mock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/134218/trunk/src/chrome/browser/ssl/ssl_client_auth_requestor_mock.cc
+END
+ssl_add_cert_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/141341/trunk/src/chrome/browser/ssl/ssl_add_cert_handler.cc
+END
+ssl_client_auth_requestor_mock.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/134218/trunk/src/chrome/browser/ssl/ssl_client_auth_requestor_mock.h
+END
+ssl_add_cert_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/85786/trunk/src/chrome/browser/ssl/ssl_add_cert_handler.h
+END
+ssl_blocking_page.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/138769/trunk/src/chrome/browser/ssl/ssl_blocking_page.cc
+END
+ssl_error_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/126215/trunk/src/chrome/browser/ssl/ssl_error_info.cc
+END
+ssl_browser_tests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/145115/trunk/src/chrome/browser/ssl/ssl_browser_tests.cc
+END
+ssl_add_cert_handler_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/141071/trunk/src/chrome/browser/ssl/ssl_add_cert_handler_mac.mm
+END
+ssl_blocking_page.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/137349/trunk/src/chrome/browser/ssl/ssl_blocking_page.h
+END
+ssl_client_auth_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/121733/trunk/src/chrome/browser/ssl/ssl_client_auth_observer.cc
+END
+ssl_error_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/114879/trunk/src/chrome/browser/ssl/ssl_error_info.h
+END
+ssl_client_auth_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/121733/trunk/src/chrome/browser/ssl/ssl_client_auth_observer.h
+END

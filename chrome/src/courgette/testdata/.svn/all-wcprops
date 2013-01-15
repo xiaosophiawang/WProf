@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/134316/trunk/src/courgette/testdata
+END
+en-US.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/134316/trunk/src/courgette/testdata/en-US.dll
+END
+setup1.exe
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/134316/trunk/src/courgette/testdata/setup1.exe
+END
+setup2.exe
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/134316/trunk/src/courgette/testdata/setup2.exe
+END
+setup1-setup2.v1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/103011/trunk/src/courgette/testdata/setup1-setup2.v1.patch
+END
+elf-32-1
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/103015/trunk/src/courgette/testdata/elf-32-1
+END
+elf-32-2
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/103015/trunk/src/courgette/testdata/elf-32-2
+END
+pe-64.exe
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/134316/trunk/src/courgette/testdata/pe-64.exe
+END
+elf-64
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/103015/trunk/src/courgette/testdata/elf-64
+END

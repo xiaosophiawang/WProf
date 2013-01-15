@@ -1,0 +1,37 @@
+10
+
+dir
+145398
+https://src.chromium.org/chrome/trunk/src/chrome/test/data/extensions/api_test/notifications
+https://src.chromium.org/chrome
+
+
+
+2012-02-23T03:41:32.642986Z
+123190
+thestig@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+has_permission_prefs
+dir
+
+has_not_permission
+dir
+
+has_permission_manifest
+dir
+

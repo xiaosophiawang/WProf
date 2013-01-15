@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/chrome/!svn/ver/145395/trunk/src/ui
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/72038/trunk/src/ui/README.chromium
+END
+ui_unittests.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/145251/trunk/src/ui/ui_unittests.gypi
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/chrome/!svn/ver/139775/trunk/src/ui/DEPS
+END
+ui.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/chrome/!svn/ver/145251/trunk/src/ui/ui.gyp
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/chrome/!svn/ver/108187/trunk/src/ui/OWNERS
+END
+ui_resources.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/142766/trunk/src/ui/ui_resources.gypi
+END

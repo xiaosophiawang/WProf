@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/143940/trunk/src/ui/base/resource
+END
+resource_bundle_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/138769/trunk/src/ui/base/resource/resource_bundle_win.cc
+END
+resource_bundle_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/132091/trunk/src/ui/base/resource/resource_bundle_win.h
+END
+resource_handle.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/138769/trunk/src/ui/base/resource/resource_handle.h
+END
+data_pack_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/138769/trunk/src/ui/base/resource/data_pack_unittest.cc
+END
+data_pack.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/138769/trunk/src/ui/base/resource/data_pack.cc
+END
+data_pack.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/138769/trunk/src/ui/base/resource/data_pack.h
+END
+resource_bundle_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/138769/trunk/src/ui/base/resource/resource_bundle_unittest.cc
+END
+resource_bundle_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/138769/trunk/src/ui/base/resource/resource_bundle_android.cc
+END
+resource_bundle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/143940/trunk/src/ui/base/resource/resource_bundle.cc
+END
+resource_bundle_aurax11.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/142163/trunk/src/ui/base/resource/resource_bundle_aurax11.cc
+END
+resource_bundle.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/138769/trunk/src/ui/base/resource/resource_bundle.h
+END
+data_pack_literal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/138769/trunk/src/ui/base/resource/data_pack_literal.cc
+END
+resource_bundle_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/143502/trunk/src/ui/base/resource/resource_bundle_mac.mm
+END
+resource_bundle_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/138769/trunk/src/ui/base/resource/resource_bundle_gtk.cc
+END
+resource_data_dll_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/138769/trunk/src/ui/base/resource/resource_data_dll_win.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/136314/trunk/src/ui/base/resource/OWNERS
+END
+resource_data_dll_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/138769/trunk/src/ui/base/resource/resource_data_dll_win.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/140465/trunk/src/chrome/common/extensions/docs/server2/test_data/local_fetcher
+END
+test2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/140465/trunk/src/chrome/common/extensions/docs/server2/test_data/local_fetcher/test2.txt
+END
+test3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/140465/trunk/src/chrome/common/extensions/docs/server2/test_data/local_fetcher/test3.txt
+END
+test1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/140465/trunk/src/chrome/common/extensions/docs/server2/test_data/local_fetcher/test1.txt
+END

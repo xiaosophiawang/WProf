@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/141322/trunk/src/content/test/data
+END
+speechmusic_mono_16kHz.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/109031/trunk/src/content/test/data/speechmusic_mono_16kHz.pcm
+END
+gtk_key_bindings_test_gtkrc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/97889/trunk/src/content/test/data/gtk_key_bindings_test_gtkrc
+END
+single_user_demo_mono_16kHz.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/109214/trunk/src/content/test/data/single_user_demo_mono_16kHz.pcm
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/129880/trunk/src/content/test/data/OWNERS
+END

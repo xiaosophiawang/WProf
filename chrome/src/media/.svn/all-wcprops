@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/chrome/!svn/ver/145207/trunk/src/media
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/chrome/!svn/ver/136777/trunk/src/media/DEPS
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/112579/trunk/src/media/OWNERS
+END
+media.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/144819/trunk/src/media/media.gyp
+END

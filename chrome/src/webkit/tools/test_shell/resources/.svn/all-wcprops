@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/52562/trunk/src/webkit/tools/test_shell/resources
+END
+missingImage.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/7619/trunk/src/webkit/tools/test_shell/resources/missingImage.png
+END
+test_shell.ico
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/40991/trunk/src/webkit/tools/test_shell/resources/test_shell.ico
+END
+missingImage.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/19397/trunk/src/webkit/tools/test_shell/resources/missingImage.gif
+END
+small.ico
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/40991/trunk/src/webkit/tools/test_shell/resources/small.ico
+END
+AHEM____.TTF
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/18/trunk/src/webkit/tools/test_shell/resources/AHEM____.TTF
+END
+test_shell.rc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/38670/trunk/src/webkit/tools/test_shell/resources/test_shell.rc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/7619/trunk/src/webkit/tools/test_shell/resources/README.txt
+END
+textAreaResizeCorner.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/19397/trunk/src/webkit/tools/test_shell/resources/textAreaResizeCorner.png
+END
+fonts.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/52562/trunk/src/webkit/tools/test_shell/resources/fonts.conf
+END

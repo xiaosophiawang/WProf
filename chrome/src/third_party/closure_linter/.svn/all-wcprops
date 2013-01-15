@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/124007/trunk/src/third_party/closure_linter
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/124007/trunk/src/third_party/closure_linter/README.chromium
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/124007/trunk/src/third_party/closure_linter/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/124007/trunk/src/third_party/closure_linter/AUTHORS
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/124007/trunk/src/third_party/closure_linter/setup.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/124007/trunk/src/third_party/closure_linter/README
+END

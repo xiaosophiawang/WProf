@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/144948/trunk/src/content/test/net
+END
+url_request_mock_http_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/142242/trunk/src/content/test/net/url_request_mock_http_job.cc
+END
+url_request_abort_on_end_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144948/trunk/src/content/test/net/url_request_abort_on_end_job.cc
+END
+url_request_mock_http_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/142242/trunk/src/content/test/net/url_request_mock_http_job.h
+END
+url_request_abort_on_end_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/126165/trunk/src/content/test/net/url_request_abort_on_end_job.h
+END
+url_request_slow_download_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/144948/trunk/src/content/test/net/url_request_slow_download_job.cc
+END
+url_request_slow_download_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/140588/trunk/src/content/test/net/url_request_slow_download_job.h
+END
+url_request_slow_http_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/126165/trunk/src/content/test/net/url_request_slow_http_job.cc
+END
+url_request_failed_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/144948/trunk/src/content/test/net/url_request_failed_job.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/126910/trunk/src/content/test/net/OWNERS
+END
+url_request_slow_http_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/140588/trunk/src/content/test/net/url_request_slow_http_job.h
+END
+url_request_failed_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/140588/trunk/src/content/test/net/url_request_failed_job.h
+END

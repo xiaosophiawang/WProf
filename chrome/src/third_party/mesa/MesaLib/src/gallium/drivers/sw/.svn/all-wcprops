@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/drivers/sw
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/drivers/sw/SConscript
+END
+sw.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/drivers/sw/sw.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/drivers/sw/Makefile
+END
+sw_public.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/drivers/sw/sw_public.h
+END

@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/chrome/!svn/ver/145380/trunk/src/sync/syncable
+END
+directory_backing_store_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/directory_backing_store_unittest.cc
+END
+directory_backing_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/directory_backing_store.cc
+END
+dir_open_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/dir_open_result.h
+END
+syncable_changes_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/syncable_changes_version.h
+END
+syncable_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/145380/trunk/src/sync/syncable/syncable_unittest.cc
+END
+model_type_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/145236/trunk/src/sync/syncable/model_type_unittest.cc
+END
+entry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/entry.cc
+END
+entry.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/entry.h
+END
+on_disk_directory_backing_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/on_disk_directory_backing_store.cc
+END
+directory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/145380/trunk/src/sync/syncable/directory.cc
+END
+syncable_mock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/syncable_mock.cc
+END
+mutable_entry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/145252/trunk/src/sync/syncable/mutable_entry.cc
+END
+syncable_mock.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/syncable_mock.h
+END
+in_memory_directory_backing_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/in_memory_directory_backing_store.cc
+END
+write_transaction_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/write_transaction_info.h
+END
+syncable_enum_conversions.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/syncable_enum_conversions.h
+END
+syncable_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/syncable_id.h
+END
+read_transaction.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/read_transaction.cc
+END
+blob.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/blob.h
+END
+nigori_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/145236/trunk/src/sync/syncable/nigori_util.h
+END
+scoped_index_updater.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/scoped_index_updater.h
+END
+syncable_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/145252/trunk/src/sync/syncable/syncable_util.cc
+END
+transaction_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/145236/trunk/src/sync/syncable/transaction_observer.h
+END
+syncable_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/syncable_util.h
+END
+write_transaction.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/write_transaction.cc
+END
+directory_backing_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/145236/trunk/src/sync/syncable/directory_backing_store.h
+END
+model_type.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/145236/trunk/src/sync/syncable/model_type.cc
+END
+entry_kernel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/entry_kernel.cc
+END
+write_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/write_transaction.h
+END
+syncable_columns.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/syncable_columns.h
+END
+entry_kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/145236/trunk/src/sync/syncable/entry_kernel.h
+END
+directory_change_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/145236/trunk/src/sync/syncable/directory_change_delegate.h
+END
+on_disk_directory_backing_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/on_disk_directory_backing_store.h
+END
+directory.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/145250/trunk/src/sync/syncable/directory.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/145236/trunk/src/sync/syncable/DEPS
+END
+write_transaction_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/write_transaction_info.cc
+END
+syncable_enum_conversions_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/syncable_enum_conversions_unittest.cc
+END
+syncable_id_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/syncable_id_unittest.cc
+END
+mutable_entry.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/mutable_entry.h
+END
+syncable_enum_conversions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/syncable_enum_conversions.cc
+END
+syncable_id.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/syncable_id.cc
+END
+in_memory_directory_backing_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/in_memory_directory_backing_store.h
+END
+metahandle_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/metahandle_set.h
+END
+base_transaction.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/base_transaction.cc
+END
+base_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/base_transaction.h
+END
+syncable-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/syncable-inl.h
+END
+read_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/read_transaction.h
+END
+nigori_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/nigori_util_unittest.cc
+END
+nigori_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/nigori_util.cc
+END
+scoped_kernel_lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/145211/trunk/src/sync/syncable/scoped_kernel_lock.h
+END

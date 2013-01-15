@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/144837/trunk/src/chrome/browser/chromeos/bluetooth
+END
+bluetooth_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/136954/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_socket.cc
+END
+bluetooth_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/133485/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_socket.h
+END
+bluetooth_service_record_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/144837/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_service_record_unittest.cc
+END
+bluetooth_service_record.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/144837/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_service_record.cc
+END
+bluetooth_device.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144780/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_device.cc
+END
+bluetooth_utils_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/144837/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_utils_unittest.cc
+END
+bluetooth_adapter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/144641/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_adapter.cc
+END
+bluetooth_service_record.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/142364/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_service_record.h
+END
+bluetooth_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144837/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_utils.cc
+END
+bluetooth_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144780/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_device.h
+END
+bluetooth_adapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144641/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_adapter.h
+END
+bluetooth_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144837/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_utils.h
+END

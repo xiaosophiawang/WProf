@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/90494/trunk/src/third_party/libevent/solaris
+END
+event-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/90494/trunk/src/third_party/libevent/solaris/event-config.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/90494/trunk/src/third_party/libevent/solaris/config.h
+END

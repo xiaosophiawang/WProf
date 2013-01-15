@@ -1,0 +1,40 @@
+10
+
+dir
+145398
+https://src.chromium.org/chrome/trunk/src/chrome/test/data/devtools/extensions
+https://src.chromium.org/chrome
+
+
+
+2012-03-13T12:15:45.923982Z
+126378
+caseq@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+simple_content_script
+dir
+
+devtools_extension
+dir
+
+devtools_experimental
+dir
+
+devtools_messaging
+dir
+

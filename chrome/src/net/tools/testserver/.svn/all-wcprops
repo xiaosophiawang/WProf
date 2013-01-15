@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/145044/trunk/src/net/tools/testserver
+END
+xmppserver_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/111662/trunk/src/net/tools/testserver/xmppserver_test.py
+END
+device_management.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/128475/trunk/src/net/tools/testserver/device_management.py
+END
+xmppserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/111662/trunk/src/net/tools/testserver/xmppserver.py
+END
+asn1der.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/111662/trunk/src/net/tools/testserver/asn1der.py
+END
+chromiumsync_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/127101/trunk/src/net/tools/testserver/chromiumsync_test.py
+END
+chromiumsync.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/133438/trunk/src/net/tools/testserver/chromiumsync.py
+END
+minica.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/144928/trunk/src/net/tools/testserver/minica.py
+END
+backoff_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/133558/trunk/src/net/tools/testserver/backoff_server.py
+END
+asn1.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/127680/trunk/src/net/tools/testserver/asn1.py
+END
+echo_message.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/111662/trunk/src/net/tools/testserver/echo_message.py
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/144793/trunk/src/net/tools/testserver/OWNERS
+END
+testserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/145044/trunk/src/net/tools/testserver/testserver.py
+END
+run_testserver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/138878/trunk/src/net/tools/testserver/run_testserver.cc
+END

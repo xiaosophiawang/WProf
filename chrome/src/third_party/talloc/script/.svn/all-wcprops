@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/63795/trunk/src/third_party/talloc/script
+END
+abi_checks_gcc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/63795/trunk/src/third_party/talloc/script/abi_checks_gcc.sh
+END
+abi_checks.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/63795/trunk/src/third_party/talloc/script/abi_checks.sh
+END
+mksyms.awk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/63795/trunk/src/third_party/talloc/script/mksyms.awk
+END
+mksigs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/63795/trunk/src/third_party/talloc/script/mksigs.pl
+END
+release-script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/63795/trunk/src/third_party/talloc/script/release-script.sh
+END
+mksyms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/63795/trunk/src/third_party/talloc/script/mksyms.sh
+END

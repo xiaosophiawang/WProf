@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/ui/extensions
+END
+web_auth_flow_window.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/139592/trunk/src/chrome/browser/ui/extensions/web_auth_flow_window.cc
+END
+application_launch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/ui/extensions/application_launch.cc
+END
+shell_window.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/extensions/shell_window.cc
+END
+web_auth_flow_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/138039/trunk/src/chrome/browser/ui/extensions/web_auth_flow_window.h
+END
+application_launch.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/141973/trunk/src/chrome/browser/ui/extensions/application_launch.h
+END
+shell_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/144021/trunk/src/chrome/browser/ui/extensions/shell_window.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/124018/trunk/src/chrome/browser/ui/extensions/OWNERS
+END

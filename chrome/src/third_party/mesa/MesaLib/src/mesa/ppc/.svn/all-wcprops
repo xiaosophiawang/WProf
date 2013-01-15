@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/ppc
+END
+common_ppc.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/ppc/common_ppc.c
+END
+common_ppc_features.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/45089/trunk/src/third_party/mesa/MesaLib/src/mesa/ppc/common_ppc_features.h
+END

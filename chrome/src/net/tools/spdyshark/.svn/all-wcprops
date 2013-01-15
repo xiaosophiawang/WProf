@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/74983/trunk/src/net/tools/spdyshark
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/39730/trunk/src/net/tools/spdyshark/Makefile.common
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/39730/trunk/src/net/tools/spdyshark/AUTHORS
+END
+packet-spdy.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/46089/trunk/src/net/tools/spdyshark/packet-spdy.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/39730/trunk/src/net/tools/spdyshark/INSTALL
+END
+plugin.rc.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/39730/trunk/src/net/tools/spdyshark/plugin.rc.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/39730/trunk/src/net/tools/spdyshark/ChangeLog
+END
+Makefile.nmake
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/39730/trunk/src/net/tools/spdyshark/Makefile.nmake
+END
+moduleinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/40991/trunk/src/net/tools/spdyshark/moduleinfo.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/39730/trunk/src/net/tools/spdyshark/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/39730/trunk/src/net/tools/spdyshark/Makefile.am
+END
+packet-spdy.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/53716/trunk/src/net/tools/spdyshark/packet-spdy.h
+END
+moduleinfo.nmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/39730/trunk/src/net/tools/spdyshark/moduleinfo.nmake
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/39730/trunk/src/net/tools/spdyshark/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/74983/trunk/src/net/tools/spdyshark/README
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/117748/trunk/src/media/tools/scaler_bench
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/45067/trunk/src/media/tools/scaler_bench/DEPS
+END
+scaler_bench.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/117748/trunk/src/media/tools/scaler_bench/scaler_bench.cc
+END

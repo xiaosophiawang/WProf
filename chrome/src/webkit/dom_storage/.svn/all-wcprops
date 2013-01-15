@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/143761/trunk/src/webkit/dom_storage
+END
+session_storage_database_adapter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/143173/trunk/src/webkit/dom_storage/session_storage_database_adapter.cc
+END
+session_storage_database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/140733/trunk/src/webkit/dom_storage/session_storage_database.cc
+END
+dom_storage_area.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/143173/trunk/src/webkit/dom_storage/dom_storage_area.cc
+END
+session_storage_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/140733/trunk/src/webkit/dom_storage/session_storage_database.h
+END
+dom_storage_area.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/143173/trunk/src/webkit/dom_storage/dom_storage_area.h
+END
+session_storage_database_adapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/143173/trunk/src/webkit/dom_storage/session_storage_database_adapter.h
+END
+dom_storage_map_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/125524/trunk/src/webkit/dom_storage/dom_storage_map_unittest.cc
+END
+dom_storage_map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/125524/trunk/src/webkit/dom_storage/dom_storage_map.cc
+END
+dom_storage_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/138158/trunk/src/webkit/dom_storage/dom_storage_host.h
+END
+local_storage_database_adapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/143173/trunk/src/webkit/dom_storage/local_storage_database_adapter.h
+END
+dom_storage_session.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/143709/trunk/src/webkit/dom_storage/dom_storage_session.cc
+END
+dom_storage_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/138921/trunk/src/webkit/dom_storage/dom_storage_proxy.h
+END
+dom_storage_context_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/142735/trunk/src/webkit/dom_storage/dom_storage_context_unittest.cc
+END
+dom_storage_namespace.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/142735/trunk/src/webkit/dom_storage/dom_storage_namespace.cc
+END
+dom_storage_task_runner.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/143401/trunk/src/webkit/dom_storage/dom_storage_task_runner.h
+END
+dom_storage_namespace.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/142735/trunk/src/webkit/dom_storage/dom_storage_namespace.h
+END
+dom_storage_cached_area_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/138921/trunk/src/webkit/dom_storage/dom_storage_cached_area_unittest.cc
+END
+dom_storage_cached_area.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/138921/trunk/src/webkit/dom_storage/dom_storage_cached_area.cc
+END
+dom_storage_database_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/135592/trunk/src/webkit/dom_storage/dom_storage_database_unittest.cc
+END
+dom_storage_area_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/143173/trunk/src/webkit/dom_storage/dom_storage_area_unittest.cc
+END
+session_storage_database_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/140733/trunk/src/webkit/dom_storage/session_storage_database_unittest.cc
+END
+webkit_dom_storage.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/143173/trunk/src/webkit/dom_storage/webkit_dom_storage.gypi
+END
+dom_storage_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/143761/trunk/src/webkit/dom_storage/dom_storage_host.cc
+END
+local_storage_database_adapter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/143173/trunk/src/webkit/dom_storage/local_storage_database_adapter.cc
+END
+dom_storage_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/138921/trunk/src/webkit/dom_storage/dom_storage_map.h
+END
+dom_storage_context.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/143709/trunk/src/webkit/dom_storage/dom_storage_context.cc
+END
+dom_storage_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/143709/trunk/src/webkit/dom_storage/dom_storage_session.h
+END
+dom_storage_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/143709/trunk/src/webkit/dom_storage/dom_storage_context.h
+END
+dom_storage_task_runner.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/143401/trunk/src/webkit/dom_storage/dom_storage_task_runner.cc
+END
+dom_storage_cached_area.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/138921/trunk/src/webkit/dom_storage/dom_storage_cached_area.h
+END
+dom_storage_database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/128376/trunk/src/webkit/dom_storage/dom_storage_database.cc
+END
+dom_storage_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/139602/trunk/src/webkit/dom_storage/dom_storage_types.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/120687/trunk/src/webkit/dom_storage/OWNERS
+END
+dom_storage_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/143173/trunk/src/webkit/dom_storage/dom_storage_database.h
+END
+dom_storage_database_adapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/143173/trunk/src/webkit/dom_storage/dom_storage_database_adapter.h
+END

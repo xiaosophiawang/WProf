@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/112882/trunk/src/chrome/test/data/extensions/app_notifications
+END
+launch.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/112648/trunk/src/chrome/test/data/extensions/app_notifications/launch.js
+END
+launch.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/112357/trunk/src/chrome/test/data/extensions/app_notifications/launch.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/112882/trunk/src/chrome/test/data/extensions/app_notifications/manifest.json
+END

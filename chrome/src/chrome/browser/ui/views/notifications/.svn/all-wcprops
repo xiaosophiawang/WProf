@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/140913/trunk/src/chrome/browser/ui/views/notifications
+END
+balloon_view_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/125166/trunk/src/chrome/browser/ui/views/notifications/balloon_view_host.cc
+END
+balloon_view_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/140699/trunk/src/chrome/browser/ui/views/notifications/balloon_view_views.cc
+END
+balloon_collection_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/140699/trunk/src/chrome/browser/ui/views/notifications/balloon_collection_views.cc
+END
+balloon_view_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/111655/trunk/src/chrome/browser/ui/views/notifications/balloon_view_host.h
+END
+balloon_view_views.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/140699/trunk/src/chrome/browser/ui/views/notifications/balloon_view_views.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/118809/trunk/src/chrome/common/extensions/docs/examples/api/speechInput/basic
+END
+start.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/110709/trunk/src/chrome/common/extensions/docs/examples/api/speechInput/basic/start.png
+END
+stop.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/110709/trunk/src/chrome/common/extensions/docs/examples/api/speechInput/basic/stop.png
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/111588/trunk/src/chrome/common/extensions/docs/examples/api/speechInput/basic/background.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/118809/trunk/src/chrome/common/extensions/docs/examples/api/speechInput/basic/manifest.json
+END

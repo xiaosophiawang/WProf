@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/139781/trunk/src/chrome/renderer/plugins
+END
+plugin_uma_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/111589/trunk/src/chrome/renderer/plugins/plugin_uma_unittest.cc
+END
+plugin_placeholder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/139781/trunk/src/chrome/renderer/plugins/plugin_placeholder.cc
+END
+plugin_uma.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/111589/trunk/src/chrome/renderer/plugins/plugin_uma.cc
+END
+plugin_placeholder.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/136123/trunk/src/chrome/renderer/plugins/plugin_placeholder.h
+END
+plugin_uma.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/111589/trunk/src/chrome/renderer/plugins/plugin_uma.h
+END

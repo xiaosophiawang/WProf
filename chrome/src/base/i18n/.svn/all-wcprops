@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/chrome/!svn/ver/137130/trunk/src/base/i18n
+END
+break_iterator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/86689/trunk/src/base/i18n/break_iterator_unittest.cc
+END
+icu_string_conversions_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/106062/trunk/src/base/i18n/icu_string_conversions_unittest.cc
+END
+icu_string_conversions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/128557/trunk/src/base/i18n/icu_string_conversions.cc
+END
+rtl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/105437/trunk/src/base/i18n/rtl_unittest.cc
+END
+file_util_icu_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/129128/trunk/src/base/i18n/file_util_icu_unittest.cc
+END
+base_i18n_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/137130/trunk/src/base/i18n/base_i18n_export.h
+END
+file_util_icu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/129128/trunk/src/base/i18n/file_util_icu.cc
+END
+number_formatting_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/104550/trunk/src/base/i18n/number_formatting_unittest.cc
+END
+number_formatting.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/117049/trunk/src/base/i18n/number_formatting.cc
+END
+case_conversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/115616/trunk/src/base/i18n/case_conversion.h
+END
+char_iterator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/71910/trunk/src/base/i18n/char_iterator_unittest.cc
+END
+icu_encoding_detection.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/99057/trunk/src/base/i18n/icu_encoding_detection.h
+END
+char_iterator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/71910/trunk/src/base/i18n/char_iterator.cc
+END
+bidi_line_iterator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/76343/trunk/src/base/i18n/bidi_line_iterator.cc
+END
+time_formatting_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/104550/trunk/src/base/i18n/time_formatting_unittest.cc
+END
+time_formatting.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/107434/trunk/src/base/i18n/time_formatting.cc
+END
+bidi_line_iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/99057/trunk/src/base/i18n/bidi_line_iterator.h
+END
+string_search.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/105437/trunk/src/base/i18n/string_search.cc
+END
+string_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/101548/trunk/src/base/i18n/string_search.h
+END
+break_iterator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/102160/trunk/src/base/i18n/break_iterator.cc
+END
+break_iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/102160/trunk/src/base/i18n/break_iterator.h
+END
+icu_string_conversions.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/99057/trunk/src/base/i18n/icu_string_conversions.h
+END
+rtl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/130784/trunk/src/base/i18n/rtl.cc
+END
+icu_util_nacl_win64.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/33872/trunk/src/base/i18n/icu_util_nacl_win64.cc
+END
+rtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/103904/trunk/src/base/i18n/rtl.h
+END
+icu_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/118284/trunk/src/base/i18n/icu_util.cc
+END
+file_util_icu.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/129128/trunk/src/base/i18n/file_util_icu.h
+END
+icu_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/99057/trunk/src/base/i18n/icu_util.h
+END
+case_conversion_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/84855/trunk/src/base/i18n/case_conversion_unittest.cc
+END
+case_conversion.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/96097/trunk/src/base/i18n/case_conversion.cc
+END
+number_formatting.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/99057/trunk/src/base/i18n/number_formatting.h
+END
+icu_encoding_detection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/86509/trunk/src/base/i18n/icu_encoding_detection.cc
+END
+char_iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/99057/trunk/src/base/i18n/char_iterator.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/110018/trunk/src/base/i18n/OWNERS
+END
+string_search_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/111768/trunk/src/base/i18n/string_search_unittest.cc
+END
+time_formatting.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/99057/trunk/src/base/i18n/time_formatting.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/139956/trunk/src/ash/system/drive
+END
+drive_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/134844/trunk/src/ash/system/drive/drive_observer.h
+END
+tray_drive.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/139956/trunk/src/ash/system/drive/tray_drive.cc
+END
+tray_drive.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/137375/trunk/src/ash/system/drive/tray_drive.h
+END

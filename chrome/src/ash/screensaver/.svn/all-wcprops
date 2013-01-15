@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/142631/trunk/src/ash/screensaver
+END
+screensaver_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/142359/trunk/src/ash/screensaver/screensaver_view.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/135392/trunk/src/ash/screensaver/DEPS
+END
+screensaver_view_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/139704/trunk/src/ash/screensaver/screensaver_view_unittest.cc
+END
+screensaver_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/142631/trunk/src/ash/screensaver/screensaver_view.cc
+END

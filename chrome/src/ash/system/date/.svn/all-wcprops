@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/140068/trunk/src/ash/system/date
+END
+tray_date.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/140068/trunk/src/ash/system/date/tray_date.cc
+END
+tray_date.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/140068/trunk/src/ash/system/date/tray_date.h
+END
+clock_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/128022/trunk/src/ash/system/date/clock_observer.h
+END
+date_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/140068/trunk/src/ash/system/date/date_view.cc
+END
+date_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/140068/trunk/src/ash/system/date/date_view.h
+END

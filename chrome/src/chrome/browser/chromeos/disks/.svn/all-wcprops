@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/143076/trunk/src/chrome/browser/chromeos/disks
+END
+mock_disk_mount_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/134632/trunk/src/chrome/browser/chromeos/disks/mock_disk_mount_manager.cc
+END
+mock_disk_mount_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/134632/trunk/src/chrome/browser/chromeos/disks/mock_disk_mount_manager.h
+END
+disk_mount_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/143076/trunk/src/chrome/browser/chromeos/disks/disk_mount_manager.cc
+END
+disk_mount_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/134632/trunk/src/chrome/browser/chromeos/disks/disk_mount_manager.h
+END

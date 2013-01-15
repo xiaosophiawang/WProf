@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/145385/trunk/src/chrome/browser/extensions/api/app
+END
+app_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/143135/trunk/src/chrome/browser/extensions/api/app/app_api.h
+END
+app_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/145385/trunk/src/chrome/browser/extensions/api/app/app_api.cc
+END
+app_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/128560/trunk/src/chrome/browser/extensions/api/app/app_apitest.cc
+END

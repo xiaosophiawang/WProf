@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/144454/trunk/src/tools/isolate/data/trace_inputs
+END
+files2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144452/trunk/src/tools/isolate/data/trace_inputs/files2
+END
+ignored.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/144449/trunk/src/tools/isolate/data/trace_inputs/ignored.txt
+END
+child1.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/140557/trunk/src/tools/isolate/data/trace_inputs/child1.py
+END
+child2.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/144449/trunk/src/tools/isolate/data/trace_inputs/child2.py
+END
+test_file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/128512/trunk/src/tools/isolate/data/trace_inputs/test_file.txt
+END
+symlink.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/144454/trunk/src/tools/isolate/data/trace_inputs/symlink.py
+END

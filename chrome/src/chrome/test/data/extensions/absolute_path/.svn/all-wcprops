@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/130335/trunk/src/chrome/test/data/extensions/absolute_path
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/130335/trunk/src/chrome/test/data/extensions/absolute_path/test.html
+END
+absolute.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/130335/trunk/src/chrome/test/data/extensions/absolute_path/absolute.json
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/130335/trunk/src/chrome/test/data/extensions/absolute_path/test.js
+END

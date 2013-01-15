@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/100675/trunk/src/chrome/test/data/extensions/api_test/webnavigation/clientRedirect
+END
+a.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/100675/trunk/src/chrome/test/data/extensions/api_test/webnavigation/clientRedirect/a.html
+END
+b.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/76371/trunk/src/chrome/test/data/extensions/api_test/webnavigation/clientRedirect/b.html
+END

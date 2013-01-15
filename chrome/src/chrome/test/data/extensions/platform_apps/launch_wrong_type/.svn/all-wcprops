@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/141177/trunk/src/chrome/test/data/extensions/platform_apps/launch_wrong_type
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/139195/trunk/src/chrome/test/data/extensions/platform_apps/launch_wrong_type/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/141177/trunk/src/chrome/test/data/extensions/platform_apps/launch_wrong_type/manifest.json
+END

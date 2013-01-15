@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/78122/trunk/src/third_party/ply
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/78122/trunk/src/third_party/ply/README.chromium
+END
+lex.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/78122/trunk/src/third_party/ply/lex.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/78122/trunk/src/third_party/ply/LICENSE
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/78122/trunk/src/third_party/ply/__init__.py
+END
+yacc.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/78122/trunk/src/third_party/ply/yacc.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/78122/trunk/src/third_party/ply/README
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/119990/trunk/src/third_party/khronos/EGL
+END
+eglplatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/119990/trunk/src/third_party/khronos/EGL/eglplatform.h
+END
+egl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/111523/trunk/src/third_party/khronos/EGL/egl.h
+END
+eglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/111523/trunk/src/third_party/khronos/EGL/eglext.h
+END

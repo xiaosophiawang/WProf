@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/56986/trunk/src/chrome/common/extensions/docs/examples/apps/hello-python/oauth2/clients
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/56986/trunk/src/chrome/common/extensions/docs/examples/apps/hello-python/oauth2/clients/__init__.py
+END
+smtp.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/56986/trunk/src/chrome/common/extensions/docs/examples/apps/hello-python/oauth2/clients/smtp.py
+END
+imap.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/56986/trunk/src/chrome/common/extensions/docs/examples/apps/hello-python/oauth2/clients/imap.py
+END

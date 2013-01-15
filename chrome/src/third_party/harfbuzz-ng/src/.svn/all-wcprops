@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src
+END
+hb-font.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-font.h
+END
+hb-gobject-enums.cc.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-gobject-enums.cc.tmpl
+END
+hb-blob.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-blob.cc
+END
+hb-ot-map-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-map-private.hh
+END
+hb-icu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-icu.cc
+END
+hb-icu.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-icu.h
+END
+hb-ot.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot.h
+END
+hb-ot-hhea-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-hhea-table.hh
+END
+hb-cache-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-cache-private.hh
+END
+hb-uniscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-uniscribe.h
+END
+hb-ot-tag.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-tag.cc
+END
+hb-ot-map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-map.cc
+END
+hb-set.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-set.h
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/main.cc
+END
+hb-open-file-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-open-file-private.hh
+END
+hb-ot-shape-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-private.hh
+END
+hb-gobject-enums.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-gobject-enums.cc
+END
+hb.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb.h
+END
+hb-warning.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-warning.cc
+END
+hb-unicode-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-unicode-private.hh
+END
+hb-ft.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ft.h
+END
+hb-buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-buffer.h
+END
+hb-ot-shape-complex-misc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-misc.cc
+END
+hb-glib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-glib.h
+END
+hb-ot-shape.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape.cc
+END
+hb-ot-maxp-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-maxp-table.hh
+END
+hb-unicode.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-unicode.cc
+END
+hb-graphite2.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-graphite2.h
+END
+hb-font-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-font-private.hh
+END
+hb-common.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-common.cc
+END
+hb-object-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-object-private.hh
+END
+hb-ot-layout-gsub-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout-gsub-table.hh
+END
+hb-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-common.h
+END
+hb-ot-shape-complex-indic-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-indic-private.hh
+END
+hb-buffer-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-buffer-private.hh
+END
+hb-ot-tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-tag.h
+END
+hb-ot-hmtx-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-hmtx-table.hh
+END
+hb-ot-shape-normalize-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-normalize-private.hh
+END
+hb-shape.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-shape.cc
+END
+hb-ot-layout-gpos-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout-gpos-table.hh
+END
+hb-open-type-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-open-type-private.hh
+END
+hb-shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-shape.h
+END
+hb-ot-shape-complex-indic-machine.rl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-indic-machine.rl
+END
+hb-ot-shape-complex-arabic.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-arabic.cc
+END
+hb-ot-layout-gsubgpos-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout-gsubgpos-private.hh
+END
+hb-font.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-font.cc
+END
+hb-ot-shape-complex-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-private.hh
+END
+hb-graphite2-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-graphite2-private.hh
+END
+hb-ot-shape-complex-indic-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-indic-table.hh
+END
+hb-ot-shape-complex-indic.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-indic.cc
+END
+hb-ft.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-ft.cc
+END
+hb-buffer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-buffer.cc
+END
+hb-glib.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-glib.cc
+END
+hb-ot-shape-normalize.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-normalize.cc
+END
+hb-fallback-shape-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-fallback-shape-private.hh
+END
+hb-gobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-gobject.h
+END
+hb-blob.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-blob.h
+END
+hb-ot-head-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-head-table.hh
+END
+hb-gobject-structs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-gobject-structs.cc
+END
+hb-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-private.hh
+END
+hb-mutex-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-mutex-private.hh
+END
+hb-graphite2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-graphite2.cc
+END
+hb-version.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-version.h
+END
+hb-tt-font.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-tt-font.cc
+END
+hb-fallback-shape.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-fallback-shape.cc
+END
+hb-atomic-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-atomic-private.hh
+END
+hb-ot-layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout.h
+END
+indic.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/indic.cc
+END
+hb-ot-layout-common-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout-common-private.hh
+END
+hb-uniscribe-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-uniscribe-private.hh
+END
+hb-set-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-set-private.hh
+END
+hb-ot-layout-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout-private.hh
+END
+hb-uniscribe.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-uniscribe.cc
+END
+hb-ot-shape-complex-indic-machine.hh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-indic-machine.hh
+END
+hb-unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-unicode.h
+END
+hb-set.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-set.cc
+END
+hb-ot-layout.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/141389/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout.cc
+END
+hb-ot-name-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-name-table.hh
+END
+hb-ot-layout-gdef-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout-gdef-table.hh
+END
+hb-ot-shape-complex-arabic-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/140446/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-arabic-table.hh
+END

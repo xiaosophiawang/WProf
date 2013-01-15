@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/144932/trunk/src/ui/base/clipboard
+END
+clipboard_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144932/trunk/src/ui/base/clipboard/clipboard_unittest.cc
+END
+clipboard_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/130161/trunk/src/ui/base/clipboard/clipboard_android.cc
+END
+clipboard.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/130161/trunk/src/ui/base/clipboard/clipboard.cc
+END
+custom_data_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/135007/trunk/src/ui/base/clipboard/custom_data_helper_unittest.cc
+END
+clipboard_aurax11.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/137181/trunk/src/ui/base/clipboard/clipboard_aurax11.cc
+END
+clipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/130784/trunk/src/ui/base/clipboard/clipboard.h
+END
+custom_data_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/126242/trunk/src/ui/base/clipboard/custom_data_helper.cc
+END
+clipboard_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/130161/trunk/src/ui/base/clipboard/clipboard_mac.mm
+END
+custom_data_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/130784/trunk/src/ui/base/clipboard/custom_data_helper.h
+END
+clipboard_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/137181/trunk/src/ui/base/clipboard/clipboard_gtk.cc
+END
+custom_data_helper_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/114947/trunk/src/ui/base/clipboard/custom_data_helper_mac.mm
+END
+clipboard_util_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144932/trunk/src/ui/base/clipboard/clipboard_util_win.cc
+END
+clipboard_util_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/130161/trunk/src/ui/base/clipboard/clipboard_util_win.h
+END
+clipboard_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/136116/trunk/src/ui/base/clipboard/clipboard_win.cc
+END
+scoped_clipboard_writer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/142554/trunk/src/ui/base/clipboard/scoped_clipboard_writer.cc
+END
+custom_data_helper_x.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/114947/trunk/src/ui/base/clipboard/custom_data_helper_x.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/123077/trunk/src/ui/base/clipboard/OWNERS
+END
+scoped_clipboard_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/130161/trunk/src/ui/base/clipboard/scoped_clipboard_writer.h
+END

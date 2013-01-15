@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/141638/trunk/src/media/audio/linux
+END
+audio_manager_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/130288/trunk/src/media/audio/linux/audio_manager_linux.h
+END
+alsa_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/130288/trunk/src/media/audio/linux/alsa_util.cc
+END
+alsa_input.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/130288/trunk/src/media/audio/linux/alsa_input.cc
+END
+alsa_output_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/140538/trunk/src/media/audio/linux/alsa_output_unittest.cc
+END
+alsa_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/130288/trunk/src/media/audio/linux/alsa_util.h
+END
+alsa_output.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/140633/trunk/src/media/audio/linux/alsa_output.cc
+END
+alsa_wrapper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/140538/trunk/src/media/audio/linux/alsa_wrapper.cc
+END
+alsa_input.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/130288/trunk/src/media/audio/linux/alsa_input.h
+END
+alsa_output.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/140633/trunk/src/media/audio/linux/alsa_output.h
+END
+alsa_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/140538/trunk/src/media/audio/linux/alsa_wrapper.h
+END
+cras_output_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/133726/trunk/src/media/audio/linux/cras_output_unittest.cc
+END
+cras_output.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141638/trunk/src/media/audio/linux/cras_output.cc
+END
+audio_manager_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/136153/trunk/src/media/audio/linux/audio_manager_linux.cc
+END
+cras_output.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/139285/trunk/src/media/audio/linux/cras_output.h
+END

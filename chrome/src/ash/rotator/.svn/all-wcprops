@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/144875/trunk/src/ash/rotator
+END
+screen_rotation.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/144875/trunk/src/ash/rotator/screen_rotation.cc
+END
+screen_rotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/144875/trunk/src/ash/rotator/screen_rotation.h
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/translate
+END
+translate_prefs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/115829/trunk/src/chrome/browser/translate/translate_prefs.cc
+END
+translate_prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/92208/trunk/src/chrome/browser/translate/translate_prefs.h
+END
+options_menu_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/119635/trunk/src/chrome/browser/translate/options_menu_model.cc
+END
+options_menu_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/110940/trunk/src/chrome/browser/translate/options_menu_model.h
+END
+page_translated_details.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/53716/trunk/src/chrome/browser/translate/page_translated_details.h
+END
+languages_menu_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/74217/trunk/src/chrome/browser/translate/languages_menu_model.cc
+END
+languages_menu_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/110940/trunk/src/chrome/browser/translate/languages_menu_model.h
+END
+translate_tab_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/116392/trunk/src/chrome/browser/translate/translate_tab_helper.cc
+END
+translate_tab_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/116392/trunk/src/chrome/browser/translate/translate_tab_helper.h
+END
+translate_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/translate/translate_manager.cc
+END
+translate_infobar_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/141348/trunk/src/chrome/browser/translate/translate_infobar_delegate.cc
+END
+translate_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/141348/trunk/src/chrome/browser/translate/translate_manager.h
+END
+translate_infobar_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/74086/trunk/src/chrome/browser/translate/translate_infobar_view.h
+END
+translate_infobar_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/109987/trunk/src/chrome/browser/translate/translate_infobar_delegate.h
+END
+translate_manager_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/143085/trunk/src/chrome/browser/translate/translate_manager_browsertest.cc
+END

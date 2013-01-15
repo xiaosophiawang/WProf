@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/145311/trunk/src/chrome/browser/ui/website_settings
+END
+website_settings_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/145311/trunk/src/chrome/browser/ui/website_settings/website_settings_ui.cc
+END
+website_settings_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/145311/trunk/src/chrome/browser/ui/website_settings/website_settings_ui.h
+END
+website_settings_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/140436/trunk/src/chrome/browser/ui/website_settings/website_settings_unittest.cc
+END
+website_settings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/144561/trunk/src/chrome/browser/ui/website_settings/website_settings.cc
+END
+website_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/141725/trunk/src/chrome/browser/ui/website_settings/website_settings.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/140436/trunk/src/chrome/browser/ui/website_settings/OWNERS
+END

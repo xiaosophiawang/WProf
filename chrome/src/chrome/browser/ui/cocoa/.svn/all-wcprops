@@ -1,0 +1,1637 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/ui/cocoa
+END
+run_loop_testing.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/97585/trunk/src/chrome/browser/ui/cocoa/run_loop_testing.h
+END
+confirm_bubble_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/139438/trunk/src/chrome/browser/ui/cocoa/confirm_bubble_controller.mm
+END
+animation_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/92318/trunk/src/chrome/browser/ui/cocoa/animation_utils.h
+END
+info_bubble_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/142754/trunk/src/chrome/browser/ui/cocoa/info_bubble_view.h
+END
+history_menu_bridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/115822/trunk/src/chrome/browser/ui/cocoa/history_menu_bridge.h
+END
+vertical_gradient_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/vertical_gradient_view.mm
+END
+fast_resize_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/fast_resize_view.h
+END
+restart_browser.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/137927/trunk/src/chrome/browser/ui/cocoa/restart_browser.mm
+END
+web_intent_sheet_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/145116/trunk/src/chrome/browser/ui/cocoa/web_intent_sheet_controller.mm
+END
+vertical_gradient_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/vertical_gradient_view.h
+END
+hyperlink_button_cell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/132697/trunk/src/chrome/browser/ui/cocoa/hyperlink_button_cell.mm
+END
+web_intent_picker_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/145099/trunk/src/chrome/browser/ui/cocoa/web_intent_picker_cocoa.mm
+END
+ssl_client_certificate_selector.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/141421/trunk/src/chrome/browser/ui/cocoa/ssl_client_certificate_selector.mm
+END
+history_menu_bridge.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/144313/trunk/src/chrome/browser/ui/cocoa/history_menu_bridge.mm
+END
+hyperlink_text_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/99393/trunk/src/chrome/browser/ui/cocoa/hyperlink_text_view.mm
+END
+tab_view_picker_table.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/tab_view_picker_table.mm
+END
+fullscreen_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/fullscreen_window.h
+END
+styled_text_field_test_helper.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/styled_text_field_test_helper.mm
+END
+url_drop_target.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/99390/trunk/src/chrome/browser/ui/cocoa/url_drop_target.h
+END
+task_manager_mac_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/140628/trunk/src/chrome/browser/ui/cocoa/task_manager_mac_unittest.mm
+END
+accelerators_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/103765/trunk/src/chrome/browser/ui/cocoa/accelerators_cocoa.mm
+END
+new_tab_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/new_tab_button.h
+END
+tracking_area_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/88929/trunk/src/chrome/browser/ui/cocoa/tracking_area_unittest.mm
+END
+browser_window_utils.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/144597/trunk/src/chrome/browser/ui/cocoa/browser_window_utils.mm
+END
+keystone_infobar_delegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/cocoa/keystone_infobar_delegate.mm
+END
+hyperlink_button_cell_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/132697/trunk/src/chrome/browser/ui/cocoa/hyperlink_button_cell_unittest.mm
+END
+draggable_button.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/98286/trunk/src/chrome/browser/ui/cocoa/draggable_button.mm
+END
+web_dialog_window_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/144105/trunk/src/chrome/browser/ui/cocoa/web_dialog_window_controller.h
+END
+styled_text_field.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/83387/trunk/src/chrome/browser/ui/cocoa/styled_text_field.mm
+END
+one_click_signin_bubble_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/142613/trunk/src/chrome/browser/ui/cocoa/one_click_signin_bubble_controller.mm
+END
+browser_window_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/141071/trunk/src/chrome/browser/ui/cocoa/browser_window_controller_unittest.mm
+END
+hyperlink_button_cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/hyperlink_button_cell.h
+END
+web_intent_picker_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/145099/trunk/src/chrome/browser/ui/cocoa/web_intent_picker_cocoa.h
+END
+presentation_mode_prefs.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/95518/trunk/src/chrome/browser/ui/cocoa/presentation_mode_prefs.mm
+END
+custom_frame_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/144946/trunk/src/chrome/browser/ui/cocoa/custom_frame_view.mm
+END
+dev_tools_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/118700/trunk/src/chrome/browser/ui/cocoa/dev_tools_controller.h
+END
+about_ipc_dialog.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/145141/trunk/src/chrome/browser/ui/cocoa/about_ipc_dialog.mm
+END
+first_run_bubble_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/144404/trunk/src/chrome/browser/ui/cocoa/first_run_bubble_controller.mm
+END
+event_utils_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/115188/trunk/src/chrome/browser/ui/cocoa/event_utils_unittest.mm
+END
+dev_tools_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/141421/trunk/src/chrome/browser/ui/cocoa/dev_tools_controller.mm
+END
+view_id_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/73890/trunk/src/chrome/browser/ui/cocoa/view_id_util.h
+END
+chrome_to_mobile_bubble_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/144654/trunk/src/chrome/browser/ui/cocoa/chrome_to_mobile_bubble_controller.h
+END
+about_ipc_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/118293/trunk/src/chrome/browser/ui/cocoa/about_ipc_controller.mm
+END
+fullscreen_exit_bubble_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/144971/trunk/src/chrome/browser/ui/cocoa/fullscreen_exit_bubble_controller.mm
+END
+drag_util.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/115259/trunk/src/chrome/browser/ui/cocoa/drag_util.mm
+END
+confirm_bubble_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/145102/trunk/src/chrome/browser/ui/cocoa/confirm_bubble_cocoa.mm
+END
+browser_window_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/cocoa/browser_window_controller.mm
+END
+status_bubble_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/133565/trunk/src/chrome/browser/ui/cocoa/status_bubble_mac.mm
+END
+nsmenuitem_additions_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/nsmenuitem_additions_unittest.mm
+END
+hover_close_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/92900/trunk/src/chrome/browser/ui/cocoa/hover_close_button.h
+END
+bubble_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/bubble_view_unittest.mm
+END
+clickhold_button_cell_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/clickhold_button_cell_unittest.mm
+END
+clickhold_button_cell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/93825/trunk/src/chrome/browser/ui/cocoa/clickhold_button_cell.mm
+END
+animatable_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/animatable_view.mm
+END
+window_size_autosaver.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/80475/trunk/src/chrome/browser/ui/cocoa/window_size_autosaver.mm
+END
+menu_button.mm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/93793/trunk/src/chrome/browser/ui/cocoa/menu_button.mm
+END
+history_menu_bridge_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/133170/trunk/src/chrome/browser/ui/cocoa/history_menu_bridge_unittest.mm
+END
+browser_window_factory.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/95897/trunk/src/chrome/browser/ui/cocoa/browser_window_factory.mm
+END
+background_gradient_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/84304/trunk/src/chrome/browser/ui/cocoa/background_gradient_view.h
+END
+javascript_app_modal_dialog_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/139242/trunk/src/chrome/browser/ui/cocoa/javascript_app_modal_dialog_cocoa.mm
+END
+chrome_browser_window.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/130311/trunk/src/chrome/browser/ui/cocoa/chrome_browser_window.mm
+END
+tracking_area.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/81961/trunk/src/chrome/browser/ui/cocoa/tracking_area.h
+END
+browser_window_cocoa_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/106204/trunk/src/chrome/browser/ui/cocoa/browser_window_cocoa_unittest.mm
+END
+hover_image_button_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/135907/trunk/src/chrome/browser/ui/cocoa/hover_image_button_unittest.mm
+END
+chrome_to_mobile_bubble_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/144654/trunk/src/chrome/browser/ui/cocoa/chrome_to_mobile_bubble_controller_unittest.mm
+END
+browser_window_controller_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/144939/trunk/src/chrome/browser/ui/cocoa/browser_window_controller_private.h
+END
+encoding_menu_controller_delegate_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/71368/trunk/src/chrome/browser/ui/cocoa/encoding_menu_controller_delegate_mac.mm
+END
+global_error_bubble_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/144952/trunk/src/chrome/browser/ui/cocoa/global_error_bubble_controller.mm
+END
+fullscreen_window_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/fullscreen_window_unittest.mm
+END
+presentation_mode_prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/95518/trunk/src/chrome/browser/ui/cocoa/presentation_mode_prefs.h
+END
+custom_frame_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/143190/trunk/src/chrome/browser/ui/cocoa/custom_frame_view.h
+END
+menu_button_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/93793/trunk/src/chrome/browser/ui/cocoa/menu_button_unittest.mm
+END
+fullscreen_exit_bubble_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/114961/trunk/src/chrome/browser/ui/cocoa/fullscreen_exit_bubble_view.mm
+END
+menu_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/145368/trunk/src/chrome/browser/ui/cocoa/menu_controller_unittest.mm
+END
+about_ipc_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/ui/cocoa/about_ipc_controller_unittest.mm
+END
+multi_key_equivalent_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/multi_key_equivalent_button.h
+END
+image_button_cell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/141084/trunk/src/chrome/browser/ui/cocoa/image_button_cell.mm
+END
+menu_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/105913/trunk/src/chrome/browser/ui/cocoa/menu_button.h
+END
+fullscreen_exit_bubble_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/109991/trunk/src/chrome/browser/ui/cocoa/fullscreen_exit_bubble_view.h
+END
+view_id_util.mm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/110076/trunk/src/chrome/browser/ui/cocoa/view_id_util.mm
+END
+menu_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/135328/trunk/src/chrome/browser/ui/cocoa/menu_controller.h
+END
+background_tile_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/background_tile_view_unittest.mm
+END
+background_tile_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/background_tile_view.mm
+END
+gradient_button_cell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/142435/trunk/src/chrome/browser/ui/cocoa/gradient_button_cell.mm
+END
+confirm_bubble_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/139438/trunk/src/chrome/browser/ui/cocoa/confirm_bubble_controller.h
+END
+status_bubble_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/103220/trunk/src/chrome/browser/ui/cocoa/status_bubble_mac.h
+END
+animatable_image.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/70359/trunk/src/chrome/browser/ui/cocoa/animatable_image.mm
+END
+nsmenuitem_additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/68369/trunk/src/chrome/browser/ui/cocoa/nsmenuitem_additions.h
+END
+tabpose_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/tabpose_window.h
+END
+hyperlink_text_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/99393/trunk/src/chrome/browser/ui/cocoa/hyperlink_text_view_unittest.mm
+END
+hover_close_button.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/142607/trunk/src/chrome/browser/ui/cocoa/hover_close_button.mm
+END
+main_menu_item.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/89522/trunk/src/chrome/browser/ui/cocoa/main_menu_item.h
+END
+framed_browser_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/144946/trunk/src/chrome/browser/ui/cocoa/framed_browser_window.h
+END
+window_restore_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/94605/trunk/src/chrome/browser/ui/cocoa/window_restore_utils.h
+END
+styled_text_field_cell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/142871/trunk/src/chrome/browser/ui/cocoa/styled_text_field_cell.mm
+END
+table_row_nsimage_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/140628/trunk/src/chrome/browser/ui/cocoa/table_row_nsimage_cache.h
+END
+chrome_to_mobile_bubble_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/144654/trunk/src/chrome/browser/ui/cocoa/chrome_to_mobile_bubble_controller.mm
+END
+l10n_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/l10n_util.h
+END
+draggable_button_mixin.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/96438/trunk/src/chrome/browser/ui/cocoa/draggable_button_mixin.h
+END
+profile_menu_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/104919/trunk/src/chrome/browser/ui/cocoa/profile_menu_controller_unittest.mm
+END
+nsview_additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/85427/trunk/src/chrome/browser/ui/cocoa/nsview_additions.h
+END
+base_bubble_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/141421/trunk/src/chrome/browser/ui/cocoa/base_bubble_controller.mm
+END
+accelerators_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/111597/trunk/src/chrome/browser/ui/cocoa/accelerators_cocoa.h
+END
+browser_window_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144939/trunk/src/chrome/browser/ui/cocoa/browser_window_controller.h
+END
+view_resizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/136669/trunk/src/chrome/browser/ui/cocoa/view_resizer.h
+END
+animatable_image_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/83756/trunk/src/chrome/browser/ui/cocoa/animatable_image_unittest.mm
+END
+presentation_mode_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/95518/trunk/src/chrome/browser/ui/cocoa/presentation_mode_controller.h
+END
+draggable_button_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/100474/trunk/src/chrome/browser/ui/cocoa/draggable_button_unittest.mm
+END
+page_info_bubble_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/142963/trunk/src/chrome/browser/ui/cocoa/page_info_bubble_controller_unittest.mm
+END
+profile_menu_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/101098/trunk/src/chrome/browser/ui/cocoa/profile_menu_controller.h
+END
+nsimage_cache_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/102763/trunk/src/chrome/browser/ui/cocoa/nsimage_cache_unittest.mm
+END
+keystone_infobar_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/103395/trunk/src/chrome/browser/ui/cocoa/keystone_infobar_delegate.h
+END
+select_file_dialog_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/145156/trunk/src/chrome/browser/ui/cocoa/select_file_dialog_mac.mm
+END
+animatable_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/animatable_image.h
+END
+color_chooser_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/143282/trunk/src/chrome/browser/ui/cocoa/color_chooser_mac.mm
+END
+last_active_browser_cocoa.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/138719/trunk/src/chrome/browser/ui/cocoa/last_active_browser_cocoa.cc
+END
+nsmenuitem_additions.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/68369/trunk/src/chrome/browser/ui/cocoa/nsmenuitem_additions.mm
+END
+tabpose_window_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/cocoa/tabpose_window_unittest.mm
+END
+simple_message_box_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/139205/trunk/src/chrome/browser/ui/cocoa/simple_message_box_mac.mm
+END
+web_dialog_window_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/144105/trunk/src/chrome/browser/ui/cocoa/web_dialog_window_controller_unittest.mm
+END
+view_id_util_browsertest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144028/trunk/src/chrome/browser/ui/cocoa/view_id_util_browsertest.mm
+END
+web_dialog_window_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/145141/trunk/src/chrome/browser/ui/cocoa/web_dialog_window_controller.mm
+END
+dock_icon.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/141084/trunk/src/chrome/browser/ui/cocoa/dock_icon.mm
+END
+window_size_autosaver_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/100313/trunk/src/chrome/browser/ui/cocoa/window_size_autosaver_unittest.mm
+END
+one_click_signin_bubble_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/142613/trunk/src/chrome/browser/ui/cocoa/one_click_signin_bubble_controller.h
+END
+styled_text_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/styled_text_field.h
+END
+first_run_dialog.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/141172/trunk/src/chrome/browser/ui/cocoa/first_run_dialog.mm
+END
+confirm_bubble_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/139438/trunk/src/chrome/browser/ui/cocoa/confirm_bubble_cocoa.h
+END
+info_bubble_window_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/99500/trunk/src/chrome/browser/ui/cocoa/info_bubble_window_unittest.mm
+END
+cocoa_test_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/100273/trunk/src/chrome/browser/ui/cocoa/cocoa_test_helper.h
+END
+table_row_nsimage_cache_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/140628/trunk/src/chrome/browser/ui/cocoa/table_row_nsimage_cache_unittest.mm
+END
+bubble_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/95315/trunk/src/chrome/browser/ui/cocoa/bubble_view.h
+END
+web_intent_sheet_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/143042/trunk/src/chrome/browser/ui/cocoa/web_intent_sheet_controller.h
+END
+browser_window_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/137865/trunk/src/chrome/browser/ui/cocoa/browser_window_utils.h
+END
+fast_resize_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/fast_resize_view.mm
+END
+login_prompt_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/141421/trunk/src/chrome/browser/ui/cocoa/login_prompt_cocoa.mm
+END
+command_observer_bridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/144597/trunk/src/chrome/browser/ui/cocoa/command_observer_bridge.h
+END
+presentation_mode_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/144448/trunk/src/chrome/browser/ui/cocoa/presentation_mode_controller.mm
+END
+styled_text_field_test_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/72355/trunk/src/chrome/browser/ui/cocoa/styled_text_field_test_helper.h
+END
+base_bubble_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/128106/trunk/src/chrome/browser/ui/cocoa/base_bubble_controller_unittest.mm
+END
+hung_renderer_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/145141/trunk/src/chrome/browser/ui/cocoa/hung_renderer_controller.mm
+END
+history_menu_cocoa_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/137511/trunk/src/chrome/browser/ui/cocoa/history_menu_cocoa_controller.mm
+END
+info_bubble_window.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/134795/trunk/src/chrome/browser/ui/cocoa/info_bubble_window.mm
+END
+confirm_quit_panel_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/124188/trunk/src/chrome/browser/ui/cocoa/confirm_quit_panel_controller.h
+END
+website_settings_bubble_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/145137/trunk/src/chrome/browser/ui/cocoa/website_settings_bubble_controller_unittest.mm
+END
+command_observer_bridge.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/144597/trunk/src/chrome/browser/ui/cocoa/command_observer_bridge.mm
+END
+cocoa_profile_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/ui/cocoa/cocoa_profile_test.h
+END
+confirm_quit_panel_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/145185/trunk/src/chrome/browser/ui/cocoa/confirm_quit_panel_controller.mm
+END
+cocoa_test_helper.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/118284/trunk/src/chrome/browser/ui/cocoa/cocoa_test_helper.mm
+END
+find_pasteboard_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/125515/trunk/src/chrome/browser/ui/cocoa/find_pasteboard_unittest.mm
+END
+tabpose_window.mm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/141421/trunk/src/chrome/browser/ui/cocoa/tabpose_window.mm
+END
+background_gradient_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/84304/trunk/src/chrome/browser/ui/cocoa/background_gradient_view_unittest.mm
+END
+background_gradient_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/84713/trunk/src/chrome/browser/ui/cocoa/background_gradient_view.mm
+END
+drag_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/107954/trunk/src/chrome/browser/ui/cocoa/drag_util.h
+END
+fullscreen_window.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/118131/trunk/src/chrome/browser/ui/cocoa/fullscreen_window.mm
+END
+run_loop_testing.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/97585/trunk/src/chrome/browser/ui/cocoa/run_loop_testing.mm
+END
+image_button_cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/130359/trunk/src/chrome/browser/ui/cocoa/image_button_cell.h
+END
+obsolete_os.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/145105/trunk/src/chrome/browser/ui/cocoa/obsolete_os.h
+END
+info_bubble_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/info_bubble_view_unittest.mm
+END
+image_utils_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/100273/trunk/src/chrome/browser/ui/cocoa/image_utils_unittest.mm
+END
+table_row_nsimage_cache.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/142153/trunk/src/chrome/browser/ui/cocoa/table_row_nsimage_cache.mm
+END
+restart_browser.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/131394/trunk/src/chrome/browser/ui/cocoa/restart_browser.h
+END
+fast_resize_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/fast_resize_view_unittest.mm
+END
+first_run_bubble_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144404/trunk/src/chrome/browser/ui/cocoa/first_run_bubble_controller.h
+END
+window_size_autosaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/window_size_autosaver.h
+END
+styled_text_field_cell_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/styled_text_field_cell_unittest.mm
+END
+custom_frame_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/143190/trunk/src/chrome/browser/ui/cocoa/custom_frame_view_unittest.mm
+END
+vertical_gradient_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/vertical_gradient_view_unittest.mm
+END
+hover_image_button.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/hover_image_button.mm
+END
+fullscreen_exit_bubble_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/144971/trunk/src/chrome/browser/ui/cocoa/fullscreen_exit_bubble_controller.h
+END
+web_intent_sheet_controller_browsertest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/cocoa/web_intent_sheet_controller_browsertest.mm
+END
+hover_image_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/hover_image_button.h
+END
+ui_localizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/ui_localizer.h
+END
+external_protocol_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/external_protocol_dialog.h
+END
+view_resizer_pong.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/view_resizer_pong.mm
+END
+browser_window_controller_private.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/cocoa/browser_window_controller_private.mm
+END
+new_tab_button.mm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/110849/trunk/src/chrome/browser/ui/cocoa/new_tab_button.mm
+END
+image_button_cell_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/83699/trunk/src/chrome/browser/ui/cocoa/image_button_cell_unittest.mm
+END
+task_manager_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/140628/trunk/src/chrome/browser/ui/cocoa/task_manager_mac.mm
+END
+status_bubble_mac_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/99500/trunk/src/chrome/browser/ui/cocoa/status_bubble_mac_unittest.mm
+END
+view_resizer_pong.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/72355/trunk/src/chrome/browser/ui/cocoa/view_resizer_pong.h
+END
+speech_recognition_window_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/125378/trunk/src/chrome/browser/ui/cocoa/speech_recognition_window_controller.h
+END
+chrome_event_processing_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/130311/trunk/src/chrome/browser/ui/cocoa/chrome_event_processing_window.h
+END
+ui_localizer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/91704/trunk/src/chrome/browser/ui/cocoa/ui_localizer.mm
+END
+page_info_bubble_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/142963/trunk/src/chrome/browser/ui/cocoa/page_info_bubble_controller.h
+END
+history_overlay_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/116338/trunk/src/chrome/browser/ui/cocoa/history_overlay_controller.h
+END
+about_ipc_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/about_ipc_controller.h
+END
+web_intent_sheet_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/145099/trunk/src/chrome/browser/ui/cocoa/web_intent_sheet_controller_unittest.mm
+END
+obsolete_os.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/145105/trunk/src/chrome/browser/ui/cocoa/obsolete_os.cc
+END
+login_prompt_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/141383/trunk/src/chrome/browser/ui/cocoa/login_prompt_cocoa.h
+END
+themed_window.mm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/themed_window.mm
+END
+floating_bar_backing_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/143190/trunk/src/chrome/browser/ui/cocoa/floating_bar_backing_view.mm
+END
+command_observer_bridge_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/144597/trunk/src/chrome/browser/ui/cocoa/command_observer_bridge_unittest.mm
+END
+speech_recognition_window_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/143605/trunk/src/chrome/browser/ui/cocoa/speech_recognition_window_controller.mm
+END
+chrome_event_processing_window.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/143190/trunk/src/chrome/browser/ui/cocoa/chrome_event_processing_window.mm
+END
+cocoa_profile_test.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/cocoa/cocoa_profile_test.mm
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/125547/trunk/src/chrome/browser/ui/cocoa/OWNERS
+END
+menu_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/142153/trunk/src/chrome/browser/ui/cocoa/menu_controller.mm
+END
+info_bubble_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/105649/trunk/src/chrome/browser/ui/cocoa/info_bubble_window.h
+END
+hover_button.mm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/130359/trunk/src/chrome/browser/ui/cocoa/hover_button.mm
+END
+browser_window_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/ui/cocoa/browser_window_cocoa.mm
+END
+image_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/image_utils.h
+END
+confirm_quit_panel_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/145185/trunk/src/chrome/browser/ui/cocoa/confirm_quit_panel_controller_unittest.mm
+END
+external_protocol_dialog.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/131621/trunk/src/chrome/browser/ui/cocoa/external_protocol_dialog.mm
+END
+bubble_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/95315/trunk/src/chrome/browser/ui/cocoa/bubble_view.mm
+END
+animatable_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/animatable_view_unittest.mm
+END
+styled_text_field_cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/styled_text_field_cell.h
+END
+hung_renderer_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/108138/trunk/src/chrome/browser/ui/cocoa/hung_renderer_controller_unittest.mm
+END
+url_drop_target.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/126332/trunk/src/chrome/browser/ui/cocoa/url_drop_target.mm
+END
+tab_modal_confirm_dialog_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/145141/trunk/src/chrome/browser/ui/cocoa/tab_modal_confirm_dialog_mac.mm
+END
+floating_bar_backing_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/100273/trunk/src/chrome/browser/ui/cocoa/floating_bar_backing_view_unittest.mm
+END
+animatable_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/animatable_view.h
+END
+chrome_browser_window_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/118131/trunk/src/chrome/browser/ui/cocoa/chrome_browser_window_unittest.mm
+END
+l10n_util.mm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/l10n_util.mm
+END
+draggable_button_mixin.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/96438/trunk/src/chrome/browser/ui/cocoa/draggable_button_mixin.mm
+END
+history_menu_cocoa_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/history_menu_cocoa_controller.h
+END
+confirm_bubble_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/139438/trunk/src/chrome/browser/ui/cocoa/confirm_bubble_controller_unittest.mm
+END
+floating_bar_backing_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/floating_bar_backing_view.h
+END
+constrained_window_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/141421/trunk/src/chrome/browser/ui/cocoa/constrained_window_mac.mm
+END
+tab_view_picker_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/tab_view_picker_table.h
+END
+last_active_browser_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/138719/trunk/src/chrome/browser/ui/cocoa/last_active_browser_cocoa.h
+END
+chrome_browser_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/130311/trunk/src/chrome/browser/ui/cocoa/chrome_browser_window.h
+END
+profile_menu_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/138719/trunk/src/chrome/browser/ui/cocoa/profile_menu_controller.mm
+END
+first_run_bubble_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/144404/trunk/src/chrome/browser/ui/cocoa/first_run_bubble_controller_unittest.mm
+END
+framed_browser_window.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144946/trunk/src/chrome/browser/ui/cocoa/framed_browser_window.mm
+END
+run_loop_testing_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/97585/trunk/src/chrome/browser/ui/cocoa/run_loop_testing_unittest.mm
+END
+tracking_area.mm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/76976/trunk/src/chrome/browser/ui/cocoa/tracking_area.mm
+END
+constrained_window_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141421/trunk/src/chrome/browser/ui/cocoa/constrained_window_mac.h
+END
+image_utils.mm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/image_utils.mm
+END
+clickhold_button_cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/83699/trunk/src/chrome/browser/ui/cocoa/clickhold_button_cell.h
+END
+encoding_menu_controller_delegate_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/encoding_menu_controller_delegate_mac.h
+END
+global_error_bubble_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/137268/trunk/src/chrome/browser/ui/cocoa/global_error_bubble_controller.h
+END
+first_run_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/82179/trunk/src/chrome/browser/ui/cocoa/first_run_dialog.h
+END
+fullscreen_exit_bubble_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/cocoa/fullscreen_exit_bubble_controller_unittest.mm
+END
+accelerators_cocoa_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/111597/trunk/src/chrome/browser/ui/cocoa/accelerators_cocoa_unittest.mm
+END
+browser_command_executor.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/browser_command_executor.h
+END
+confirm_quit.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/145185/trunk/src/chrome/browser/ui/cocoa/confirm_quit.h
+END
+hyperlink_text_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/99393/trunk/src/chrome/browser/ui/cocoa/hyperlink_text_view.h
+END
+certificate_viewer_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/142963/trunk/src/chrome/browser/ui/cocoa/certificate_viewer_mac.mm
+END
+gradient_button_cell_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/gradient_button_cell_unittest.mm
+END
+multi_key_equivalent_button.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/multi_key_equivalent_button.mm
+END
+history_menu_cocoa_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/115167/trunk/src/chrome/browser/ui/cocoa/history_menu_cocoa_controller_unittest.mm
+END
+browser_window_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/ui/cocoa/browser_window_cocoa.h
+END
+hover_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/92318/trunk/src/chrome/browser/ui/cocoa/hover_button.h
+END
+constrained_web_dialog_delegate_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/141421/trunk/src/chrome/browser/ui/cocoa/constrained_web_dialog_delegate_mac.mm
+END
+website_settings_bubble_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/145311/trunk/src/chrome/browser/ui/cocoa/website_settings_bubble_controller.mm
+END
+chrome_event_processing_window_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/143190/trunk/src/chrome/browser/ui/cocoa/chrome_event_processing_window_unittest.mm
+END
+about_ipc_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/110916/trunk/src/chrome/browser/ui/cocoa/about_ipc_dialog.h
+END
+tab_view_picker_table_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/tab_view_picker_table_unittest.mm
+END
+gradient_button_cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/114860/trunk/src/chrome/browser/ui/cocoa/gradient_button_cell.h
+END
+base_bubble_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/137433/trunk/src/chrome/browser/ui/cocoa/base_bubble_controller.h
+END
+hung_renderer_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/115932/trunk/src/chrome/browser/ui/cocoa/hung_renderer_controller.h
+END
+nsview_additions.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/142450/trunk/src/chrome/browser/ui/cocoa/nsview_additions.mm
+END
+one_click_signin_bubble_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/142613/trunk/src/chrome/browser/ui/cocoa/one_click_signin_bubble_controller_unittest.mm
+END
+styled_text_field_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/85676/trunk/src/chrome/browser/ui/cocoa/styled_text_field_unittest.mm
+END
+themed_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/71970/trunk/src/chrome/browser/ui/cocoa/themed_window.h
+END
+tab_modal_confirm_dialog_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/141421/trunk/src/chrome/browser/ui/cocoa/tab_modal_confirm_dialog_mac.h
+END
+website_settings_bubble_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/145311/trunk/src/chrome/browser/ui/cocoa/website_settings_bubble_controller.h
+END
+event_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/98936/trunk/src/chrome/browser/ui/cocoa/event_utils.h
+END
+draggable_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/96433/trunk/src/chrome/browser/ui/cocoa/draggable_button.h
+END
+javascript_app_modal_dialog_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/139142/trunk/src/chrome/browser/ui/cocoa/javascript_app_modal_dialog_cocoa.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/126383/trunk/src/chrome/browser/ui/cocoa/DEPS
+END
+speech_recognition_bubble_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/142754/trunk/src/chrome/browser/ui/cocoa/speech_recognition_bubble_cocoa.mm
+END
+framed_browser_window_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/143190/trunk/src/chrome/browser/ui/cocoa/framed_browser_window_unittest.mm
+END
+task_manager_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/140628/trunk/src/chrome/browser/ui/cocoa/task_manager_mac.h
+END
+window_restore_utils.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/95120/trunk/src/chrome/browser/ui/cocoa/window_restore_utils.mm
+END
+info_bubble_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/134795/trunk/src/chrome/browser/ui/cocoa/info_bubble_view.mm
+END
+event_utils.mm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/145220/trunk/src/chrome/browser/ui/cocoa/event_utils.mm
+END
+background_tile_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/105913/trunk/src/chrome/browser/ui/cocoa/background_tile_view.h
+END
+page_info_bubble_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/145102/trunk/src/chrome/browser/ui/cocoa/page_info_bubble_controller.mm
+END
+history_overlay_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/143605/trunk/src/chrome/browser/ui/cocoa/history_overlay_controller.mm
+END
+dock_icon.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/120984/trunk/src/chrome/browser/ui/cocoa/dock_icon.h
+END

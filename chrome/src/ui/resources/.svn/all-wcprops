@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/145262/trunk/src/ui/resources
+END
+ui_resources.grd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145262/trunk/src/ui/resources/ui_resources.grd
+END
+ui_resources_standard.grd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144313/trunk/src/ui/resources/ui_resources_standard.grd
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/142028/trunk/src/ui/resources/OWNERS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/142028/trunk/src/ui/resources/README
+END

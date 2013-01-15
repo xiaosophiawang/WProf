@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/140864/trunk/src/chrome/browser/resources/bookmark_manager/js
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/140864/trunk/src/chrome/browser/resources/bookmark_manager/js/main.js
+END
+bmm.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/132665/trunk/src/chrome/browser/resources/bookmark_manager/js/bmm.js
+END
+bmm_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/108327/trunk/src/chrome/browser/resources/bookmark_manager/js/bmm_test.html
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/144966/trunk/src/chrome/browser/ui/libgtk2ui
+END
+chrome_gtk_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/140922/trunk/src/chrome/browser/ui/libgtk2ui/chrome_gtk_frame.cc
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/142547/trunk/src/chrome/browser/ui/libgtk2ui/PRESUBMIT.py
+END
+chrome_gtk_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/140922/trunk/src/chrome/browser/ui/libgtk2ui/chrome_gtk_frame.h
+END
+skia_utils_gtk2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/140922/trunk/src/chrome/browser/ui/libgtk2ui/skia_utils_gtk2.cc
+END
+libgtk2ui_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/141304/trunk/src/chrome/browser/ui/libgtk2ui/libgtk2ui_export.h
+END
+skia_utils_gtk2.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/140922/trunk/src/chrome/browser/ui/libgtk2ui/skia_utils_gtk2.h
+END
+gtk2_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144966/trunk/src/chrome/browser/ui/libgtk2ui/gtk2_ui.cc
+END
+gtk2_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/142160/trunk/src/chrome/browser/ui/libgtk2ui/gtk2_util.cc
+END
+gtk2_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/142160/trunk/src/chrome/browser/ui/libgtk2ui/gtk2_ui.h
+END
+gtk2_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/142160/trunk/src/chrome/browser/ui/libgtk2ui/gtk2_util.h
+END
+libgtk2ui.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/142766/trunk/src/chrome/browser/ui/libgtk2ui/libgtk2ui.gyp
+END
+owned_widget_gtk2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/140922/trunk/src/chrome/browser/ui/libgtk2ui/owned_widget_gtk2.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/140922/trunk/src/chrome/browser/ui/libgtk2ui/DEPS
+END
+owned_widget_gtk2.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/140922/trunk/src/chrome/browser/ui/libgtk2ui/owned_widget_gtk2.h
+END

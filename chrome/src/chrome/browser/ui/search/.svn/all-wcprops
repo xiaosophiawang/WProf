@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/search
+END
+search_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144008/trunk/src/chrome/browser/ui/search/search_types.h
+END
+search_tab_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/144008/trunk/src/chrome/browser/ui/search/search_tab_helper.h
+END
+search_model_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/143638/trunk/src/chrome/browser/ui/search/search_model_observer.h
+END
+search_delegate_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/search/search_delegate_unittest.cc
+END
+search_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/144604/trunk/src/chrome/browser/ui/search/search_delegate.cc
+END
+search_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/144970/trunk/src/chrome/browser/ui/search/search_delegate.h
+END
+search_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144818/trunk/src/chrome/browser/ui/search/search_ui.cc
+END
+search_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144818/trunk/src/chrome/browser/ui/search/search_ui.h
+END
+search.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/143318/trunk/src/chrome/browser/ui/search/search.cc
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/143318/trunk/src/chrome/browser/ui/search/search.h
+END
+search_model_observer_bridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/143638/trunk/src/chrome/browser/ui/search/search_model_observer_bridge.h
+END
+toolbar_search_animator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144763/trunk/src/chrome/browser/ui/search/toolbar_search_animator.cc
+END
+toolbar_search_animator.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/144614/trunk/src/chrome/browser/ui/search/toolbar_search_animator.h
+END
+search_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/143638/trunk/src/chrome/browser/ui/search/search_model.cc
+END
+search_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/143638/trunk/src/chrome/browser/ui/search/search_model.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/143318/trunk/src/chrome/browser/ui/search/OWNERS
+END
+search_tab_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/144008/trunk/src/chrome/browser/ui/search/search_tab_helper.cc
+END
+toolbar_search_animator_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/144604/trunk/src/chrome/browser/ui/search/toolbar_search_animator_observer.h
+END

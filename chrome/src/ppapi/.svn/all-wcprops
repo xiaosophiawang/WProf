@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/chrome/!svn/ver/145397/trunk/src/ppapi
+END
+ppapi.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/92046/trunk/src/ppapi/ppapi.gypi
+END
+ppapi_proxy.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/145230/trunk/src/ppapi/ppapi_proxy.gypi
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/64613/trunk/src/ppapi/LICENSE
+END
+ppapi_cpp.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/114751/trunk/src/ppapi/ppapi_cpp.gypi
+END
+ppapi_sources.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/144773/trunk/src/ppapi/ppapi_sources.gypi
+END
+ppapi_untrusted.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/144512/trunk/src/ppapi/ppapi_untrusted.gyp
+END
+generate_ppapi_size_checks.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/117045/trunk/src/ppapi/generate_ppapi_size_checks.py
+END
+ppapi_proxy_untrusted.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/142540/trunk/src/ppapi/ppapi_proxy_untrusted.gyp
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/chrome/!svn/ver/134296/trunk/src/ppapi/DEPS
+END
+generate_ppapi_include_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/117045/trunk/src/ppapi/generate_ppapi_include_tests.py
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/140065/trunk/src/ppapi/PRESUBMIT.py
+END
+ppapi_tests.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/144972/trunk/src/ppapi/ppapi_tests.gypi
+END
+ppapi_gl.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/109933/trunk/src/ppapi/ppapi_gl.gypi
+END
+ppapi_internal.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/145059/trunk/src/ppapi/ppapi_internal.gyp
+END
+ppapi_shared.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/145230/trunk/src/ppapi/ppapi_shared.gypi
+END
+ppapi.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/137975/trunk/src/ppapi/ppapi.gyp
+END
+ppapi_shared_untrusted.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/143805/trunk/src/ppapi/ppapi_shared_untrusted.gyp
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/125347/trunk/src/ppapi/OWNERS
+END
+ppapi_host.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/145059/trunk/src/ppapi/ppapi_host.gypi
+END

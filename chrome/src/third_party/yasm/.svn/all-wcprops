@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/135110/trunk/src/third_party/yasm
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/135110/trunk/src/third_party/yasm/README.chromium
+END
+yasm.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/124298/trunk/src/third_party/yasm/yasm.gyp
+END
+yasm_compile.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/134599/trunk/src/third_party/yasm/yasm_compile.gypi
+END

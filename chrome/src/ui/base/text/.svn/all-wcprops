@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/137061/trunk/src/ui/base/text
+END
+utf16_indexing.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/124611/trunk/src/ui/base/text/utf16_indexing.h
+END
+bytes_formatting_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/124947/trunk/src/ui/base/text/bytes_formatting_unittest.cc
+END
+bytes_formatting.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/91704/trunk/src/ui/base/text/bytes_formatting.cc
+END
+bytes_formatting.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/95730/trunk/src/ui/base/text/bytes_formatting.h
+END
+text_elider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/137061/trunk/src/ui/base/text/text_elider_unittest.cc
+END
+text_elider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/137061/trunk/src/ui/base/text/text_elider.cc
+END
+utf16_indexing_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/124611/trunk/src/ui/base/text/utf16_indexing_unittest.cc
+END
+text_elider.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/127175/trunk/src/ui/base/text/text_elider.h
+END
+utf16_indexing.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/124611/trunk/src/ui/base/text/utf16_indexing.cc
+END

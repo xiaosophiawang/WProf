@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/utils
+END
+bit_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/utils/bit_writer.h
+END
+bit_reader.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/utils/bit_reader.c
+END
+bit_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/utils/bit_reader.h
+END
+thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/utils/thread.c
+END
+bit_writer.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/utils/bit_writer.c
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/116933/trunk/src/third_party/libwebp/utils/thread.h
+END

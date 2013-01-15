@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/145220/trunk/src/chrome/browser/extensions/api/web_socket_proxy_private
+END
+web_socket_proxy_private_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/chrome/!svn/ver/139011/trunk/src/chrome/browser/extensions/api/web_socket_proxy_private/web_socket_proxy_private_api.h
+END
+web_socket_proxy_private_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/chrome/!svn/ver/145220/trunk/src/chrome/browser/extensions/api/web_socket_proxy_private/web_socket_proxy_private_api.cc
+END
+web_socket_proxy_private_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/chrome/!svn/ver/139011/trunk/src/chrome/browser/extensions/api/web_socket_proxy_private/web_socket_proxy_private_apitest.cc
+END

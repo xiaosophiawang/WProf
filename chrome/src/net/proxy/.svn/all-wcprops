@@ -1,0 +1,551 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/chrome/!svn/ver/143595/trunk/src/net/proxy
+END
+proxy_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/142222/trunk/src/net/proxy/proxy_service.cc
+END
+network_delegate_error_observer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/141816/trunk/src/net/proxy/network_delegate_error_observer_unittest.cc
+END
+proxy_config_service_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_config_service_win.cc
+END
+proxy_config_service_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/96560/trunk/src/net/proxy/proxy_config_service_win.h
+END
+proxy_config_service_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_config_service_mac.cc
+END
+proxy_config_service_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_config_service_linux.h
+END
+sync_host_resolver_bridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/137636/trunk/src/net/proxy/sync_host_resolver_bridge.h
+END
+proxy_resolver_js_bindings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/142222/trunk/src/net/proxy/proxy_resolver_js_bindings.cc
+END
+multi_threaded_proxy_resolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/142222/trunk/src/net/proxy/multi_threaded_proxy_resolver.cc
+END
+proxy_resolver_js_bindings.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/96560/trunk/src/net/proxy/proxy_resolver_js_bindings.h
+END
+proxy_resolver_perftest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/123486/trunk/src/net/proxy/proxy_resolver_perftest.cc
+END
+mock_proxy_script_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/116462/trunk/src/net/proxy/mock_proxy_script_fetcher.cc
+END
+proxy_resolver_winhttp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/115068/trunk/src/net/proxy/proxy_resolver_winhttp.cc
+END
+proxy_resolver_winhttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/115068/trunk/src/net/proxy/proxy_resolver_winhttp.h
+END
+dhcp_proxy_script_adapter_fetcher_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/131562/trunk/src/net/proxy/dhcp_proxy_script_adapter_fetcher_win.h
+END
+proxy_script_decider.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/142222/trunk/src/net/proxy/proxy_script_decider.h
+END
+proxy_config_service_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/140748/trunk/src/net/proxy/proxy_config_service_android.h
+END
+proxy_config_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/96560/trunk/src/net/proxy/proxy_config_service.h
+END
+proxy_resolver_script.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/57606/trunk/src/net/proxy/proxy_resolver_script.h
+END
+dhcp_proxy_script_fetcher_factory_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/136497/trunk/src/net/proxy/dhcp_proxy_script_fetcher_factory_unittest.cc
+END
+dhcp_proxy_script_fetcher_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/89633/trunk/src/net/proxy/dhcp_proxy_script_fetcher_factory.cc
+END
+proxy_info_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_info_unittest.cc
+END
+proxy_config_service_common_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/61100/trunk/src/net/proxy/proxy_config_service_common_unittest.cc
+END
+dhcpcsvc_init_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/85661/trunk/src/net/proxy/dhcpcsvc_init_win.h
+END
+proxy_config_service_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_config_service_win_unittest.cc
+END
+proxy_config_service_linux_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/142874/trunk/src/net/proxy/proxy_config_service_linux_unittest.cc
+END
+proxy_config_service_fixed.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/81085/trunk/src/net/proxy/proxy_config_service_fixed.cc
+END
+proxy_script_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/115068/trunk/src/net/proxy/proxy_script_fetcher.h
+END
+proxy_config_service_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/138751/trunk/src/net/proxy/proxy_config_service_mac.h
+END
+proxy_resolver_js_bindings_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141315/trunk/src/net/proxy/proxy_resolver_js_bindings_unittest.cc
+END
+mock_proxy_resolver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/115068/trunk/src/net/proxy/mock_proxy_resolver.cc
+END
+proxy_bypass_rules_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/60555/trunk/src/net/proxy/proxy_bypass_rules_unittest.cc
+END
+proxy_list_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/61100/trunk/src/net/proxy/proxy_list_unittest.cc
+END
+mock_proxy_resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/116462/trunk/src/net/proxy/mock_proxy_resolver.h
+END
+dhcp_proxy_script_fetcher_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/136497/trunk/src/net/proxy/dhcp_proxy_script_fetcher_win_unittest.cc
+END
+dhcp_proxy_script_adapter_fetcher_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/131562/trunk/src/net/proxy/dhcp_proxy_script_adapter_fetcher_win.cc
+END
+mock_proxy_script_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/116462/trunk/src/net/proxy/mock_proxy_script_fetcher.h
+END
+proxy_retry_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/53716/trunk/src/net/proxy/proxy_retry_info.h
+END
+proxy_script_decider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/142222/trunk/src/net/proxy/proxy_script_decider.cc
+END
+proxy_script_fetcher_impl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/141816/trunk/src/net/proxy/proxy_script_fetcher_impl_unittest.cc
+END
+proxy_config_source.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_config_source.cc
+END
+proxy_script_fetcher_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/143595/trunk/src/net/proxy/proxy_script_fetcher_impl.cc
+END
+dhcp_proxy_script_fetcher_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/131562/trunk/src/net/proxy/dhcp_proxy_script_fetcher_factory.h
+END
+proxy_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_info.h
+END
+proxy_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/138751/trunk/src/net/proxy/proxy_service.h
+END
+proxy_config_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_config_unittest.cc
+END
+proxy_config_service_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/142874/trunk/src/net/proxy/proxy_config_service_linux.cc
+END
+proxy_config.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_config.cc
+END
+proxy_server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/74293/trunk/src/net/proxy/proxy_server.cc
+END
+proxy_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/96560/trunk/src/net/proxy/proxy_server.h
+END
+polling_proxy_config_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/134460/trunk/src/net/proxy/polling_proxy_config_service.cc
+END
+multi_threaded_proxy_resolver_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142222/trunk/src/net/proxy/multi_threaded_proxy_resolver_unittest.cc
+END
+proxy_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_list.h
+END
+proxy_bypass_rules.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/96560/trunk/src/net/proxy/proxy_bypass_rules.h
+END
+proxy_resolver_v8.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/121574/trunk/src/net/proxy/proxy_resolver_v8.cc
+END
+proxy_resolver_v8.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/115220/trunk/src/net/proxy/proxy_resolver_v8.h
+END
+proxy_resolver_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/115068/trunk/src/net/proxy/proxy_resolver_mac.cc
+END
+dhcp_proxy_script_fetcher_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/137636/trunk/src/net/proxy/dhcp_proxy_script_fetcher_win.h
+END
+proxy_resolver_error_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/96560/trunk/src/net/proxy/proxy_resolver_error_observer.h
+END
+proxy_server_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/110173/trunk/src/net/proxy/proxy_server_mac.cc
+END
+proxy_config_source.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_config_source.h
+END
+proxy_script_fetcher_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/136497/trunk/src/net/proxy/proxy_script_fetcher_impl.h
+END
+proxy_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_info.cc
+END
+sync_host_resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/119517/trunk/src/net/proxy/sync_host_resolver.h
+END
+dhcpcsvc_init_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/110076/trunk/src/net/proxy/dhcpcsvc_init_win.cc
+END
+proxy_config_service_common_unittest.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/61100/trunk/src/net/proxy/proxy_config_service_common_unittest.h
+END
+proxy_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_service_unittest.cc
+END
+dhcp_proxy_script_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/139263/trunk/src/net/proxy/dhcp_proxy_script_fetcher.cc
+END
+network_delegate_error_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/115068/trunk/src/net/proxy/network_delegate_error_observer.cc
+END
+proxy_resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/115068/trunk/src/net/proxy/proxy_resolver.h
+END
+dhcp_proxy_script_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/131562/trunk/src/net/proxy/dhcp_proxy_script_fetcher.h
+END
+network_delegate_error_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/96560/trunk/src/net/proxy/network_delegate_error_observer.h
+END
+sync_host_resolver_bridge_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/119517/trunk/src/net/proxy/sync_host_resolver_bridge_unittest.cc
+END
+proxy_server_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/60691/trunk/src/net/proxy/proxy_server_unittest.cc
+END
+sync_host_resolver_bridge.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/134460/trunk/src/net/proxy/sync_host_resolver_bridge.cc
+END
+proxy_config_service_fixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/96560/trunk/src/net/proxy/proxy_config_service_fixed.h
+END
+proxy_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/141784/trunk/src/net/proxy/proxy_config.h
+END
+proxy_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/142222/trunk/src/net/proxy/proxy_list.cc
+END
+polling_proxy_config_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/96560/trunk/src/net/proxy/polling_proxy_config_service.h
+END
+proxy_bypass_rules.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/114993/trunk/src/net/proxy/proxy_bypass_rules.cc
+END
+multi_threaded_proxy_resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/115068/trunk/src/net/proxy/multi_threaded_proxy_resolver.h
+END
+proxy_resolver_v8_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/141315/trunk/src/net/proxy/proxy_resolver_v8_unittest.cc
+END
+dhcp_proxy_script_adapter_fetcher_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/136497/trunk/src/net/proxy/dhcp_proxy_script_adapter_fetcher_win_unittest.cc
+END
+proxy_resolver_script_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/116462/trunk/src/net/proxy/proxy_resolver_script_data.cc
+END
+proxy_resolver_request_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/53716/trunk/src/net/proxy/proxy_resolver_request_context.h
+END
+dhcp_proxy_script_fetcher_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/119584/trunk/src/net/proxy/dhcp_proxy_script_fetcher_win.cc
+END
+proxy_resolver_script_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/116462/trunk/src/net/proxy/proxy_resolver_script_data.h
+END
+proxy_script_decider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/141315/trunk/src/net/proxy/proxy_script_decider_unittest.cc
+END
+proxy_resolver_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/115068/trunk/src/net/proxy/proxy_resolver_mac.h
+END
+proxy_config_service_android_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/140748/trunk/src/net/proxy/proxy_config_service_android_unittest.cc
+END
+proxy_config_service_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/140748/trunk/src/net/proxy/proxy_config_service_android.cc
+END

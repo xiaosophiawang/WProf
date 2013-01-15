@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/139979/trunk/src/net/third_party/mozilla_security_manager
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/69808/trunk/src/net/third_party/mozilla_security_manager/README.chromium
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/69808/trunk/src/net/third_party/mozilla_security_manager/LICENSE
+END
+nsKeygenHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/125822/trunk/src/net/third_party/mozilla_security_manager/nsKeygenHandler.cpp
+END
+nsNSSCertificateDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/139979/trunk/src/net/third_party/mozilla_security_manager/nsNSSCertificateDB.h
+END
+nsPKCS12Blob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/117584/trunk/src/net/third_party/mozilla_security_manager/nsPKCS12Blob.cpp
+END
+nsKeygenHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/71281/trunk/src/net/third_party/mozilla_security_manager/nsKeygenHandler.h
+END
+nsPKCS12Blob.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/113993/trunk/src/net/third_party/mozilla_security_manager/nsPKCS12Blob.h
+END
+nsNSSCertificateDB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/139979/trunk/src/net/third_party/mozilla_security_manager/nsNSSCertificateDB.cpp
+END

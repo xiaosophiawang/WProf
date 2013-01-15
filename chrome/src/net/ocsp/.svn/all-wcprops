@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/chrome/!svn/ver/143747/trunk/src/net/ocsp
+END
+nss_ocsp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/143747/trunk/src/net/ocsp/nss_ocsp.cc
+END
+nss_ocsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/126637/trunk/src/net/ocsp/nss_ocsp.h
+END

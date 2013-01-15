@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/119887/trunk/src/chrome/common/extensions/docs/examples/api/debugger/live-headers
+END
+headers.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/119883/trunk/src/chrome/common/extensions/docs/examples/api/debugger/live-headers/headers.js
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/119887/trunk/src/chrome/common/extensions/docs/examples/api/debugger/live-headers/background.js
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/101057/trunk/src/chrome/common/extensions/docs/examples/api/debugger/live-headers/icon.png
+END
+headers.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/119883/trunk/src/chrome/common/extensions/docs/examples/api/debugger/live-headers/headers.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/119883/trunk/src/chrome/common/extensions/docs/examples/api/debugger/live-headers/manifest.json
+END

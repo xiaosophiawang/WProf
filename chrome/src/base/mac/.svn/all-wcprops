@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/chrome/!svn/ver/140187/trunk/src/base/mac
+END
+scoped_ioobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/129337/trunk/src/base/mac/scoped_ioobject.h
+END
+scoped_launch_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/129636/trunk/src/base/mac/scoped_launch_data.h
+END
+foundation_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/137441/trunk/src/base/mac/foundation_util.h
+END
+mac_logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/121256/trunk/src/base/mac/mac_logging.h
+END
+scoped_sending_event_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/112578/trunk/src/base/mac/scoped_sending_event_unittest.mm
+END
+os_crash_dumps.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/70358/trunk/src/base/mac/os_crash_dumps.cc
+END
+os_crash_dumps.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/95618/trunk/src/base/mac/os_crash_dumps.h
+END
+mac_util_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/126773/trunk/src/base/mac/mac_util_unittest.mm
+END
+launchd.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/130367/trunk/src/base/mac/launchd.h
+END
+closure_blocks_leopard_compat_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/124331/trunk/src/base/mac/closure_blocks_leopard_compat_unittest.cc
+END
+scoped_nsautorelease_pool.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/62904/trunk/src/base/mac/scoped_nsautorelease_pool.mm
+END
+scoped_cftyperef.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/140187/trunk/src/base/mac/scoped_cftyperef.h
+END
+objc_property_releaser_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/83054/trunk/src/base/mac/objc_property_releaser_unittest.mm
+END
+foundation_util.mm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/137441/trunk/src/base/mac/foundation_util.mm
+END
+scoped_sending_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/121256/trunk/src/base/mac/scoped_sending_event.h
+END
+cocoa_protocols.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/132611/trunk/src/base/mac/cocoa_protocols.h
+END
+crash_logging.mm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/137896/trunk/src/base/mac/crash_logging.mm
+END
+scoped_authorizationref.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/128053/trunk/src/base/mac/scoped_authorizationref.h
+END
+mac_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/126773/trunk/src/base/mac/mac_util.h
+END
+authorization_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/133319/trunk/src/base/mac/authorization_util.h
+END
+closure_blocks_leopard_compat.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/124331/trunk/src/base/mac/closure_blocks_leopard_compat.S
+END
+scoped_nsautorelease_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/107863/trunk/src/base/mac/scoped_nsautorelease_pool.h
+END
+objc_property_releaser.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/95618/trunk/src/base/mac/objc_property_releaser.h
+END
+mac_logging.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/119511/trunk/src/base/mac/mac_logging.cc
+END
+bundle_locations.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/121613/trunk/src/base/mac/bundle_locations.mm
+END
+crash_logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/137896/trunk/src/base/mac/crash_logging.h
+END
+scoped_nsexception_enabler.mm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/119173/trunk/src/base/mac/scoped_nsexception_enabler.mm
+END
+scoped_sending_event.mm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/112578/trunk/src/base/mac/scoped_sending_event.mm
+END
+launchd.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/129636/trunk/src/base/mac/launchd.cc
+END
+mac_util.mm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/126773/trunk/src/base/mac/mac_util.mm
+END
+authorization_util.mm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/128053/trunk/src/base/mac/authorization_util.mm
+END
+scoped_aedesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/62904/trunk/src/base/mac/scoped_aedesc.h
+END
+closure_blocks_leopard_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/124331/trunk/src/base/mac/closure_blocks_leopard_compat.h
+END
+bundle_locations.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/117293/trunk/src/base/mac/bundle_locations.h
+END
+foundation_util_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/121613/trunk/src/base/mac/foundation_util_unittest.mm
+END
+scoped_nsexception_enabler.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/113891/trunk/src/base/mac/scoped_nsexception_enabler.h
+END
+objc_property_releaser.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/107434/trunk/src/base/mac/objc_property_releaser.mm
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/81631/trunk/src/base/mac/OWNERS
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/143271/trunk/src/chrome/installer/mini_installer
+END
+mini_installer.ico
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/40991/trunk/src/chrome/installer/mini_installer/mini_installer.ico
+END
+appid.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/69710/trunk/src/chrome/installer/mini_installer/appid.h
+END
+decompress_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/91290/trunk/src/chrome/installer/mini_installer/decompress_test.cc
+END
+decompress.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/109567/trunk/src/chrome/installer/mini_installer/decompress.cc
+END
+decompress.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/109567/trunk/src/chrome/installer/mini_installer/decompress.h
+END
+configuration_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/93005/trunk/src/chrome/installer/mini_installer/configuration_test.cc
+END
+configuration.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/93005/trunk/src/chrome/installer/mini_installer/configuration.cc
+END
+chrome.release
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/139181/trunk/src/chrome/installer/mini_installer/chrome.release
+END
+mini_installer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/109567/trunk/src/chrome/installer/mini_installer/mini_installer.cc
+END
+configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/93005/trunk/src/chrome/installer/mini_installer/configuration.h
+END
+mini_installer.exe.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/27034/trunk/src/chrome/installer/mini_installer/mini_installer.exe.manifest
+END
+mini_installer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/93005/trunk/src/chrome/installer/mini_installer/mini_installer.h
+END
+pe_resource.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/17494/trunk/src/chrome/installer/mini_installer/pe_resource.cc
+END
+pe_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/53716/trunk/src/chrome/installer/mini_installer/pe_resource.h
+END
+mini_string_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/78424/trunk/src/chrome/installer/mini_installer/mini_string_test.cc
+END
+mini_installer_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/53716/trunk/src/chrome/installer/mini_installer/mini_installer_resource.h
+END
+mini_installer_exe_version.rc.version
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/112590/trunk/src/chrome/installer/mini_installer/mini_installer_exe_version.rc.version
+END
+mini_string.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/78424/trunk/src/chrome/installer/mini_installer/mini_string.cc
+END
+mini_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/78424/trunk/src/chrome/installer/mini_installer/mini_string.h
+END
+mini_installer.rc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/111012/trunk/src/chrome/installer/mini_installer/mini_installer.rc
+END
+chrome_appid.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/69710/trunk/src/chrome/installer/mini_installer/chrome_appid.cc
+END

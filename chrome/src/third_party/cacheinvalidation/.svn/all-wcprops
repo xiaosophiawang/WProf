@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/143773/trunk/src/third_party/cacheinvalidation
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/133457/trunk/src/third_party/cacheinvalidation/README.chromium
+END
+cacheinvalidation.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/143773/trunk/src/third_party/cacheinvalidation/cacheinvalidation.gyp
+END
+cacheinvalidation_unittests.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/131896/trunk/src/third_party/cacheinvalidation/cacheinvalidation_unittests.isolate
+END

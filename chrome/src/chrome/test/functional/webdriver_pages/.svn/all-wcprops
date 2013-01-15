@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/143832/trunk/src/chrome/test/functional/webdriver_pages
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/133695/trunk/src/chrome/test/functional/webdriver_pages/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143832/trunk/src/chrome/test/functional/webdriver_pages/settings.py
+END

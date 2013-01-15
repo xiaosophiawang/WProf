@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/ui/webui/predictors
+END
+predictors_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/ui/webui/predictors/predictors_handler.cc
+END
+predictors_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/136439/trunk/src/chrome/browser/ui/webui/predictors/predictors_ui.cc
+END
+predictors_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/ui/webui/predictors/predictors_handler.h
+END
+predictors_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/136439/trunk/src/chrome/browser/ui/webui/predictors/predictors_ui.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/134865/trunk/src/chrome/browser/ui/webui/predictors/OWNERS
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/71818/trunk/src/chrome/test/data/extensions/app_update
+END
+v1.crx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/71818/trunk/src/chrome/test/data/extensions/app_update/v1.crx
+END
+v2.crx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/71818/trunk/src/chrome/test/data/extensions/app_update/v2.crx
+END
+key.pem
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/71818/trunk/src/chrome/test/data/extensions/app_update/key.pem
+END

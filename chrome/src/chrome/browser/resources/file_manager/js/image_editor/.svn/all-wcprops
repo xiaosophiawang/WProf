@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144704/trunk/src/chrome/browser/resources/file_manager/js/image_editor
+END
+filter.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/111984/trunk/src/chrome/browser/resources/file_manager/js/image_editor/filter.js
+END
+gallery_scripts.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/139797/trunk/src/chrome/browser/resources/file_manager/js/image_editor/gallery_scripts.js
+END
+image_editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/144704/trunk/src/chrome/browser/resources/file_manager/js/image_editor/image_editor.js
+END
+exif_encoder.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/104894/trunk/src/chrome/browser/resources/file_manager/js/image_editor/exif_encoder.js
+END
+image_buffer.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/144704/trunk/src/chrome/browser/resources/file_manager/js/image_editor/image_buffer.js
+END
+image_adjust.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/134912/trunk/src/chrome/browser/resources/file_manager/js/image_editor/image_adjust.js
+END
+image_view.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/142741/trunk/src/chrome/browser/resources/file_manager/js/image_editor/image_view.js
+END
+image_transform.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/144704/trunk/src/chrome/browser/resources/file_manager/js/image_editor/image_transform.js
+END
+gallery.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/142923/trunk/src/chrome/browser/resources/file_manager/js/image_editor/gallery.js
+END
+image_util.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/139234/trunk/src/chrome/browser/resources/file_manager/js/image_editor/image_util.js
+END
+viewport.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/138445/trunk/src/chrome/browser/resources/file_manager/js/image_editor/viewport.js
+END
+commands.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/137643/trunk/src/chrome/browser/resources/file_manager/js/image_editor/commands.js
+END
+image_encoder.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/117890/trunk/src/chrome/browser/resources/file_manager/js/image_editor/image_encoder.js
+END

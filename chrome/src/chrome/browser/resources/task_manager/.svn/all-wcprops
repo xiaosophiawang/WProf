@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/139423/trunk/src/chrome/browser/resources/task_manager
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/137031/trunk/src/chrome/browser/resources/task_manager/main.js
+END
+measure_time_end.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/120284/trunk/src/chrome/browser/resources/task_manager/measure_time_end.js
+END
+includes.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/139423/trunk/src/chrome/browser/resources/task_manager/includes.js
+END
+preload.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/132374/trunk/src/chrome/browser/resources/task_manager/preload.js
+END
+task_manager.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/137342/trunk/src/chrome/browser/resources/task_manager/task_manager.css
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/128419/trunk/src/chrome/browser/resources/task_manager/main.html
+END
+defines.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/132577/trunk/src/chrome/browser/resources/task_manager/defines.js
+END
+measure_time.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/132374/trunk/src/chrome/browser/resources/task_manager/measure_time.js
+END
+commands.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/132374/trunk/src/chrome/browser/resources/task_manager/commands.js
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/124973/trunk/src/chrome/browser/resources/task_manager/OWNERS
+END

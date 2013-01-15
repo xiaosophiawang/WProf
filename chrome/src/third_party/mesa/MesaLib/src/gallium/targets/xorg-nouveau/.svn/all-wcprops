@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/targets/xorg-nouveau
+END
+nouveau_xorg.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/targets/xorg-nouveau/nouveau_xorg.c
+END
+nouveau_target.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/targets/xorg-nouveau/nouveau_target.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/targets/xorg-nouveau/Makefile
+END

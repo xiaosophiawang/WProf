@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/145398/trunk/src/chrome/browser/ui/webui/options2/chromeos
+END
+wallpaper_source2.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/143958/trunk/src/chrome/browser/ui/webui/options2/chromeos/wallpaper_source2.h
+END
+language_mozc_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/128406/trunk/src/chrome/browser/ui/webui/options2/chromeos/language_mozc_handler2.h
+END
+set_wallpaper_options_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/145398/trunk/src/chrome/browser/ui/webui/options2/chromeos/set_wallpaper_options_handler2.h
+END
+wallpaper_thumbnail_source2.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/133602/trunk/src/chrome/browser/ui/webui/options2/chromeos/wallpaper_thumbnail_source2.h
+END
+proxy_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/131763/trunk/src/chrome/browser/ui/webui/options2/chromeos/proxy_handler2.h
+END
+language_hangul_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/128406/trunk/src/chrome/browser/ui/webui/options2/chromeos/language_hangul_handler2.h
+END
+system_settings_provider2.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/139035/trunk/src/chrome/browser/ui/webui/options2/chromeos/system_settings_provider2.h
+END
+cros_language_options_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/144597/trunk/src/chrome/browser/ui/webui/options2/chromeos/cros_language_options_handler2.cc
+END
+cros_language_options_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/127655/trunk/src/chrome/browser/ui/webui/options2/chromeos/cros_language_options_handler2.h
+END
+language_chewing_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/128406/trunk/src/chrome/browser/ui/webui/options2/chromeos/language_chewing_handler2.h
+END
+accounts_options_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/143899/trunk/src/chrome/browser/ui/webui/options2/chromeos/accounts_options_handler2.cc
+END
+accounts_options_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/128406/trunk/src/chrome/browser/ui/webui/options2/chromeos/accounts_options_handler2.h
+END
+change_picture_options_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/143897/trunk/src/chrome/browser/ui/webui/options2/chromeos/change_picture_options_handler2.h
+END
+display_options_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/145210/trunk/src/chrome/browser/ui/webui/options2/chromeos/display_options_handler.cc
+END
+display_options_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/145210/trunk/src/chrome/browser/ui/webui/options2/chromeos/display_options_handler.h
+END
+keyboard_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/138449/trunk/src/chrome/browser/ui/webui/options2/chromeos/keyboard_handler2.cc
+END
+keyboard_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/128406/trunk/src/chrome/browser/ui/webui/options2/chromeos/keyboard_handler2.h
+END
+core_chromeos_options_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/135140/trunk/src/chrome/browser/ui/webui/options2/chromeos/core_chromeos_options_handler2.cc
+END
+core_chromeos_options_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/128406/trunk/src/chrome/browser/ui/webui/options2/chromeos/core_chromeos_options_handler2.h
+END
+internet_options_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/142499/trunk/src/chrome/browser/ui/webui/options2/chromeos/internet_options_handler2.h
+END
+user_image_source2.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/141716/trunk/src/chrome/browser/ui/webui/options2/chromeos/user_image_source2.h
+END
+language_pinyin_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/128406/trunk/src/chrome/browser/ui/webui/options2/chromeos/language_pinyin_handler2.h
+END
+language_mozc_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/115281/trunk/src/chrome/browser/ui/webui/options2/chromeos/language_mozc_handler2.cc
+END
+stats_options_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/128406/trunk/src/chrome/browser/ui/webui/options2/chromeos/stats_options_handler2.h
+END
+set_wallpaper_options_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/145398/trunk/src/chrome/browser/ui/webui/options2/chromeos/set_wallpaper_options_handler2.cc
+END
+wallpaper_thumbnail_source2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/138769/trunk/src/chrome/browser/ui/webui/options2/chromeos/wallpaper_thumbnail_source2.cc
+END
+pointer_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/136167/trunk/src/chrome/browser/ui/webui/options2/chromeos/pointer_handler2.cc
+END
+bluetooth_options_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/144641/trunk/src/chrome/browser/ui/webui/options2/chromeos/bluetooth_options_handler2.cc
+END
+proxy_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/131763/trunk/src/chrome/browser/ui/webui/options2/chromeos/proxy_handler2.cc
+END
+language_hangul_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/115281/trunk/src/chrome/browser/ui/webui/options2/chromeos/language_hangul_handler2.cc
+END
+system_settings_provider2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/139035/trunk/src/chrome/browser/ui/webui/options2/chromeos/system_settings_provider2.cc
+END
+pointer_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/136167/trunk/src/chrome/browser/ui/webui/options2/chromeos/pointer_handler2.h
+END
+bluetooth_options_handler2.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/144641/trunk/src/chrome/browser/ui/webui/options2/chromeos/bluetooth_options_handler2.h
+END
+language_chewing_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/115281/trunk/src/chrome/browser/ui/webui/options2/chromeos/language_chewing_handler2.cc
+END
+change_picture_options_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/145156/trunk/src/chrome/browser/ui/webui/options2/chromeos/change_picture_options_handler2.cc
+END
+language_options_util2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/115281/trunk/src/chrome/browser/ui/webui/options2/chromeos/language_options_util2.cc
+END
+language_options_util2.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/115281/trunk/src/chrome/browser/ui/webui/options2/chromeos/language_options_util2.h
+END
+internet_options_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/143940/trunk/src/chrome/browser/ui/webui/options2/chromeos/internet_options_handler2.cc
+END
+user_image_source2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/141897/trunk/src/chrome/browser/ui/webui/options2/chromeos/user_image_source2.cc
+END
+language_pinyin_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/115281/trunk/src/chrome/browser/ui/webui/options2/chromeos/language_pinyin_handler2.cc
+END
+guest_mode_options_ui2_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/135315/trunk/src/chrome/browser/ui/webui/options2/chromeos/guest_mode_options_ui2_browsertest.cc
+END
+stats_options_handler2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/126864/trunk/src/chrome/browser/ui/webui/options2/chromeos/stats_options_handler2.cc
+END
+wallpaper_source2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/144389/trunk/src/chrome/browser/ui/webui/options2/chromeos/wallpaper_source2.cc
+END

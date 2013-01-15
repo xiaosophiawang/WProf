@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests
+END
+dom-mutation.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/dom-mutation.html
+END
+highlight-nodes.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/highlight-nodes.html
+END
+profiler-test-console-control.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/profiler-test-console-control.html
+END
+debugger-step-on-for-statements.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/debugger-step-on-for-statements.html
+END
+error-warning-count.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/error-warning-count.html
+END
+debugger-pause-on-for-statements.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/debugger-pause-on-for-statements.html
+END
+debugger-fake-workers.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/debugger-fake-workers.html
+END
+debugger-step-on-for-in-statements.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/debugger-step-on-for-in-statements.html
+END
+debugger-pause-on-else-statements.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/debugger-pause-on-else-statements.html
+END
+debugger-pause-on-for-in-statements.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/debugger-pause-on-for-in-statements.html
+END
+event-listeners.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/event-listeners.html
+END
+profiler-test-basic-grid-functionality.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/profiler-test-basic-grid-functionality.html
+END
+highlight-source-line.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/highlight-source-line.html
+END
+profiler-test-re-opening.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/profiler-test-re-opening.html
+END
+debugger-step-on-while-statements.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/debugger-step-on-while-statements.html
+END
+debugger-step-on-do-while-statements.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/debugger-step-on-do-while-statements.html
+END
+heap-profiler-test-basic-grid-functionality.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/heap-profiler-test-basic-grid-functionality.html
+END
+heap-profiler-test-snapshots-comparison.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/heap-profiler-test-snapshots-comparison.html
+END
+profiler-test-focus-and-exclude.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/profiler-test-focus-and-exclude.html
+END
+debugger-exception-on-load.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/debugger-exception-on-load.html
+END
+debugger-watch-expressions.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/debugger-watch-expressions.html
+END
+console-call-line-numbers.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/console-call-line-numbers.html
+END
+element-styles.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/element-styles.html
+END
+debugger-execution-while-paused.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/manual_tests/debugger-execution-while-paused.html
+END

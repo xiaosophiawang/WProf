@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/chrome/!svn/ver/140689/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible
+END
+xhr_inaccessible_resource.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/chrome/!svn/ver/119646/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible/xhr_inaccessible_resource.html
+END
+iframe-contents.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/chrome/!svn/ver/136988/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible/iframe-contents.html
+END
+nonaccessible_resource.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/chrome/!svn/ver/114833/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible/nonaccessible_resource.html
+END
+test.png
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/chrome/!svn/ver/114833/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible/test.png
+END
+nonaccessible_chrome_resource_scheme.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/chrome/!svn/ver/137918/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible/nonaccessible_chrome_resource_scheme.html
+END
+test2.png
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/chrome/!svn/ver/114833/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible/test2.png
+END
+iframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/chrome/!svn/ver/136988/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible/iframe.html
+END
+accessible_resource.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/chrome/!svn/ver/114833/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible/accessible_resource.html
+END
+nonexistent_resource.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/chrome/!svn/ver/114833/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible/nonexistent_resource.html
+END
+xhr_accessible_resource.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/chrome/!svn/ver/119646/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible/xhr_accessible_resource.html
+END
+iframe-contents.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/chrome/!svn/ver/136988/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible/iframe-contents.js
+END
+iframe.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/chrome/!svn/ver/140689/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible/iframe.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/chrome/!svn/ver/114833/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/web_accessible/manifest.json
+END

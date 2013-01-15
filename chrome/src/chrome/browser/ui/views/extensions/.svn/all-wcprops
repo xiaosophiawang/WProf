@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/ui/views/extensions
+END
+extension_dialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/144021/trunk/src/chrome/browser/ui/views/extensions/extension_dialog.cc
+END
+web_auth_flow_window_views.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/138039/trunk/src/chrome/browser/ui/views/extensions/web_auth_flow_window_views.h
+END
+browser_action_overflow_menu_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/143174/trunk/src/chrome/browser/ui/views/extensions/browser_action_overflow_menu_controller.h
+END
+extension_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144021/trunk/src/chrome/browser/ui/views/extensions/extension_dialog.h
+END
+extension_popup.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/139921/trunk/src/chrome/browser/ui/views/extensions/extension_popup.cc
+END
+extension_popup.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/134734/trunk/src/chrome/browser/ui/views/extensions/extension_popup.h
+END
+extension_dialog_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/89920/trunk/src/chrome/browser/ui/views/extensions/extension_dialog_observer.cc
+END
+extension_dialog_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/121561/trunk/src/chrome/browser/ui/views/extensions/extension_dialog_observer.h
+END
+browser_action_drag_data_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/126761/trunk/src/chrome/browser/ui/views/extensions/browser_action_drag_data_unittest.cc
+END
+browser_action_drag_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/127866/trunk/src/chrome/browser/ui/views/extensions/browser_action_drag_data.cc
+END
+extension_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/138434/trunk/src/chrome/browser/ui/views/extensions/extension_view.cc
+END
+browser_action_drag_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/110049/trunk/src/chrome/browser/ui/views/extensions/browser_action_drag_data.h
+END
+extension_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/138074/trunk/src/chrome/browser/ui/views/extensions/extension_view.h
+END
+extension_install_dialog_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/ui/views/extensions/extension_install_dialog_view.cc
+END
+shell_window_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/143793/trunk/src/chrome/browser/ui/views/extensions/shell_window_views.cc
+END
+shell_window_views.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/143793/trunk/src/chrome/browser/ui/views/extensions/shell_window_views.h
+END
+extension_uninstall_dialog_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/143991/trunk/src/chrome/browser/ui/views/extensions/extension_uninstall_dialog_view.cc
+END
+bundle_installed_bubble.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/138072/trunk/src/chrome/browser/ui/views/extensions/bundle_installed_bubble.cc
+END
+extension_keybinding_registry_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/144897/trunk/src/chrome/browser/ui/views/extensions/extension_keybinding_registry_views.cc
+END
+extension_keybinding_registry_views.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/144897/trunk/src/chrome/browser/ui/views/extensions/extension_keybinding_registry_views.h
+END
+extension_installed_bubble.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/145141/trunk/src/chrome/browser/ui/views/extensions/extension_installed_bubble.cc
+END
+extension_installed_bubble.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/138074/trunk/src/chrome/browser/ui/views/extensions/extension_installed_bubble.h
+END
+web_auth_flow_window_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/138039/trunk/src/chrome/browser/ui/views/extensions/web_auth_flow_window_views.cc
+END
+browser_action_overflow_menu_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/139880/trunk/src/chrome/browser/ui/views/extensions/browser_action_overflow_menu_controller.cc
+END

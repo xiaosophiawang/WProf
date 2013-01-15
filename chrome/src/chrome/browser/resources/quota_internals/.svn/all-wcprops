@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/130559/trunk/src/chrome/browser/resources/quota_internals
+END
+message_dispatcher.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/92356/trunk/src/chrome/browser/resources/quota_internals/message_dispatcher.js
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/104134/trunk/src/chrome/browser/resources/quota_internals/main.html
+END
+event_handler.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/92356/trunk/src/chrome/browser/resources/quota_internals/event_handler.js
+END
+main.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/130559/trunk/src/chrome/browser/resources/quota_internals/main.css
+END

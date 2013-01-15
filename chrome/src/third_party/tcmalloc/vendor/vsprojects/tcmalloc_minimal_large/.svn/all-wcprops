@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/126770/trunk/src/third_party/tcmalloc/vendor/vsprojects/tcmalloc_minimal_large
+END
+tcmalloc_minimal_large_unittest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/chrome/!svn/ver/126770/trunk/src/third_party/tcmalloc/vendor/vsprojects/tcmalloc_minimal_large/tcmalloc_minimal_large_unittest.vcproj
+END

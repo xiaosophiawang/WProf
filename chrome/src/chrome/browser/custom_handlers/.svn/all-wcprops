@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/custom_handlers
+END
+register_protocol_handler_infobar_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/131235/trunk/src/chrome/browser/custom_handlers/register_protocol_handler_infobar_delegate.cc
+END
+register_protocol_handler_infobar_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/131235/trunk/src/chrome/browser/custom_handlers/register_protocol_handler_infobar_delegate.h
+END
+protocol_handler_registry_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/143729/trunk/src/chrome/browser/custom_handlers/protocol_handler_registry_unittest.cc
+END
+protocol_handler_registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/141172/trunk/src/chrome/browser/custom_handlers/protocol_handler_registry.cc
+END
+protocol_handler_registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/135849/trunk/src/chrome/browser/custom_handlers/protocol_handler_registry.h
+END
+protocol_handler_registry_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/custom_handlers/protocol_handler_registry_browsertest.cc
+END

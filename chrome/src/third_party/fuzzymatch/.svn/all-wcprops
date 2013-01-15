@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/7781/trunk/src/third_party/fuzzymatch
+END
+fuzzymatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/7628/trunk/src/third_party/fuzzymatch/fuzzymatch.c
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/7781/trunk/src/third_party/fuzzymatch/SConstruct
+END

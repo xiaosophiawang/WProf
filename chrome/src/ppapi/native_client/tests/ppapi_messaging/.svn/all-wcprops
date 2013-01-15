@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/130436/trunk/src/ppapi/native_client/tests/ppapi_messaging
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/130436/trunk/src/ppapi/native_client/tests/ppapi_messaging/nacl.scons
+END
+build.scons
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/98158/trunk/src/ppapi/native_client/tests/ppapi_messaging/build.scons
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/98158/trunk/src/ppapi/native_client/tests/ppapi_messaging/Info.plist
+END
+ppapi_messaging.r
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/98158/trunk/src/ppapi/native_client/tests/ppapi_messaging/ppapi_messaging.r
+END
+ppapi_messaging.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/116490/trunk/src/ppapi/native_client/tests/ppapi_messaging/ppapi_messaging.c
+END
+ppapi_messaging.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/98158/trunk/src/ppapi/native_client/tests/ppapi_messaging/ppapi_messaging.html
+END

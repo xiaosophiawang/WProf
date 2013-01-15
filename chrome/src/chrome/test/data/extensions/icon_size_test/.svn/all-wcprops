@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/112882/trunk/src/chrome/test/data/extensions/icon_size_test
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/75434/trunk/src/chrome/test/data/extensions/icon_size_test/icon.png
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/112882/trunk/src/chrome/test/data/extensions/icon_size_test/manifest.json
+END

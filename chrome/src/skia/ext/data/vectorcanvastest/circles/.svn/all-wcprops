@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/circles
+END
+00_vc_circle_stroke.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/circles/00_vc_circle_stroke.png
+END
+01_vc_circle_fill.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/circles/01_vc_circle_fill.png
+END
+02_pc_circle_over_strike.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/circles/02_pc_circle_over_strike.png
+END
+04_pc_mixed_stroke.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/circles/04_pc_mixed_stroke.png
+END
+03_pc_circle_stroke_and_fill.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/circles/03_pc_circle_stroke_and_fill.png
+END
+02_vc_circle_over_strike.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/circles/02_vc_circle_over_strike.png
+END
+04_vc_mixed_stroke.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/circles/04_vc_mixed_stroke.png
+END
+00_pc_circle_stroke.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/circles/00_pc_circle_stroke.png
+END
+01_pc_circle_fill.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/circles/01_pc_circle_fill.png
+END
+03_vc_circle_stroke_and_fill.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/circles/03_vc_circle_stroke_and_fill.png
+END

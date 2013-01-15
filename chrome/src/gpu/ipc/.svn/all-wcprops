@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/chrome/!svn/ver/142869/trunk/src/gpu/ipc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/73472/trunk/src/gpu/ipc/DEPS
+END
+command_buffer_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/130252/trunk/src/gpu/ipc/command_buffer_proxy.cc
+END
+gpu_command_buffer_traits.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/125447/trunk/src/gpu/ipc/gpu_command_buffer_traits.cc
+END
+command_buffer_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/142869/trunk/src/gpu/ipc/command_buffer_proxy.h
+END
+gpu_command_buffer_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/125447/trunk/src/gpu/ipc/gpu_command_buffer_traits.h
+END

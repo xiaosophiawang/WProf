@@ -1,0 +1,55 @@
+10
+
+dir
+145398
+https://src.chromium.org/chrome/trunk/src/chrome/test/data/extensions/api_test/permissions
+https://src.chromium.org/chrome
+
+
+
+2012-06-12T17:42:40.196597Z
+141681
+estade@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+optional_gesture
+dir
+
+experimental_disabled
+dir
+
+optional_deny
+dir
+
+favicon
+dir
+
+optional
+dir
+
+always_allowed
+dir
+
+disabled
+dir
+
+nacl_enabled
+dir
+
+enabled
+dir
+

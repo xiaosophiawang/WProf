@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/144408/trunk/src/chrome/common/extensions/features
+END
+feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/141470/trunk/src/chrome/common/extensions/features/feature.cc
+END
+feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/141470/trunk/src/chrome/common/extensions/features/feature.h
+END
+simple_feature_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/144221/trunk/src/chrome/common/extensions/features/simple_feature_provider_unittest.cc
+END
+simple_feature_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/141470/trunk/src/chrome/common/extensions/features/simple_feature_provider.cc
+END
+simple_feature_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/141470/trunk/src/chrome/common/extensions/features/simple_feature_provider.h
+END
+manifest_feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/141470/trunk/src/chrome/common/extensions/features/manifest_feature.cc
+END
+manifest_feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/141470/trunk/src/chrome/common/extensions/features/manifest_feature.h
+END
+permission_feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/144408/trunk/src/chrome/common/extensions/features/permission_feature.cc
+END
+permission_feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/141470/trunk/src/chrome/common/extensions/features/permission_feature.h
+END
+feature_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/141470/trunk/src/chrome/common/extensions/features/feature_provider.h
+END
+feature_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/141470/trunk/src/chrome/common/extensions/features/feature_unittest.cc
+END

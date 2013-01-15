@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/145216/trunk/src/chrome/browser/ui/gtk/bubble
+END
+bubble_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/142461/trunk/src/chrome/browser/ui/gtk/bubble/bubble_gtk.cc
+END
+bubble_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/145216/trunk/src/chrome/browser/ui/gtk/bubble/bubble_gtk.h
+END
+bubble_gtk_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/141071/trunk/src/chrome/browser/ui/gtk/bubble/bubble_gtk_browsertest.cc
+END
+bubble_accelerators_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/111090/trunk/src/chrome/browser/ui/gtk/bubble/bubble_accelerators_gtk.cc
+END
+bubble_accelerators_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/111090/trunk/src/chrome/browser/ui/gtk/bubble/bubble_accelerators_gtk.h
+END

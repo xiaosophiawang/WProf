@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/121766/trunk/src/chrome/test/data/http_pipelining
+END
+alphabet.txt.mock-http-headers
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/121766/trunk/src/chrome/test/data/http_pipelining/alphabet.txt.mock-http-headers
+END
+alphabet.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/121766/trunk/src/chrome/test/data/http_pipelining/alphabet.txt
+END

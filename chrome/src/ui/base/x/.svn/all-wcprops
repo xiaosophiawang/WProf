@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/chrome/!svn/ver/142631/trunk/src/ui/base/x
+END
+events_x.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/142631/trunk/src/ui/base/x/events_x.cc
+END
+x11_util_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/102985/trunk/src/ui/base/x/x11_util_internal.h
+END
+x11_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/142568/trunk/src/ui/base/x/x11_util.cc
+END
+active_window_watcher_x.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/112258/trunk/src/ui/base/x/active_window_watcher_x.cc
+END
+x11_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/142568/trunk/src/ui/base/x/x11_util.h
+END
+active_window_watcher_x.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/111171/trunk/src/ui/base/x/active_window_watcher_x.h
+END
+work_area_watcher_x.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/131570/trunk/src/ui/base/x/work_area_watcher_x.cc
+END
+active_window_watcher_x_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/111171/trunk/src/ui/base/x/active_window_watcher_x_observer.h
+END
+work_area_watcher_x.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/131570/trunk/src/ui/base/x/work_area_watcher_x.h
+END
+valuators.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/139071/trunk/src/ui/base/x/valuators.cc
+END
+valuators.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/139071/trunk/src/ui/base/x/valuators.h
+END
+root_window_property_watcher_x.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/111171/trunk/src/ui/base/x/root_window_property_watcher_x.cc
+END
+root_window_property_watcher_x.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/111171/trunk/src/ui/base/x/root_window_property_watcher_x.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/123699/trunk/src/ui/base/x/OWNERS
+END
+events_x_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/132741/trunk/src/ui/base/x/events_x_unittest.cc
+END

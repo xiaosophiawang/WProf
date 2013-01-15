@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/132112/trunk/src/sandbox/tests/integration_tests
+END
+sbox_integration_tests.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/7093/trunk/src/sandbox/tests/integration_tests/sbox_integration_tests.vcproj
+END
+integration_tests_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/11447/trunk/src/sandbox/tests/integration_tests/integration_tests_test.cc
+END
+integration_tests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/132112/trunk/src/sandbox/tests/integration_tests/integration_tests.cc
+END

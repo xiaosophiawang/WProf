@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/116289/trunk/src/chrome/test/data/extensions/api_test/tabs/connect
+END
+tabs_util.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/62633/trunk/src/chrome/test/data/extensions/api_test/tabs/connect/tabs_util.js
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/112554/trunk/src/chrome/test/data/extensions/api_test/tabs/connect/test.html
+END
+relative.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/112554/trunk/src/chrome/test/data/extensions/api_test/tabs/connect/relative.js
+END
+echo.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/47914/trunk/src/chrome/test/data/extensions/api_test/tabs/connect/echo.js
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/64277/trunk/src/chrome/test/data/extensions/api_test/tabs/connect/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/116289/trunk/src/chrome/test/data/extensions/api_test/tabs/connect/manifest.json
+END
+relative.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/112554/trunk/src/chrome/test/data/extensions/api_test/tabs/connect/relative.html
+END

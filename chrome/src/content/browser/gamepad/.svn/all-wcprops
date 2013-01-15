@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/144315/trunk/src/content/browser/gamepad
+END
+gamepad_standard_mappings_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/118908/trunk/src/content/browser/gamepad/gamepad_standard_mappings_linux.cc
+END
+platform_data_fetcher_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/135272/trunk/src/content/browser/gamepad/platform_data_fetcher_linux.cc
+END
+platform_data_fetcher_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/122591/trunk/src/content/browser/gamepad/platform_data_fetcher_win.h
+END
+platform_data_fetcher_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/124398/trunk/src/content/browser/gamepad/platform_data_fetcher_linux.h
+END
+platform_data_fetcher_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/122591/trunk/src/content/browser/gamepad/platform_data_fetcher_mac.h
+END
+gamepad_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/143914/trunk/src/content/browser/gamepad/gamepad_provider_unittest.cc
+END
+gamepad_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/143914/trunk/src/content/browser/gamepad/gamepad_provider.cc
+END
+gamepad_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/138906/trunk/src/content/browser/gamepad/gamepad_provider.h
+END
+data_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/113538/trunk/src/content/browser/gamepad/data_fetcher.h
+END
+platform_data_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/118667/trunk/src/content/browser/gamepad/platform_data_fetcher.cc
+END
+gamepad_standard_mappings.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/118908/trunk/src/content/browser/gamepad/gamepad_standard_mappings.h
+END
+gamepad_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/140570/trunk/src/content/browser/gamepad/gamepad_service.cc
+END
+platform_data_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/118667/trunk/src/content/browser/gamepad/platform_data_fetcher.h
+END
+gamepad_standard_mappings_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/123136/trunk/src/content/browser/gamepad/gamepad_standard_mappings_mac.mm
+END
+gamepad_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/140570/trunk/src/content/browser/gamepad/gamepad_service.h
+END
+platform_data_fetcher_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/128804/trunk/src/content/browser/gamepad/platform_data_fetcher_mac.mm
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/144315/trunk/src/content/browser/gamepad/OWNERS
+END
+platform_data_fetcher_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144276/trunk/src/content/browser/gamepad/platform_data_fetcher_win.cc
+END

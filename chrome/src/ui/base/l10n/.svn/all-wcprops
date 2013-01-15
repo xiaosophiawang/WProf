@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/136039/trunk/src/ui/base/l10n
+END
+l10n_util_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/119030/trunk/src/ui/base/l10n/l10n_util_mac.mm
+END
+l10n_font_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/73890/trunk/src/ui/base/l10n/l10n_font_util.cc
+END
+l10n_font_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/95730/trunk/src/ui/base/l10n/l10n_font_util.h
+END
+l10n_util_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/110076/trunk/src/ui/base/l10n/l10n_util_win.cc
+END
+l10n_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/135524/trunk/src/ui/base/l10n/l10n_util_unittest.cc
+END
+l10n_util_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/95730/trunk/src/ui/base/l10n/l10n_util_win.h
+END
+l10n_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/136039/trunk/src/ui/base/l10n/l10n_util.cc
+END
+l10n_util_collator.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/95730/trunk/src/ui/base/l10n/l10n_util_collator.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/135411/trunk/src/ui/base/l10n/OWNERS
+END
+l10n_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/135524/trunk/src/ui/base/l10n/l10n_util.h
+END
+l10n_util_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/95730/trunk/src/ui/base/l10n/l10n_util_mac.h
+END
+l10n_util_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/105835/trunk/src/ui/base/l10n/l10n_util_posix.cc
+END
+l10n_util_mac_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/83971/trunk/src/ui/base/l10n/l10n_util_mac_unittest.mm
+END

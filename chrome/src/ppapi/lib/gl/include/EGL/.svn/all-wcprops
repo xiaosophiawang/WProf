@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/69311/trunk/src/ppapi/lib/gl/include/EGL
+END
+eglplatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/69311/trunk/src/ppapi/lib/gl/include/EGL/eglplatform.h
+END
+egl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/69174/trunk/src/ppapi/lib/gl/include/EGL/egl.h
+END
+eglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/69174/trunk/src/ppapi/lib/gl/include/EGL/eglext.h
+END

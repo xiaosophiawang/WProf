@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/144352/trunk/src/chrome/common/extensions/docs/css
+END
+ApiRefStyles.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143963/trunk/src/chrome/common/extensions/docs/css/ApiRefStyles.css
+END
+print.css
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/36563/trunk/src/chrome/common/extensions/docs/css/print.css
+END
+ApiRefStyles_apps.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/144281/trunk/src/chrome/common/extensions/docs/css/ApiRefStyles_apps.css
+END
+samples.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/68637/trunk/src/chrome/common/extensions/docs/css/samples.css
+END
+prettify.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/144281/trunk/src/chrome/common/extensions/docs/css/prettify.css
+END
+shared.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/144352/trunk/src/chrome/common/extensions/docs/css/shared.css
+END

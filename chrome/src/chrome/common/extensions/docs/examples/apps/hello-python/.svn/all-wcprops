@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/134268/trunk/src/chrome/common/extensions/docs/examples/apps/hello-python
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/56986/trunk/src/chrome/common/extensions/docs/examples/apps/hello-python/NOTICE
+END
+app.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/134268/trunk/src/chrome/common/extensions/docs/examples/apps/hello-python/app.yaml
+END
+index.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/134268/trunk/src/chrome/common/extensions/docs/examples/apps/hello-python/index.yaml
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/134268/trunk/src/chrome/common/extensions/docs/examples/apps/hello-python/main.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/83632/trunk/src/chrome/common/extensions/docs/examples/apps/hello-python/README
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/56986/trunk/src/chrome/common/extensions/docs/examples/apps/hello-python/favicon.ico
+END

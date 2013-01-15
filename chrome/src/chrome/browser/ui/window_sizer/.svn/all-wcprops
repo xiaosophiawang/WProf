@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/144767/trunk/src/chrome/browser/ui/window_sizer
+END
+window_sizer_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144767/trunk/src/chrome/browser/ui/window_sizer/window_sizer_aura.cc
+END
+window_sizer_common_unittest.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/144767/trunk/src/chrome/browser/ui/window_sizer/window_sizer_common_unittest.h
+END
+window_sizer_ash_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/144767/trunk/src/chrome/browser/ui/window_sizer/window_sizer_ash_unittest.cc
+END
+window_sizer_ash.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/144767/trunk/src/chrome/browser/ui/window_sizer/window_sizer_ash.cc
+END
+window_sizer_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/144767/trunk/src/chrome/browser/ui/window_sizer/window_sizer_win.cc
+END
+window_sizer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/144767/trunk/src/chrome/browser/ui/window_sizer/window_sizer_unittest.cc
+END
+window_sizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/144767/trunk/src/chrome/browser/ui/window_sizer/window_sizer.cc
+END
+window_sizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/144767/trunk/src/chrome/browser/ui/window_sizer/window_sizer.h
+END
+window_sizer_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/144767/trunk/src/chrome/browser/ui/window_sizer/window_sizer_mac.mm
+END
+window_sizer_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/144767/trunk/src/chrome/browser/ui/window_sizer/window_sizer_gtk.cc
+END

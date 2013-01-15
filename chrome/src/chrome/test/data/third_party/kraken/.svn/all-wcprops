@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/136292/trunk/src/chrome/test/data/third_party/kraken
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/134624/trunk/src/chrome/test/data/third_party/kraken/README.chromium
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/134624/trunk/src/chrome/test/data/third_party/kraken/LICENSE
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/134624/trunk/src/chrome/test/data/third_party/kraken/changelog.txt
+END
+make-hosted.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/136292/trunk/src/chrome/test/data/third_party/kraken/make-hosted.py
+END

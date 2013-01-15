@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/145303/trunk/src/chrome/browser/resources/file_manager/js
+END
+metrics.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/132558/trunk/src/chrome/browser/resources/file_manager/js/metrics.js
+END
+file_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/145300/trunk/src/chrome/browser/resources/file_manager/js/file_manager.js
+END
+file_manager_pyauto.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/142389/trunk/src/chrome/browser/resources/file_manager/js/file_manager_pyauto.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/143907/trunk/src/chrome/browser/resources/file_manager/js/util.js
+END
+file_type.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/139797/trunk/src/chrome/browser/resources/file_manager/js/file_type.js
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/132558/trunk/src/chrome/browser/resources/file_manager/js/main.js
+END
+directory_model.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/145303/trunk/src/chrome/browser/resources/file_manager/js/directory_model.js
+END
+mock_chrome.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/143576/trunk/src/chrome/browser/resources/file_manager/js/mock_chrome.js
+END
+file_transfer_controller.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/144433/trunk/src/chrome/browser/resources/file_manager/js/file_transfer_controller.js
+END
+main_scripts.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/139797/trunk/src/chrome/browser/resources/file_manager/js/main_scripts.js
+END
+combobutton.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/138806/trunk/src/chrome/browser/resources/file_manager/js/combobutton.js
+END
+default_action_dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/138806/trunk/src/chrome/browser/resources/file_manager/js/default_action_dialog.js
+END
+volume_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/143888/trunk/src/chrome/browser/resources/file_manager/js/volume_manager.js
+END
+file_copy_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/144444/trunk/src/chrome/browser/resources/file_manager/js/file_copy_manager.js
+END
+harness.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/124182/trunk/src/chrome/browser/resources/file_manager/js/harness.js
+END

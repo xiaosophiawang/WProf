@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/145051/trunk/src/chrome/browser/resources/gaia_auth
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/139158/trunk/src/chrome/browser/resources/gaia_auth/main.js
+END
+success.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/139158/trunk/src/chrome/browser/resources/gaia_auth/success.js
+END
+offline.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/139158/trunk/src/chrome/browser/resources/gaia_auth/offline.html
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/139158/trunk/src/chrome/browser/resources/gaia_auth/main.html
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/139134/trunk/src/chrome/browser/resources/gaia_auth/util.js
+END
+offline.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/139158/trunk/src/chrome/browser/resources/gaia_auth/offline.css
+END
+main.css
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/139158/trunk/src/chrome/browser/resources/gaia_auth/main.css
+END
+success.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/139158/trunk/src/chrome/browser/resources/gaia_auth/success.html
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/139134/trunk/src/chrome/browser/resources/gaia_auth/OWNERS
+END
+manifest_test.json
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/139134/trunk/src/chrome/browser/resources/gaia_auth/manifest_test.json
+END
+offline.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/139158/trunk/src/chrome/browser/resources/gaia_auth/offline.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/145051/trunk/src/chrome/browser/resources/gaia_auth/manifest.json
+END

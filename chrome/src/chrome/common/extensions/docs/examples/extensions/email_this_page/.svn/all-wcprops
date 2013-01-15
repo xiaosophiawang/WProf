@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/119061/trunk/src/chrome/common/extensions/docs/examples/extensions/email_this_page
+END
+email_16x16.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/75434/trunk/src/chrome/common/extensions/docs/examples/extensions/email_this_page/email_16x16.png
+END
+mail_128x128.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/75434/trunk/src/chrome/common/extensions/docs/examples/extensions/email_this_page/mail_128x128.png
+END
+options.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/119061/trunk/src/chrome/common/extensions/docs/examples/extensions/email_this_page/options.js
+END
+content_script.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/33576/trunk/src/chrome/common/extensions/docs/examples/extensions/email_this_page/content_script.js
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/117713/trunk/src/chrome/common/extensions/docs/examples/extensions/email_this_page/background.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/119061/trunk/src/chrome/common/extensions/docs/examples/extensions/email_this_page/manifest.json
+END
+options.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/119061/trunk/src/chrome/common/extensions/docs/examples/extensions/email_this_page/options.html
+END

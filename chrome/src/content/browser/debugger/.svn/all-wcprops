@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/143880/trunk/src/content/browser/debugger
+END
+devtools_frontend_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/136765/trunk/src/content/browser/debugger/devtools_frontend_host.cc
+END
+devtools_frontend_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/143282/trunk/src/content/browser/debugger/devtools_frontend_host.h
+END
+worker_devtools_message_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/116007/trunk/src/content/browser/debugger/worker_devtools_message_filter.cc
+END
+render_view_devtools_agent_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/132193/trunk/src/content/browser/debugger/render_view_devtools_agent_host.cc
+END
+devtools_resources.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/138231/trunk/src/content/browser/debugger/devtools_resources.gyp
+END
+worker_devtools_message_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/114758/trunk/src/content/browser/debugger/worker_devtools_message_filter.h
+END
+render_view_devtools_agent_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/143282/trunk/src/content/browser/debugger/render_view_devtools_agent_host.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/119243/trunk/src/content/browser/debugger/DEPS
+END
+devtools_manager_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/132193/trunk/src/content/browser/debugger/devtools_manager_impl.cc
+END
+devtools_agent_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/126164/trunk/src/content/browser/debugger/devtools_agent_host.cc
+END
+devtools_manager_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/132193/trunk/src/content/browser/debugger/devtools_manager_impl.h
+END
+devtools_http_handler_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/143595/trunk/src/content/browser/debugger/devtools_http_handler_impl.cc
+END
+devtools_agent_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/126164/trunk/src/content/browser/debugger/devtools_agent_host.h
+END
+devtools_netlog_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/143880/trunk/src/content/browser/debugger/devtools_netlog_observer.cc
+END
+devtools_http_handler_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/138497/trunk/src/content/browser/debugger/devtools_http_handler_impl.h
+END
+devtools_netlog_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/141377/trunk/src/content/browser/debugger/devtools_netlog_observer.h
+END
+worker_devtools_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/120078/trunk/src/content/browser/debugger/worker_devtools_manager.cc
+END
+worker_devtools_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/137637/trunk/src/content/browser/debugger/worker_devtools_manager.h
+END
+devtools_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/140795/trunk/src/content/browser/debugger/devtools_manager_unittest.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/90912/trunk/src/content/browser/debugger/OWNERS
+END

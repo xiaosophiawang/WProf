@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/145227/trunk/src/remoting/host/plugin
+END
+host_plugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/141955/trunk/src/remoting/host/plugin/host_plugin.cc
+END
+daemon_installer_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/144535/trunk/src/remoting/host/plugin/daemon_installer_win.cc
+END
+daemon_installer_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/134014/trunk/src/remoting/host/plugin/daemon_installer_win.h
+END
+host_plugin.ver
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/128073/trunk/src/remoting/host/plugin/host_plugin.ver
+END
+host_plugin.def
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/89901/trunk/src/remoting/host/plugin/host_plugin.def
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/131587/trunk/src/remoting/host/plugin/DEPS
+END
+daemon_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/143504/trunk/src/remoting/host/plugin/daemon_controller.h
+END
+host_plugin_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/131489/trunk/src/remoting/host/plugin/host_plugin_utils.cc
+END
+host_log_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/119173/trunk/src/remoting/host/plugin/host_log_handler.cc
+END
+host_plugin_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/131489/trunk/src/remoting/host/plugin/host_plugin_utils.h
+END
+host_log_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/99850/trunk/src/remoting/host/plugin/host_log_handler.h
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/128073/trunk/src/remoting/host/plugin/constants.h
+END
+daemon_controller_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/144588/trunk/src/remoting/host/plugin/daemon_controller_win.cc
+END
+daemon_controller_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/143504/trunk/src/remoting/host/plugin/daemon_controller_linux.cc
+END
+daemon_controller_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/143504/trunk/src/remoting/host/plugin/daemon_controller_mac.cc
+END
+host_script_object.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/145227/trunk/src/remoting/host/plugin/host_script_object.cc
+END
+host_script_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/145227/trunk/src/remoting/host/plugin/host_script_object.h
+END
+host_plugin-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/107986/trunk/src/remoting/host/plugin/host_plugin-Info.plist
+END

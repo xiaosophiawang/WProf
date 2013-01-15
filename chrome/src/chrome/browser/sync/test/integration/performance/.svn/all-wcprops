@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/sync/test/integration/performance
+END
+passwords_sync_perf_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/116166/trunk/src/chrome/browser/sync/test/integration/performance/passwords_sync_perf_test.cc
+END
+sessions_sync_perf_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/sync/test/integration/performance/sessions_sync_perf_test.cc
+END
+bookmarks_sync_perf_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/99839/trunk/src/chrome/browser/sync/test/integration/performance/bookmarks_sync_perf_test.cc
+END
+typed_urls_sync_perf_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/144820/trunk/src/chrome/browser/sync/test/integration/performance/typed_urls_sync_perf_test.cc
+END
+sync_timing_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/104343/trunk/src/chrome/browser/sync/test/integration/performance/sync_timing_helper.cc
+END
+sync_timing_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/99839/trunk/src/chrome/browser/sync/test/integration/performance/sync_timing_helper.h
+END
+autofill_sync_perf_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/121588/trunk/src/chrome/browser/sync/test/integration/performance/autofill_sync_perf_test.cc
+END
+extensions_sync_perf_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/118924/trunk/src/chrome/browser/sync/test/integration/performance/extensions_sync_perf_test.cc
+END

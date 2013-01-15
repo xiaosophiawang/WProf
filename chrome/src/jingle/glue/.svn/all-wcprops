@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/141908/trunk/src/jingle/glue
+END
+utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/138334/trunk/src/jingle/glue/utils.cc
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/96079/trunk/src/jingle/glue/utils.h
+END
+pseudotcp_adapter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/134456/trunk/src/jingle/glue/pseudotcp_adapter_unittest.cc
+END
+fake_socket_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/109811/trunk/src/jingle/glue/fake_socket_factory.cc
+END
+pseudotcp_adapter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141125/trunk/src/jingle/glue/pseudotcp_adapter.cc
+END
+jingle_glue_mock_objects.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/79929/trunk/src/jingle/glue/jingle_glue_mock_objects.cc
+END
+thread_wrapper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/124915/trunk/src/jingle/glue/thread_wrapper_unittest.cc
+END
+thread_wrapper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/141908/trunk/src/jingle/glue/thread_wrapper.cc
+END
+fake_socket_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/86954/trunk/src/jingle/glue/fake_socket_factory.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/117917/trunk/src/jingle/glue/DEPS
+END
+pseudotcp_adapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/141125/trunk/src/jingle/glue/pseudotcp_adapter.h
+END
+jingle_glue_mock_objects.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/79929/trunk/src/jingle/glue/jingle_glue_mock_objects.h
+END
+thread_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/141908/trunk/src/jingle/glue/thread_wrapper.h
+END
+fake_network_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/126793/trunk/src/jingle/glue/fake_network_manager.cc
+END
+fake_network_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/109811/trunk/src/jingle/glue/fake_network_manager.h
+END
+channel_socket_adapter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/138334/trunk/src/jingle/glue/channel_socket_adapter_unittest.cc
+END
+channel_socket_adapter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/134065/trunk/src/jingle/glue/channel_socket_adapter.cc
+END
+channel_socket_adapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/134065/trunk/src/jingle/glue/channel_socket_adapter.h
+END
+logging_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/117917/trunk/src/jingle/glue/logging_unittest.cc
+END

@@ -1,0 +1,713 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/144468/trunk/src/remoting/protocol
+END
+audio_writer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/143977/trunk/src/remoting/protocol/audio_writer.cc
+END
+input_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/127195/trunk/src/remoting/protocol/input_stub.h
+END
+connection_to_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/143977/trunk/src/remoting/protocol/connection_to_host.cc
+END
+clipboard_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/127195/trunk/src/remoting/protocol/clipboard_stub.h
+END
+connection_to_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/143977/trunk/src/remoting/protocol/connection_to_client.cc
+END
+connection_to_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/143977/trunk/src/remoting/protocol/connection_to_client.h
+END
+fake_authenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/138224/trunk/src/remoting/protocol/fake_authenticator.h
+END
+authenticator_test_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/140856/trunk/src/remoting/protocol/authenticator_test_base.cc
+END
+channel_authenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/120508/trunk/src/remoting/protocol/channel_authenticator.h
+END
+clipboard_echo_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/138377/trunk/src/remoting/protocol/clipboard_echo_filter.h
+END
+negotiating_authenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/119816/trunk/src/remoting/protocol/negotiating_authenticator.h
+END
+socket_reader_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/113825/trunk/src/remoting/protocol/socket_reader_base.cc
+END
+authenticator_test_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/127015/trunk/src/remoting/protocol/authenticator_test_base.h
+END
+channel_dispatcher_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/120508/trunk/src/remoting/protocol/channel_dispatcher_base.cc
+END
+session_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/143977/trunk/src/remoting/protocol/session_config.h
+END
+message_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/137376/trunk/src/remoting/protocol/message_decoder.h
+END
+ssl_hmac_channel_authenticator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144468/trunk/src/remoting/protocol/ssl_hmac_channel_authenticator.cc
+END
+host_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/135071/trunk/src/remoting/protocol/host_stub.h
+END
+authenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/138224/trunk/src/remoting/protocol/authenticator.h
+END
+host_event_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/127195/trunk/src/remoting/protocol/host_event_stub.h
+END
+ssl_hmac_channel_authenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/120508/trunk/src/remoting/protocol/ssl_hmac_channel_authenticator.h
+END
+errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/129371/trunk/src/remoting/protocol/errors.h
+END
+mouse_input_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/134594/trunk/src/remoting/protocol/mouse_input_filter.h
+END
+content_description.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144069/trunk/src/remoting/protocol/content_description.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/109593/trunk/src/remoting/protocol/util.h
+END
+v1_authenticator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/139578/trunk/src/remoting/protocol/v1_authenticator.cc
+END
+v2_authenticator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/140856/trunk/src/remoting/protocol/v2_authenticator_unittest.cc
+END
+host_event_dispatcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/131698/trunk/src/remoting/protocol/host_event_dispatcher.cc
+END
+connection_tester.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144464/trunk/src/remoting/protocol/connection_tester.cc
+END
+video_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/142498/trunk/src/remoting/protocol/video_reader.h
+END
+cursor_shape_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/140205/trunk/src/remoting/protocol/cursor_shape_stub.h
+END
+it2me_host_authenticator_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/139578/trunk/src/remoting/protocol/it2me_host_authenticator_factory.cc
+END
+connection_to_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/129355/trunk/src/remoting/protocol/connection_to_client_unittest.cc
+END
+auth_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/126799/trunk/src/remoting/protocol/auth_util.cc
+END
+jingle_messages.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/138334/trunk/src/remoting/protocol/jingle_messages.cc
+END
+fake_authenticator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/138224/trunk/src/remoting/protocol/fake_authenticator.cc
+END
+connection_to_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/143977/trunk/src/remoting/protocol/connection_to_host.h
+END
+jingle_messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/134065/trunk/src/remoting/protocol/jingle_messages.h
+END
+message_reader_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/129355/trunk/src/remoting/protocol/message_reader_unittest.cc
+END
+video_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/144236/trunk/src/remoting/protocol/video_stub.h
+END
+input_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/131321/trunk/src/remoting/protocol/input_filter.h
+END
+clipboard_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/130683/trunk/src/remoting/protocol/clipboard_filter.h
+END
+message_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/138731/trunk/src/remoting/protocol/message_reader.cc
+END
+jingle_session_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/134637/trunk/src/remoting/protocol/jingle_session_manager.h
+END
+message_decoder_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/93110/trunk/src/remoting/protocol/message_decoder_unittest.cc
+END
+session_config.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/143977/trunk/src/remoting/protocol/session_config.cc
+END
+fake_session.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/141125/trunk/src/remoting/protocol/fake_session.cc
+END
+protobuf_video_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/129355/trunk/src/remoting/protocol/protobuf_video_reader.h
+END
+ssl_hmac_channel_authenticator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/140856/trunk/src/remoting/protocol/ssl_hmac_channel_authenticator_unittest.cc
+END
+input_event_tracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/131410/trunk/src/remoting/protocol/input_event_tracker.cc
+END
+jingle_session.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/134637/trunk/src/remoting/protocol/jingle_session.cc
+END
+ppapi_module_stub.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/114318/trunk/src/remoting/protocol/ppapi_module_stub.cc
+END
+mouse_input_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/134594/trunk/src/remoting/protocol/mouse_input_filter.cc
+END
+input_event_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/131410/trunk/src/remoting/protocol/input_event_tracker.h
+END
+jingle_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/134065/trunk/src/remoting/protocol/jingle_session.h
+END
+v2_authenticator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/119765/trunk/src/remoting/protocol/v2_authenticator.cc
+END
+host_control_dispatcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/140205/trunk/src/remoting/protocol/host_control_dispatcher.cc
+END
+me2me_host_authenticator_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/139815/trunk/src/remoting/protocol/me2me_host_authenticator_factory.cc
+END
+protocol_mock_objects.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/142473/trunk/src/remoting/protocol/protocol_mock_objects.cc
+END
+transport_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/134608/trunk/src/remoting/protocol/transport_config.h
+END
+host_control_dispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/140205/trunk/src/remoting/protocol/host_control_dispatcher.h
+END
+me2me_host_authenticator_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/138224/trunk/src/remoting/protocol/me2me_host_authenticator_factory.h
+END
+protocol_mock_objects.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/144236/trunk/src/remoting/protocol/protocol_mock_objects.h
+END
+client_control_dispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/140205/trunk/src/remoting/protocol/client_control_dispatcher.h
+END
+client_event_dispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/138694/trunk/src/remoting/protocol/client_event_dispatcher.h
+END
+video_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/142498/trunk/src/remoting/protocol/video_reader.cc
+END
+jingle_messages_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/143977/trunk/src/remoting/protocol/jingle_messages_unittest.cc
+END
+transport.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/134637/trunk/src/remoting/protocol/transport.h
+END
+audio_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/142498/trunk/src/remoting/protocol/audio_writer.h
+END
+it2me_host_authenticator_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/138224/trunk/src/remoting/protocol/it2me_host_authenticator_factory.h
+END
+auth_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/118828/trunk/src/remoting/protocol/auth_util.h
+END
+audio_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/141009/trunk/src/remoting/protocol/audio_stub.h
+END
+libjingle_transport_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/138731/trunk/src/remoting/protocol/libjingle_transport_factory.cc
+END
+video_writer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/142498/trunk/src/remoting/protocol/video_writer.cc
+END
+input_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/131321/trunk/src/remoting/protocol/input_filter.cc
+END
+clipboard_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/130683/trunk/src/remoting/protocol/clipboard_filter.cc
+END
+message_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/138731/trunk/src/remoting/protocol/message_reader.h
+END
+protobuf_video_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/129355/trunk/src/remoting/protocol/protobuf_video_reader.cc
+END
+message_decoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/126793/trunk/src/remoting/protocol/message_decoder.cc
+END
+input_event_tracker_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/131410/trunk/src/remoting/protocol/input_event_tracker_unittest.cc
+END
+jingle_session_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/134608/trunk/src/remoting/protocol/jingle_session_unittest.cc
+END
+content_description.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/144069/trunk/src/remoting/protocol/content_description.cc
+END
+client_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/140205/trunk/src/remoting/protocol/client_stub.h
+END
+util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/126793/trunk/src/remoting/protocol/util.cc
+END
+authentication_method.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/135522/trunk/src/remoting/protocol/authentication_method.cc
+END
+v1_authenticator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/139578/trunk/src/remoting/protocol/v1_authenticator_unittest.cc
+END
+authentication_method.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/137376/trunk/src/remoting/protocol/authentication_method.h
+END
+protobuf_video_writer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/144236/trunk/src/remoting/protocol/protobuf_video_writer.cc
+END
+client_control_dispatcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/140205/trunk/src/remoting/protocol/client_control_dispatcher.cc
+END
+buffered_socket_writer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/138694/trunk/src/remoting/protocol/buffered_socket_writer.cc
+END
+connection_tester.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144464/trunk/src/remoting/protocol/connection_tester.h
+END
+clipboard_thread_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/139854/trunk/src/remoting/protocol/clipboard_thread_proxy.cc
+END
+clipboard_thread_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/139854/trunk/src/remoting/protocol/clipboard_thread_proxy.h
+END
+transport.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/129650/trunk/src/remoting/protocol/transport.cc
+END
+clipboard_echo_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/138377/trunk/src/remoting/protocol/clipboard_echo_filter_unittest.cc
+END
+negotiating_authenticator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/119765/trunk/src/remoting/protocol/negotiating_authenticator_unittest.cc
+END
+clipboard_echo_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/138377/trunk/src/remoting/protocol/clipboard_echo_filter.cc
+END
+negotiating_authenticator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/120913/trunk/src/remoting/protocol/negotiating_authenticator.cc
+END
+libjingle_transport_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/134650/trunk/src/remoting/protocol/libjingle_transport_factory.h
+END
+video_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/142498/trunk/src/remoting/protocol/video_writer.h
+END
+jingle_session_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/138224/trunk/src/remoting/protocol/jingle_session_manager.cc
+END
+socket_reader_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/113825/trunk/src/remoting/protocol/socket_reader_base.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/124834/trunk/src/remoting/protocol/DEPS
+END
+authenticator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/118407/trunk/src/remoting/protocol/authenticator.cc
+END
+channel_dispatcher_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/120508/trunk/src/remoting/protocol/channel_dispatcher_base.h
+END
+fake_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141125/trunk/src/remoting/protocol/fake_session.h
+END
+mouse_input_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/134594/trunk/src/remoting/protocol/mouse_input_filter_unittest.cc
+END
+session_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/144086/trunk/src/remoting/protocol/session_manager.h
+END
+transport_config.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/134608/trunk/src/remoting/protocol/transport_config.cc
+END
+v1_authenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/139578/trunk/src/remoting/protocol/v1_authenticator.h
+END
+audio_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/143977/trunk/src/remoting/protocol/audio_reader.cc
+END
+v2_authenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/119765/trunk/src/remoting/protocol/v2_authenticator.h
+END
+protobuf_video_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/144236/trunk/src/remoting/protocol/protobuf_video_writer.h
+END
+audio_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/142497/trunk/src/remoting/protocol/audio_reader.h
+END
+client_event_dispatcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/138694/trunk/src/remoting/protocol/client_event_dispatcher.cc
+END
+session.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/127814/trunk/src/remoting/protocol/session.h
+END
+host_event_dispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/129355/trunk/src/remoting/protocol/host_event_dispatcher.h
+END
+buffered_socket_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/138694/trunk/src/remoting/protocol/buffered_socket_writer.h
+END

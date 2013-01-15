@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/143605/trunk/src/chrome/browser/ui/views/download
+END
+download_in_progress_dialog_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/133977/trunk/src/chrome/browser/ui/views/download/download_in_progress_dialog_view.h
+END
+download_shelf_context_menu_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/138483/trunk/src/chrome/browser/ui/views/download/download_shelf_context_menu_view.h
+END
+download_item_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/143605/trunk/src/chrome/browser/ui/views/download/download_item_view.cc
+END
+download_item_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/140628/trunk/src/chrome/browser/ui/views/download/download_item_view.h
+END
+download_shelf_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/143385/trunk/src/chrome/browser/ui/views/download/download_shelf_view.cc
+END
+download_shelf_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/138483/trunk/src/chrome/browser/ui/views/download/download_shelf_view.h
+END
+download_started_animation_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/143605/trunk/src/chrome/browser/ui/views/download/download_started_animation_views.cc
+END
+download_in_progress_dialog_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/136804/trunk/src/chrome/browser/ui/views/download/download_in_progress_dialog_view.cc
+END
+download_shelf_context_menu_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/138483/trunk/src/chrome/browser/ui/views/download/download_shelf_context_menu_view.cc
+END

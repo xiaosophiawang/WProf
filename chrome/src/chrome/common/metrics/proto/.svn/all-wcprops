@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/145128/trunk/src/chrome/common/metrics/proto
+END
+chrome_user_metrics_extension.proto
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/122644/trunk/src/chrome/common/metrics/proto/chrome_user_metrics_extension.proto
+END
+histogram_event.proto
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/119780/trunk/src/chrome/common/metrics/proto/histogram_event.proto
+END
+chrome_experiments.proto
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/129868/trunk/src/chrome/common/metrics/proto/chrome_experiments.proto
+END
+profiler_event.proto
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/122644/trunk/src/chrome/common/metrics/proto/profiler_event.proto
+END
+system_profile.proto
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/145128/trunk/src/chrome/common/metrics/proto/system_profile.proto
+END
+omnibox_event.proto
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/141787/trunk/src/chrome/common/metrics/proto/omnibox_event.proto
+END
+user_action_event.proto
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/119780/trunk/src/chrome/common/metrics/proto/user_action_event.proto
+END

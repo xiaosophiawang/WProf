@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/145281/trunk/src/base/third_party/dynamic_annotations
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/145281/trunk/src/base/third_party/dynamic_annotations/README.chromium
+END
+dynamic_annotations.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/109055/trunk/src/base/third_party/dynamic_annotations/dynamic_annotations.gyp
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/47252/trunk/src/base/third_party/dynamic_annotations/LICENSE
+END
+dynamic_annotations.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/145281/trunk/src/base/third_party/dynamic_annotations/dynamic_annotations.c
+END
+dynamic_annotations.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/87469/trunk/src/base/third_party/dynamic_annotations/dynamic_annotations.h
+END

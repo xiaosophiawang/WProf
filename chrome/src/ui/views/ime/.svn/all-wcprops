@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/143501/trunk/src/ui/views/ime
+END
+input_method_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/143501/trunk/src/ui/views/ime/input_method_base.h
+END
+input_method_bridge.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/140259/trunk/src/ui/views/ime/input_method_bridge.cc
+END
+input_method_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/112469/trunk/src/ui/views/ime/input_method_delegate.h
+END
+input_method_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/140239/trunk/src/ui/views/ime/input_method_win.cc
+END
+input_method_bridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/140259/trunk/src/ui/views/ime/input_method_bridge.h
+END
+input_method_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/112333/trunk/src/ui/views/ime/input_method_win.h
+END
+input_method.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/130327/trunk/src/ui/views/ime/input_method.h
+END
+mock_input_method.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/111077/trunk/src/ui/views/ime/mock_input_method.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/110399/trunk/src/ui/views/ime/OWNERS
+END
+input_method_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/138447/trunk/src/ui/views/ime/input_method_base.cc
+END
+mock_input_method.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/112333/trunk/src/ui/views/ime/mock_input_method.h
+END

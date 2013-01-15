@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip
+END
+iowin32.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip/iowin32.h
+END
+ioapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip/ioapi.c
+END
+zip.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip/zip.c
+END
+unzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip/unzip.c
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip/ioapi.h
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip/crypt.h
+END
+zip.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip/zip.h
+END
+mztools.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip/mztools.c
+END
+unzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip/unzip.h
+END
+mztools.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip/mztools.h
+END
+minizip.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip/minizip.c
+END
+miniunz.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip/miniunz.c
+END
+iowin32.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/113994/trunk/src/third_party/zlib/contrib/minizip/iowin32.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/7493/trunk/src/third_party/zlib/contrib/minizip/Makefile
+END
+ChangeLogUnzip
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/7493/trunk/src/third_party/zlib/contrib/minizip/ChangeLogUnzip
+END

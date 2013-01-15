@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/144157/trunk/src/chrome/browser/favicon
+END
+favicon_tab_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/116392/trunk/src/chrome/browser/favicon/favicon_tab_helper.h
+END
+favicon_handler_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/115872/trunk/src/chrome/browser/favicon/favicon_handler_delegate.h
+END
+favicon_handler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/133170/trunk/src/chrome/browser/favicon/favicon_handler_unittest.cc
+END
+favicon_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/135011/trunk/src/chrome/browser/favicon/favicon_handler.cc
+END
+favicon_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/135011/trunk/src/chrome/browser/favicon/favicon_handler.h
+END
+favicon_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/144044/trunk/src/chrome/browser/favicon/favicon_service.cc
+END
+favicon_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/133170/trunk/src/chrome/browser/favicon/favicon_service.h
+END
+favicon_tab_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/144157/trunk/src/chrome/browser/favicon/favicon_tab_helper.cc
+END

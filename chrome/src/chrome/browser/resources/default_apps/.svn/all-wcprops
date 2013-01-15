@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/143964/trunk/src/chrome/browser/resources/default_apps
+END
+search.crx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/135906/trunk/src/chrome/browser/resources/default_apps/search.crx
+END
+drive.crx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/143964/trunk/src/chrome/browser/resources/default_apps/drive.crx
+END
+gmail.crx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/135906/trunk/src/chrome/browser/resources/default_apps/gmail.crx
+END
+youtube.crx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/135906/trunk/src/chrome/browser/resources/default_apps/youtube.crx
+END
+external_extensions.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/143964/trunk/src/chrome/browser/resources/default_apps/external_extensions.json
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/135451/trunk/src/chrome/browser/resources/default_apps/OWNERS
+END

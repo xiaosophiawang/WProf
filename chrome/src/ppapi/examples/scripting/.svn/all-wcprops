@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/85348/trunk/src/ppapi/examples/scripting
+END
+post_message.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/85348/trunk/src/ppapi/examples/scripting/post_message.html
+END
+post_message.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/79178/trunk/src/ppapi/examples/scripting/post_message.cc
+END

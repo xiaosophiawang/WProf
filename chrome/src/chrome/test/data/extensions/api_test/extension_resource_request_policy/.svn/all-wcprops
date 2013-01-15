@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/140689/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/80878/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/index.html
+END
+non_existent_extension.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/chrome/!svn/ver/74511/trunk/src/chrome/test/data/extensions/api_test/extension_resource_request_policy/non_existent_extension.html
+END

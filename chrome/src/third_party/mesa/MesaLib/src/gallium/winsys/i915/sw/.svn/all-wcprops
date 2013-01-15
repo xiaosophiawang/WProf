@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/i915/sw
+END
+i915_sw_fence.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/i915/sw/i915_sw_fence.c
+END
+i915_sw_winsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/i915/sw/i915_sw_winsys.h
+END
+i915_sw_public.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/i915/sw/i915_sw_public.h
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/i915/sw/SConscript
+END
+i915_sw_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/i915/sw/i915_sw_buffer.c
+END
+i915_sw_batchbuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/i915/sw/i915_sw_batchbuffer.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/i915/sw/Makefile
+END
+i915_sw_winsys.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/winsys/i915/sw/i915_sw_winsys.c
+END

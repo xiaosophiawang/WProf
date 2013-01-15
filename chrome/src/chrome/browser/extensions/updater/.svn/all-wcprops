@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/143085/trunk/src/chrome/browser/extensions/updater
+END
+extension_downloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/138384/trunk/src/chrome/browser/extensions/updater/extension_downloader.h
+END
+extension_updater_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/143085/trunk/src/chrome/browser/extensions/updater/extension_updater_unittest.cc
+END
+extension_updater.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/141312/trunk/src/chrome/browser/extensions/updater/extension_updater.cc
+END
+safe_manifest_parser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/134370/trunk/src/chrome/browser/extensions/updater/safe_manifest_parser.cc
+END
+extension_updater.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/141312/trunk/src/chrome/browser/extensions/updater/extension_updater.h
+END
+safe_manifest_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/134370/trunk/src/chrome/browser/extensions/updater/safe_manifest_parser.h
+END
+extension_downloader_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/127206/trunk/src/chrome/browser/extensions/updater/extension_downloader_delegate.cc
+END
+extension_downloader_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/127617/trunk/src/chrome/browser/extensions/updater/extension_downloader_delegate.h
+END
+manifest_fetch_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/127206/trunk/src/chrome/browser/extensions/updater/manifest_fetch_data.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/127206/trunk/src/chrome/browser/extensions/updater/OWNERS
+END
+extension_downloader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/142926/trunk/src/chrome/browser/extensions/updater/extension_downloader.cc
+END
+manifest_fetch_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/127206/trunk/src/chrome/browser/extensions/updater/manifest_fetch_data.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/145272/trunk/src/chrome/browser/debugger
+END
+browser_list_tabcontents_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/138769/trunk/src/chrome/browser/debugger/browser_list_tabcontents_provider.cc
+END
+remote_debugging_server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/138497/trunk/src/chrome/browser/debugger/remote_debugging_server.cc
+END
+devtools_file_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/145156/trunk/src/chrome/browser/debugger/devtools_file_helper.cc
+END
+browser_list_tabcontents_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/129648/trunk/src/chrome/browser/debugger/browser_list_tabcontents_provider.h
+END
+remote_debugging_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/112662/trunk/src/chrome/browser/debugger/remote_debugging_server.h
+END
+devtools_file_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/134877/trunk/src/chrome/browser/debugger/devtools_file_helper.h
+END
+devtools_toggle_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/93173/trunk/src/chrome/browser/debugger/devtools_toggle_action.h
+END
+devtools_window.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/145272/trunk/src/chrome/browser/debugger/devtools_window.cc
+END
+devtools_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/145272/trunk/src/chrome/browser/debugger/devtools_window.h
+END
+devtools_sanity_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/debugger/devtools_sanity_browsertest.cc
+END

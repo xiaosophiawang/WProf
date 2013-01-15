@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/144011/trunk/src/jingle/notifier/listener
+END
+push_notifications_subscribe_task.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/134065/trunk/src/jingle/notifier/listener/push_notifications_subscribe_task.cc
+END
+push_notifications_subscribe_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/110546/trunk/src/jingle/notifier/listener/push_notifications_subscribe_task.h
+END
+non_blocking_push_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/142806/trunk/src/jingle/notifier/listener/non_blocking_push_client_unittest.cc
+END
+non_blocking_push_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144011/trunk/src/jingle/notifier/listener/non_blocking_push_client.cc
+END
+non_blocking_push_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144011/trunk/src/jingle/notifier/listener/non_blocking_push_client.h
+END
+fake_push_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/142806/trunk/src/jingle/notifier/listener/fake_push_client.cc
+END
+push_notifications_send_update_task_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/98551/trunk/src/jingle/notifier/listener/push_notifications_send_update_task_unittest.cc
+END
+fake_push_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/142806/trunk/src/jingle/notifier/listener/fake_push_client.h
+END
+push_notifications_send_update_task.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/119316/trunk/src/jingle/notifier/listener/push_notifications_send_update_task.cc
+END
+xml_element_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/79524/trunk/src/jingle/notifier/listener/xml_element_util_unittest.cc
+END
+xml_element_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/54355/trunk/src/jingle/notifier/listener/xml_element_util.cc
+END
+push_notifications_send_update_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/110546/trunk/src/jingle/notifier/listener/push_notifications_send_update_task.h
+END
+push_notifications_listen_task.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/100278/trunk/src/jingle/notifier/listener/push_notifications_listen_task.cc
+END
+xml_element_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/51216/trunk/src/jingle/notifier/listener/xml_element_util.h
+END
+fake_push_client_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/142806/trunk/src/jingle/notifier/listener/fake_push_client_observer.cc
+END
+push_notifications_listen_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/141530/trunk/src/jingle/notifier/listener/push_notifications_listen_task.h
+END
+push_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/139508/trunk/src/jingle/notifier/listener/push_client_unittest.cc
+END
+fake_push_client_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/142806/trunk/src/jingle/notifier/listener/fake_push_client_observer.h
+END
+push_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/142560/trunk/src/jingle/notifier/listener/push_client.cc
+END
+push_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/139508/trunk/src/jingle/notifier/listener/push_client.h
+END
+xmpp_push_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/142806/trunk/src/jingle/notifier/listener/xmpp_push_client_unittest.cc
+END
+xmpp_push_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/144011/trunk/src/jingle/notifier/listener/xmpp_push_client.cc
+END
+notification_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/78385/trunk/src/jingle/notifier/listener/notification_constants.cc
+END
+notification_defines.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/138431/trunk/src/jingle/notifier/listener/notification_defines.cc
+END
+xmpp_push_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/144011/trunk/src/jingle/notifier/listener/xmpp_push_client.h
+END
+push_client_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/138431/trunk/src/jingle/notifier/listener/push_client_observer.cc
+END
+notification_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/78385/trunk/src/jingle/notifier/listener/notification_constants.h
+END
+notification_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/138431/trunk/src/jingle/notifier/listener/notification_defines.h
+END
+push_client_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/142806/trunk/src/jingle/notifier/listener/push_client_observer.h
+END
+push_notifications_subscribe_task_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/85088/trunk/src/jingle/notifier/listener/push_notifications_subscribe_task_unittest.cc
+END

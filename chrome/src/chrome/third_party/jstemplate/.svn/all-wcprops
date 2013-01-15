@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/111658/trunk/src/chrome/third_party/jstemplate
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/87662/trunk/src/chrome/third_party/jstemplate/README.chromium
+END
+compile.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/111658/trunk/src/chrome/third_party/jstemplate/compile.py
+END
+exports.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/83632/trunk/src/chrome/third_party/jstemplate/exports.js
+END
+jstemplate_compiled.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/87662/trunk/src/chrome/third_party/jstemplate/jstemplate_compiled.js
+END
+jstemplate_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/83632/trunk/src/chrome/third_party/jstemplate/jstemplate_test.js
+END
+jstemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/83632/trunk/src/chrome/third_party/jstemplate/jstemplate.js
+END
+jsevalcontext.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/83632/trunk/src/chrome/third_party/jstemplate/jsevalcontext.js
+END
+jstemplate_example.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/83632/trunk/src/chrome/third_party/jstemplate/jstemplate_example.html
+END
+jstemplate_jsunit.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/83632/trunk/src/chrome/third_party/jstemplate/jstemplate_jsunit.html
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/83632/trunk/src/chrome/third_party/jstemplate/COPYING
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/83632/trunk/src/chrome/third_party/jstemplate/util.js
+END
+jstemplate_example.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/83632/trunk/src/chrome/third_party/jstemplate/jstemplate_example.js
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/145319/trunk/src/content/zygote
+END
+zygote_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/145319/trunk/src/content/zygote/zygote_linux.cc
+END
+zygote_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145319/trunk/src/content/zygote/zygote_linux.h
+END
+zygote_main_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/142151/trunk/src/content/zygote/zygote_main_linux.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/139936/trunk/src/content/zygote/OWNERS
+END

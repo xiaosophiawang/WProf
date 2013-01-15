@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/144111/trunk/src/ui/views/color_chooser
+END
+color_chooser_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/144111/trunk/src/ui/views/color_chooser/color_chooser_view.h
+END
+color_chooser_listener.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/144111/trunk/src/ui/views/color_chooser/color_chooser_listener.h
+END
+color_chooser_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/144111/trunk/src/ui/views/color_chooser/color_chooser_view.cc
+END

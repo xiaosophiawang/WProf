@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/142440/trunk/src/ui/resources/default_200_percent/ash
+END
+status_cellular_disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_cellular_disabled.png
+END
+status_bluetooth_disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_bluetooth_disabled.png
+END
+status_lockscreen_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_lockscreen_h.png
+END
+status_capslock_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_capslock_dark.png
+END
+status_network_info.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_network_info.png
+END
+status_bluetooth.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_bluetooth.png
+END
+status_brightness.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_brightness.png
+END
+status_wifi_enabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_wifi_enabled.png
+END
+status_ime.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/141668/trunk/src/ui/resources/default_200_percent/ash/status_ime.png
+END
+status_power_small_all.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_power_small_all.png
+END
+status_power_small_all_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_power_small_all_dark.png
+END
+status_shutdown_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_shutdown_h.png
+END
+status_cellular_enabled_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_cellular_enabled_h.png
+END
+status_bluetooth_enabled_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_bluetooth_enabled_h.png
+END
+status_lockscreen.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_lockscreen.png
+END
+status_accessibility_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/141668/trunk/src/ui/resources/default_200_percent/ash/status_accessibility_dark.png
+END
+status_wifi_disabled_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_wifi_disabled_h.png
+END
+statusbar_notifications.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/statusbar_notifications.png
+END
+status_capslock.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_capslock.png
+END
+status_help_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_help_h.png
+END
+status_settings.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_settings.png
+END
+status_volume_mute.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_volume_mute.png
+END
+status_cellular_disabled_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_cellular_disabled_h.png
+END
+status_more.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/141668/trunk/src/ui/resources/default_200_percent/ash/status_more.png
+END
+status_bluetooth_disabled_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_bluetooth_disabled_h.png
+END
+status_less.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/142440/trunk/src/ui/resources/default_200_percent/ash/status_less.png
+END
+status_shutdown.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_shutdown.png
+END
+status_network_info_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_network_info_h.png
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/PRESUBMIT.py
+END
+status_cellular_enabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_cellular_enabled.png
+END
+status_bluetooth_enabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_bluetooth_enabled.png
+END
+status_wifi_enabled_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_wifi_enabled_h.png
+END
+status_update.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_update.png
+END
+status_update_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_update_dark.png
+END
+status_wifi_disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_wifi_disabled.png
+END
+status_help.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/141263/trunk/src/ui/resources/default_200_percent/ash/status_help.png
+END

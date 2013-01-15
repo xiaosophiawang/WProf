@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/145210/trunk/src/chrome/browser/predictors
+END
+predictor_table_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/predictors/predictor_table_base.cc
+END
+predictor_table_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/predictors/predictor_table_base.h
+END
+autocomplete_action_predictor_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/141923/trunk/src/chrome/browser/predictors/autocomplete_action_predictor_factory.cc
+END
+autocomplete_action_predictor_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/141923/trunk/src/chrome/browser/predictors/autocomplete_action_predictor_factory.h
+END
+predictor_database_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/136439/trunk/src/chrome/browser/predictors/predictor_database_factory.cc
+END
+predictor_database_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/136439/trunk/src/chrome/browser/predictors/predictor_database_factory.h
+END
+autocomplete_action_predictor_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/142837/trunk/src/chrome/browser/predictors/autocomplete_action_predictor_unittest.cc
+END
+autocomplete_action_predictor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/145210/trunk/src/chrome/browser/predictors/autocomplete_action_predictor.cc
+END
+resource_prefetch_predictor_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/predictors/resource_prefetch_predictor_factory.cc
+END
+autocomplete_action_predictor.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/143836/trunk/src/chrome/browser/predictors/autocomplete_action_predictor.h
+END
+resource_prefetch_predictor_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/predictors/resource_prefetch_predictor_factory.h
+END
+resource_prefetch_predictor_tables_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/predictors/resource_prefetch_predictor_tables_unittest.cc
+END
+resource_prefetch_predictor_tables.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/predictors/resource_prefetch_predictor_tables.cc
+END
+resource_prefetch_predictor_tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/predictors/resource_prefetch_predictor_tables.h
+END
+resource_prefetch_common.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/predictors/resource_prefetch_common.cc
+END
+predictor_database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/predictors/predictor_database.cc
+END
+autocomplete_action_predictor_table_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/predictors/autocomplete_action_predictor_table_unittest.cc
+END
+autocomplete_action_predictor_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/142142/trunk/src/chrome/browser/predictors/autocomplete_action_predictor_table.cc
+END
+predictor_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/predictors/predictor_database.h
+END
+resource_prefetch_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/predictors/resource_prefetch_common.h
+END
+resource_prefetch_predictor_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/predictors/resource_prefetch_predictor_unittest.cc
+END
+autocomplete_action_predictor_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/136439/trunk/src/chrome/browser/predictors/autocomplete_action_predictor_table.h
+END
+resource_prefetch_predictor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/144834/trunk/src/chrome/browser/predictors/resource_prefetch_predictor.cc
+END
+resource_prefetch_predictor.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/144019/trunk/src/chrome/browser/predictors/resource_prefetch_predictor.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/134865/trunk/src/chrome/browser/predictors/OWNERS
+END

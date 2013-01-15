@@ -1,0 +1,58 @@
+10
+
+dir
+145398
+https://src.chromium.org/chrome/trunk/src/chrome/test/data/extensions/api_test/tabs
+https://src.chromium.org/chrome
+
+
+
+2012-06-12T17:42:40.196597Z
+141681
+estade@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+incognito_disabled
+dir
+
+get_current
+dir
+
+on_updated
+dir
+
+javascript_url_permissions
+dir
+
+basics
+dir
+
+capture_visible_tab
+dir
+
+reload
+dir
+
+connect
+dir
+
+current_window
+dir
+
+on_removed
+dir
+

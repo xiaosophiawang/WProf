@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/67601/trunk/src/base/third_party/icu
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/42016/trunk/src/base/third_party/icu/README.chromium
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/42016/trunk/src/base/third_party/icu/LICENSE
+END
+icu_utf.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/40991/trunk/src/base/third_party/icu/icu_utf.cc
+END
+icu_utf.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/67601/trunk/src/base/third_party/icu/icu_utf.h
+END

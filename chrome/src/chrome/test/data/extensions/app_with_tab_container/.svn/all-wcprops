@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/112882/trunk/src/chrome/test/data/extensions/app_with_tab_container
+END
+empty.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/75743/trunk/src/chrome/test/data/extensions/app_with_tab_container/empty.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/112882/trunk/src/chrome/test/data/extensions/app_with_tab_container/manifest.json
+END

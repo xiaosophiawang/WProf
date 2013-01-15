@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/98158/trunk/src/ppapi/native_client/src/trusted/plugin/win
+END
+nacl_plugin.rc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/98158/trunk/src/ppapi/native_client/src/trusted/plugin/win/nacl_plugin.rc
+END

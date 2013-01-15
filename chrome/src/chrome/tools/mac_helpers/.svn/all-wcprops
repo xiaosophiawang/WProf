@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/138769/trunk/src/chrome/tools/mac_helpers
+END
+infoplist_strings_util.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/138769/trunk/src/chrome/tools/mac_helpers/infoplist_strings_util.mm
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/24111/trunk/src/chrome/tools/mac_helpers/DEPS
+END

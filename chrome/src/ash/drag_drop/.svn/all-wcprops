@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/chrome/!svn/ver/144824/trunk/src/ash/drag_drop
+END
+drag_image_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/115748/trunk/src/ash/drag_drop/drag_image_view.h
+END
+drag_drop_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/140714/trunk/src/ash/drag_drop/drag_drop_controller_unittest.cc
+END
+drag_drop_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144824/trunk/src/ash/drag_drop/drag_drop_controller.cc
+END
+drag_drop_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144824/trunk/src/ash/drag_drop/drag_drop_controller.h
+END
+drag_image_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/143060/trunk/src/ash/drag_drop/drag_image_view.cc
+END

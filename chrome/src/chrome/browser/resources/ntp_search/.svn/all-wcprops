@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/144729/trunk/src/chrome/browser/resources/ntp_search
+END
+new_tab.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144729/trunk/src/chrome/browser/resources/ntp_search/new_tab.html
+END
+new_tab_theme.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/144729/trunk/src/chrome/browser/resources/ntp_search/new_tab_theme.css
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/144729/trunk/src/chrome/browser/resources/ntp_search/OWNERS
+END

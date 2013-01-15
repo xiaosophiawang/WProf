@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/145213/trunk/src/base/android
+END
+base_jni_registrar.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/137352/trunk/src/base/android/base_jni_registrar.cc
+END
+base_jni_registrar.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/133857/trunk/src/base/android/base_jni_registrar.h
+END
+jni_registrar.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/133857/trunk/src/base/android/jni_registrar.cc
+END
+jni_registrar.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/136306/trunk/src/base/android/jni_registrar.h
+END
+jni_string.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/141607/trunk/src/base/android/jni_string.cc
+END
+jni_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/141607/trunk/src/base/android/jni_string.h
+END
+scoped_java_ref_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/121284/trunk/src/base/android/scoped_java_ref_unittest.cc
+END
+build_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/143188/trunk/src/base/android/build_info.cc
+END
+scoped_java_ref.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/128204/trunk/src/base/android/scoped_java_ref.cc
+END
+path_utils_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/145179/trunk/src/base/android/path_utils_unittest.cc
+END
+build_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/143188/trunk/src/base/android/build_info.h
+END
+path_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/145179/trunk/src/base/android/path_utils.cc
+END
+scoped_java_ref.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/128204/trunk/src/base/android/scoped_java_ref.h
+END
+jni_array_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/121284/trunk/src/base/android/jni_array_unittest.cc
+END
+path_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/145179/trunk/src/base/android/path_utils.h
+END
+jni_array.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/144801/trunk/src/base/android/jni_array.cc
+END
+jni_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/133857/trunk/src/base/android/jni_helper.cc
+END
+jni_android_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/112975/trunk/src/base/android/jni_android_unittest.cc
+END
+locale_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/135524/trunk/src/base/android/locale_utils.cc
+END
+jni_array.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/144801/trunk/src/base/android/jni_array.h
+END
+jni_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/138435/trunk/src/base/android/jni_android.cc
+END
+jni_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/133857/trunk/src/base/android/jni_helper.h
+END
+locale_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/135524/trunk/src/base/android/locale_utils.h
+END
+jni_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/133857/trunk/src/base/android/jni_android.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/124083/trunk/src/base/android/OWNERS
+END

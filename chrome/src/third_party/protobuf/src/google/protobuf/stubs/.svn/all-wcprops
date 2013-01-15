@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/136585/trunk/src/third_party/protobuf/src/google/protobuf/stubs
+END
+structurally_valid_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/src/google/protobuf/stubs/structurally_valid_unittest.cc
+END
+structurally_valid.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/src/google/protobuf/stubs/structurally_valid.cc
+END
+atomicops_internals_x86_macosx.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/125145/trunk/src/third_party/protobuf/src/google/protobuf/stubs/atomicops_internals_x86_macosx.h
+END
+atomicops_internals_x86_gcc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/126922/trunk/src/third_party/protobuf/src/google/protobuf/stubs/atomicops_internals_x86_gcc.cc
+END
+atomicops_internals_x86_gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/125145/trunk/src/third_party/protobuf/src/google/protobuf/stubs/atomicops_internals_x86_gcc.h
+END
+atomicops.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/125145/trunk/src/third_party/protobuf/src/google/protobuf/stubs/atomicops.h
+END
+strutil_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/src/google/protobuf/stubs/strutil_unittest.cc
+END
+strutil.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/125145/trunk/src/third_party/protobuf/src/google/protobuf/stubs/strutil.cc
+END
+strutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/src/google/protobuf/stubs/strutil.h
+END
+atomicops_internals_x86_msvc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/126922/trunk/src/third_party/protobuf/src/google/protobuf/stubs/atomicops_internals_x86_msvc.cc
+END
+substitute.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/src/google/protobuf/stubs/substitute.cc
+END
+atomicops_internals_x86_msvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/125145/trunk/src/third_party/protobuf/src/google/protobuf/stubs/atomicops_internals_x86_msvc.h
+END
+substitute.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/src/google/protobuf/stubs/substitute.h
+END
+stl_util-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/src/google/protobuf/stubs/stl_util-inl.h
+END
+once_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/src/google/protobuf/stubs/once_unittest.cc
+END
+atomicops_internals_mips_gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/125145/trunk/src/third_party/protobuf/src/google/protobuf/stubs/atomicops_internals_mips_gcc.h
+END
+once.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/136585/trunk/src/third_party/protobuf/src/google/protobuf/stubs/once.cc
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/src/google/protobuf/stubs/hash.h
+END
+once.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/136585/trunk/src/third_party/protobuf/src/google/protobuf/stubs/once.h
+END
+common_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/src/google/protobuf/stubs/common_unittest.cc
+END
+common.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/80265/trunk/src/third_party/protobuf/src/google/protobuf/stubs/common.cc
+END
+map-util.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/src/google/protobuf/stubs/map-util.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/125145/trunk/src/third_party/protobuf/src/google/protobuf/stubs/common.h
+END
+atomicops_internals_arm_gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/125145/trunk/src/third_party/protobuf/src/google/protobuf/stubs/atomicops_internals_arm_gcc.h
+END
+platform_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/125145/trunk/src/third_party/protobuf/src/google/protobuf/stubs/platform_macros.h
+END

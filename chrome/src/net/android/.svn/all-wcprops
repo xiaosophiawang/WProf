@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/144272/trunk/src/net/android
+END
+network_change_notifier_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/138780/trunk/src/net/android/network_change_notifier_android.cc
+END
+network_library.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/142354/trunk/src/net/android/network_library.cc
+END
+network_change_notifier_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/138780/trunk/src/net/android/network_change_notifier_android.h
+END
+network_library.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/142354/trunk/src/net/android/network_library.h
+END
+network_change_notifier_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/136207/trunk/src/net/android/network_change_notifier_factory.cc
+END
+network_change_notifier_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/133142/trunk/src/net/android/network_change_notifier_factory.h
+END
+net_jni_registrar.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/140748/trunk/src/net/android/net_jni_registrar.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/133142/trunk/src/net/android/OWNERS
+END
+net_jni_registrar.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/134396/trunk/src/net/android/net_jni_registrar.h
+END

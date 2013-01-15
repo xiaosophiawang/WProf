@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/141177/trunk/src/chrome/test/data/extensions/platform_apps/minimal
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/138340/trunk/src/chrome/test/data/extensions/platform_apps/minimal/main.js
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/138340/trunk/src/chrome/test/data/extensions/platform_apps/minimal/main.html
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/140947/trunk/src/chrome/test/data/extensions/platform_apps/minimal/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/141177/trunk/src/chrome/test/data/extensions/platform_apps/minimal/manifest.json
+END

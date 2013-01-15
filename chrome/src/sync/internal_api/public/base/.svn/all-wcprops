@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145236/trunk/src/sync/internal_api/public/base
+END
+model_type_test_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/145236/trunk/src/sync/internal_api/public/base/model_type_test_util.cc
+END
+enum_set_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/145236/trunk/src/sync/internal_api/public/base/enum_set_unittest.cc
+END
+model_type_test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/145236/trunk/src/sync/internal_api/public/base/model_type_test_util.h
+END
+enum_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/145236/trunk/src/sync/internal_api/public/base/enum_set.h
+END
+model_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/145236/trunk/src/sync/internal_api/public/base/model_type.h
+END
+model_type_payload_map_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/145236/trunk/src/sync/internal_api/public/base/model_type_payload_map_unittest.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/145236/trunk/src/sync/internal_api/public/base/DEPS
+END
+model_type_payload_map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/145236/trunk/src/sync/internal_api/public/base/model_type_payload_map.cc
+END
+model_type_payload_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/145236/trunk/src/sync/internal_api/public/base/model_type_payload_map.h
+END

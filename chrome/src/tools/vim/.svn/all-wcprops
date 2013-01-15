@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/chrome/!svn/ver/135452/trunk/src/tools/vim
+END
+ninja-build.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/135452/trunk/src/tools/vim/ninja-build.vim
+END
+filetypes.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/91783/trunk/src/tools/vim/filetypes.vim
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/144699/trunk/src/ui/gfx/codec
+END
+png_codec_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/126348/trunk/src/ui/gfx/codec/png_codec_unittest.cc
+END
+jpeg_codec_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/86261/trunk/src/ui/gfx/codec/jpeg_codec_unittest.cc
+END
+png_codec.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/144699/trunk/src/ui/gfx/codec/png_codec.cc
+END
+jpeg_codec.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/79524/trunk/src/ui/gfx/codec/jpeg_codec.cc
+END
+png_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/95730/trunk/src/ui/gfx/codec/png_codec.h
+END
+jpeg_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/95730/trunk/src/ui/gfx/codec/jpeg_codec.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/81495/trunk/src/ui/gfx/codec/DEPS
+END

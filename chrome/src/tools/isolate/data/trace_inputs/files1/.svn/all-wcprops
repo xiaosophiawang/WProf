@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144449/trunk/src/tools/isolate/data/trace_inputs/files1
+END
+foo
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/144449/trunk/src/tools/isolate/data/trace_inputs/files1/foo
+END
+bar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/144449/trunk/src/tools/isolate/data/trace_inputs/files1/bar
+END
+do_not_care.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/144449/trunk/src/tools/isolate/data/trace_inputs/files1/do_not_care.txt
+END

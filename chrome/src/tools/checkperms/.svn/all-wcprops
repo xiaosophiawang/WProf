@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/140752/trunk/src/tools/checkperms
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/133835/trunk/src/tools/checkperms/PRESUBMIT.py
+END
+checkperms.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/140752/trunk/src/tools/checkperms/checkperms.py
+END

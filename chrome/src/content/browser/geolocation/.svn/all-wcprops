@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/145073/trunk/src/content/browser/geolocation
+END
+network_location_request.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/141951/trunk/src/content/browser/geolocation/network_location_request.h
+END
+core_location_provider_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/core_location_provider_mac.mm
+END
+arbitrator_dependency_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/134395/trunk/src/content/browser/geolocation/arbitrator_dependency_factory.h
+END
+win7_location_provider_unittest_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/win7_location_provider_unittest_win.cc
+END
+win7_location_provider_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/win7_location_provider_win.cc
+END
+geolocation.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/135322/trunk/src/content/browser/geolocation/geolocation.cc
+END
+location_arbitrator.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/location_arbitrator.h
+END
+core_location_data_provider_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/core_location_data_provider_mac.h
+END
+win7_location_provider_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/win7_location_provider_win.h
+END
+geolocation_dispatcher_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/118767/trunk/src/content/browser/geolocation/geolocation_dispatcher_host.h
+END
+gps_location_provider_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/gps_location_provider_linux.cc
+END
+wifi_data_provider_unittest_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/76228/trunk/src/content/browser/geolocation/wifi_data_provider_unittest_win.cc
+END
+wifi_data_provider_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/111755/trunk/src/content/browser/geolocation/wifi_data_provider_linux.h
+END
+wifi_data_provider_common_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/76228/trunk/src/content/browser/geolocation/wifi_data_provider_common_win.h
+END
+mock_location_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/mock_location_provider.cc
+END
+mock_location_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/137637/trunk/src/content/browser/geolocation/mock_location_provider.h
+END
+wifi_data_provider_corewlan_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/79524/trunk/src/content/browser/geolocation/wifi_data_provider_corewlan_mac.mm
+END
+libgps_wrapper_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/141301/trunk/src/content/browser/geolocation/libgps_wrapper_linux.cc
+END
+location_arbitrator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/location_arbitrator_unittest.cc
+END
+libgps_wrapper_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/libgps_wrapper_linux.h
+END
+fake_access_token_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/115335/trunk/src/content/browser/geolocation/fake_access_token_store.cc
+END
+location_api_adapter_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/137637/trunk/src/content/browser/geolocation/location_api_adapter_android.h
+END
+fake_access_token_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/131729/trunk/src/content/browser/geolocation/fake_access_token_store.h
+END
+wifi_data_provider_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/116748/trunk/src/content/browser/geolocation/wifi_data_provider_common.h
+END
+gps_location_provider_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/gps_location_provider_linux.h
+END
+wifi_data_provider_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/76228/trunk/src/content/browser/geolocation/wifi_data_provider_win.cc
+END
+geolocation_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/135322/trunk/src/content/browser/geolocation/geolocation_provider.h
+END
+wifi_data_provider_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/121941/trunk/src/content/browser/geolocation/wifi_data_provider_linux.cc
+END
+win7_location_api_unittest_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/win7_location_api_unittest_win.cc
+END
+wifi_data_provider_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/76228/trunk/src/content/browser/geolocation/wifi_data_provider_mac.cc
+END
+empty_device_data_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/76228/trunk/src/content/browser/geolocation/empty_device_data_provider.h
+END
+osx_wifi.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/77888/trunk/src/content/browser/geolocation/osx_wifi.h
+END
+network_location_request.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/142926/trunk/src/content/browser/geolocation/network_location_request.cc
+END
+network_location_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/141951/trunk/src/content/browser/geolocation/network_location_provider.cc
+END
+network_location_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/141951/trunk/src/content/browser/geolocation/network_location_provider.h
+END
+device_data_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/118502/trunk/src/content/browser/geolocation/device_data_provider_unittest.cc
+END
+location_arbitrator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/145073/trunk/src/content/browser/geolocation/location_arbitrator.cc
+END
+device_data_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/141951/trunk/src/content/browser/geolocation/device_data_provider.cc
+END
+wifi_data_provider_common_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/134395/trunk/src/content/browser/geolocation/wifi_data_provider_common_unittest.cc
+END
+core_location_provider_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/core_location_provider_mac.h
+END
+geolocation_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/140254/trunk/src/content/browser/geolocation/geolocation_provider_unittest.cc
+END
+wifi_data_provider_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/103394/trunk/src/content/browser/geolocation/wifi_data_provider_win.h
+END
+empty_device_data_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/141951/trunk/src/content/browser/geolocation/empty_device_data_provider.cc
+END
+win7_location_api_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/win7_location_api_win.cc
+END
+location_provider_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/136307/trunk/src/content/browser/geolocation/location_provider_android.cc
+END
+location_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/136019/trunk/src/content/browser/geolocation/location_provider.cc
+END
+core_location_data_provider_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/core_location_data_provider_mac.mm
+END
+network_location_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/143085/trunk/src/content/browser/geolocation/network_location_provider_unittest.cc
+END
+arbitrator_dependency_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/136019/trunk/src/content/browser/geolocation/arbitrator_dependency_factory.cc
+END
+location_api_adapter_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/137438/trunk/src/content/browser/geolocation/location_api_adapter_android.cc
+END
+device_data_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/141951/trunk/src/content/browser/geolocation/device_data_provider.h
+END
+geolocation_dispatcher_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/143882/trunk/src/content/browser/geolocation/geolocation_dispatcher_host.cc
+END
+wifi_data_provider_common.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/140690/trunk/src/content/browser/geolocation/wifi_data_provider_common.cc
+END
+gps_location_provider_unittest_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/gps_location_provider_unittest_linux.cc
+END
+arbitrator_dependency_factories_for_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/134395/trunk/src/content/browser/geolocation/arbitrator_dependency_factories_for_test.cc
+END
+geolocation_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/135322/trunk/src/content/browser/geolocation/geolocation_observer.h
+END
+arbitrator_dependency_factories_for_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/134395/trunk/src/content/browser/geolocation/arbitrator_dependency_factories_for_test.h
+END
+geolocation_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/135337/trunk/src/content/browser/geolocation/geolocation_provider.cc
+END
+wifi_data_provider_linux_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/121941/trunk/src/content/browser/geolocation/wifi_data_provider_linux_unittest.cc
+END
+wifi_data_provider_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/110544/trunk/src/content/browser/geolocation/wifi_data_provider_mac.h
+END
+win7_location_api_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/win7_location_api_win.h
+END
+location_provider_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/137637/trunk/src/content/browser/geolocation/location_provider_android.h
+END
+location_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/134989/trunk/src/content/browser/geolocation/location_provider.h
+END
+wifi_data_provider_common_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/76228/trunk/src/content/browser/geolocation/wifi_data_provider_common_win.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/81414/trunk/src/content/browser/geolocation/OWNERS
+END

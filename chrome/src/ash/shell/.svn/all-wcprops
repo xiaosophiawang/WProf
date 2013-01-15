@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/chrome/!svn/ver/144730/trunk/src/ash/shell
+END
+bubble.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/115588/trunk/src/ash/shell/bubble.cc
+END
+window_type_launcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141985/trunk/src/ash/shell/window_type_launcher.h
+END
+widgets.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/144730/trunk/src/ash/shell/widgets.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/132063/trunk/src/ash/shell/DEPS
+END
+shell_main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/132063/trunk/src/ash/shell/shell_main.cc
+END
+app_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/141865/trunk/src/ash/shell/app_list.cc
+END
+launcher_delegate_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/135676/trunk/src/ash/shell/launcher_delegate_impl.cc
+END
+launcher_delegate_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/135676/trunk/src/ash/shell/launcher_delegate_impl.h
+END
+toplevel_window.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/131986/trunk/src/ash/shell/toplevel_window.cc
+END
+shell_delegate_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/142590/trunk/src/ash/shell/shell_delegate_impl.cc
+END
+lock_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/141384/trunk/src/ash/shell/lock_view.cc
+END
+toplevel_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/131986/trunk/src/ash/shell/toplevel_window.h
+END
+window_watcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/141384/trunk/src/ash/shell/window_watcher.cc
+END
+shell_main_parts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/136039/trunk/src/ash/shell/shell_main_parts.cc
+END
+shell_delegate_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/142590/trunk/src/ash/shell/shell_delegate_impl.h
+END
+example_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/136437/trunk/src/ash/shell/example_factory.h
+END
+shell_main_parts.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/117992/trunk/src/ash/shell/shell_main_parts.h
+END
+panel_window.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/127350/trunk/src/ash/shell/panel_window.cc
+END
+window_watcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/133368/trunk/src/ash/shell/window_watcher.h
+END
+panel_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/127350/trunk/src/ash/shell/panel_window.h
+END
+shell_main_parts_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/136039/trunk/src/ash/shell/shell_main_parts_mac.mm
+END
+window_type_launcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/141985/trunk/src/ash/shell/window_type_launcher.cc
+END

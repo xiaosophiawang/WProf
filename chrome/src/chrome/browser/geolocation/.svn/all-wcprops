@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/geolocation
+END
+wifi_data_provider_unittest_chromeos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/97067/trunk/src/chrome/browser/geolocation/wifi_data_provider_unittest_chromeos.cc
+END
+wifi_data_provider_chromeos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/137682/trunk/src/chrome/browser/geolocation/wifi_data_provider_chromeos.cc
+END
+wifi_data_provider_chromeos.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/111757/trunk/src/chrome/browser/geolocation/wifi_data_provider_chromeos.h
+END
+geolocation_prefs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/142679/trunk/src/chrome/browser/geolocation/geolocation_prefs.cc
+END
+geolocation_prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/142679/trunk/src/chrome/browser/geolocation/geolocation_prefs.h
+END
+geolocation_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/geolocation/geolocation_browsertest.cc
+END
+chrome_access_token_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/134218/trunk/src/chrome/browser/geolocation/chrome_access_token_store.cc
+END
+chrome_geolocation_permission_context_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/142679/trunk/src/chrome/browser/geolocation/chrome_geolocation_permission_context_unittest.cc
+END
+chrome_geolocation_permission_context.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/144408/trunk/src/chrome/browser/geolocation/chrome_geolocation_permission_context.cc
+END
+chrome_access_token_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/134218/trunk/src/chrome/browser/geolocation/chrome_access_token_store.h
+END
+chrome_geolocation_permission_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/142679/trunk/src/chrome/browser/geolocation/chrome_geolocation_permission_context.h
+END
+access_token_store_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/geolocation/access_token_store_browsertest.cc
+END
+geolocation_settings_state_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/geolocation/geolocation_settings_state_unittest.cc
+END
+geolocation_settings_state.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/115872/trunk/src/chrome/browser/geolocation/geolocation_settings_state.cc
+END
+geolocation_settings_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/132568/trunk/src/chrome/browser/geolocation/geolocation_settings_state.h
+END

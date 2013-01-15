@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/137666/trunk/src/third_party/protobuf
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/136585/trunk/src/third_party/protobuf/README.chromium
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/INSTALL.txt
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/125145/trunk/src/third_party/protobuf/CHANGES.txt
+END
+COPYING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/COPYING.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/__init__.py
+END
+descriptor_pb2.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/descriptor_pb2.py
+END
+CONTRIBUTORS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/CONTRIBUTORS.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/61072/trunk/src/third_party/protobuf/README.txt
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/111305/trunk/src/third_party/protobuf/config.h
+END
+protobuf.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/136585/trunk/src/third_party/protobuf/protobuf.gyp
+END

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/141125/trunk/src/net/curvecp
+END
+received_block_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/85753/trunk/src/net/curvecp/received_block_list.cc
+END
+received_block_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/109590/trunk/src/net/curvecp/received_block_list.h
+END
+client_packetizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/135731/trunk/src/net/curvecp/client_packetizer.cc
+END
+client_packetizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/135731/trunk/src/net/curvecp/client_packetizer.h
+END
+packetizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/139272/trunk/src/net/curvecp/packetizer.h
+END
+curvecp_server_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/135731/trunk/src/net/curvecp/curvecp_server_socket.cc
+END
+connection_key.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/85753/trunk/src/net/curvecp/connection_key.cc
+END
+curvecp_server_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/113825/trunk/src/net/curvecp/curvecp_server_socket.h
+END
+connection_key.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/85753/trunk/src/net/curvecp/connection_key.h
+END
+curvecp_transfer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/113825/trunk/src/net/curvecp/curvecp_transfer_unittest.cc
+END
+test_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/113825/trunk/src/net/curvecp/test_client.cc
+END
+test_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/116748/trunk/src/net/curvecp/test_client.h
+END
+server_messenger.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/116748/trunk/src/net/curvecp/server_messenger.h
+END
+sent_block_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/85753/trunk/src/net/curvecp/sent_block_list.h
+END
+server_packetizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/137893/trunk/src/net/curvecp/server_packetizer.cc
+END
+rtt_and_send_rate_calculator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/85753/trunk/src/net/curvecp/rtt_and_send_rate_calculator.cc
+END
+messenger.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/113825/trunk/src/net/curvecp/messenger.cc
+END
+server_packetizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/137893/trunk/src/net/curvecp/server_packetizer.h
+END
+circular_buffer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/85753/trunk/src/net/curvecp/circular_buffer.cc
+END
+circular_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/85753/trunk/src/net/curvecp/circular_buffer.h
+END
+protocol.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/85753/trunk/src/net/curvecp/protocol.cc
+END
+protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/85753/trunk/src/net/curvecp/protocol.h
+END
+test_server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/115545/trunk/src/net/curvecp/test_server.cc
+END
+test_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/115545/trunk/src/net/curvecp/test_server.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/85753/trunk/src/net/curvecp/README
+END
+curvecp_client_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/141125/trunk/src/net/curvecp/curvecp_client_socket.cc
+END
+server_messenger.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/85753/trunk/src/net/curvecp/server_messenger.cc
+END
+sent_block_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/85753/trunk/src/net/curvecp/sent_block_list.cc
+END
+curvecp_client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/141125/trunk/src/net/curvecp/curvecp_client_socket.h
+END
+rtt_and_send_rate_calculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/85753/trunk/src/net/curvecp/rtt_and_send_rate_calculator.h
+END
+messenger.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/116748/trunk/src/net/curvecp/messenger.h
+END

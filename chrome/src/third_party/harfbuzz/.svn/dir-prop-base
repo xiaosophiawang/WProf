@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 171
+SConstruct
+harfbuzz.scons
+harfbuzz_interface.scons
+harfbuzz_main.scons
+harfbuzz.mk
+harfbuzz_interface.mk
+harfbuzz.target.mk
+harfbuzz_interface.target.mk
+harfbuzz.Makefile
+
+END

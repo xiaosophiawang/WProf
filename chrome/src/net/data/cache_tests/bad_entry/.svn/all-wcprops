@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/6392/trunk/src/net/data/cache_tests/bad_entry
+END
+index
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/6392/trunk/src/net/data/cache_tests/bad_entry/index
+END
+data_0
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/6392/trunk/src/net/data/cache_tests/bad_entry/data_0
+END
+data_1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/6392/trunk/src/net/data/cache_tests/bad_entry/data_1
+END
+data_2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/6392/trunk/src/net/data/cache_tests/bad_entry/data_2
+END
+contents.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/6392/trunk/src/net/data/cache_tests/bad_entry/contents.txt
+END
+data_3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/6392/trunk/src/net/data/cache_tests/bad_entry/data_3
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/19/trunk/src/third_party/npapi/npspy/extern/nspr/private
+END
+pprio.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/19/trunk/src/third_party/npapi/npspy/extern/nspr/private/pprio.h
+END
+prpriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/19/trunk/src/third_party/npapi/npspy/extern/nspr/private/prpriv.h
+END
+pprthred.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/19/trunk/src/third_party/npapi/npspy/extern/nspr/private/pprthred.h
+END

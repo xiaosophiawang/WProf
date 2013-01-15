@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/145056/trunk/src/base/metrics
+END
+histogram_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/106425/trunk/src/base/metrics/histogram_unittest.cc
+END
+field_trial_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/135748/trunk/src/base/metrics/field_trial_unittest.cc
+END
+histogram.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/126514/trunk/src/base/metrics/histogram.cc
+END
+field_trial.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/145056/trunk/src/base/metrics/field_trial.cc
+END
+histogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/125447/trunk/src/base/metrics/histogram.h
+END
+field_trial.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/141826/trunk/src/base/metrics/field_trial.h
+END
+stats_counters.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/78810/trunk/src/base/metrics/stats_counters.cc
+END
+stats_counters.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/110218/trunk/src/base/metrics/stats_counters.h
+END
+stats_table_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/140830/trunk/src/base/metrics/stats_table_unittest.cc
+END
+stats_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/107434/trunk/src/base/metrics/stats_table.cc
+END
+stats_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/95618/trunk/src/base/metrics/stats_table.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/133040/trunk/src/base/metrics/OWNERS
+END

@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/chrome/!svn/ver/144655/trunk/src/net/spdy
+END
+buffered_spdy_framer_spdy2_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/144265/trunk/src/net/spdy/buffered_spdy_framer_spdy2_unittest.cc
+END
+spdy_test_util_spdy3.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/142265/trunk/src/net/spdy/spdy_test_util_spdy3.cc
+END
+buffered_spdy_framer_spdy3_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/144265/trunk/src/net/spdy/buffered_spdy_framer_spdy3_unittest.cc
+END
+spdy_test_util_spdy2.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/142265/trunk/src/net/spdy/spdy_test_util_spdy2.h
+END
+spdy_protocol_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/134400/trunk/src/net/spdy/spdy_protocol_test.cc
+END
+spdy_frame_builder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/132705/trunk/src/net/spdy/spdy_frame_builder.cc
+END
+spdy_test_util_spdy3.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/142265/trunk/src/net/spdy/spdy_test_util_spdy3.h
+END
+spdy_http_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/132642/trunk/src/net/spdy/spdy_http_utils.h
+END
+spdy_websocket_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/128310/trunk/src/net/spdy/spdy_websocket_stream.cc
+END
+spdy_frame_builder.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/133321/trunk/src/net/spdy/spdy_frame_builder.h
+END
+spdy_session_spdy2_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_session_spdy2_unittest.cc
+END
+spdy_session_spdy3_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_session_spdy3_unittest.cc
+END
+spdy_websocket_test_util_spdy3.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/132642/trunk/src/net/spdy/spdy_websocket_test_util_spdy3.cc
+END
+spdy_websocket_test_util_spdy2.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/128310/trunk/src/net/spdy/spdy_websocket_test_util_spdy2.h
+END
+spdy_websocket_test_util_spdy3.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/128310/trunk/src/net/spdy/spdy_websocket_test_util_spdy3.h
+END
+spdy_proxy_client_socket_spdy2_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/141328/trunk/src/net/spdy/spdy_proxy_client_socket_spdy2_unittest.cc
+END
+spdy_proxy_client_socket_spdy3_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/141328/trunk/src/net/spdy/spdy_proxy_client_socket_spdy3_unittest.cc
+END
+spdy_http_stream_spdy2_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/142211/trunk/src/net/spdy/spdy_http_stream_spdy2_unittest.cc
+END
+spdy_credential_state.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/128707/trunk/src/net/spdy/spdy_credential_state.cc
+END
+spdy_http_stream_spdy3_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/144093/trunk/src/net/spdy/spdy_http_stream_spdy3_unittest.cc
+END
+spdy_frame_reader_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/133791/trunk/src/net/spdy/spdy_frame_reader_test.cc
+END
+spdy_stream_spdy2_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_stream_spdy2_unittest.cc
+END
+spdy_credential_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/128707/trunk/src/net/spdy/spdy_credential_state.h
+END
+spdy_framer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/144265/trunk/src/net/spdy/spdy_framer.cc
+END
+spdy_stream_spdy3_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_stream_spdy3_unittest.cc
+END
+spdy_network_transaction_spdy2_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_network_transaction_spdy2_unittest.cc
+END
+buffered_spdy_framer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/144265/trunk/src/net/spdy/buffered_spdy_framer.cc
+END
+spdy_framer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/144265/trunk/src/net/spdy/spdy_framer.h
+END
+spdy_network_transaction_spdy3_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_network_transaction_spdy3_unittest.cc
+END
+buffered_spdy_framer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/144265/trunk/src/net/spdy/buffered_spdy_framer.h
+END
+spdy_websocket_stream_spdy2_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_websocket_stream_spdy2_unittest.cc
+END
+spdy_websocket_stream_spdy3_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_websocket_stream_spdy3_unittest.cc
+END
+spdy_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_session.h
+END
+spdy_proxy_client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/141125/trunk/src/net/spdy/spdy_proxy_client_socket.h
+END
+spdy_http_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/142211/trunk/src/net/spdy/spdy_http_stream.cc
+END
+spdy_http_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/142211/trunk/src/net/spdy/spdy_http_stream.h
+END
+spdy_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_stream.h
+END
+spdy_test_util_spdy2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/142265/trunk/src/net/spdy/spdy_test_util_spdy2.cc
+END
+spdy_http_utils_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/132642/trunk/src/net/spdy/spdy_http_utils_unittest.cc
+END
+spdy_http_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/133766/trunk/src/net/spdy/spdy_http_utils.cc
+END
+spdy_io_buffer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_io_buffer.cc
+END
+spdy_io_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_io_buffer.h
+END
+spdy_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/135672/trunk/src/net/spdy/spdy_protocol.h
+END
+spdy_websocket_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_websocket_stream.h
+END
+spdy_websocket_test_util_spdy2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/132642/trunk/src/net/spdy/spdy_websocket_test_util_spdy2.cc
+END
+spdy_credential_state_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/128707/trunk/src/net/spdy/spdy_credential_state_unittest.cc
+END
+spdy_framer_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/144265/trunk/src/net/spdy/spdy_framer_test.cc
+END
+spdy_frame_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/128310/trunk/src/net/spdy/spdy_frame_reader.cc
+END
+spdy_session_pool.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/142265/trunk/src/net/spdy/spdy_session_pool.cc
+END
+spdy_frame_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/133059/trunk/src/net/spdy/spdy_frame_reader.h
+END
+spdy_session_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/142265/trunk/src/net/spdy/spdy_session_pool.h
+END
+spdy_bitmasks.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/133479/trunk/src/net/spdy/spdy_bitmasks.h
+END
+spdy_session.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_session.cc
+END
+spdy_proxy_client_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/141961/trunk/src/net/spdy/spdy_proxy_client_socket.cc
+END
+spdy_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/144655/trunk/src/net/spdy/spdy_stream.cc
+END

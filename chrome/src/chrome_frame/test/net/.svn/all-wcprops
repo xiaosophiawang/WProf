@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/143221/trunk/src/chrome_frame/test/net
+END
+test_automation_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/126574/trunk/src/chrome_frame/test/net/test_automation_provider.h
+END
+fake_external_tab.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/143221/trunk/src/chrome_frame/test/net/fake_external_tab.cc
+END
+process_singleton_subclass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/68069/trunk/src/chrome_frame/test/net/process_singleton_subclass.cc
+END
+test_automation_resource_message_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/117263/trunk/src/chrome_frame/test/net/test_automation_resource_message_filter.cc
+END
+fake_external_tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/139626/trunk/src/chrome_frame/test/net/fake_external_tab.h
+END
+process_singleton_subclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/56641/trunk/src/chrome_frame/test/net/process_singleton_subclass.h
+END
+test_automation_resource_message_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/117263/trunk/src/chrome_frame/test/net/test_automation_resource_message_filter.h
+END
+test_automation_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/126574/trunk/src/chrome_frame/test/net/test_automation_provider.cc
+END

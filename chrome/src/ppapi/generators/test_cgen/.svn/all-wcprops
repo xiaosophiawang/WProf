@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/104588/trunk/src/ppapi/generators/test_cgen
+END
+interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/97752/trunk/src/ppapi/generators/test_cgen/interface.h
+END
+interface.idl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/102793/trunk/src/ppapi/generators/test_cgen/interface.idl
+END
+enum_typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/104588/trunk/src/ppapi/generators/test_cgen/enum_typedef.h
+END
+enum_typedef.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/104588/trunk/src/ppapi/generators/test_cgen/enum_typedef.idl
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/97752/trunk/src/ppapi/generators/test_cgen/stdint.h
+END
+stdint.idl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/102793/trunk/src/ppapi/generators/test_cgen/stdint.idl
+END
+structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/97752/trunk/src/ppapi/generators/test_cgen/structs.h
+END
+structs.idl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/98133/trunk/src/ppapi/generators/test_cgen/structs.idl
+END

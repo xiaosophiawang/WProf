@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/137978/trunk/src/chrome/browser/sync/resources
+END
+gaia_login.css
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/97843/trunk/src/chrome/browser/sync/resources/gaia_login.css
+END
+google_transparent.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/96786/trunk/src/chrome/browser/sync/resources/google_transparent.png
+END
+gaia_login.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/108578/trunk/src/chrome/browser/sync/resources/gaia_login.js
+END
+gaia_login_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/137978/trunk/src/chrome/browser/sync/resources/gaia_login_test.html
+END
+gaia_login.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/97843/trunk/src/chrome/browser/sync/resources/gaia_login.html
+END

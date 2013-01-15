@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/speech
+END
+speech_input_extension_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/142399/trunk/src/chrome/browser/speech/speech_input_extension_apitest.cc
+END
+speech_input_extension_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/133870/trunk/src/chrome/browser/speech/speech_input_extension_api.cc
+END
+speech_input_extension_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/144435/trunk/src/chrome/browser/speech/speech_input_extension_manager.cc
+END
+speech_input_extension_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/133870/trunk/src/chrome/browser/speech/speech_input_extension_api.h
+END
+speech_input_extension_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/142399/trunk/src/chrome/browser/speech/speech_input_extension_manager.h
+END
+speech_recognition_tray_icon_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/143605/trunk/src/chrome/browser/speech/speech_recognition_tray_icon_controller.cc
+END
+speech_recognition_bubble.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143605/trunk/src/chrome/browser/speech/speech_recognition_bubble.cc
+END
+speech_recognition_tray_icon_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/140628/trunk/src/chrome/browser/speech/speech_recognition_tray_icon_controller.h
+END
+speech_recognition_bubble.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/140628/trunk/src/chrome/browser/speech/speech_recognition_bubble.h
+END
+speech_recognition_bubble_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/speech/speech_recognition_bubble_controller_unittest.cc
+END
+speech_recognition_bubble_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/133870/trunk/src/chrome/browser/speech/speech_recognition_bubble_controller.cc
+END
+speech_recognition_bubble_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/speech/speech_recognition_bubble_browsertest.cc
+END
+chrome_speech_recognition_preferences.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/142399/trunk/src/chrome/browser/speech/chrome_speech_recognition_preferences.cc
+END
+speech_recognition_bubble_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/136002/trunk/src/chrome/browser/speech/speech_recognition_bubble_controller.h
+END
+chrome_speech_recognition_preferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/142399/trunk/src/chrome/browser/speech/chrome_speech_recognition_preferences.h
+END
+chrome_speech_recognition_manager_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/142399/trunk/src/chrome/browser/speech/chrome_speech_recognition_manager_delegate.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/128214/trunk/src/chrome/browser/speech/OWNERS
+END
+chrome_speech_recognition_manager_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/142399/trunk/src/chrome/browser/speech/chrome_speech_recognition_manager_delegate.h
+END

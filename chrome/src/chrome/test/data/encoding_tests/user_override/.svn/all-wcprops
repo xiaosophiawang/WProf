@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/53026/trunk/src/chrome/test/data/encoding_tests/user_override
+END
+gb18030_with_iso88591_meta.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/45274/trunk/src/chrome/test/data/encoding_tests/user_override/gb18030_with_iso88591_meta.html
+END
+expected_gb18030_saved_from_iso88591_meta.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/chrome/!svn/ver/53026/trunk/src/chrome/test/data/encoding_tests/user_override/expected_gb18030_saved_from_iso88591_meta.html
+END

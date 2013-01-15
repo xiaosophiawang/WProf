@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/145391/trunk/src/ash/system/web_notification
+END
+web_notification_tray_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/142441/trunk/src/ash/system/web_notification/web_notification_tray_unittest.cc
+END
+web_notification_tray.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/145391/trunk/src/ash/system/web_notification/web_notification_tray.cc
+END
+web_notification_tray.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/143952/trunk/src/ash/system/web_notification/web_notification_tray.h
+END

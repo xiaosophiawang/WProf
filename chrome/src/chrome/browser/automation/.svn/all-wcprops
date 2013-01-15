@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/automation
+END
+testing_automation_provider_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/142431/trunk/src/chrome/browser/automation/testing_automation_provider_mac.mm
+END
+automation_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/143174/trunk/src/chrome/browser/automation/automation_provider.h
+END
+testing_automation_provider_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/137593/trunk/src/chrome/browser/automation/testing_automation_provider_gtk.cc
+END
+automation_provider_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/77854/trunk/src/chrome/browser/automation/automation_provider_mac.mm
+END
+automation_browser_tracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/142474/trunk/src/chrome/browser/automation/automation_browser_tracker.cc
+END
+automation_provider_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/141071/trunk/src/chrome/browser/automation/automation_provider_gtk.cc
+END
+testing_automation_provider_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/137593/trunk/src/chrome/browser/automation/testing_automation_provider_aura.cc
+END
+automation_resource_tracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/142474/trunk/src/chrome/browser/automation/automation_resource_tracker.cc
+END
+automation_resource_message_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/142474/trunk/src/chrome/browser/automation/automation_resource_message_filter.h
+END
+automation_tab_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/141127/trunk/src/chrome/browser/automation/automation_tab_helper_unittest.cc
+END
+url_request_automation_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/116748/trunk/src/chrome/browser/automation/url_request_automation_job.h
+END
+automation_event_observers_chromeos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/137466/trunk/src/chrome/browser/automation/automation_event_observers_chromeos.cc
+END
+automation_event_observers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/137466/trunk/src/chrome/browser/automation/automation_event_observers.cc
+END
+automation_event_observers.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/139172/trunk/src/chrome/browser/automation/automation_event_observers.h
+END
+automation_provider_list_generic.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/40991/trunk/src/chrome/browser/automation/automation_provider_list_generic.cc
+END
+automation_window_tracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/142474/trunk/src/chrome/browser/automation/automation_window_tracker.cc
+END
+automation_provider_json.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/138074/trunk/src/chrome/browser/automation/automation_provider_json.cc
+END
+automation_provider_observers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/automation/automation_provider_observers.cc
+END
+automation_provider_json.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/138074/trunk/src/chrome/browser/automation/automation_provider_json.h
+END
+automation_provider_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/120930/trunk/src/chrome/browser/automation/automation_provider_list.cc
+END
+testing_automation_provider_chromeos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/141247/trunk/src/chrome/browser/automation/testing_automation_provider_chromeos.cc
+END
+automation_provider_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/101582/trunk/src/chrome/browser/automation/automation_provider_list.h
+END
+testing_automation_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/automation/testing_automation_provider.cc
+END
+automation_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/140254/trunk/src/chrome/browser/automation/automation_provider_unittest.cc
+END
+testing_automation_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/145212/trunk/src/chrome/browser/automation/testing_automation_provider.h
+END
+automation_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/automation/automation_provider.cc
+END
+automation_misc_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/automation/automation_misc_browsertest.cc
+END
+automation_resource_message_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/140588/trunk/src/chrome/browser/automation/automation_resource_message_filter.cc
+END
+automation_browser_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/142474/trunk/src/chrome/browser/automation/automation_browser_tracker.h
+END
+chrome_frame_automation_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/124942/trunk/src/chrome/browser/automation/chrome_frame_automation_provider.cc
+END
+automation_provider_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/99993/trunk/src/chrome/browser/automation/automation_provider_aura.cc
+END
+chrome_frame_automation_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/142474/trunk/src/chrome/browser/automation/chrome_frame_automation_provider.h
+END
+automation_resource_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/142474/trunk/src/chrome/browser/automation/automation_resource_tracker.h
+END
+testing_automation_provider_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/137365/trunk/src/chrome/browser/automation/testing_automation_provider_views.cc
+END
+testing_automation_provider_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/141071/trunk/src/chrome/browser/automation/testing_automation_provider_win.cc
+END
+url_request_automation_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/144948/trunk/src/chrome/browser/automation/url_request_automation_job.cc
+END
+automation_tab_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/134290/trunk/src/chrome/browser/automation/automation_tab_helper.cc
+END
+automation_tab_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/134290/trunk/src/chrome/browser/automation/automation_tab_helper.h
+END
+automation_provider_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144824/trunk/src/chrome/browser/automation/automation_provider_win.cc
+END
+automation_tab_helper_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/automation/automation_tab_helper_browsertest.cc
+END
+automation_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/automation/automation_util.cc
+END
+automation_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/141127/trunk/src/chrome/browser/automation/automation_util.h
+END
+automation_tab_tracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142474/trunk/src/chrome/browser/automation/automation_tab_tracker.cc
+END
+automation_provider_observers_chromeos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/141716/trunk/src/chrome/browser/automation/automation_provider_observers_chromeos.cc
+END
+automation_tab_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/142474/trunk/src/chrome/browser/automation/automation_tab_tracker.h
+END
+automation_window_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/142474/trunk/src/chrome/browser/automation/automation_window_tracker.h
+END
+automation_event_queue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/137466/trunk/src/chrome/browser/automation/automation_event_queue.cc
+END
+automation_provider_observers.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/143174/trunk/src/chrome/browser/automation/automation_provider_observers.h
+END
+automation_event_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/125069/trunk/src/chrome/browser/automation/automation_event_queue.h
+END
+mock_tab_event_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/80848/trunk/src/chrome/browser/automation/mock_tab_event_observer.cc
+END
+automation_provider_list_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/26269/trunk/src/chrome/browser/automation/automation_provider_list_mac.mm
+END
+mock_tab_event_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/115664/trunk/src/chrome/browser/automation/mock_tab_event_observer.h
+END

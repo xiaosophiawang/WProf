@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/144856/trunk/src/media/audio
+END
+async_socket_io_handler_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/141688/trunk/src/media/audio/async_socket_io_handler_posix.cc
+END
+simple_sources_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/133726/trunk/src/media/audio/simple_sources_unittest.cc
+END
+simple_sources.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/133726/trunk/src/media/audio/simple_sources.cc
+END
+cross_process_notification.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/129405/trunk/src/media/audio/cross_process_notification.cc
+END
+cross_process_notification.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/129405/trunk/src/media/audio/cross_process_notification.h
+END
+audio_low_latency_input_output_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/133726/trunk/src/media/audio/audio_low_latency_input_output_unittest.cc
+END
+audio_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/142488/trunk/src/media/audio/audio_util.h
+END
+audio_input_volume_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/130288/trunk/src/media/audio/audio_input_volume_unittest.cc
+END
+audio_output_dispatcher_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/133010/trunk/src/media/audio/audio_output_dispatcher_impl.cc
+END
+test_audio_input_controller_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/137966/trunk/src/media/audio/test_audio_input_controller_factory.cc
+END
+cross_process_notification_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/129405/trunk/src/media/audio/cross_process_notification_win.cc
+END
+async_socket_io_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/140997/trunk/src/media/audio/async_socket_io_handler.h
+END
+test_audio_input_controller_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/139227/trunk/src/media/audio/test_audio_input_controller_factory.h
+END
+audio_input_stream_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/130288/trunk/src/media/audio/audio_input_stream_impl.cc
+END
+audio_buffers_state.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/130288/trunk/src/media/audio/audio_buffers_state.cc
+END
+audio_input_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/130288/trunk/src/media/audio/audio_input_unittest.cc
+END
+audio_buffers_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/130288/trunk/src/media/audio/audio_buffers_state.h
+END
+null_audio_sink.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/144856/trunk/src/media/audio/null_audio_sink.cc
+END
+audio_output_proxy_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/140405/trunk/src/media/audio/audio_output_proxy_unittest.cc
+END
+null_audio_sink.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/140123/trunk/src/media/audio/null_audio_sink.h
+END
+audio_device_name.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/107842/trunk/src/media/audio/audio_device_name.h
+END
+audio_input_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/129735/trunk/src/media/audio/audio_input_controller_unittest.cc
+END
+audio_output_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/133010/trunk/src/media/audio/audio_output_proxy.cc
+END
+fake_audio_output_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/130288/trunk/src/media/audio/fake_audio_output_stream.h
+END
+audio_output_mixer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/142886/trunk/src/media/audio/audio_output_mixer.cc
+END
+async_socket_io_handler_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/140994/trunk/src/media/audio/async_socket_io_handler_win.cc
+END
+audio_output_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144086/trunk/src/media/audio/audio_output_controller.h
+END
+audio_parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/130288/trunk/src/media/audio/audio_parameters.h
+END
+audio_output_mixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/134675/trunk/src/media/audio/audio_output_mixer.h
+END
+audio_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/130288/trunk/src/media/audio/audio_manager.cc
+END
+cross_process_notification_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/131711/trunk/src/media/audio/cross_process_notification_unittest.cc
+END
+audio_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/130288/trunk/src/media/audio/audio_manager.h
+END
+audio_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/127709/trunk/src/media/audio/audio_util_unittest.cc
+END
+audio_input_device_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/130288/trunk/src/media/audio/audio_input_device_unittest.cc
+END
+simple_sources.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/133726/trunk/src/media/audio/simple_sources.h
+END
+audio_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/142488/trunk/src/media/audio/audio_util.cc
+END
+async_socket_io_handler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/140994/trunk/src/media/audio/async_socket_io_handler_unittest.cc
+END
+audio_output_dispatcher_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/133010/trunk/src/media/audio/audio_output_dispatcher_impl.h
+END
+audio_input_stream_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/130288/trunk/src/media/audio/audio_input_stream_impl.h
+END
+cross_process_notification_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/129405/trunk/src/media/audio/cross_process_notification_posix.cc
+END
+sample_rates.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/131751/trunk/src/media/audio/sample_rates.cc
+END
+audio_device_name.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/107842/trunk/src/media/audio/audio_device_name.cc
+END
+fake_audio_input_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/130288/trunk/src/media/audio/fake_audio_input_stream.cc
+END
+sample_rates.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/131751/trunk/src/media/audio/sample_rates.h
+END
+fake_audio_output_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/133726/trunk/src/media/audio/fake_audio_output_stream.cc
+END
+audio_output_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/142488/trunk/src/media/audio/audio_output_controller_unittest.cc
+END
+audio_parameters_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/130288/trunk/src/media/audio/audio_parameters_unittest.cc
+END
+audio_input_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/132583/trunk/src/media/audio/audio_input_controller.cc
+END
+fake_audio_input_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/130288/trunk/src/media/audio/fake_audio_input_stream.h
+END
+audio_output_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/133010/trunk/src/media/audio/audio_output_proxy.h
+END
+audio_output_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/142235/trunk/src/media/audio/audio_output_controller.cc
+END
+audio_parameters.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/130288/trunk/src/media/audio/audio_parameters.cc
+END
+audio_manager_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/140071/trunk/src/media/audio/audio_manager_base.cc
+END
+audio_input_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144086/trunk/src/media/audio/audio_input_controller.h
+END
+audio_manager_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/133010/trunk/src/media/audio/audio_manager_base.h
+END
+audio_output_dispatcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/133010/trunk/src/media/audio/audio_output_dispatcher.cc
+END
+audio_output_dispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/137966/trunk/src/media/audio/audio_output_dispatcher.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/118776/trunk/src/media/audio/OWNERS
+END
+audio_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/144086/trunk/src/media/audio/audio_io.h
+END

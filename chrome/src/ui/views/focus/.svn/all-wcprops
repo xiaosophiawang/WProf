@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/144824/trunk/src/ui/views/focus
+END
+external_focus_tracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/112333/trunk/src/ui/views/focus/external_focus_tracker.cc
+END
+external_focus_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/111367/trunk/src/ui/views/focus/external_focus_tracker.h
+END
+accelerator_handler_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/131412/trunk/src/ui/views/focus/accelerator_handler_win.cc
+END
+view_storage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/110787/trunk/src/ui/views/focus/view_storage.cc
+END
+focus_manager_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/137629/trunk/src/ui/views/focus/focus_manager_factory.cc
+END
+view_storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/112333/trunk/src/ui/views/focus/view_storage.h
+END
+focus_traversal_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/129071/trunk/src/ui/views/focus/focus_traversal_unittest.cc
+END
+focus_manager_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/112469/trunk/src/ui/views/focus/focus_manager_factory.h
+END
+focus_search.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/115672/trunk/src/ui/views/focus/focus_search.cc
+END
+focus_manager_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/137629/trunk/src/ui/views/focus/focus_manager_delegate.h
+END
+focus_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/115672/trunk/src/ui/views/focus/focus_search.h
+END
+focus_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/142858/trunk/src/ui/views/focus/focus_manager_unittest.cc
+END
+focus_manager_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/142858/trunk/src/ui/views/focus/focus_manager_test.cc
+END
+focus_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/141189/trunk/src/ui/views/focus/focus_manager.cc
+END
+focus_manager_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/142858/trunk/src/ui/views/focus/focus_manager_test.h
+END
+focus_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/141189/trunk/src/ui/views/focus/focus_manager.h
+END
+widget_focus_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/113936/trunk/src/ui/views/focus/widget_focus_manager.cc
+END
+widget_focus_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/112469/trunk/src/ui/views/focus/widget_focus_manager.h
+END
+accelerator_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/131412/trunk/src/ui/views/focus/accelerator_handler.h
+END
+focus_manager_unittest_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/144824/trunk/src/ui/views/focus/focus_manager_unittest_win.cc
+END
+accelerator_handler_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/131412/trunk/src/ui/views/focus/accelerator_handler_aura.cc
+END

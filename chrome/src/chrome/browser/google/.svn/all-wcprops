@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/145158/trunk/src/chrome/browser/google
+END
+google_update_settings_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/119189/trunk/src/chrome/browser/google/google_update_settings_unittest.cc
+END
+google_search_counter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/145023/trunk/src/chrome/browser/google/google_search_counter_unittest.cc
+END
+google_url_tracker_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/135959/trunk/src/chrome/browser/google/google_url_tracker_factory.cc
+END
+google_search_counter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/145023/trunk/src/chrome/browser/google/google_search_counter.cc
+END
+google_url_tracker_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/135959/trunk/src/chrome/browser/google/google_url_tracker_factory.h
+END
+google_search_counter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/128035/trunk/src/chrome/browser/google/google_search_counter.h
+END
+google_url_tracker_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144201/trunk/src/chrome/browser/google/google_url_tracker_unittest.cc
+END
+google_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/143638/trunk/src/chrome/browser/google/google_util_unittest.cc
+END
+google_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/143638/trunk/src/chrome/browser/google/google_util.cc
+END
+google_url_tracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/145158/trunk/src/chrome/browser/google/google_url_tracker.cc
+END
+google_url_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/144201/trunk/src/chrome/browser/google/google_url_tracker.h
+END
+google_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/143638/trunk/src/chrome/browser/google/google_util.h
+END
+google_update.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/141205/trunk/src/chrome/browser/google/google_update.cc
+END
+google_update_settings_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/110330/trunk/src/chrome/browser/google/google_update_settings_posix.cc
+END
+google_update.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/121396/trunk/src/chrome/browser/google/google_update.h
+END
+google_search_metrics.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/124587/trunk/src/chrome/browser/google/google_search_metrics.cc
+END
+google_search_metrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/144764/trunk/src/chrome/browser/google/google_search_metrics.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/136969/trunk/src/chrome/browser/google/OWNERS
+END

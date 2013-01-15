@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/143971/trunk/src/chrome/browser/chromeos/options
+END
+take_photo_dialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/143971/trunk/src/chrome/browser/chromeos/options/take_photo_dialog.cc
+END
+wifi_config_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/138072/trunk/src/chrome/browser/chromeos/options/wifi_config_view.cc
+END
+take_photo_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/139802/trunk/src/chrome/browser/chromeos/options/take_photo_dialog.h
+END
+wifi_config_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/137892/trunk/src/chrome/browser/chromeos/options/wifi_config_view.h
+END
+passphrase_textfield.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/125357/trunk/src/chrome/browser/chromeos/options/passphrase_textfield.cc
+END
+vpn_config_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/137473/trunk/src/chrome/browser/chromeos/options/vpn_config_view.cc
+END
+passphrase_textfield.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/122371/trunk/src/chrome/browser/chromeos/options/passphrase_textfield.h
+END
+vpn_config_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/137473/trunk/src/chrome/browser/chromeos/options/vpn_config_view.h
+END
+wimax_config_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/139326/trunk/src/chrome/browser/chromeos/options/wimax_config_view.cc
+END
+wimax_config_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/139172/trunk/src/chrome/browser/chromeos/options/wimax_config_view.h
+END
+network_config_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/143605/trunk/src/chrome/browser/chromeos/options/network_config_view.cc
+END
+network_config_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/138072/trunk/src/chrome/browser/chromeos/options/network_config_view.h
+END

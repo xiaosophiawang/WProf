@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/145181/trunk/src/chrome/test/pyautolib/chromeos
+END
+power_strip.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/81661/trunk/src/chrome/test/pyautolib/chromeos/power_strip.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/80704/trunk/src/chrome/test/pyautolib/chromeos/__init__.py
+END
+chromeos_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/140279/trunk/src/chrome/test/pyautolib/chromeos/chromeos_utils.py
+END
+file_browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/111658/trunk/src/chrome/test/pyautolib/chromeos/file_browser.py
+END
+enable_testing.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/111658/trunk/src/chrome/test/pyautolib/chromeos/enable_testing.py
+END
+suid_actions.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/145181/trunk/src/chrome/test/pyautolib/chromeos/suid_actions.py
+END

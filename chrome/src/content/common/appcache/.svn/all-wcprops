@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/143920/trunk/src/content/common/appcache
+END
+appcache_backend_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/78934/trunk/src/content/common/appcache/appcache_backend_proxy.cc
+END
+appcache_dispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/143920/trunk/src/content/common/appcache/appcache_dispatcher.h
+END
+appcache_backend_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/143920/trunk/src/content/common/appcache/appcache_backend_proxy.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/89041/trunk/src/content/common/appcache/OWNERS
+END
+appcache_dispatcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/77990/trunk/src/content/common/appcache/appcache_dispatcher.cc
+END

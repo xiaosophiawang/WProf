@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/chrome/!svn/ver/136333/trunk/src/sdch
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/79888/trunk/src/sdch/README.chromium
+END
+sdch.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/chrome/!svn/ver/130552/trunk/src/sdch/sdch.gyp
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/126283/trunk/src/sdch/OWNERS
+END

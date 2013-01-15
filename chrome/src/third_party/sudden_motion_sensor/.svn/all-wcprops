@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141965/trunk/src/third_party/sudden_motion_sensor
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/129588/trunk/src/third_party/sudden_motion_sensor/README.chromium
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/129588/trunk/src/third_party/sudden_motion_sensor/LICENSE
+END
+sudden_motion_sensor_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/141965/trunk/src/third_party/sudden_motion_sensor/sudden_motion_sensor_mac.cc
+END
+sudden_motion_sensor_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/129588/trunk/src/third_party/sudden_motion_sensor/sudden_motion_sensor_mac.h
+END
+sudden_motion_sensor.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/129588/trunk/src/third_party/sudden_motion_sensor/sudden_motion_sensor.gyp
+END

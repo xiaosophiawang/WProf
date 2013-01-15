@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/144753/trunk/src/ui/aura/shared
+END
+root_window_capture_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/141131/trunk/src/ui/aura/shared/root_window_capture_client.cc
+END
+compound_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/140714/trunk/src/ui/aura/shared/compound_event_filter.h
+END
+root_window_capture_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/141131/trunk/src/ui/aura/shared/root_window_capture_client.h
+END
+input_method_event_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/140714/trunk/src/ui/aura/shared/input_method_event_filter_unittest.cc
+END
+input_method_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/140236/trunk/src/ui/aura/shared/input_method_event_filter.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/137175/trunk/src/ui/aura/shared/DEPS
+END
+input_method_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/140236/trunk/src/ui/aura/shared/input_method_event_filter.h
+END
+compound_event_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141131/trunk/src/ui/aura/shared/compound_event_filter_unittest.cc
+END
+compound_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144753/trunk/src/ui/aura/shared/compound_event_filter.cc
+END

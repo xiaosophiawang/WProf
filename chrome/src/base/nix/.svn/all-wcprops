@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/chrome/!svn/ver/142014/trunk/src/base/nix
+END
+xdg_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/62848/trunk/src/base/nix/xdg_util_unittest.cc
+END
+xdg_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/142014/trunk/src/base/nix/xdg_util.cc
+END
+xdg_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/142014/trunk/src/base/nix/xdg_util.h
+END
+mime_util_xdg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/130784/trunk/src/base/nix/mime_util_xdg.cc
+END
+mime_util_xdg.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/130784/trunk/src/base/nix/mime_util_xdg.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/login
+END
+login_prompt.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/138254/trunk/src/chrome/browser/ui/login/login_prompt.h
+END
+login_prompt_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/login/login_prompt_browsertest.cc
+END
+login_prompt_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/100676/trunk/src/chrome/browser/ui/login/login_prompt_unittest.cc
+END
+login_prompt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/141513/trunk/src/chrome/browser/ui/login/login_prompt.cc
+END
+login_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/108016/trunk/src/chrome/browser/ui/login/login_model.h
+END

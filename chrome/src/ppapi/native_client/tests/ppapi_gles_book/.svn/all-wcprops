@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/135074/trunk/src/ppapi/native_client/tests/ppapi_gles_book
+END
+ppapi_gles_book.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/100755/trunk/src/ppapi/native_client/tests/ppapi_gles_book/ppapi_gles_book.html
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/135074/trunk/src/ppapi/native_client/tests/ppapi_gles_book/nacl.scons
+END
+ppapi_gles_book_simple_texture_cubemap.nmf
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/chrome/!svn/ver/133487/trunk/src/ppapi/native_client/tests/ppapi_gles_book/ppapi_gles_book_simple_texture_cubemap.nmf
+END
+ppapi_gles_book_mip_map_2d.nmf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/133487/trunk/src/ppapi/native_client/tests/ppapi_gles_book/ppapi_gles_book_mip_map_2d.nmf
+END
+ppapi_gles_book_hello_triangle.nmf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/133487/trunk/src/ppapi/native_client/tests/ppapi_gles_book/ppapi_gles_book_hello_triangle.nmf
+END
+ppapi_gles_book_texture_wrap.nmf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/133487/trunk/src/ppapi/native_client/tests/ppapi_gles_book/ppapi_gles_book_texture_wrap.nmf
+END
+ppapi_gles_book_simple_vertex_shader.nmf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/133487/trunk/src/ppapi/native_client/tests/ppapi_gles_book/ppapi_gles_book_simple_vertex_shader.nmf
+END
+ppapi_gles_book_simple_texture_2d.nmf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/133487/trunk/src/ppapi/native_client/tests/ppapi_gles_book/ppapi_gles_book_simple_texture_2d.nmf
+END
+ppapi_gles_book_stencil_test.nmf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/133487/trunk/src/ppapi/native_client/tests/ppapi_gles_book/ppapi_gles_book_stencil_test.nmf
+END

@@ -1,0 +1,49 @@
+10
+
+dir
+145398
+https://src.chromium.org/chrome/trunk/src/chrome/test/data/extensions/browsertest
+https://src.chromium.org/chrome
+
+
+
+2012-06-28T19:51:21.580033Z
+144782
+estade@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+crash_44415
+dir
+
+crash_25562
+dir
+
+url_rewrite
+dir
+
+title_localized
+dir
+
+title_localized_pa
+dir
+
+last_error
+dir
+
+scopes
+dir
+

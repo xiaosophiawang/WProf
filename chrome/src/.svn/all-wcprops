@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/chrome/!svn/ver/145398/trunk/src
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/chrome/!svn/ver/144841/trunk/src/PRESUBMIT.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/chrome/!svn/ver/125933/trunk/src/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/chrome/!svn/ver/145242/trunk/src/AUTHORS
+END
+WATCHLISTS
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/chrome/!svn/ver/144701/trunk/src/WATCHLISTS
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/chrome/!svn/ver/145257/trunk/src/.gitignore
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/chrome/!svn/ver/143925/trunk/src/Android.mk
+END
+codereview.settings
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/71606/trunk/src/codereview.settings
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/chrome/!svn/ver/145363/trunk/src/DEPS
+END
+.DEPS.git
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/chrome/!svn/ver/145365/trunk/src/.DEPS.git
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/chrome/!svn/ver/78513/trunk/src/OWNERS
+END

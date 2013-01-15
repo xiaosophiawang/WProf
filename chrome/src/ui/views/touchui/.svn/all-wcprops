@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/142631/trunk/src/ui/views/touchui
+END
+touch_selection_controller_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142631/trunk/src/ui/views/touchui/touch_selection_controller_impl.cc
+END
+touch_selection_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/112333/trunk/src/ui/views/touchui/touch_selection_controller.h
+END
+touch_selection_controller_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/112469/trunk/src/ui/views/touchui/touch_selection_controller_impl.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/110316/trunk/src/ui/views/touchui/OWNERS
+END
+touch_selection_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/123627/trunk/src/ui/views/touchui/touch_selection_controller.cc
+END
+touch_selection_controller_impl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/126287/trunk/src/ui/views/touchui/touch_selection_controller_impl_unittest.cc
+END

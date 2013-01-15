@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/142910/trunk/src/ui/base/win
+END
+ime_input.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/95730/trunk/src/ui/base/win/ime_input.h
+END
+scoped_set_map_mode.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/131113/trunk/src/ui/base/win/scoped_set_map_mode.h
+END
+hwnd_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/134848/trunk/src/ui/base/win/hwnd_util.cc
+END
+hwnd_subclass_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/142465/trunk/src/ui/base/win/hwnd_subclass_unittest.cc
+END
+hwnd_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/134848/trunk/src/ui/base/win/hwnd_util.h
+END
+hwnd_subclass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/142465/trunk/src/ui/base/win/hwnd_subclass.cc
+END
+hwnd_subclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/142465/trunk/src/ui/base/win/hwnd_subclass.h
+END
+shell.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/142910/trunk/src/ui/base/win/shell.cc
+END
+foreground_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/125029/trunk/src/ui/base/win/foreground_helper.cc
+END
+message_box_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/126144/trunk/src/ui/base/win/message_box_win.cc
+END
+mouse_wheel_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/98479/trunk/src/ui/base/win/mouse_wheel_util.cc
+END
+shell.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/106790/trunk/src/ui/base/win/shell.h
+END
+foreground_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/125029/trunk/src/ui/base/win/foreground_helper.h
+END
+message_box_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/126144/trunk/src/ui/base/win/message_box_win.h
+END
+mouse_wheel_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/98479/trunk/src/ui/base/win/mouse_wheel_util.h
+END
+dpi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/132035/trunk/src/ui/base/win/dpi.cc
+END
+dpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/132035/trunk/src/ui/base/win/dpi.h
+END
+scoped_ole_initializer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/126658/trunk/src/ui/base/win/scoped_ole_initializer.cc
+END
+events_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/140239/trunk/src/ui/base/win/events_win.cc
+END
+scoped_ole_initializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/126658/trunk/src/ui/base/win/scoped_ole_initializer.h
+END
+accessibility_misc_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/138243/trunk/src/ui/base/win/accessibility_misc_utils.cc
+END
+singleton_hwnd.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/130448/trunk/src/ui/base/win/singleton_hwnd.cc
+END
+extra_sdk_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/139803/trunk/src/ui/base/win/extra_sdk_defines.h
+END
+accessibility_misc_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/138243/trunk/src/ui/base/win/accessibility_misc_utils.h
+END
+singleton_hwnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/130448/trunk/src/ui/base/win/singleton_hwnd.h
+END
+atl_module.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/109953/trunk/src/ui/base/win/atl_module.h
+END
+window_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/136116/trunk/src/ui/base/win/window_impl.cc
+END
+ime_input.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/123447/trunk/src/ui/base/win/ime_input.cc
+END
+window_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/131673/trunk/src/ui/base/win/window_impl.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/145395/trunk/src/chrome/browser/extensions/api/bluetooth
+END
+bluetooth_apitest_chromeos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/145395/trunk/src/chrome/browser/extensions/api/bluetooth/bluetooth_apitest_chromeos.cc
+END
+bluetooth_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/143983/trunk/src/chrome/browser/extensions/api/bluetooth/bluetooth_api.cc
+END
+bluetooth_api_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/142666/trunk/src/chrome/browser/extensions/api/bluetooth/bluetooth_api_utils.cc
+END
+bluetooth_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/143983/trunk/src/chrome/browser/extensions/api/bluetooth/bluetooth_api.h
+END
+bluetooth_api_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/142666/trunk/src/chrome/browser/extensions/api/bluetooth/bluetooth_api_utils.h
+END

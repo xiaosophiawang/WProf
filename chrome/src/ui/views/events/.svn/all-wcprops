@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/143531/trunk/src/ui/views/events
+END
+event_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/137792/trunk/src/ui/views/events/event_win.cc
+END
+event_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/110787/trunk/src/ui/views/events/event_unittest.cc
+END
+event.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/141997/trunk/src/ui/views/events/event.cc
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/143531/trunk/src/ui/views/events/event.h
+END
+event_x.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/127852/trunk/src/ui/views/events/event_x.cc
+END
+event_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/141997/trunk/src/ui/views/events/event_aura.cc
+END

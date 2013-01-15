@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/144428/trunk/src/testing/android
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/135652/trunk/src/testing/android/README.chromium
+END
+native_test_apk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/134030/trunk/src/testing/android/native_test_apk.xml
+END
+native_test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/140046/trunk/src/testing/android/native_test.gyp
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/137352/trunk/src/testing/android/AndroidManifest.xml
+END
+generate_native_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144392/trunk/src/testing/android/generate_native_test.py
+END
+native_test_launcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/144428/trunk/src/testing/android/native_test_launcher.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/133053/trunk/src/testing/android/OWNERS
+END

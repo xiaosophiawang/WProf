@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/78316/trunk/src/third_party/jemalloc
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/78316/trunk/src/third_party/jemalloc/README.chromium
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/59447/trunk/src/third_party/jemalloc/LICENSE
+END

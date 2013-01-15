@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/138001/trunk/src/third_party/harfbuzz/src
+END
+harfbuzz-dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-dump.c
+END
+harfbuzz-gdef.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-gdef.c
+END
+harfbuzz-global.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-global.h
+END
+harfbuzz-khmer.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/src/harfbuzz-khmer.c
+END
+harfbuzz-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/src/harfbuzz-impl.h
+END
+harfbuzz.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/src/harfbuzz.h
+END
+harfbuzz-stream-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/src/harfbuzz-stream-private.h
+END
+harfbuzz-buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/src/harfbuzz-buffer.c
+END
+harfbuzz-dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/src/harfbuzz-dump.h
+END
+harfbuzz-gdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-gdef.h
+END
+harfbuzz-hebrew.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-hebrew.c
+END
+harfbuzz-hangul.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-hangul.c
+END
+harfbuzz-buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-buffer.h
+END
+harfbuzz-gdef-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-gdef-private.h
+END
+harfbuzz-buffer-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/src/harfbuzz-buffer-private.h
+END
+harfbuzz-tibetan.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/131694/trunk/src/third_party/harfbuzz/src/harfbuzz-tibetan.c
+END
+harfbuzz-indic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/114082/trunk/src/third_party/harfbuzz/src/harfbuzz-indic.cpp
+END
+harfbuzz-external.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-external.h
+END
+harfbuzz-shaper.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-shaper.h
+END
+harfbuzz-shaper-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-shaper-private.h
+END
+harfbuzz-gsub.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/src/harfbuzz-gsub.c
+END
+harfbuzz-open.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-open.c
+END
+harfbuzz-shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/29544/trunk/src/third_party/harfbuzz/src/harfbuzz-shape.h
+END
+harfbuzz-gsub.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-gsub.h
+END
+harfbuzz-open.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-open.h
+END
+harfbuzz-gpos.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-gpos.c
+END
+harfbuzz-gsub-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-gsub-private.h
+END
+harfbuzz-gpos.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-gpos.h
+END
+harfbuzz-open-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-open-private.h
+END
+harfbuzz-arabic.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/36418/trunk/src/third_party/harfbuzz/src/harfbuzz-arabic.c
+END
+harfbuzz-shaper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/138001/trunk/src/third_party/harfbuzz/src/harfbuzz-shaper.cpp
+END
+harfbuzz-gpos-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-gpos-private.h
+END
+harfbuzz-thai.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-thai.c
+END
+harfbuzz-dump-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/src/harfbuzz-dump-main.c
+END
+harfbuzz-shaper-all.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-shaper-all.cpp
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/src/.gitignore
+END
+harfbuzz-stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/32448/trunk/src/third_party/harfbuzz/src/harfbuzz-stream.c
+END
+harfbuzz-greek.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-greek.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/Makefile.am
+END
+harfbuzz-stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/95926/trunk/src/third_party/harfbuzz/src/harfbuzz-stream.h
+END
+harfbuzz-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/32448/trunk/src/third_party/harfbuzz/src/harfbuzz-impl.c
+END
+harfbuzz.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/13214/trunk/src/third_party/harfbuzz/src/harfbuzz.c
+END
+harfbuzz-myanmar.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/115859/trunk/src/third_party/harfbuzz/src/harfbuzz-myanmar.c
+END

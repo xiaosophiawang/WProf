@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/138243/trunk/src/ui/views/accessibility
+END
+native_view_accessibility_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/138243/trunk/src/ui/views/accessibility/native_view_accessibility_win.cc
+END
+native_view_accessibility_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/137375/trunk/src/ui/views/accessibility/native_view_accessibility_win.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/109900/trunk/src/ui/views/accessibility/DEPS
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/109894/trunk/src/ui/views/accessibility/OWNERS
+END

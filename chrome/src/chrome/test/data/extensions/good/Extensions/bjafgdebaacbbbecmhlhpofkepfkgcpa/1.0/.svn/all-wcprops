@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/117158/trunk/src/chrome/test/data/extensions/good/Extensions/bjafgdebaacbbbecmhlhpofkepfkgcpa/1.0
+END
+page.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/chrome/!svn/ver/20296/trunk/src/chrome/test/data/extensions/good/Extensions/bjafgdebaacbbbecmhlhpofkepfkgcpa/1.0/page.html
+END
+background.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/chrome/!svn/ver/117158/trunk/src/chrome/test/data/extensions/good/Extensions/bjafgdebaacbbbecmhlhpofkepfkgcpa/1.0/background.html
+END
+page.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/chrome/!svn/ver/113312/trunk/src/chrome/test/data/extensions/good/Extensions/bjafgdebaacbbbecmhlhpofkepfkgcpa/1.0/page.js
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/chrome/!svn/ver/113312/trunk/src/chrome/test/data/extensions/good/Extensions/bjafgdebaacbbbecmhlhpofkepfkgcpa/1.0/background.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/chrome/!svn/ver/117158/trunk/src/chrome/test/data/extensions/good/Extensions/bjafgdebaacbbbecmhlhpofkepfkgcpa/1.0/manifest.json
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/123190/trunk/src/chrome/test/data/translate
+END
+crazy_history.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/57065/trunk/src/chrome/test/data/translate/crazy_history.txt
+END
+notranslate_meta_tag.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/55070/trunk/src/chrome/test/data/translate/notranslate_meta_tag.html
+END

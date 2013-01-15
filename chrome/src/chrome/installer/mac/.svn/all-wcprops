@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/145370/trunk/src/chrome/installer/mac
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/49551/trunk/src/chrome/installer/mac/README.chromium
+END
+keystone_install_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/49551/trunk/src/chrome/installer/mac/keystone_install_test.sh
+END
+app_resource_rules.plist.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/48732/trunk/src/chrome/installer/mac/app_resource_rules.plist.in
+END
+dmgdiffer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/137501/trunk/src/chrome/installer/mac/dmgdiffer.sh
+END
+keystone_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/138813/trunk/src/chrome/installer/mac/keystone_install.sh
+END
+make_signers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/49552/trunk/src/chrome/installer/mac/make_signers.sh
+END
+pkg-dmg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/137501/trunk/src/chrome/installer/mac/pkg-dmg
+END
+dirdiffer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/86039/trunk/src/chrome/installer/mac/dirdiffer.sh
+END
+sign_versioned_dir.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/145370/trunk/src/chrome/installer/mac/sign_versioned_dir.sh.in
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/81628/trunk/src/chrome/installer/mac/OWNERS
+END
+dirpatcher.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/80671/trunk/src/chrome/installer/mac/dirpatcher.sh
+END
+sign_app.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/140817/trunk/src/chrome/installer/mac/sign_app.sh.in
+END

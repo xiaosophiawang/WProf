@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/143729/trunk/src/chrome/browser/external_protocol
+END
+external_protocol_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/132568/trunk/src/chrome/browser/external_protocol/external_protocol_observer.h
+END
+external_protocol_handler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/143729/trunk/src/chrome/browser/external_protocol/external_protocol_handler_unittest.cc
+END
+external_protocol_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/113377/trunk/src/chrome/browser/external_protocol/external_protocol_handler.cc
+END
+external_protocol_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/102449/trunk/src/chrome/browser/external_protocol/external_protocol_handler.h
+END
+external_protocol_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/116392/trunk/src/chrome/browser/external_protocol/external_protocol_observer.cc
+END

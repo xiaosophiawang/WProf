@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/111253/trunk/src/third_party/expat
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/78316/trunk/src/third_party/expat/README.chromium
+END
+expat.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/111253/trunk/src/third_party/expat/expat.gyp
+END

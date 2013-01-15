@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include
+END
+atlres.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlres.h
+END
+atldlgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atldlgs.h
+END
+atlframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlframe.h
+END
+atlsplit.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlsplit.h
+END
+atlmisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlmisc.h
+END
+atlctrlw.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlctrlw.h
+END
+atlprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlprint.h
+END
+atlctrlx.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlctrlx.h
+END
+atlresce.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlresce.h
+END
+atltheme.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atltheme.h
+END
+atlscrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlscrl.h
+END
+atlgdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlgdi.h
+END
+atlwince.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlwince.h
+END
+atluser.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atluser.h
+END
+atlddx.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlddx.h
+END
+atlfind.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlfind.h
+END
+atlapp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlapp.h
+END
+atlcrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlcrack.h
+END
+atlwinx.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlwinx.h
+END
+atlctrls.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/40995/trunk/src/third_party/wtl/include/atlctrls.h
+END

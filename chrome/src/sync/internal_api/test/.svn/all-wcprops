@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/145211/trunk/src/sync/internal_api/test
+END
+test_user_share.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/144820/trunk/src/sync/internal_api/test/test_user_share.cc
+END
+test_entry_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/145211/trunk/src/sync/internal_api/test/test_entry_factory.cc
+END

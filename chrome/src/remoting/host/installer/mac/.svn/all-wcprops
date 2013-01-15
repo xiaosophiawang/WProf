@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/144575/trunk/src/remoting/host/installer/mac
+END
+ChromotingHost.packproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/133999/trunk/src/remoting/host/installer/mac/ChromotingHost.packproj
+END
+ChromotingHostService.packproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/136393/trunk/src/remoting/host/installer/mac/ChromotingHostService.packproj
+END
+ChromotingHostUninstaller.packproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/133999/trunk/src/remoting/host/installer/mac/ChromotingHostUninstaller.packproj
+END
+ChromotingHost.pkgproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/141581/trunk/src/remoting/host/installer/mac/ChromotingHost.pkgproj
+END
+ChromotingHostService.pkgproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/139491/trunk/src/remoting/host/installer/mac/ChromotingHostService.pkgproj
+END
+ChromotingHostUninstaller.pkgproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/139491/trunk/src/remoting/host/installer/mac/ChromotingHostUninstaller.pkgproj
+END
+do_signing.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/144575/trunk/src/remoting/host/installer/mac/do_signing.sh
+END

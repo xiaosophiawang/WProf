@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/145156/trunk/src/ui/base/dialogs
+END
+select_file_policy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/145156/trunk/src/ui/base/dialogs/select_file_policy.cc
+END
+select_file_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/145156/trunk/src/ui/base/dialogs/select_file_policy.h
+END
+base_shell_dialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144261/trunk/src/ui/base/dialogs/base_shell_dialog.cc
+END
+base_shell_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/145156/trunk/src/ui/base/dialogs/base_shell_dialog.h
+END
+selected_file_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/144261/trunk/src/ui/base/dialogs/selected_file_info.cc
+END
+selected_file_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/144261/trunk/src/ui/base/dialogs/selected_file_info.h
+END

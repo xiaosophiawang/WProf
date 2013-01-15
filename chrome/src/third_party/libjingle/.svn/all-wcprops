@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/145246/trunk/src/third_party/libjingle
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/141908/trunk/src/third_party/libjingle/README.chromium
+END
+libjingle.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/145246/trunk/src/third_party/libjingle/libjingle.gyp
+END
+mods-since-v0_4_0.diff
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/47296/trunk/src/third_party/libjingle/mods-since-v0_4_0.diff
+END

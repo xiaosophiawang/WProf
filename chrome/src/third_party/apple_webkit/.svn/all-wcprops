@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/125700/trunk/src/third_party/apple_webkit
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/125700/trunk/src/third_party/apple_webkit/README.chromium
+END
+WebKitSystemInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/120690/trunk/src/third_party/apple_webkit/WebKitSystemInterface.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/108475/trunk/src/third_party/apple_webkit/LICENSE
+END
+libWebKitSystemInterfaceLeopard.a
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/125700/trunk/src/third_party/apple_webkit/libWebKitSystemInterfaceLeopard.a
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/bitmaps
+END
+01_vc_alpha.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/bitmaps/01_vc_alpha.png
+END
+00_vc_opaque.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/bitmaps/00_vc_opaque.png
+END
+bitmap_alpha.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/bitmaps/bitmap_alpha.png
+END
+bitmap_opaque.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/bitmaps/bitmap_opaque.png
+END
+01_pc_alpha.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/bitmaps/01_pc_alpha.png
+END
+00_pc_opaque.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/7756/trunk/src/skia/ext/data/vectorcanvastest/bitmaps/00_pc_opaque.png
+END

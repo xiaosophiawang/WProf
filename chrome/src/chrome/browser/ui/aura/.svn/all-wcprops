@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/145102/trunk/src/chrome/browser/ui/aura
+END
+chrome_browser_main_extra_parts_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/145102/trunk/src/chrome/browser/ui/aura/chrome_browser_main_extra_parts_aura.cc
+END
+chrome_browser_main_extra_parts_aura.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/144033/trunk/src/chrome/browser/ui/aura/chrome_browser_main_extra_parts_aura.h
+END

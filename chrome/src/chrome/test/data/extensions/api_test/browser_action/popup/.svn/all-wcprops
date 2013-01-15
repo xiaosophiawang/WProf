@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/116398/trunk/src/chrome/test/data/extensions/api_test/browser_action/popup
+END
+chromium.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/75434/trunk/src/chrome/test/data/extensions/api_test/browser_action/popup/chromium.png
+END
+popup.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/112269/trunk/src/chrome/test/data/extensions/api_test/browser_action/popup/popup.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/116398/trunk/src/chrome/test/data/extensions/api_test/browser_action/popup/manifest.json
+END
+popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/112269/trunk/src/chrome/test/data/extensions/api_test/browser_action/popup/popup.js
+END

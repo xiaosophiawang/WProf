@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/130436/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_file_io
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/130436/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_file_io/nacl.scons
+END
+ppapi_ppb_file_io.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/98158/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_file_io/ppapi_ppb_file_io.html
+END
+ppapi_ppb_file_io.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/99252/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_file_io/ppapi_ppb_file_io.cc
+END
+test_open.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/99252/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_file_io/test_open.cc
+END
+test_sequence_element.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/99252/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_file_io/test_sequence_element.cc
+END
+test_sequence_element.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/99252/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_file_io/test_sequence_element.h
+END
+test_query.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/99252/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_file_io/test_query.cc
+END
+ppapi_ppb_file_io.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/99252/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_file_io/ppapi_ppb_file_io.js
+END
+common.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/99252/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_file_io/common.cc
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/99252/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_file_io/common.h
+END
+test_read.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/99252/trunk/src/ppapi/native_client/tests/ppapi_browser/ppb_file_io/test_read.cc
+END

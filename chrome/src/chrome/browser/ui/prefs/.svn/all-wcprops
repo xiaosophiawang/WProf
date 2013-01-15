@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/144418/trunk/src/chrome/browser/ui/prefs
+END
+prefs_tab_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/144418/trunk/src/chrome/browser/ui/prefs/prefs_tab_helper.cc
+END
+prefs_tab_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/138228/trunk/src/chrome/browser/ui/prefs/prefs_tab_helper.h
+END
+prefs_tab_helper_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/138219/trunk/src/chrome/browser/ui/prefs/prefs_tab_helper_browsertest.cc
+END

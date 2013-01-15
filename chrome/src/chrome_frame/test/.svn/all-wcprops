@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/144824/trunk/src/chrome_frame/test
+END
+dll_redirector_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/100904/trunk/src/chrome_frame/test/dll_redirector_test.cc
+END
+test_with_web_server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/137387/trunk/src/chrome_frame/test/test_with_web_server.cc
+END
+test_with_web_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/132637/trunk/src/chrome_frame/test/test_with_web_server.h
+END
+chrome_tab_mocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/106287/trunk/src/chrome_frame/test/chrome_tab_mocks.h
+END
+chrome_frame_automation_mock.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/135145/trunk/src/chrome_frame/test/chrome_frame_automation_mock.h
+END
+urlmon_moniker_integration_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/131813/trunk/src/chrome_frame/test/urlmon_moniker_integration_test.cc
+END
+simulate_input.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/52137/trunk/src/chrome_frame/test/simulate_input.h
+END
+test_server_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/143595/trunk/src/chrome_frame/test/test_server_test.cc
+END
+chrome_frame_test_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/135145/trunk/src/chrome_frame/test/chrome_frame_test_utils.cc
+END
+test_scrubber.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/123973/trunk/src/chrome_frame/test/test_scrubber.cc
+END
+mock_ie_event_sink_actions.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/133395/trunk/src/chrome_frame/test/mock_ie_event_sink_actions.h
+END
+http_negotiate_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/129985/trunk/src/chrome_frame/test/http_negotiate_unittest.cc
+END
+policy_settings_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/137557/trunk/src/chrome_frame/test/policy_settings_unittest.cc
+END
+ie_configurator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/136327/trunk/src/chrome_frame/test/ie_configurator.cc
+END
+delete_chrome_history_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/135145/trunk/src/chrome_frame/test/delete_chrome_history_test.cc
+END
+ie_configurator.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/130270/trunk/src/chrome_frame/test/ie_configurator.h
+END
+poor_mans_trybot.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/134316/trunk/src/chrome_frame/test/poor_mans_trybot.bat
+END
+poor_mans_trybot_xcopy_filter.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/66824/trunk/src/chrome_frame/test/poor_mans_trybot_xcopy_filter.txt
+END
+proxy_factory_mock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/135145/trunk/src/chrome_frame/test/proxy_factory_mock.cc
+END
+ie_event_sink.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/128638/trunk/src/chrome_frame/test/ie_event_sink.cc
+END
+proxy_factory_mock.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/55565/trunk/src/chrome_frame/test/proxy_factory_mock.h
+END
+urlmon_moniker_tests.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/44038/trunk/src/chrome_frame/test/urlmon_moniker_tests.h
+END
+win_event_receiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/79524/trunk/src/chrome_frame/test/win_event_receiver.h
+END
+simple_resource_loader_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/98502/trunk/src/chrome_frame/test/simple_resource_loader_test.cc
+END
+header_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/120336/trunk/src/chrome_frame/test/header_test.cc
+END
+automation_client_mock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/135145/trunk/src/chrome_frame/test/automation_client_mock.cc
+END
+automation_client_mock.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/135145/trunk/src/chrome_frame/test/automation_client_mock.h
+END
+mock_ie_event_sink_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/131813/trunk/src/chrome_frame/test/mock_ie_event_sink_test.h
+END
+navigation_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/133395/trunk/src/chrome_frame/test/navigation_test.cc
+END
+util_unittests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/129985/trunk/src/chrome_frame/test/util_unittests.cc
+END
+urlmon_moniker_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/104592/trunk/src/chrome_frame/test/urlmon_moniker_unittest.cc
+END
+chrome_frame_automation_mock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/144824/trunk/src/chrome_frame/test/chrome_frame_automation_mock.cc
+END
+infobar_unittests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/131813/trunk/src/chrome_frame/test/infobar_unittests.cc
+END
+simulate_input.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/128638/trunk/src/chrome_frame/test/simulate_input.cc
+END
+chrome_frame_ui_test_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/128638/trunk/src/chrome_frame/test/chrome_frame_ui_test_utils.cc
+END
+exception_barrier_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/62246/trunk/src/chrome_frame/test/exception_barrier_unittest.cc
+END
+chrome_frame_ui_test_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/81303/trunk/src/chrome_frame/test/chrome_frame_ui_test_utils.h
+END
+test_server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/137387/trunk/src/chrome_frame/test/test_server.cc
+END
+ready_mode_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/131813/trunk/src/chrome_frame/test/ready_mode_unittest.cc
+END
+test_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/137387/trunk/src/chrome_frame/test/test_server.h
+END
+chrome_frame_test_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/144824/trunk/src/chrome_frame/test/chrome_frame_test_utils.h
+END
+test_scrubber.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/123973/trunk/src/chrome_frame/test/test_scrubber.h
+END
+url_request_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/131813/trunk/src/chrome_frame/test/url_request_test.cc
+END
+ui_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/134569/trunk/src/chrome_frame/test/ui_test.cc
+END
+run_all_unittests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/130270/trunk/src/chrome_frame/test/run_all_unittests.cc
+END
+com_message_event_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/81303/trunk/src/chrome_frame/test/com_message_event_unittest.cc
+END
+win_event_receiver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/128638/trunk/src/chrome_frame/test/win_event_receiver.cc
+END
+html_util_unittests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/129985/trunk/src/chrome_frame/test/html_util_unittests.cc
+END
+ie_event_sink.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/118694/trunk/src/chrome_frame/test/ie_event_sink.h
+END
+registry_watcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/87033/trunk/src/chrome_frame/test/registry_watcher_unittest.cc
+END
+external_sites_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/131813/trunk/src/chrome_frame/test/external_sites_test.cc
+END
+dll_redirector_loading_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/118743/trunk/src/chrome_frame/test/dll_redirector_loading_test.cc
+END
+mock_ie_event_sink_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/132637/trunk/src/chrome_frame/test/mock_ie_event_sink_test.cc
+END

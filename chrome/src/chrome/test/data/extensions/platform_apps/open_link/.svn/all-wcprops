@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142292/trunk/src/chrome/test/data/extensions/platform_apps/open_link
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/142292/trunk/src/chrome/test/data/extensions/platform_apps/open_link/main.js
+END
+link.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/142292/trunk/src/chrome/test/data/extensions/platform_apps/open_link/link.html
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/142292/trunk/src/chrome/test/data/extensions/platform_apps/open_link/main.html
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/142292/trunk/src/chrome/test/data/extensions/platform_apps/open_link/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/142292/trunk/src/chrome/test/data/extensions/platform_apps/open_link/manifest.json
+END

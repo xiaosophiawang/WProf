@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/145282/trunk/src/content/browser/renderer_host/media
+END
+media_stream_device_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/140738/trunk/src/content/browser/renderer_host/media/media_stream_device_settings.h
+END
+audio_input_device_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/130288/trunk/src/content/browser/renderer_host/media/audio_input_device_manager.h
+END
+video_capture_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/141500/trunk/src/content/browser/renderer_host/media/video_capture_controller_unittest.cc
+END
+video_capture_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/141500/trunk/src/content/browser/renderer_host/media/video_capture_controller.cc
+END
+media_stream_dispatcher_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/141142/trunk/src/content/browser/renderer_host/media/media_stream_dispatcher_host.cc
+END
+mock_media_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/91908/trunk/src/content/browser/renderer_host/media/mock_media_observer.cc
+END
+media_stream_dispatcher_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/139034/trunk/src/content/browser/renderer_host/media/media_stream_dispatcher_host.h
+END
+mock_media_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/135198/trunk/src/content/browser/renderer_host/media/mock_media_observer.h
+END
+media_stream_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/103394/trunk/src/content/browser/renderer_host/media/media_stream_provider.h
+END
+audio_input_sync_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/130288/trunk/src/content/browser/renderer_host/media/audio_input_sync_writer.h
+END
+video_capture_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/134415/trunk/src/content/browser/renderer_host/media/video_capture_manager_unittest.cc
+END
+media_stream_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/141142/trunk/src/content/browser/renderer_host/media/media_stream_manager.cc
+END
+video_capture_host_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/140241/trunk/src/content/browser/renderer_host/media/video_capture_host_unittest.cc
+END
+audio_renderer_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/143174/trunk/src/content/browser/renderer_host/media/audio_renderer_host.h
+END
+video_capture_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/141500/trunk/src/content/browser/renderer_host/media/video_capture_host.cc
+END
+media_stream_device_settings_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/145282/trunk/src/content/browser/renderer_host/media/media_stream_device_settings_unittest.cc
+END
+audio_input_device_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/130288/trunk/src/content/browser/renderer_host/media/audio_input_device_manager_unittest.cc
+END
+media_stream_requester.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/119139/trunk/src/content/browser/renderer_host/media/media_stream_requester.h
+END
+video_capture_controller_event_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/141500/trunk/src/content/browser/renderer_host/media/video_capture_controller_event_handler.h
+END
+media_stream_dispatcher_host_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/140524/trunk/src/content/browser/renderer_host/media/media_stream_dispatcher_host_unittest.cc
+END
+video_capture_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/141500/trunk/src/content/browser/renderer_host/media/video_capture_controller.h
+END
+audio_input_renderer_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/130360/trunk/src/content/browser/renderer_host/media/audio_input_renderer_host.cc
+END
+audio_input_renderer_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/143174/trunk/src/content/browser/renderer_host/media/audio_input_renderer_host.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/89505/trunk/src/content/browser/renderer_host/media/DEPS
+END
+audio_input_sync_writer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/130288/trunk/src/content/browser/renderer_host/media/audio_input_sync_writer.cc
+END
+media_stream_settings_requester.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/119139/trunk/src/content/browser/renderer_host/media/media_stream_settings_requester.h
+END
+audio_sync_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/132975/trunk/src/content/browser/renderer_host/media/audio_sync_reader.cc
+END
+audio_sync_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/132975/trunk/src/content/browser/renderer_host/media/audio_sync_reader.h
+END
+audio_renderer_host_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/140071/trunk/src/content/browser/renderer_host/media/audio_renderer_host_unittest.cc
+END
+video_capture_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/139559/trunk/src/content/browser/renderer_host/media/video_capture_manager.cc
+END
+audio_renderer_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/130288/trunk/src/content/browser/renderer_host/media/audio_renderer_host.cc
+END
+video_capture_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/139559/trunk/src/content/browser/renderer_host/media/video_capture_manager.h
+END
+media_stream_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/140738/trunk/src/content/browser/renderer_host/media/media_stream_manager.h
+END
+video_capture_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/143174/trunk/src/content/browser/renderer_host/media/video_capture_host.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/118776/trunk/src/content/browser/renderer_host/media/OWNERS
+END
+audio_input_device_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/130288/trunk/src/content/browser/renderer_host/media/audio_input_device_manager.cc
+END
+audio_input_device_manager_event_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/144086/trunk/src/content/browser/renderer_host/media/audio_input_device_manager_event_handler.h
+END
+media_stream_device_settings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/145282/trunk/src/content/browser/renderer_host/media/media_stream_device_settings.cc
+END
+video_capture_controller_event_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/108533/trunk/src/content/browser/renderer_host/media/video_capture_controller_event_handler.cc
+END

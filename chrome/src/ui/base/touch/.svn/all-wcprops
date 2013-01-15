@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/chrome/!svn/ver/143976/trunk/src/ui/base/touch
+END
+touch_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/142493/trunk/src/ui/base/touch/touch_factory.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/102815/trunk/src/ui/base/touch/OWNERS
+END
+touch_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/143976/trunk/src/ui/base/touch/touch_factory.cc
+END

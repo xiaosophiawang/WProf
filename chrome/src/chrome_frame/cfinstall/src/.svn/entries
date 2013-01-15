@@ -1,0 +1,40 @@
+10
+
+dir
+145398
+https://src.chromium.org/chrome/trunk/src/chrome_frame/cfinstall/src
+https://src.chromium.org/chrome
+
+
+
+2011-11-04T20:20:37.534934Z
+108699
+csilv@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+implementation
+dir
+
+common
+dir
+
+miniclosure
+dir
+
+stub
+dir
+

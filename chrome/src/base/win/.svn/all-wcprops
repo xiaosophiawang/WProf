@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/chrome/!svn/ver/144371/trunk/src/base/win
+END
+scoped_variant_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/113944/trunk/src/base/win/scoped_variant_unittest.cc
+END
+iat_patch_function.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/90505/trunk/src/base/win/iat_patch_function.cc
+END
+event_trace_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/95618/trunk/src/base/win/event_trace_controller.h
+END
+event_trace_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/95618/trunk/src/base/win/event_trace_provider.h
+END
+wrapped_window_proc_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/78475/trunk/src/base/win/wrapped_window_proc_unittest.cc
+END
+sampling_profiler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/118754/trunk/src/base/win/sampling_profiler.cc
+END
+scoped_process_information_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/130710/trunk/src/base/win/scoped_process_information_unittest.cc
+END
+scoped_com_initializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/133866/trunk/src/base/win/scoped_com_initializer.h
+END
+object_watcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/143468/trunk/src/base/win/object_watcher.cc
+END
+object_watcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/143468/trunk/src/base/win/object_watcher.h
+END
+enum_variant_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/112870/trunk/src/base/win/enum_variant_unittest.cc
+END
+iunknown_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/112870/trunk/src/base/win/iunknown_impl.cc
+END
+win_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/131163/trunk/src/base/win/win_util.h
+END
+scoped_hdc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/141087/trunk/src/base/win/scoped_hdc.h
+END
+scoped_variant.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/76343/trunk/src/base/win/scoped_variant.cc
+END
+scoped_comptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/79524/trunk/src/base/win/scoped_comptr.h
+END
+registry_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/106074/trunk/src/base/win/registry_unittest.cc
+END
+event_trace_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/65310/trunk/src/base/win/event_trace_provider_unittest.cc
+END
+event_trace_consumer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/138352/trunk/src/base/win/event_trace_consumer_unittest.cc
+END
+wrapped_window_proc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/136116/trunk/src/base/win/wrapped_window_proc.h
+END
+i18n.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/107434/trunk/src/base/win/i18n.cc
+END
+i18n.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/95618/trunk/src/base/win/i18n.h
+END
+scoped_process_information.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/130710/trunk/src/base/win/scoped_process_information.h
+END
+object_watcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/70360/trunk/src/base/win/object_watcher_unittest.cc
+END
+resource_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/98337/trunk/src/base/win/resource_util.h
+END
+metro.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/142859/trunk/src/base/win/metro.cc
+END
+scoped_handle.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/143467/trunk/src/base/win/scoped_handle.h
+END
+enum_variant.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/112870/trunk/src/base/win/enum_variant.h
+END
+windows_version.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/142539/trunk/src/base/win/windows_version.cc
+END
+scoped_comptr_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/79524/trunk/src/base/win/scoped_comptr_unittest.cc
+END
+windows_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/142539/trunk/src/base/win/windows_version.h
+END
+iat_patch_function.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/95618/trunk/src/base/win/iat_patch_function.h
+END
+scoped_select_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/103852/trunk/src/base/win/scoped_select_object.h
+END
+pe_image_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/142539/trunk/src/base/win/pe_image_unittest.cc
+END
+pe_image.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/67099/trunk/src/base/win/pe_image.cc
+END
+scoped_bstr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/76343/trunk/src/base/win/scoped_bstr.cc
+END
+scoped_bstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/95618/trunk/src/base/win/scoped_bstr.h
+END
+event_trace_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/126240/trunk/src/base/win/event_trace_provider.cc
+END
+registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/133703/trunk/src/base/win/registry.h
+END
+sampling_profiler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/133044/trunk/src/base/win/sampling_profiler_unittest.cc
+END
+wrapped_window_proc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/136116/trunk/src/base/win/wrapped_window_proc.cc
+END
+event_trace_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/123584/trunk/src/base/win/event_trace_consumer.h
+END
+i18n_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/66275/trunk/src/base/win/i18n_unittest.cc
+END
+scoped_process_information.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/139722/trunk/src/base/win/scoped_process_information.cc
+END
+dllmain.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/128701/trunk/src/base/win/dllmain.cc
+END
+resource_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/98337/trunk/src/base/win/resource_util.cc
+END
+scoped_handle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/141783/trunk/src/base/win/scoped_handle.cc
+END
+scoped_gdi_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/62843/trunk/src/base/win/scoped_gdi_object.h
+END
+enum_variant.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/112870/trunk/src/base/win/enum_variant.cc
+END
+metro.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/142859/trunk/src/base/win/metro.h
+END
+iunknown_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/137375/trunk/src/base/win/iunknown_impl.h
+END
+scoped_co_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/106687/trunk/src/base/win/scoped_co_mem.h
+END
+event_trace_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/136997/trunk/src/base/win/event_trace_controller_unittest.cc
+END
+event_trace_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/65310/trunk/src/base/win/event_trace_controller.cc
+END
+scoped_variant.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/95618/trunk/src/base/win/scoped_variant.h
+END
+scoped_bstr_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/62843/trunk/src/base/win/scoped_bstr_unittest.cc
+END
+scoped_hglobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/62843/trunk/src/base/win/scoped_hglobal.h
+END
+pe_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/144277/trunk/src/base/win/pe_image.h
+END
+registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/124881/trunk/src/base/win/registry.cc
+END
+sampling_profiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/113473/trunk/src/base/win/sampling_profiler.h
+END
+iunknown_impl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/112870/trunk/src/base/win/iunknown_impl_unittest.cc
+END
+win_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/70341/trunk/src/base/win/win_util_unittest.cc
+END
+win_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/144371/trunk/src/base/win/win_util.cc
+END

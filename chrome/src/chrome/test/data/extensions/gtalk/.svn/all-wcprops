@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/144743/trunk/src/chrome/test/data/extensions/gtalk
+END
+current_version
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/144223/trunk/src/chrome/test/data/extensions/gtalk/current_version
+END
+1.2012.606.2.crx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/144223/trunk/src/chrome/test/data/extensions/gtalk/1.2012.606.2.crx
+END
+rc_version
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/144743/trunk/src/chrome/test/data/extensions/gtalk/rc_version
+END
+1.2012.627.1.crx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/144743/trunk/src/chrome/test/data/extensions/gtalk/1.2012.627.1.crx
+END

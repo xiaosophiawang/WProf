@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/52725/trunk/src/third_party/libxml/linux
+END
+xml2-config
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/52725/trunk/src/third_party/libxml/linux/xml2-config
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/52725/trunk/src/third_party/libxml/linux/config.h
+END

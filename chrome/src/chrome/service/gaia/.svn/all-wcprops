@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/142926/trunk/src/chrome/service/gaia
+END
+service_gaia_authenticator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/142926/trunk/src/chrome/service/gaia/service_gaia_authenticator.cc
+END
+service_gaia_authenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/138384/trunk/src/chrome/service/gaia/service_gaia_authenticator.h
+END

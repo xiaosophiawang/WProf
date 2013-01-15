@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/127665/trunk/src/sandbox/src/sidestep
+END
+mini_disassembler.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/127665/trunk/src/sandbox/src/sidestep/mini_disassembler.h
+END
+mini_disassembler_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/11447/trunk/src/sandbox/src/sidestep/mini_disassembler_types.h
+END
+preamble_patcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/127665/trunk/src/sandbox/src/sidestep/preamble_patcher.h
+END
+ia32_opcode_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/127665/trunk/src/sandbox/src/sidestep/ia32_opcode_map.cpp
+END
+preamble_patcher_with_stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/127665/trunk/src/sandbox/src/sidestep/preamble_patcher_with_stub.cpp
+END
+ia32_modrm_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/127665/trunk/src/sandbox/src/sidestep/ia32_modrm_map.cpp
+END
+mini_disassembler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/127665/trunk/src/sandbox/src/sidestep/mini_disassembler.cpp
+END

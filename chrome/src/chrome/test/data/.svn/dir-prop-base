@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 86
+firefox2_searchplugins
+firefox3_searchplugins
+layout_tests
+osdd
+plugin
+pyauto_private
+
+END

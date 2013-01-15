@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145389/trunk/src/chrome/browser/ui/views/frame
+END
+browser_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/143699/trunk/src/chrome/browser/ui/views/frame/browser_frame.cc
+END
+browser_non_client_frame_view_factory_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/131900/trunk/src/chrome/browser/ui/views/frame/browser_non_client_frame_view_factory_aura.cc
+END
+browser_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/133038/trunk/src/chrome/browser/ui/views/frame/browser_frame.h
+END
+browser_non_client_frame_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/141663/trunk/src/chrome/browser/ui/views/frame/browser_non_client_frame_view.cc
+END
+browser_non_client_frame_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/130327/trunk/src/chrome/browser/ui/views/frame/browser_non_client_frame_view.h
+END
+browser_non_client_frame_view_factory_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/117240/trunk/src/chrome/browser/ui/views/frame/browser_non_client_frame_view_factory_win.cc
+END
+native_browser_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/127409/trunk/src/chrome/browser/ui/views/frame/native_browser_frame.h
+END
+app_non_client_frame_view_aura.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/135238/trunk/src/chrome/browser/ui/views/frame/app_non_client_frame_view_aura.h
+END
+app_panel_browser_frame_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/141518/trunk/src/chrome/browser/ui/views/frame/app_panel_browser_frame_view.cc
+END
+browser_frame_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/145206/trunk/src/chrome/browser/ui/views/frame/browser_frame_win.cc
+END
+browser_view_layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/135216/trunk/src/chrome/browser/ui/views/frame/browser_view_layout.h
+END
+browser_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/145389/trunk/src/chrome/browser/ui/views/frame/browser_view.cc
+END
+browser_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/145384/trunk/src/chrome/browser/ui/views/frame/browser_view.h
+END
+browser_non_client_frame_view_factory_x11.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/107474/trunk/src/chrome/browser/ui/views/frame/browser_non_client_frame_view_factory_x11.cc
+END
+browser_view_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/140197/trunk/src/chrome/browser/ui/views/frame/browser_view_browsertest.cc
+END
+browser_root_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/145310/trunk/src/chrome/browser/ui/views/frame/browser_root_view.cc
+END
+glass_browser_frame_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/138228/trunk/src/chrome/browser/ui/views/frame/glass_browser_frame_view.h
+END
+system_menu_model_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/127409/trunk/src/chrome/browser/ui/views/frame/system_menu_model_delegate.h
+END
+system_menu_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/130950/trunk/src/chrome/browser/ui/views/frame/system_menu_model.cc
+END
+contents_container.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/144317/trunk/src/chrome/browser/ui/views/frame/contents_container.cc
+END
+opaque_browser_frame_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/145209/trunk/src/chrome/browser/ui/views/frame/opaque_browser_frame_view.cc
+END
+contents_container.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/144317/trunk/src/chrome/browser/ui/views/frame/contents_container.h
+END
+opaque_browser_frame_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/139734/trunk/src/chrome/browser/ui/views/frame/opaque_browser_frame_view.h
+END
+app_non_client_frame_view_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/144110/trunk/src/chrome/browser/ui/views/frame/app_non_client_frame_view_aura.cc
+END
+browser_frame_aura.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/141904/trunk/src/chrome/browser/ui/views/frame/browser_frame_aura.cc
+END
+app_non_client_frame_view_aura_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/137511/trunk/src/chrome/browser/ui/views/frame/app_non_client_frame_view_aura_browsertest.cc
+END
+browser_frame_aura.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/141904/trunk/src/chrome/browser/ui/views/frame/browser_frame_aura.h
+END
+app_panel_browser_frame_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/139734/trunk/src/chrome/browser/ui/views/frame/app_panel_browser_frame_view.h
+END
+browser_view_layout.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/144209/trunk/src/chrome/browser/ui/views/frame/browser_view_layout.cc
+END
+browser_frame_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/145209/trunk/src/chrome/browser/ui/views/frame/browser_frame_win.h
+END
+popup_non_client_frame_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/111096/trunk/src/chrome/browser/ui/views/frame/popup_non_client_frame_view.cc
+END
+glass_browser_frame_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/144604/trunk/src/chrome/browser/ui/views/frame/glass_browser_frame_view.cc
+END
+popup_non_client_frame_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/111096/trunk/src/chrome/browser/ui/views/frame/popup_non_client_frame_view.h
+END
+browser_root_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/135216/trunk/src/chrome/browser/ui/views/frame/browser_root_view.h
+END
+system_menu_model_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/144597/trunk/src/chrome/browser/ui/views/frame/system_menu_model_delegate.cc
+END
+system_menu_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/130950/trunk/src/chrome/browser/ui/views/frame/system_menu_model.h
+END

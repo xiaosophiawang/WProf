@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/145398/trunk/src/ash/desktop_background
+END
+desktop_background_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/143987/trunk/src/ash/desktop_background/desktop_background_controller.cc
+END
+desktop_background_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/144153/trunk/src/ash/desktop_background/desktop_background_controller.h
+END
+desktop_background_resources.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/145398/trunk/src/ash/desktop_background/desktop_background_resources.cc
+END
+desktop_background_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/144153/trunk/src/ash/desktop_background/desktop_background_view.cc
+END
+desktop_background_resources.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/145398/trunk/src/ash/desktop_background/desktop_background_resources.h
+END
+desktop_background_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/143958/trunk/src/ash/desktop_background/desktop_background_view.h
+END

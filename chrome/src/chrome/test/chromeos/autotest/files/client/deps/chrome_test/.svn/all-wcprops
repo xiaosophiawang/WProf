@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/144815/trunk/src/chrome/test/chromeos/autotest/files/client/deps/chrome_test
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/57618/trunk/src/chrome/test/chromeos/autotest/files/client/deps/chrome_test/common.py
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/57618/trunk/src/chrome/test/chromeos/autotest/files/client/deps/chrome_test/control
+END
+chrome_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/58029/trunk/src/chrome/test/chromeos/autotest/files/client/deps/chrome_test/chrome_test.py
+END
+setup_test_links.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/144815/trunk/src/chrome/test/chromeos/autotest/files/client/deps/chrome_test/setup_test_links.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/57618/trunk/src/chrome/test/chromeos/autotest/files/client/deps/chrome_test/README
+END

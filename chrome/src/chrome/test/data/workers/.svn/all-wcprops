@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/129641/trunk/src/chrome/test/data/workers
+END
+debug_shared_worker_initialization.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/105773/trunk/src/chrome/test/data/workers/debug_shared_worker_initialization.html
+END
+shared_worker_auth.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/37365/trunk/src/chrome/test/data/workers/shared_worker_auth.html
+END
+many_workers.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/18763/trunk/src/chrome/test/data/workers/many_workers.html
+END
+workers_ui_shared_worker.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/93170/trunk/src/chrome/test/data/workers/workers_ui_shared_worker.js
+END
+incognito_worker.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/33164/trunk/src/chrome/test/data/workers/incognito_worker.html
+END
+multi_worker.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/34429/trunk/src/chrome/test/data/workers/multi_worker.html
+END
+debug_shared_worker_initialization.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/105773/trunk/src/chrome/test/data/workers/debug_shared_worker_initialization.js
+END
+worker_common.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/38549/trunk/src/chrome/test/data/workers/worker_common.js
+END
+worker_auth.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/37365/trunk/src/chrome/test/data/workers/worker_auth.html
+END
+shutdown_shared_worker.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/38549/trunk/src/chrome/test/data/workers/shutdown_shared_worker.html
+END
+incognito_worker.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/33164/trunk/src/chrome/test/data/workers/incognito_worker.js
+END
+worker_close.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/129641/trunk/src/chrome/test/data/workers/worker_close.html
+END
+single_shared_worker.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/38549/trunk/src/chrome/test/data/workers/single_shared_worker.html
+END
+worker_utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/129641/trunk/src/chrome/test/data/workers/worker_utils.js
+END
+queued_shared_worker_shutdown.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/129641/trunk/src/chrome/test/data/workers/queued_shared_worker_shutdown.html
+END
+many_shared_workers.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/129641/trunk/src/chrome/test/data/workers/many_shared_workers.html
+END
+workers_ui_shared_worker.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/92830/trunk/src/chrome/test/data/workers/workers_ui_shared_worker.html
+END
+single_worker.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/34429/trunk/src/chrome/test/data/workers/single_worker.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/116398/trunk/src/chrome/test/data/extensions/api_test/page_action/old_api
+END
+page.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/112591/trunk/src/chrome/test/data/extensions/api_test/page_action/old_api/page.html
+END
+background.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/112591/trunk/src/chrome/test/data/extensions/api_test/page_action/old_api/background.html
+END
+page.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/112591/trunk/src/chrome/test/data/extensions/api_test/page_action/old_api/page.js
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/112591/trunk/src/chrome/test/data/extensions/api_test/page_action/old_api/background.js
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/75434/trunk/src/chrome/test/data/extensions/api_test/page_action/old_api/icon.png
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/116398/trunk/src/chrome/test/data/extensions/api_test/page_action/old_api/manifest.json
+END

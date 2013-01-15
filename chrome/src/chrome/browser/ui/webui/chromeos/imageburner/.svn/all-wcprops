@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/133958/trunk/src/chrome/browser/ui/webui/chromeos/imageburner
+END
+imageburner_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/133958/trunk/src/chrome/browser/ui/webui/chromeos/imageburner/imageburner_ui.cc
+END
+imageburner_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/118038/trunk/src/chrome/browser/ui/webui/chromeos/imageburner/imageburner_ui.h
+END

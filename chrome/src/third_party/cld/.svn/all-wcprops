@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/136411/trunk/src/third_party/cld
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/78316/trunk/src/third_party/cld/README.chromium
+END
+cld.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/136411/trunk/src/third_party/cld/cld.gyp
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/44095/trunk/src/third_party/cld/LICENSE
+END

@@ -1,0 +1,37 @@
+10
+
+dir
+145398
+https://src.chromium.org/chrome/trunk/src/chrome/test/data/extensions/isolated_apps
+https://src.chromium.org/chrome
+
+
+
+2011-12-03T08:13:14.032052Z
+112882
+abarth@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+app1
+dir
+
+app2
+dir
+
+non_app
+dir
+

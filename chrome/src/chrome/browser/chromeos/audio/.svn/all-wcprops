@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/140301/trunk/src/chrome/browser/chromeos/audio
+END
+audio_mixer_cras.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/140301/trunk/src/chrome/browser/chromeos/audio/audio_mixer_cras.cc
+END
+audio_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/138768/trunk/src/chrome/browser/chromeos/audio/audio_handler.cc
+END
+audio_mixer_cras.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/127902/trunk/src/chrome/browser/chromeos/audio/audio_mixer_cras.h
+END
+audio_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/138768/trunk/src/chrome/browser/chromeos/audio/audio_handler.h
+END
+audio_mixer_alsa.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/137682/trunk/src/chrome/browser/chromeos/audio/audio_mixer_alsa.cc
+END
+audio_mixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/123069/trunk/src/chrome/browser/chromeos/audio/audio_mixer.h
+END
+audio_mixer_alsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/123069/trunk/src/chrome/browser/chromeos/audio/audio_mixer_alsa.h
+END

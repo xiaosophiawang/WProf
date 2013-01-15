@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/132109/trunk/src/chrome/browser/resources/profiler
+END
+profiler.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/118179/trunk/src/chrome/browser/resources/profiler/profiler.html
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/113435/trunk/src/chrome/browser/resources/profiler/OWNERS
+END
+profiler.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/132109/trunk/src/chrome/browser/resources/profiler/profiler.js
+END

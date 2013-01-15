@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/145248/trunk/src/chrome/browser/extensions/api/media_gallery
+END
+media_gallery_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/145248/trunk/src/chrome/browser/extensions/api/media_gallery/media_gallery_api.cc
+END
+media_gallery_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/136677/trunk/src/chrome/browser/extensions/api/media_gallery/media_gallery_apitest.cc
+END
+media_gallery_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/137866/trunk/src/chrome/browser/extensions/api/media_gallery/media_gallery_api.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/142242/trunk/src/chrome/test/data/captive_portal
+END
+page204.html.mock-http-headers
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/142242/trunk/src/chrome/test/data/captive_portal/page204.html.mock-http-headers
+END
+page204.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/142242/trunk/src/chrome/test/data/captive_portal/page204.html
+END
+login.html.mock-http-headers
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/142242/trunk/src/chrome/test/data/captive_portal/login.html.mock-http-headers
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/142242/trunk/src/chrome/test/data/captive_portal/login.html
+END
+iframe_timeout.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/142242/trunk/src/chrome/test/data/captive_portal/iframe_timeout.html
+END

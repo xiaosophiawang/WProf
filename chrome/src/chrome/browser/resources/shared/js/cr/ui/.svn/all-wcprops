@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/143763/trunk/src/chrome/browser/resources/shared/js/cr/ui
+END
+menu.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/138230/trunk/src/chrome/browser/resources/shared/js/cr/ui/menu.js
+END
+repeating_button.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/109097/trunk/src/chrome/browser/resources/shared/js/cr/ui/repeating_button.js
+END
+card_slider.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/143555/trunk/src/chrome/browser/resources/shared/js/cr/ui/card_slider.js
+END
+array_data_model_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/131421/trunk/src/chrome/browser/resources/shared/js/cr/ui/array_data_model_test.html
+END
+command.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/129003/trunk/src/chrome/browser/resources/shared/js/cr/ui/command.js
+END
+expandable_bubble.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/129003/trunk/src/chrome/browser/resources/shared/js/cr/ui/expandable_bubble.js
+END
+touch_handler.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/139006/trunk/src/chrome/browser/resources/shared/js/cr/ui/touch_handler.js
+END
+dialogs.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/138477/trunk/src/chrome/browser/resources/shared/js/cr/ui/dialogs.js
+END
+list_selection_controller.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/142936/trunk/src/chrome/browser/resources/shared/js/cr/ui/list_selection_controller.js
+END
+position_util_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/84824/trunk/src/chrome/browser/resources/shared/js/cr/ui/position_util_test.html
+END
+autocomplete_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/129003/trunk/src/chrome/browser/resources/shared/js/cr/ui/autocomplete_list.js
+END
+menu_button.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/138230/trunk/src/chrome/browser/resources/shared/js/cr/ui/menu_button.js
+END
+tree.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/129003/trunk/src/chrome/browser/resources/shared/js/cr/ui/tree.js
+END
+repeating_button_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/109097/trunk/src/chrome/browser/resources/shared/js/cr/ui/repeating_button_test.html
+END
+list_single_selection_model.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/142030/trunk/src/chrome/browser/resources/shared/js/cr/ui/list_single_selection_model.js
+END
+context_menu_handler.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/138230/trunk/src/chrome/browser/resources/shared/js/cr/ui/context_menu_handler.js
+END
+splitter.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/142934/trunk/src/chrome/browser/resources/shared/js/cr/ui/splitter.js
+END
+alert_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/119412/trunk/src/chrome/browser/resources/shared/js/cr/ui/alert_overlay.js
+END
+focus_outline_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/129003/trunk/src/chrome/browser/resources/shared/js/cr/ui/focus_outline_manager.js
+END
+focus_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/140078/trunk/src/chrome/browser/resources/shared/js/cr/ui/focus_manager.js
+END
+list.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/138998/trunk/src/chrome/browser/resources/shared/js/cr/ui/list.js
+END
+drag_wrapper.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/109648/trunk/src/chrome/browser/resources/shared/js/cr/ui/drag_wrapper.js
+END
+overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/140156/trunk/src/chrome/browser/resources/shared/js/cr/ui/overlay.js
+END
+menu_item.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/137687/trunk/src/chrome/browser/resources/shared/js/cr/ui/menu_item.js
+END
+grid.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/129003/trunk/src/chrome/browser/resources/shared/js/cr/ui/grid.js
+END
+list_selection_model_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/142030/trunk/src/chrome/browser/resources/shared/js/cr/ui/list_selection_model_test.html
+END
+array_data_model.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/131421/trunk/src/chrome/browser/resources/shared/js/cr/ui/array_data_model.js
+END
+table.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/143763/trunk/src/chrome/browser/resources/shared/js/cr/ui/table.js
+END
+list_single_selection_model_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/142030/trunk/src/chrome/browser/resources/shared/js/cr/ui/list_single_selection_model_test.html
+END
+list_item.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/129003/trunk/src/chrome/browser/resources/shared/js/cr/ui/list_item.js
+END
+tabs.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/86982/trunk/src/chrome/browser/resources/shared/js/cr/ui/tabs.js
+END
+bubble.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/129003/trunk/src/chrome/browser/resources/shared/js/cr/ui/bubble.js
+END
+list_selection_model_test_util.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/142030/trunk/src/chrome/browser/resources/shared/js/cr/ui/list_selection_model_test_util.js
+END
+list_selection_model.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/142030/trunk/src/chrome/browser/resources/shared/js/cr/ui/list_selection_model.js
+END
+position_util.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/129003/trunk/src/chrome/browser/resources/shared/js/cr/ui/position_util.js
+END
+context_menu_button.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/129003/trunk/src/chrome/browser/resources/shared/js/cr/ui/context_menu_button.js
+END

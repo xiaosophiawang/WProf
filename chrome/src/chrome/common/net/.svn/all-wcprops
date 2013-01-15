@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/144782/trunk/src/chrome/common/net
+END
+url_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/137978/trunk/src/chrome/common/net/url_util_unittest.cc
+END
+url_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/137978/trunk/src/chrome/common/net/url_util.cc
+END
+url_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/137978/trunk/src/chrome/common/net/url_util.h
+END
+predictor_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/53716/trunk/src/chrome/common/net/predictor_common.h
+END
+net_resource_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/138769/trunk/src/chrome/common/net/net_resource_provider.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/61944/trunk/src/chrome/common/net/DEPS
+END
+net_resource_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/114124/trunk/src/chrome/common/net/net_resource_provider.h
+END
+x509_certificate_model_nss.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/138005/trunk/src/chrome/common/net/x509_certificate_model_nss.cc
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/124732/trunk/src/chrome/common/net/PRESUBMIT.py
+END
+test_server_locations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/128281/trunk/src/chrome/common/net/test_server_locations.cc
+END
+test_server_locations.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/128281/trunk/src/chrome/common/net/test_server_locations.h
+END
+x509_certificate_model_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/139979/trunk/src/chrome/common/net/x509_certificate_model_unittest.cc
+END
+x509_certificate_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/117241/trunk/src/chrome/common/net/x509_certificate_model.cc
+END
+x509_certificate_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/81498/trunk/src/chrome/common/net/x509_certificate_model.h
+END
+x509_certificate_model_openssl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/107814/trunk/src/chrome/common/net/x509_certificate_model_openssl.cc
+END

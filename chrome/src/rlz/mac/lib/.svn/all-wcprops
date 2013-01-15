@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/144074/trunk/src/rlz/mac/lib
+END
+machine_id_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/144074/trunk/src/rlz/mac/lib/machine_id_mac.cc
+END
+rlz_value_store_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/144074/trunk/src/rlz/mac/lib/rlz_value_store_mac.h
+END
+rlz_value_store_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/144074/trunk/src/rlz/mac/lib/rlz_value_store_mac.mm
+END

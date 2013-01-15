@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/145251/trunk/src/chrome/browser/chromeos/status
+END
+data_promo_notification.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/141489/trunk/src/chrome/browser/chromeos/status/data_promo_notification.cc
+END
+data_promo_notification.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/131801/trunk/src/chrome/browser/chromeos/status/data_promo_notification.h
+END
+network_menu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/143489/trunk/src/chrome/browser/chromeos/status/network_menu.cc
+END
+network_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/143489/trunk/src/chrome/browser/chromeos/status/network_menu.h
+END
+network_menu_icon_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/143940/trunk/src/chrome/browser/chromeos/status/network_menu_icon_unittest.cc
+END
+network_menu_icon.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/145251/trunk/src/chrome/browser/chromeos/status/network_menu_icon.cc
+END
+network_menu_icon.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143185/trunk/src/chrome/browser/chromeos/status/network_menu_icon.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/130143/trunk/src/chrome/browser/chromeos/status/OWNERS
+END

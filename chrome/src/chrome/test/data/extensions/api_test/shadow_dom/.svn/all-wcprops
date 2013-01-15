@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/145229/trunk/src/chrome/test/data/extensions/api_test/shadow_dom
+END
+empty.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/145229/trunk/src/chrome/test/data/extensions/api_test/shadow_dom/empty.html
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/145229/trunk/src/chrome/test/data/extensions/api_test/shadow_dom/background.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/145229/trunk/src/chrome/test/data/extensions/api_test/shadow_dom/manifest.json
+END

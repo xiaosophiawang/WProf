@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/143770/trunk/src/ui/aura/client
+END
+window_move_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/125153/trunk/src/ui/aura/client/window_move_client.cc
+END
+activation_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/125153/trunk/src/ui/aura/client/activation_delegate.cc
+END
+drag_drop_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/125153/trunk/src/ui/aura/client/drag_drop_delegate.cc
+END
+window_move_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/121583/trunk/src/ui/aura/client/window_move_client.h
+END
+activation_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/127172/trunk/src/ui/aura/client/activation_delegate.h
+END
+drag_drop_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/121583/trunk/src/ui/aura/client/drag_drop_delegate.h
+END
+screen_position_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/137954/trunk/src/ui/aura/client/screen_position_client.cc
+END
+capture_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/141131/trunk/src/ui/aura/client/capture_client.cc
+END
+screen_position_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/137954/trunk/src/ui/aura/client/screen_position_client.h
+END
+capture_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/141131/trunk/src/ui/aura/client/capture_client.h
+END
+event_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/128553/trunk/src/ui/aura/client/event_client.cc
+END
+event_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/128553/trunk/src/ui/aura/client/event_client.h
+END
+dispatcher_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/125153/trunk/src/ui/aura/client/dispatcher_client.cc
+END
+visibility_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/125153/trunk/src/ui/aura/client/visibility_client.cc
+END
+aura_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/137993/trunk/src/ui/aura/client/aura_constants.h
+END
+visibility_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/123690/trunk/src/ui/aura/client/visibility_client.h
+END
+tooltip_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/123690/trunk/src/ui/aura/client/tooltip_client.h
+END
+window_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/118259/trunk/src/ui/aura/client/window_types.h
+END
+activation_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/140340/trunk/src/ui/aura/client/activation_client.cc
+END
+capture_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/141131/trunk/src/ui/aura/client/capture_delegate.h
+END
+drag_drop_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/125153/trunk/src/ui/aura/client/drag_drop_client.cc
+END
+stacking_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/125153/trunk/src/ui/aura/client/stacking_client.cc
+END
+activation_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/140340/trunk/src/ui/aura/client/activation_client.h
+END
+drag_drop_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/123690/trunk/src/ui/aura/client/drag_drop_client.h
+END
+stacking_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/143770/trunk/src/ui/aura/client/stacking_client.h
+END
+user_action_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/139899/trunk/src/ui/aura/client/user_action_client.cc
+END
+user_action_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/139899/trunk/src/ui/aura/client/user_action_client.h
+END
+activation_change_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/140340/trunk/src/ui/aura/client/activation_change_observer.h
+END
+aura_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/137993/trunk/src/ui/aura/client/aura_constants.cc
+END
+dispatcher_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/123690/trunk/src/ui/aura/client/dispatcher_client.h
+END
+tooltip_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/125153/trunk/src/ui/aura/client/tooltip_client.cc
+END

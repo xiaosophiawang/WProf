@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/chrome/!svn/ver/145335/trunk/src/chrome/service
+END
+service_process_prefs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/135723/trunk/src/chrome/service/service_process_prefs.cc
+END
+service_process_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/84819/trunk/src/chrome/service/service_process_unittest.cc
+END
+service_process.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/142926/trunk/src/chrome/service/service_process.cc
+END
+service_utility_process_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/140357/trunk/src/chrome/service/service_utility_process_host.cc
+END
+service_process_prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/135723/trunk/src/chrome/service/service_process_prefs.h
+END
+service_process.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/117732/trunk/src/chrome/service/service_process.h
+END
+service_utility_process_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/119546/trunk/src/chrome/service/service_utility_process_host.h
+END
+service_ipc_server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/145192/trunk/src/chrome/service/service_ipc_server.cc
+END
+chrome_service_application_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/113281/trunk/src/chrome/service/chrome_service_application_mac.h
+END
+service_ipc_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/142474/trunk/src/chrome/service/service_ipc_server.h
+END
+service_main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/145335/trunk/src/chrome/service/service_main.cc
+END
+chrome_service_application_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/119511/trunk/src/chrome/service/chrome_service_application_mac.mm
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/107863/trunk/src/chrome/service/DEPS
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/107758/trunk/src/chrome/service/OWNERS
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/144153/trunk/src/chrome/browser/chromeos/background
+END
+ash_user_wallpaper_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/135641/trunk/src/chrome/browser/chromeos/background/ash_user_wallpaper_delegate.h
+END
+ash_user_wallpaper_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/144153/trunk/src/chrome/browser/chromeos/background/ash_user_wallpaper_delegate.cc
+END

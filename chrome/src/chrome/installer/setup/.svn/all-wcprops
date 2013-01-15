@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/145092/trunk/src/chrome/installer/setup
+END
+setup_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/139837/trunk/src/chrome/installer/setup/setup_util.cc
+END
+setup_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/135615/trunk/src/chrome/installer/setup/setup_constants.h
+END
+install_worker_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/115517/trunk/src/chrome/installer/setup/install_worker_unittest.cc
+END
+setup_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/139837/trunk/src/chrome/installer/setup/setup_util.h
+END
+setup.exe.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/27034/trunk/src/chrome/installer/setup/setup.exe.manifest
+END
+compat_checks_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/11331/trunk/src/chrome/installer/setup/compat_checks_unittest.cc
+END
+setup_main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/142641/trunk/src/chrome/installer/setup/setup_main.cc
+END
+install.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/145092/trunk/src/chrome/installer/setup/install.h
+END
+setup_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/53716/trunk/src/chrome/installer/setup/setup_resource.h
+END
+setup_exe_version.rc.version
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/15/trunk/src/chrome/installer/setup/setup_exe_version.rc.version
+END
+setup.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/78921/trunk/src/chrome/installer/setup/setup.rc
+END
+chrome_frame_ready_mode.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/79524/trunk/src/chrome/installer/setup/chrome_frame_ready_mode.cc
+END
+chrome_frame_ready_mode.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/109804/trunk/src/chrome/installer/setup/chrome_frame_ready_mode.h
+END
+setup_release.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/15/trunk/src/chrome/installer/setup/setup_release.vsprops
+END
+setup.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/5791/trunk/src/chrome/installer/setup/setup.vsprops
+END
+chrome_frame_quick_enable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/129234/trunk/src/chrome/installer/setup/chrome_frame_quick_enable.cc
+END
+setup_unittests_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/72497/trunk/src/chrome/installer/setup/setup_unittests_resource.h
+END
+chrome_frame_quick_enable.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/74000/trunk/src/chrome/installer/setup/chrome_frame_quick_enable.h
+END
+setup_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/139837/trunk/src/chrome/installer/setup/setup_util_unittest.cc
+END
+setup_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/135615/trunk/src/chrome/installer/setup/setup_constants.cc
+END
+setup_debug.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/15/trunk/src/chrome/installer/setup/setup_debug.vsprops
+END
+install_worker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/137722/trunk/src/chrome/installer/setup/install_worker.cc
+END
+setup_unittests.rc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/78921/trunk/src/chrome/installer/setup/setup_unittests.rc
+END
+install_worker.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/133995/trunk/src/chrome/installer/setup/install_worker.h
+END
+install_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/135615/trunk/src/chrome/installer/setup/install_unittest.cc
+END
+install.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/145092/trunk/src/chrome/installer/setup/install.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/137881/trunk/src/chrome/installer/setup/DEPS
+END
+uninstall.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/142909/trunk/src/chrome/installer/setup/uninstall.cc
+END
+uninstall.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/142634/trunk/src/chrome/installer/setup/uninstall.h
+END
+setup.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/17916/trunk/src/chrome/installer/setup/setup.vcproj
+END
+run_all_unittests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/40991/trunk/src/chrome/installer/setup/run_all_unittests.cc
+END
+setup.ico
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/40991/trunk/src/chrome/installer/setup/setup.ico
+END

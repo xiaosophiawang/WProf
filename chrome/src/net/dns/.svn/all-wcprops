@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/chrome/!svn/ver/145073/trunk/src/net/dns
+END
+dns_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/123776/trunk/src/net/dns/dns_transaction.h
+END
+dns_config_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/143051/trunk/src/net/dns/dns_config_service.h
+END
+dns_response_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/135731/trunk/src/net/dns/dns_response_unittest.cc
+END
+dns_response.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/129476/trunk/src/net/dns/dns_response.cc
+END
+dns_hosts_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/128498/trunk/src/net/dns/dns_hosts_unittest.cc
+END
+dns_config_watcher_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/140584/trunk/src/net/dns/dns_config_watcher_win.cc
+END
+dns_hosts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/142092/trunk/src/net/dns/dns_hosts.cc
+END
+notify_watcher_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/132698/trunk/src/net/dns/notify_watcher_mac.cc
+END
+dns_config_service_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/143051/trunk/src/net/dns/dns_config_service_win_unittest.cc
+END
+dns_config_service_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/143197/trunk/src/net/dns/dns_config_service_win.cc
+END
+notify_watcher_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/132698/trunk/src/net/dns/notify_watcher_mac.h
+END
+dns_query_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/113640/trunk/src/net/dns/dns_query_unittest.cc
+END
+dns_config_service_posix_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/143051/trunk/src/net/dns/dns_config_service_posix_unittest.cc
+END
+serial_worker.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/128498/trunk/src/net/dns/serial_worker.h
+END
+dns_test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/chrome/!svn/ver/137457/trunk/src/net/dns/dns_test_util.h
+END
+dns_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/126697/trunk/src/net/dns/dns_client.h
+END
+dns_transaction_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/143022/trunk/src/net/dns/dns_transaction_unittest.cc
+END
+dns_config_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/143051/trunk/src/net/dns/dns_config_service_unittest.cc
+END
+dns_config_watcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/137457/trunk/src/net/dns/dns_config_watcher.h
+END
+dns_response.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/128280/trunk/src/net/dns/dns_response.h
+END
+dns_hosts.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/142092/trunk/src/net/dns/dns_hosts.h
+END
+dns_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/121573/trunk/src/net/dns/dns_protocol.h
+END
+serial_worker_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/112153/trunk/src/net/dns/serial_worker_unittest.cc
+END
+dns_config_service_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/143051/trunk/src/net/dns/dns_config_service_win.h
+END
+dns_config_watcher_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/140584/trunk/src/net/dns/dns_config_watcher_posix.cc
+END
+serial_worker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/131366/trunk/src/net/dns/serial_worker.cc
+END
+dns_query.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/129476/trunk/src/net/dns/dns_query.cc
+END
+dns_query.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/chrome/!svn/ver/113640/trunk/src/net/dns/dns_query.h
+END
+dns_config_service_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/143051/trunk/src/net/dns/dns_config_service_posix.cc
+END
+dns_config_service_posix.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/143051/trunk/src/net/dns/dns_config_service_posix.h
+END
+dns_test_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/137457/trunk/src/net/dns/dns_test_util.cc
+END
+dns_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/126697/trunk/src/net/dns/dns_client.cc
+END
+dns_session.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/119146/trunk/src/net/dns/dns_session.cc
+END
+dns_transaction.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/145073/trunk/src/net/dns/dns_transaction.cc
+END
+dns_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/137636/trunk/src/net/dns/dns_session.h
+END
+dns_config_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/143051/trunk/src/net/dns/dns_config_service.cc
+END

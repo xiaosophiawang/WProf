@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/140081/trunk/src/chrome/browser/mac
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/138813/trunk/src/chrome/browser/mac/install.sh
+END
+master_prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/98811/trunk/src/chrome/browser/mac/master_prefs.h
+END
+security_wrappers.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/137235/trunk/src/chrome/browser/mac/security_wrappers.h
+END
+keystone_registration.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/89742/trunk/src/chrome/browser/mac/keystone_registration.h
+END
+keystone_promote_postflight.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/128053/trunk/src/chrome/browser/mac/keystone_promote_postflight.sh
+END
+keystone_promote_preflight.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/128053/trunk/src/chrome/browser/mac/keystone_promote_preflight.sh
+END
+keystone_glue_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/89742/trunk/src/chrome/browser/mac/keystone_glue_unittest.mm
+END
+keychain_reauthorize.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/140081/trunk/src/chrome/browser/mac/keychain_reauthorize.mm
+END
+keystone_glue.mm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/129254/trunk/src/chrome/browser/mac/keystone_glue.mm
+END
+install_from_dmg.mm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/129337/trunk/src/chrome/browser/mac/install_from_dmg.mm
+END
+dock.mm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/129636/trunk/src/chrome/browser/mac/dock.mm
+END
+keychain_reauthorize.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/137265/trunk/src/chrome/browser/mac/keychain_reauthorize.h
+END
+master_prefs.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/134009/trunk/src/chrome/browser/mac/master_prefs.mm
+END
+keystone_registration.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/89742/trunk/src/chrome/browser/mac/keystone_registration.mm
+END
+keystone_glue.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/128053/trunk/src/chrome/browser/mac/keystone_glue.h
+END
+install_from_dmg.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/90786/trunk/src/chrome/browser/mac/install_from_dmg.h
+END
+dock.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/92898/trunk/src/chrome/browser/mac/dock.h
+END
+relauncher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/123438/trunk/src/chrome/browser/mac/relauncher.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/89742/trunk/src/chrome/browser/mac/OWNERS
+END
+relauncher.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/108004/trunk/src/chrome/browser/mac/relauncher.h
+END
+security_wrappers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/137235/trunk/src/chrome/browser/mac/security_wrappers.cc
+END

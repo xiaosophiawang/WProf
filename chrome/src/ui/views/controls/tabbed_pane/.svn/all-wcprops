@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/144730/trunk/src/ui/views/controls/tabbed_pane
+END
+tabbed_pane_listener.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/111612/trunk/src/ui/views/controls/tabbed_pane/tabbed_pane_listener.h
+END
+native_tabbed_pane_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/111612/trunk/src/ui/views/controls/tabbed_pane/native_tabbed_pane_wrapper.h
+END
+tabbed_pane_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/135365/trunk/src/ui/views/controls/tabbed_pane/tabbed_pane_unittest.cc
+END
+tabbed_pane.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/137792/trunk/src/ui/views/controls/tabbed_pane/tabbed_pane.cc
+END
+tabbed_pane.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/129632/trunk/src/ui/views/controls/tabbed_pane/tabbed_pane.h
+END
+native_tabbed_pane_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/144730/trunk/src/ui/views/controls/tabbed_pane/native_tabbed_pane_views.cc
+END
+native_tabbed_pane_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/139528/trunk/src/ui/views/controls/tabbed_pane/native_tabbed_pane_win.cc
+END
+native_tabbed_pane_views.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/117339/trunk/src/ui/views/controls/tabbed_pane/native_tabbed_pane_views.h
+END
+native_tabbed_pane_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/112014/trunk/src/ui/views/controls/tabbed_pane/native_tabbed_pane_win.h
+END

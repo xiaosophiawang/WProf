@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/138777/trunk/src/chrome/browser/chromeos/ui
+END
+idle_logout_dialog_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/138777/trunk/src/chrome/browser/chromeos/ui/idle_logout_dialog_view.cc
+END
+idle_logout_dialog_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/135769/trunk/src/chrome/browser/chromeos/ui/idle_logout_dialog_view.h
+END
+idle_logout_dialog_view_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/132902/trunk/src/chrome/browser/chromeos/ui/idle_logout_dialog_view_browsertest.cc
+END

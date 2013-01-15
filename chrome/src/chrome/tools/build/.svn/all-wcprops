@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/145182/trunk/src/chrome/tools/build
+END
+generate_policy_source.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/130905/trunk/src/chrome/tools/build/generate_policy_source.py
+END
+appid.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/111658/trunk/src/chrome/tools/build/appid.py
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/42771/trunk/src/chrome/tools/build/version.py
+END
+make_version_cc.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/45502/trunk/src/chrome/tools/build/make_version_cc.py
+END
+repack_locales.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/120950/trunk/src/chrome/tools/build/repack_locales.py
+END

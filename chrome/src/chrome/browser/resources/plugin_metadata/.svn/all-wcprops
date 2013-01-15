@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/142381/trunk/src/chrome/browser/resources/plugin_metadata
+END
+plugins_win.json
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/142381/trunk/src/chrome/browser/resources/plugin_metadata/plugins_win.json
+END
+plugins_linux.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/142381/trunk/src/chrome/browser/resources/plugin_metadata/plugins_linux.json
+END
+plugins_mac.json
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/141197/trunk/src/chrome/browser/resources/plugin_metadata/plugins_mac.json
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/138779/trunk/src/chrome/browser/resources/plugin_metadata/OWNERS
+END

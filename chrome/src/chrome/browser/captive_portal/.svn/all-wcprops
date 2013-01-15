@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145115/trunk/src/chrome/browser/captive_portal
+END
+captive_portal_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/143085/trunk/src/chrome/browser/captive_portal/captive_portal_service_unittest.cc
+END
+captive_portal_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/142926/trunk/src/chrome/browser/captive_portal/captive_portal_service.cc
+END
+captive_portal_login_detector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/142242/trunk/src/chrome/browser/captive_portal/captive_portal_login_detector.cc
+END
+captive_portal_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/142242/trunk/src/chrome/browser/captive_portal/captive_portal_service.h
+END
+captive_portal_login_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/142242/trunk/src/chrome/browser/captive_portal/captive_portal_login_detector.h
+END
+captive_portal_tab_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/142242/trunk/src/chrome/browser/captive_portal/captive_portal_tab_helper_unittest.cc
+END
+captive_portal_tab_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/captive_portal/captive_portal_tab_helper.cc
+END
+captive_portal_tab_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/142242/trunk/src/chrome/browser/captive_portal/captive_portal_tab_helper.h
+END
+captive_portal_tab_reloader_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/142242/trunk/src/chrome/browser/captive_portal/captive_portal_tab_reloader_unittest.cc
+END
+captive_portal_tab_reloader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/142242/trunk/src/chrome/browser/captive_portal/captive_portal_tab_reloader.cc
+END
+captive_portal_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/145115/trunk/src/chrome/browser/captive_portal/captive_portal_browsertest.cc
+END
+captive_portal_tab_reloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/142242/trunk/src/chrome/browser/captive_portal/captive_portal_tab_reloader.h
+END
+captive_portal_service_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/136627/trunk/src/chrome/browser/captive_portal/captive_portal_service_factory.cc
+END
+captive_portal_service_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/136627/trunk/src/chrome/browser/captive_portal/captive_portal_service_factory.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/136627/trunk/src/chrome/browser/captive_portal/OWNERS
+END

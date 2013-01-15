@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 263
+device_management_proto.Makefile
+device_management_proto.rules
+device_management_proto.sln
+device_management_proto.target.mk
+device_management_proto.vcproj
+device_management_proto.xcodeproj
+device_management_proto_cpp.target.mk
+device_management_proto_cpp.vcproj
+
+END

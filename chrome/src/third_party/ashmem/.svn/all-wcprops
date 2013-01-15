@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/chrome/!svn/ver/89833/trunk/src/third_party/ashmem
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/89833/trunk/src/third_party/ashmem/README.chromium
+END
+ashmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/89833/trunk/src/third_party/ashmem/ashmem.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/89833/trunk/src/third_party/ashmem/LICENSE
+END
+ashmem-dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/89833/trunk/src/third_party/ashmem/ashmem-dev.c
+END
+ashmem.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/89833/trunk/src/third_party/ashmem/ashmem.gyp
+END

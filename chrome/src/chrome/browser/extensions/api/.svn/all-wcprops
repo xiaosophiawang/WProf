@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/145395/trunk/src/chrome/browser/extensions/api
+END
+api_function.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/135895/trunk/src/chrome/browser/extensions/api/api_function.cc
+END
+api_resource.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/129902/trunk/src/chrome/browser/extensions/api/api_resource.cc
+END
+api_resource_event_notifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/144025/trunk/src/chrome/browser/extensions/api/api_resource_event_notifier.cc
+END
+api_function.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/137780/trunk/src/chrome/browser/extensions/api/api_function.h
+END
+api_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/134423/trunk/src/chrome/browser/extensions/api/api_resource.h
+END
+api_resource_event_notifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/144025/trunk/src/chrome/browser/extensions/api/api_resource_event_notifier.h
+END
+api_resource_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/139463/trunk/src/chrome/browser/extensions/api/api_resource_controller.cc
+END
+api_resource_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/139463/trunk/src/chrome/browser/extensions/api/api_resource_controller.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/139273/trunk/src/chrome/browser/extensions/api/README.txt
+END

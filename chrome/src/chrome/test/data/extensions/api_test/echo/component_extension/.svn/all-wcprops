@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/132700/trunk/src/chrome/test/data/extensions/api_test/echo/component_extension
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/132700/trunk/src/chrome/test/data/extensions/api_test/echo/component_extension/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/132700/trunk/src/chrome/test/data/extensions/api_test/echo/component_extension/manifest.json
+END

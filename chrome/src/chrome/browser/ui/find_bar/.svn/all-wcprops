@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/find_bar
+END
+find_bar_state_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/119327/trunk/src/chrome/browser/ui/find_bar/find_bar_state_factory.cc
+END
+find_bar_state_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/119327/trunk/src/chrome/browser/ui/find_bar/find_bar_state_factory.h
+END
+find_notification_details.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/73890/trunk/src/chrome/browser/ui/find_bar/find_notification_details.h
+END
+find_bar_host_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/145015/trunk/src/chrome/browser/ui/find_bar/find_bar_host_browsertest.cc
+END
+find_tab_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/136266/trunk/src/chrome/browser/ui/find_bar/find_tab_helper.cc
+END
+find_backend_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/141452/trunk/src/chrome/browser/ui/find_bar/find_backend_unittest.cc
+END
+find_bar.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/86865/trunk/src/chrome/browser/ui/find_bar/find_bar.h
+END
+find_bar_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/119327/trunk/src/chrome/browser/ui/find_bar/find_bar_state.h
+END
+find_bar_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/141452/trunk/src/chrome/browser/ui/find_bar/find_bar_controller.cc
+END
+find_tab_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/132816/trunk/src/chrome/browser/ui/find_bar/find_tab_helper.h
+END
+find_bar_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/141452/trunk/src/chrome/browser/ui/find_bar/find_bar_controller.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/144418/trunk/src/chrome/common/extensions/docs/examples/api/fontSettings
+END
+fonts16.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/126853/trunk/src/chrome/common/extensions/docs/examples/api/fontSettings/fonts16.png
+END
+popup.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/144418/trunk/src/chrome/common/extensions/docs/examples/api/fontSettings/popup.html
+END
+fonts128.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/126853/trunk/src/chrome/common/extensions/docs/examples/api/fontSettings/fonts128.png
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/140260/trunk/src/chrome/common/extensions/docs/examples/api/fontSettings/manifest.json
+END
+popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/144418/trunk/src/chrome/common/extensions/docs/examples/api/fontSettings/popup.js
+END

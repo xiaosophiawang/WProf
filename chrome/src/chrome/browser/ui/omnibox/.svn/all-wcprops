@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/145310/trunk/src/chrome/browser/ui/omnibox
+END
+location_bar_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/134137/trunk/src/chrome/browser/ui/omnibox/location_bar_util.h
+END
+location_bar.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/144722/trunk/src/chrome/browser/ui/omnibox/location_bar.h
+END
+omnibox_edit_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/145310/trunk/src/chrome/browser/ui/omnibox/omnibox_edit_model.cc
+END
+omnibox_edit_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/144054/trunk/src/chrome/browser/ui/omnibox/omnibox_edit_model.h
+END
+omnibox_view_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143646/trunk/src/chrome/browser/ui/omnibox/omnibox_view_unittest.cc
+END
+omnibox_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/143646/trunk/src/chrome/browser/ui/omnibox/omnibox_view.cc
+END
+omnibox_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/143836/trunk/src/chrome/browser/ui/omnibox/omnibox_view.h
+END
+omnibox_view_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/145310/trunk/src/chrome/browser/ui/omnibox/omnibox_view_browsertest.cc
+END
+omnibox_popup_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/143836/trunk/src/chrome/browser/ui/omnibox/omnibox_popup_model.cc
+END
+omnibox_edit_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/143836/trunk/src/chrome/browser/ui/omnibox/omnibox_edit_unittest.cc
+END
+omnibox_popup_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/145310/trunk/src/chrome/browser/ui/omnibox/omnibox_popup_model.h
+END
+omnibox_edit_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/143836/trunk/src/chrome/browser/ui/omnibox/omnibox_edit_controller.h
+END
+location_bar_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/134137/trunk/src/chrome/browser/ui/omnibox/location_bar_util.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/124195/trunk/src/chrome/browser/ui/omnibox/OWNERS
+END
+omnibox_popup_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/143344/trunk/src/chrome/browser/ui/omnibox/omnibox_popup_view.h
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/112629/trunk/src/chrome/test/data/autofill/functional
+END
+duplicate_profiles_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/101602/trunk/src/chrome/test/data/autofill/functional/duplicate_profiles_test.html
+END
+read_only_field_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/101602/trunk/src/chrome/test/data/autofill/functional/read_only_field_test.html
+END
+form_phones.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/101602/trunk/src/chrome/test/data/autofill/functional/form_phones.html
+END
+dataset_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/101664/trunk/src/chrome/test/data/autofill/functional/dataset_2.txt
+END
+phone_pinput_autofill.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/101616/trunk/src/chrome/test/data/autofill/functional/phone_pinput_autofill.txt
+END
+phone_pexpected_autofill.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/101616/trunk/src/chrome/test/data/autofill/functional/phone_pexpected_autofill.txt
+END
+phonecharacters.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/112629/trunk/src/chrome/test/data/autofill/functional/phonecharacters.txt
+END
+autofill_creditcard_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/82526/trunk/src/chrome/test/data/autofill/functional/autofill_creditcard_form.html
+END
+autofill_confirmemail_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/85079/trunk/src/chrome/test/data/autofill/functional/autofill_confirmemail_form.html
+END
+cc_autocomplete_off_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/82526/trunk/src/chrome/test/data/autofill/functional/cc_autocomplete_off_test.html
+END
+state_zip_labels.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/100284/trunk/src/chrome/test/data/autofill/functional/state_zip_labels.txt
+END
+dataset.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/82526/trunk/src/chrome/test/data/autofill/functional/dataset.txt
+END
+dataset_no_address.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/83566/trunk/src/chrome/test/data/autofill/functional/dataset_no_address.txt
+END
+autofill_test_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/90241/trunk/src/chrome/test/data/autofill/functional/autofill_test_form.html
+END
+latency_after_submit_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/101602/trunk/src/chrome/test/data/autofill/functional/latency_after_submit_test.html
+END
+crazy_autofill.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/102041/trunk/src/chrome/test/data/autofill/functional/crazy_autofill.txt
+END
+autofill_middleinit_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/85079/trunk/src/chrome/test/data/autofill/functional/autofill_middleinit_form.html
+END
+crowdsourcing-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/82526/trunk/src/chrome/test/data/autofill/functional/crowdsourcing-test.html
+END
+crowdsource_autofill.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/93410/trunk/src/chrome/test/data/autofill/functional/crowdsource_autofill.txt
+END
+phonechecker.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/90241/trunk/src/chrome/test/data/autofill/functional/phonechecker.txt
+END
+crazy_creditcards.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/84629/trunk/src/chrome/test/data/autofill/functional/crazy_creditcards.txt
+END

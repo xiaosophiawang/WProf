@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/state_trackers/egl/x11
+END
+glxinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/state_trackers/egl/x11/glxinit.c
+END
+native_x11.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/state_trackers/egl/x11/native_x11.c
+END
+native_ximage.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/state_trackers/egl/x11/native_ximage.c
+END
+glxinit.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/state_trackers/egl/x11/glxinit.h
+END
+native_x11.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/state_trackers/egl/x11/native_x11.h
+END
+native_dri2.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/state_trackers/egl/x11/native_dri2.c
+END
+x11_screen.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/state_trackers/egl/x11/x11_screen.c
+END
+x11_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/63795/trunk/src/third_party/mesa/MesaLib/src/gallium/state_trackers/egl/x11/x11_screen.h
+END

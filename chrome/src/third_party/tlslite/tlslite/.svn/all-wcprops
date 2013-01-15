@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/138537/trunk/src/third_party/tlslite/tlslite
+END
+TLSRecordLayer.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/60059/trunk/src/third_party/tlslite/tlslite/TLSRecordLayer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/tlslite/__init__.py
+END
+Checker.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/tlslite/Checker.py
+END
+X509.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/124637/trunk/src/third_party/tlslite/tlslite/X509.py
+END
+FileObject.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/tlslite/FileObject.py
+END
+SessionCache.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/tlslite/SessionCache.py
+END
+HandshakeSettings.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/tlslite/HandshakeSettings.py
+END
+messages.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/56983/trunk/src/third_party/tlslite/tlslite/messages.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/tlslite/api.py
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/tlslite/errors.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/56983/trunk/src/third_party/tlslite/tlslite/constants.py
+END
+mathtls.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/53724/trunk/src/third_party/tlslite/tlslite/mathtls.py
+END
+BaseDB.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/tlslite/BaseDB.py
+END
+VerifierDB.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/tlslite/VerifierDB.py
+END
+TLSConnection.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/138537/trunk/src/third_party/tlslite/tlslite/TLSConnection.py
+END
+Session.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/tlslite/Session.py
+END
+SharedKeyDB.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/19/trunk/src/third_party/tlslite/tlslite/SharedKeyDB.py
+END
+X509CertChain.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/124637/trunk/src/third_party/tlslite/tlslite/X509CertChain.py
+END

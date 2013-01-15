@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/144296/trunk/src/chrome/tools/build/win
+END
+scan_server_dlls.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/111658/trunk/src/chrome/tools/build/win/scan_server_dlls.py
+END
+resedit.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/133455/trunk/src/chrome/tools/build/win/resedit.py
+END
+syzygy_reorder.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/133455/trunk/src/chrome/tools/build/win/syzygy_reorder.py
+END
+unit_test.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/7560/trunk/src/chrome/tools/build/win/unit_test.vsprops
+END
+version.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/134316/trunk/src/chrome/tools/build/win/version.bat
+END
+hardlink_failsafe.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/134316/trunk/src/chrome/tools/build/win/hardlink_failsafe.bat
+END
+sln_deps.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/111658/trunk/src/chrome/tools/build/win/sln_deps.py
+END
+server.rules
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/77684/trunk/src/chrome/tools/build/win/server.rules
+END
+using_javascriptcore.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/15/trunk/src/chrome/tools/build/win/using_javascriptcore.vsprops
+END
+FILES.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/144296/trunk/src/chrome/tools/build/win/FILES.cfg
+END
+TESTS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/131276/trunk/src/chrome/tools/build/win/TESTS
+END
+make_policy_zip.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/111658/trunk/src/chrome/tools/build/win/make_policy_zip.py
+END
+make_zip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/120795/trunk/src/chrome/tools/build/win/make_zip.sh
+END
+create_installer_archive.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/140802/trunk/src/chrome/tools/build/win/create_installer_archive.py
+END
+release.rules
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/133843/trunk/src/chrome/tools/build/win/release.rules
+END
+make_chromebot_zip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/24311/trunk/src/chrome/tools/build/win/make_chromebot_zip.sh
+END
+map_drive.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/134316/trunk/src/chrome/tools/build/win/map_drive.bat
+END
+dependencies.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/111658/trunk/src/chrome/tools/build/win/dependencies.py
+END
+version.rules
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/94409/trunk/src/chrome/tools/build/win/version.rules
+END

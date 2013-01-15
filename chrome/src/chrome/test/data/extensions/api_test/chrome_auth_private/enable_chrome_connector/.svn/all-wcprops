@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/112273/trunk/src/chrome/test/data/extensions/api_test/chrome_auth_private/enable_chrome_connector
+END
+cloud_print_success_tests.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/chrome/!svn/ver/112273/trunk/src/chrome/test/data/extensions/api_test/chrome_auth_private/enable_chrome_connector/cloud_print_success_tests.html
+END
+cloud_print_success_tests.js
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/chrome/!svn/ver/112273/trunk/src/chrome/test/data/extensions/api_test/chrome_auth_private/enable_chrome_connector/cloud_print_success_tests.js
+END

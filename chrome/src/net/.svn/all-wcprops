@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/chrome/!svn/ver/145319/trunk/src/net
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/chrome/!svn/ver/124732/trunk/src/net/PRESUBMIT.py
+END
+net.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/chrome/!svn/ver/144468/trunk/src/net/net.gyp
+END
+net_unittests.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/131896/trunk/src/net/net_unittests.isolate
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/chrome/!svn/ver/134296/trunk/src/net/DEPS
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/chrome/!svn/ver/139088/trunk/src/net/OWNERS
+END

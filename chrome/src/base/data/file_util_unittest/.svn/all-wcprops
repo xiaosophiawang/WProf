@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/19418/trunk/src/base/data/file_util_unittest
+END
+original.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/8/trunk/src/base/data/file_util_unittest/original.txt
+END
+blank_line_crlf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/19418/trunk/src/base/data/file_util_unittest/blank_line_crlf.txt
+END
+binary_file_diff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/8/trunk/src/base/data/file_util_unittest/binary_file_diff.bin
+END
+different.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/8/trunk/src/base/data/file_util_unittest/different.txt
+END
+first1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/19418/trunk/src/base/data/file_util_unittest/first1.txt
+END
+first2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/19418/trunk/src/base/data/file_util_unittest/first2.txt
+END
+binary_file.bin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/8/trunk/src/base/data/file_util_unittest/binary_file.bin
+END
+different_first.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/8/trunk/src/base/data/file_util_unittest/different_first.txt
+END
+empty1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/8/trunk/src/base/data/file_util_unittest/empty1.txt
+END
+empty2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/8/trunk/src/base/data/file_util_unittest/empty2.txt
+END
+binary_file_same.bin
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/8/trunk/src/base/data/file_util_unittest/binary_file_same.bin
+END
+same.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/8/trunk/src/base/data/file_util_unittest/same.txt
+END
+same_length.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/8/trunk/src/base/data/file_util_unittest/same_length.txt
+END
+crlf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/19418/trunk/src/base/data/file_util_unittest/crlf.txt
+END
+different_last.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/8/trunk/src/base/data/file_util_unittest/different_last.txt
+END
+shortened.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/8/trunk/src/base/data/file_util_unittest/shortened.txt
+END
+blank_line.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/19418/trunk/src/base/data/file_util_unittest/blank_line.txt
+END

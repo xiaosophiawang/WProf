@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/141801/trunk/src/chrome/test/data/extensions/script_and_capture
+END
+extension_chrome_favicon_wildcard.json
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/script_and_capture/extension_chrome_favicon_wildcard.json
+END
+extension_component_google.json
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/script_and_capture/extension_component_google.json
+END
+tab_specific.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/141801/trunk/src/chrome/test/data/extensions/script_and_capture/tab_specific.json
+END
+extension_http_favicon.json
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/script_and_capture/extension_http_favicon.json
+END
+extension_wildcard_chrome.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/script_and_capture/extension_wildcard_chrome.json
+END
+extension_regular_all.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/script_and_capture/extension_regular_all.json
+END
+extension_wildcard.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/script_and_capture/extension_wildcard.json
+END
+extension_wildcard_settings.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/script_and_capture/extension_wildcard_settings.json
+END
+extension_component_all.json
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/88256/trunk/src/chrome/test/data/extensions/script_and_capture/extension_component_all.json
+END

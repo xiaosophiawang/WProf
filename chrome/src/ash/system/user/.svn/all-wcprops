@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/145176/trunk/src/ash/system/user
+END
+update_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/126758/trunk/src/ash/system/user/update_observer.h
+END
+login_status.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/128703/trunk/src/ash/system/user/login_status.h
+END
+tray_user.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/145176/trunk/src/ash/system/user/tray_user.cc
+END
+tray_user.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/134710/trunk/src/ash/system/user/tray_user.h
+END
+user_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/127694/trunk/src/ash/system/user/user_observer.h
+END

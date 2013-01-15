@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/119883/trunk/src/chrome/common/extensions/docs/examples/api/override/blank_ntp
+END
+blank.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/34039/trunk/src/chrome/common/extensions/docs/examples/api/override/blank_ntp/blank.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/119883/trunk/src/chrome/common/extensions/docs/examples/api/override/blank_ntp/manifest.json
+END
